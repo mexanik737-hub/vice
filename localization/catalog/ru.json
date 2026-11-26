@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 54,
+    "version": 55,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -2786,7 +2786,17 @@
     "🤝 The tier": "🤝 Свои на блоке",
     "🚩 The car": "🚩 Банда",
     "Shoot the shit": "Потрепаться",
-    "Ask what they know": "Спросить, что известно"
+    "Ask what they know": "Спросить, что известно",
+    "Your Energy:": "Твоя энергия:",
+    "Get down and worship my feet, now.": "На колени. Сейчас же поклоняйся моим ногам.",
+    "Fine, I'll do it, but don't expect much.": "Ладно, я сделаю это, но многого не жди.",
+    "Alright, I'll give it a try, I guess.": "Хорошо, пожалуй, попробую.",
+    "Mmm, your feet are perfect, sir, let me taste them.": "М-м, у вас идеальные ноги, господин. Позвольте их попробовать.",
+    "Oh, mistress, I love serving your feet like this.": "О, госпожа, мне нравится так служить вашим ногам.",
+    "Your feet are divine, I'm so lucky to lick them.": "Твои ноги божественны. Мне так повезло их лизать.",
+    "No way, I'm not licking your damn feet.": "Ни за что не стану лизать твои чёртовы ноги.",
+    "Ugh, that's gross, I'm not doing it.": "Фу, это мерзко. Я не буду этого делать.",
+    "Hell no, find someone else for that.": "Да ни за что. Найди для этого кого-нибудь другого."
   },
   "scoped": [
     {
