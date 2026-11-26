@@ -125,7 +125,6 @@
 {"source": "A wet stake rides the maze like money: climb out and the house pays its worth, drown and the crew collects it below, in person, on the plates.", "passages": ["Ship_Labyrinth"]}
 {"source": "A word on the street", "passages": ["GangRecruit"]}
 {"source": "Aboard, you gamble with borrowed chips .", "passages": ["Port_BoardDialog"]}
-{"source": "Accept the food or drink", "passages": ["enhanced_relationship_initiative"]}
 {"source": "Active - you lead", "passages": ["Sex"]}
 {"source": "After the orgy...", "passages": ["Ethan_Quest_02_Orgy_Harem", "Ethan_Quest_02_Orgy_PlayerFemale", "Ethan_Quest_02_Orgy_PlayerMale", "Ethan_Quest_02_Orgy_PlayerTrans"]}
 {"source": "After your win, Clay struggles to his feet.", "passages": ["Clay_Quest1"]}
@@ -227,7 +226,6 @@
 {"source": "Ask for their explanation", "passages": ["DiscussKnownRumor"]}
 {"source": "Ask for three more days", "passages": ["GangDebtWidgets"]}
 {"source": "Ask how", "passages": ["Shoplift_BackRoomT"]}
-{"source": "Ask how it would work", "passages": ["enhanced_relationship_initiative"]}
 {"source": "Ask someone to meet up from the interaction menu.", "passages": ["PhoneCalendar"]}
 {"source": "Ask them to vouch for you", "passages": ["Prison_Inmate"]}
 {"source": "Ask to be with you:", "passages": ["Prison_Inmate"]}
@@ -235,10 +233,8 @@
 {"source": "Ask what is in it", "passages": ["enhanced_relationship_initiative"]}
 {"source": "Ask what is wrong", "passages": ["enhanced_relationship_initiative"]}
 {"source": "Ask what she has in mind", "passages": ["Shoplift_BackRoomM"]}
-{"source": "Ask what they have in mind", "passages": ["enhanced_relationship_initiative"]}
 {"source": "Ask what they know", "passages": ["Prison_Inmate"]}
 {"source": "Ask when they'll be home", "passages": ["PhoneCall"]}
-{"source": "Ask why they want this", "passages": ["enhanced_relationship_initiative"]}
 {"source": "Ask your detective about them", "passages": ["GangLeverWidgets"]}
 {"source": "At a red light she puts her hand on your knee for a moment and takes it away again before the light changes.", "passages": ["Ch2_Debrief"]}
 {"source": "At a roadside motel he leads you into a room of dark wood and leather. A man sits waiting; his eyes widen at the sight of you.", "passages": ["CorwinAshgrove_Quest_1_Friend"]}
@@ -400,7 +396,6 @@
 {"source": "Click anywhere on the circle area when you think the ring is in the green zone", "passages": ["NPC_House_LockpickTutorial"]}
 {"source": "Click to equip", "passages": ["WardrobeWidgets"]}
 {"source": "Climb back up the ladder", "passages": ["Ship_BilgeCollection"]}
-{"source": "Climb out with the pot", "passages": ["Ship_Labyrinth"]}
 {"source": "Climb to the rooftops", "passages": ["SR_Tenements"]}
 {"source": "Close the book", "passages": ["Ship_VipMissions"]}
 {"source": "Close the feeds", "passages": ["HiddenCam_Feed"]}
@@ -566,7 +561,6 @@
 {"source": "Evening: The gym's empty, just the dim light from the lamps and the smell of cleaning supplies. Tess is already there, bucket and mop in hand. You join in, starting to scrub the floors and wipe down the mats. The conversation flows naturally as you work side by side.", "passages": ["Tess_Quest1"]}
 {"source": "Every conversation with you is pure happiness, my love.", "passages": ["enhanced_interaction_smallTalk_success"]}
 {"source": "Every day your debt will increase by 1%. You can pay it off by working as a whore for the pimp.", "passages": ["EndOfBattle_Pimp"]}
-{"source": "Every dry row grows the pot; the far bulkhead pays a bonus on top.", "passages": ["Ship_Labyrinth"]}
 {"source": "Every kiss with you feels like the first time. 💞", "passages": ["enhanced_interaction_kiss"]}
 {"source": "Every table still waits for before making a move.", "passages": ["Prison_TakeBlock"]}
 {"source": "Every tower is awake and every service detail is being counted twice.", "passages": ["Prison_EscapeAttempt"]}
@@ -638,7 +632,6 @@
 {"source": "Fold and leave", "passages": ["Ship_ECardMatch", "Ship_RpsMatch"]}
 {"source": "Foliage whispers secrets as her tongue lashes your cunt, your body arching in electric spasms, muffled cries piercing the air. Climax roars through you, squirting waves she laps up hungrily, her face glistening as she grins up at you, fingers still teasing your oversensitive pussy.", "passages": ["Tess_Quest2_Win_Agree"]}
 {"source": "Follow the chalk arrows to the wreckmaster's maze", "passages": ["Ship_LowerDeck"]}
-{"source": "For a casual offer, they're watching you very closely.", "passages": ["enhanced_relationship_initiative"]}
 {"source": "For a hundred? *You palm the fold and pull him into the back booth, then sink to your knees.* Sit back and shut up, big spender. *You take him down to the root.*", "passages": ["Diner_Service_Blowjob"]}
 {"source": "For a moment, the room falls silent. Ethan looks at you like he’s trying to process what you just said. Then, suddenly, he jumps up from the bed and stares at you", "passages": ["Ethan_Quest_01_Start"]}
 {"source": "For once, the steward closes the ledger unmarked - every contestant found a seat in time.", "passages": ["Ship_CardTally"]}
@@ -1191,7 +1184,6 @@
 {"source": "It will pay again tomorrow.", "passages": ["Prison_RunBlock"]}
 {"source": "It's a big step, I get it. I'm not going anywhere. 💕 *They're patient and caring*", "passages": ["enhanced_npc_proposal_postpone"]}
 {"source": "It's a quiet night, and you find yourself alone with a mysterious stranger who slips you a note with a private invitation.", "passages": ["Bartender_Event_Private"]}
-{"source": "It's about how they want you to look.", "passages": ["enhanced_relationship_initiative"]}
 {"source": "It's been a little while now, and I'm noticing small changes! My skin is softer, and I'm more emotional... in a good way! Thank you for supporting me! 💕", "passages": ["enhanced_interaction_discussFeminization"]}
 {"source": "It's clearly uncomfortable for them, but they endure it.", "passages": ["BrothelCasting_TestAnal_Scene"]}
 {"source": "It's done. Now I need to report back to Damian.", "passages": ["Etheriant_FinishFight_Win"]}
@@ -1636,7 +1628,6 @@
 {"source": "Pocket a bottle from the bar", "passages": ["Ship_Bar"]}
 {"source": "Point of no return - there is no taking this back this bid.", "passages": ["PrisonWidgets"]}
 {"source": "Predatory grin. He tears off your panties, carries you to the bedroom, tosses you onto the bed, and undresses.", "passages": ["SarahQuest2_Fem_Gary_apartment"]}
-{"source": "Press an ear to the steel", "passages": ["Ship_Labyrinth"]}
 {"source": "Pressure on the bid", "passages": ["Prison_Skills"]}
 {"source": "Pretend you didn\\'t see", "passages": ["Library_AfterHoursMakeout"]}
 {"source": "Priced high, and sold once.", "passages": ["Prison_Commissary"]}
@@ -1748,8 +1739,6 @@
 {"source": "Sarah… fuck, that feels so good *you groaned, your voice thick with lust*", "passages": ["SarahQuest_2_Shemale_SarahRoom_Back"]}
 {"source": "Sarah… this is incredible *you whispered, your voice quaking with bliss*", "passages": ["SarahQuest_2_Female_SarahRoom_Back"]}
 {"source": "Saturday evening arrives. You hop into Ethan's beat-up car and race to the suburbs. The house is huge - a proper villa with a pool and plenty of rooms. Inside, there's already a crowd gathered.", "passages": ["Ethan_Quest_02_Arrival"]}
-{"source": "Say you are not interested", "passages": ["enhanced_relationship_initiative"]}
-{"source": "Say you need the space", "passages": ["enhanced_relationship_initiative"]}
 {"source": "Screw you, I'm not that pathetic.", "passages": ["BDSM_Insult"]}
 {"source": "Scrounge the block for stock", "passages": ["Prison_Stash"]}
 {"source": "Search the bridge (night)", "passages": ["Ship_Bridge"]}
@@ -1773,7 +1762,6 @@
 {"source": "Settle it off the books", "passages": ["Ship_BrandtBeat"]}
 {"source": "Seven bitches surround you on the huge couch. Tyra sits on your face with her black pussy, grinding it against your tongue.", "passages": ["Ethan_Quest_02_Orgy_Harem"]}
 {"source": "Seven days later, the fixer hands you a manila envelope.", "passages": ["Fixer_Done"]}
-{"source": "Seven rows, three hatches each, one of the three flooded.", "passages": ["Ship_Labyrinth"]}
 {"source": "Sex battles run from 8:00 to 22:00 and require a $1,000 stake.", "passages": ["Elevator_Basement_1_TestSexFight_Start"]}
 {"source": "Sex with a fan (Active)", "passages": ["LocationEvent"]}
 {"source": "Sex with a fan (Passive)", "passages": ["LocationEvent"]}
@@ -2234,7 +2222,6 @@
 {"source": "The bar owner pulls you aside during a slow moment, his eyes roaming your body with that familiar hunger, suggesting ways to 'boost your tips'.", "passages": ["Bartender_Event_Boss"]}
 {"source": "The bed is empty now-whoever was here is long gone.", "passages": ["BG_Basement_Chamber"]}
 {"source": "The bench", "passages": ["Prison_Stash"]}
-{"source": "The bilge kept your stake.", "passages": ["Ship_Labyrinth"]}
 {"source": "The bill comes to $500.", "passages": ["LanaQuest1_Restaurant"]}
 {"source": "The block", "passages": ["Prison_OtherBlock"]}
 {"source": "The block answers to you now.", "passages": ["Prison_TookBlock"]}
@@ -2291,7 +2278,6 @@
 {"source": "The cop nods, satisfied, and moves on. Tess hauls you up with surprising strength, splashing fountain water over your cuts, her hands gentle and reassuring as they trace your arms.", "passages": ["Tess_Quest2_Lose"]}
 {"source": "The corners change after you sleep.", "passages": ["SR_Rooftops"]}
 {"source": "The count window is closing Choose where the cum lands Choose who cums", "passages": ["Prison_SexClimax"]}
-{"source": "The crew comes to collect the wet stake", "passages": ["Ship_Labyrinth"]}
 {"source": "The crew has work for you", "passages": ["Ship_LowerDeck"]}
 {"source": "The crews that are left send their envelopes on time, and the police captain calls you by your first name.", "passages": ["GangKing"]}
 {"source": "The crossing cannot be made on those terms now.", "passages": ["Prison_CrossResolve"]}
@@ -2322,7 +2308,6 @@
 {"source": "The ether's yours now. You can use it. Control people, make them your servants. But you're not strong enough yet. For now, to break someone's will, you'll need to weaken them in a fight. Only then will the ether work.", "passages": ["Damian_Quest4_Start_Finish"]}
 {"source": "The ex crumples to the ground with a pathetic thud, spitting curses as he scrambles back, clutching his busted jaw before bolting like a coward. Tess rushes over, her eyes wide and alive with a mix of gratitude and raw adrenaline pumping through her veins. She dabs at the blood on your face with a handkerchief, her trembling fingers lingering, brushing tenderly across your cheek and lips like a spark igniting dry tinder.", "passages": ["Tess_Quest2_Win"]}
 {"source": "The ex slams you into the grass with brutal force, pinning you down, but fate intervenes - a cop strolling the park path catches the chaos. The ex spots the uniform, panics like a rat, and flees into the trees, hurling curses over his shoulder. The cop jogs over, badge flashing, but Tess steps in quick.", "passages": ["Tess_Quest2_Lose"]}
-{"source": "The far bulkhead paid the full pot (+ chips).", "passages": ["Ship_Labyrinth"]}
 {"source": "The fight is over. You won.", "passages": ["FightFinish"]}
 {"source": "The fights start after dark.", "passages": ["SR_Courtyard"]}
 {"source": "The file is thin.", "passages": ["Prison_Parole"]}
@@ -2379,7 +2364,6 @@
 {"source": "The marquee wheel runs tonight - the «Sirena» fattens the odds on the third, sixth and ninth, and the jackpot pays double.", "passages": ["Ship_Wheel"]}
 {"source": "The mask is warm from her hand. She ties her own while she talks.", "passages": ["Ch2_Meet"]}
 {"source": "The matron waves the other CO off the tier and walks you into the dead-end corridor herself, one hand already at the small of your back.", "passages": ["Prison_GuardCoercion"]}
-{"source": "The maze starts at 250 chips.", "passages": ["Ship_Labyrinth"]}
 {"source": "The meeting needs to fit around work, rest and other plans.", "passages": ["enhanced_relationship_date_time"]}
 {"source": "The metallic door of your room creaks open, and a pimp enters.", "passages": ["Events_Pimp"]}
 {"source": "The moment passes, and the deck closes over it.", "passages": ["Ship_CruiseEvent"]}
@@ -2494,9 +2478,6 @@
 {"source": "The voyage has its hooks in everyone now; the easy marks are mostly spent.", "passages": ["CruiseWidgets"]}
 {"source": "The whole deck knows.", "passages": ["Ship_JealousScene"]}
 {"source": "The words hang in the air, and for a moment, there's only the sound of his rapid breathing. Ethan swallows hard, his gaze flickering between your eyes and your lips", "passages": ["Ethan_Quest_01_End_kiss_FM"]}
-{"source": "The wreckmaster looks at your purse and does not even uncross his arms.", "passages": ["Ship_Labyrinth"]}
-{"source": "The wreckmaster takes more than chips.", "passages": ["Ship_Labyrinth"]}
-{"source": "The wreckmaster's maze - row of", "passages": ["Ship_Labyrinth"]}
 {"source": "The wrong hand", "passages": ["Crime_Deal"]}
 {"source": "The wrong heads have turned - a crowd is closing in", "passages": ["Prison_OtherBlock"]}
 {"source": "The «Sirena»", "passages": ["Port_Pier"]}
@@ -2566,7 +2547,6 @@
 {"source": "They jump on you right away: one of the guys shoves his thick cock in your mouth, while Ethan from behind tears into your pussy, slamming balls-deep.", "passages": ["Ethan_Quest_02_Orgy_PlayerFemale"]}
 {"source": "They know exactly how to move. Experienced and skilled.", "passages": ["BrothelCasting_TestVaginal_Scene"]}
 {"source": "They leave your home.", "passages": ["PlayerHome_GuestDepartureResolve"]}
-{"source": "They mean moving in for good.", "passages": ["enhanced_relationship_initiative"]}
 {"source": "They perform well, with good rhythm and technique.", "passages": ["BrothelCasting_TestVaginal_Scene"]}
 {"source": "They read your record back to you like a verdict already reached, and maybe it is.", "passages": ["Prison_Parole"]}
 {"source": "They refused your advance. Perhaps improving their submission, affection, or fear would help.", "passages": ["BrothelWorker_OfferSex"]}
@@ -2583,7 +2563,6 @@
 {"source": "They will not consider another clothing change today.", "passages": ["NpcClothingManagerWidgets"]}
 {"source": "They will travel through each city stop.", "passages": ["PhoneCall"]}
 {"source": "They're a bit tight and inexperienced, but enthusiastic.", "passages": ["BrothelCasting_TestVaginal_Scene"]}
-{"source": "They've been sitting on this one since you started changing, and it clearly matters to them.", "passages": ["enhanced_relationship_initiative"]}
 {"source": "They've confirmed they only see you as a friend.", "passages": ["enhanced_npc_proposal_confess"]}
 {"source": "They’re somewhere in Skid Row. A real cesspit, even by this city's standards. Shouldn’t be too hard to find if you know where to look.", "passages": ["Damian_GetContract"]}
 {"source": "Think you can handle me? Prove it.", "passages": ["Walk_Alley_Flirt"]}
@@ -2602,7 +2581,6 @@
 {"source": "This is... too fast. I need to stop.", "passages": ["enhanced_interaction_passionateKiss"]}
 {"source": "This jerk was roughing up your girl-beating her, trying to kill her. I stepped in to save her.", "passages": ["Marcus_Quest2_Intervene_Win"]}
 {"source": "This must be the main office. A cluttered desk sits against the far wall.", "passages": ["BG_Basement_Main"]}
-{"source": "This one's personal.", "passages": ["enhanced_relationship_initiative"]}
 {"source": "This person is clearly a nymphomaniac and desperately needs sexual release.", "passages": ["BrothelEvent_Nymphomaniac"]}
 {"source": "This was the BEST evening ever! I had so much fun with you! Let's do it again soon! 🍻✨", "passages": ["enhanced_interaction_inviteToBar"]}
 {"source": "This was... awkward. I think I'll head home early.", "passages": ["enhanced_interaction_inviteToBar"]}
@@ -2640,7 +2618,6 @@
 {"source": "Tomorrow the workbook will still be here.", "passages": ["Prison_Segregation"]}
 {"source": "Tonight: paid off the ledger · kept in tips · Still owed:", "passages": ["Port_IndentureClient"]}
 {"source": "Too few contestants are still standing to field a full bracket.", "passages": ["Ship_Championship"]}
-{"source": "Too late, they've moved on. Talk about something else.", "passages": ["enhanced_relationship_initiative"]}
 {"source": "Too tired for that, sorry.", "passages": ["enhanced_interaction_car_blowjob_tired"]}
 {"source": "Too worn out to kneel here right now.", "passages": ["Ship_Restroom"]}
 {"source": "Trade a guard a name for passage (rat jacket)", "passages": ["Prison_CrossBlock"]}
@@ -2979,7 +2956,6 @@
 {"source": "You can buy your way out, or walk through them.", "passages": ["GangLeave"]}
 {"source": "You can check in with your date or return to the diner.", "passages": ["DinerBackRoom"]}
 {"source": "You can discuss staying until morning in the evening.", "passages": ["enhanced_relationship_home_visit"]}
-{"source": "You can engage with the idea, ask for a clearer explanation, or set a boundary.", "passages": ["enhanced_relationship_initiative"]}
 {"source": "You can hold court, collect tribute, or leave without sex.", "passages": ["Prison_RunBlock"]}
 {"source": "You can leave the attempt for later.", "passages": ["Prison_Inmate"]}
 {"source": "You can still change your plans.", "passages": ["enhanced_relationship_date_session"]}
@@ -3006,7 +2982,6 @@
 {"source": "You chose \"Mask\" and returned home. Robert was waiting for you in the living room, nervously fidgeting with his hands. You silently handed him the bottle. He opened it, swallowed the pill, and froze.", "passages": ["Robert_Request_1_Male_Option1_Mask"]}
 {"source": "You chose \"Mask\" and returned home. Robert was waiting in the living room, fidgeting nervously with his hands. You handed him the bottle without a word. He popped it open, swallowed the pill, and went still.", "passages": ["Robert_Request_1_Female_Option1_Mask"]}
 {"source": "You chose \"Mask\" and returned home. Robert was waiting in the living room, nervously twisting his fingers. You handed him the bottle without a word. He opened it, swallowed the pill, and went still.", "passages": ["Robert_Request_1_Shemale_Option1_Mask"]}
-{"source": "You climbed out with + chips.", "passages": ["Ship_Labyrinth"]}
 {"source": "You clock too late that the two men racking plates by the shed were never lifting.", "passages": ["Prison_YardCornered"]}
 {"source": "You close the door with a soft click and sit beside her, heat radiating through the thin fabric.", "passages": ["SarahQuest2_Start_Male"]}
 {"source": "You collapsed, sweaty and shaking.", "passages": ["SarahQuest_2_Gay_Gary_apartment"]}
@@ -3544,7 +3519,6 @@
 {"source": "Your detective", "passages": ["GangBossWidgets"]}
 {"source": "Your detective answers on the second ring.", "passages": ["GangBossWidgets"]}
 {"source": "Your dick is too small, you should go to the clinic. (15)", "passages": ["PornCasting_MalePlayer"]}
-{"source": "Your ear: listens a run, right about % of the time", "passages": ["Ship_Labyrinth"]}
 {"source": "Your eyes lock with his, and you can see the blush creeping up his cheeks. In the quiet of his room, you take one more step, closing the distance between you both.", "passages": ["Ethan_Quest_01_End_kiss_FM"]}
 {"source": "Your face burns as you shrug off your jacket and unbutton your top. He watches without blinking while you step out of your pants, then waves a hand when you stop at your underwear. The bra goes, then the panties, and you stand naked in front of his desk with your arms at your sides.", "passages": ["Shoplift_BackRoom_Search"]}
 {"source": "Your familiar routine: .", "passages": ["enhanced_relationship_shared_time"]}
@@ -3559,7 +3533,6 @@
 {"source": "Your hand flies faster, slick and demanding, bodies grinding close in the haze, his thrusts meeting your grip until the orgasm explodes like a finisher, hot spurts of cum erupting and swirling away in the drain.", "passages": ["Clay_Quest1_Flirt"]}
 {"source": "Your hand is so warm... I don't want to let go... 🥰", "passages": ["enhanced_interaction_holdHands"]}
 {"source": "Your hands are full - deliver what you carry before taking more.", "passages": ["Ship_VipMissions"]}
-{"source": "Your hands: % to catch one bad step", "passages": ["Ship_Labyrinth"]}
 {"source": "Your heart beat faster, a mix of surprise and a subtle thrill.", "passages": ["SarahQuest2_Start_Male"]}
 {"source": "Your heart flutters a bit at his sincerity, and an impish grin tugs at the corners of your mouth. You step closer, the air between you charged with a playful tension.", "passages": ["Ethan_Quest_01_End_kiss_FM"]}
 {"source": "Your heart pounded in your chest as you looked up at him again, watching his expression change from surprise to pleasure.", "passages": ["PhotoShoot_Event_01_02_SuggestBlowjob"]}
@@ -3592,10 +3565,7 @@
 {"source": "Your own block is on the far side of the same service corridor.", "passages": ["Prison_CrossReturn"]}
 {"source": "Your own hands are empty, and the steward's eyes slide past you.", "passages": ["Ship_CardTally"]}
 {"source": "Your paid man is already picking his spot in the shadows by your bunk - tonight, at least, the purse sleeps guarded.", "passages": ["Ship_Cabins"]}
-{"source": "Your partner has noticed how rarely you sleep at home lately.", "passages": ["enhanced_relationship_initiative"]}
-{"source": "Your partner is asking for attention now instead of silently losing satisfaction.", "passages": ["enhanced_relationship_initiative"]}
 {"source": "Your partner is furious and cuts ties with you.", "passages": ["player_partner_fail"]}
-{"source": "Your partner is suggesting how to spend tonight at home.", "passages": ["enhanced_relationship_initiative"]}
 {"source": "Your partner keeps their usual routine until it is time to leave.", "passages": ["enhanced_relationship_date_time"]}
 {"source": "Your partner waits.", "passages": ["enhanced_relationship_initiative"]}
 {"source": "Your partner wants to rest first.", "passages": ["enhanced_relationship_occasions"]}

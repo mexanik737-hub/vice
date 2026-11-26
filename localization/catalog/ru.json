@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 35,
+    "version": 36,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -2171,7 +2171,37 @@
     "You are on your own in the dark for now.": "Пока в темноте ты сам за себя.",
     "There is a wedge of ground between the weight rack and the equipment shed that neither the gun tower nor the roving CO can see.": "Между стойкой с весами и сараем с инвентарём есть участок, который не видят ни вооружённая вышка, ни патрулирующая охрана.",
     "Inmates use the blind to trade contraband, beat debtors, and fuck while the iron covers the noise.": "Зэки используют слепую зону, чтобы торговать контрабандой, избивать должников и трахаться под прикрытием лязга железа.",
-    "You have collected on the dead angle once today.": "Сегодня ты уже один раз воспользовался мёртвой зоной."
+    "You have collected on the dead angle once today.": "Сегодня ты уже один раз воспользовался мёртвой зоной.",
+    "For a casual offer, they're watching you very closely.": "Даже на обычное предложение они реагируют очень внимательно.",
+    "This one's personal.": "Это уже личное.",
+    "It's about how they want you to look.": "Речь о том, как они хотят, чтобы ты выглядел.",
+    "They mean moving in for good.": "Они предлагают съехаться насовсем.",
+    "Your partner is suggesting how to spend tonight at home.": "Партнёр предлагает, чем заняться сегодня вечером дома.",
+    "Your partner has noticed how rarely you sleep at home lately.": "Партнёр заметил, что в последнее время ты редко ночуешь дома.",
+    "They've been sitting on this one since you started changing, and it clearly matters to them.": "Они обдумывают это с тех пор, как ты начал меняться, и для них это явно важно.",
+    "You can engage with the idea, ask for a clearer explanation, or set a boundary.": "Можно согласиться с идеей, попросить объяснить подробнее или обозначить свои границы.",
+    "Your partner is asking for attention now instead of silently losing satisfaction.": "Партнёр просит уделить ему внимание, а не молча теряет удовлетворённость отношениями.",
+    "Too late, they've moved on. Talk about something else.": "Уже поздно: они переключились на другое. Поговори о чём-нибудь ещё.",
+    "Accept the food or drink": "Принять угощение",
+    "Ask why they want this": "Спросить, почему они этого хотят",
+    "Ask how it would work": "Спросить, как это будет устроено",
+    "Ask what they have in mind": "Спросить, что они задумали",
+    "Say you need the space": "Сказать, что тебе нужно личное пространство",
+    "Say you are not interested": "Сказать, что тебе это неинтересно",
+    "Seven rows, three hatches each, one of the three flooded.": "Семь рядов, по три люка в каждом. Один из трёх затоплен.",
+    "Every dry row grows the pot; the far bulkhead pays a bonus on top.": "Каждый сухой ряд увеличивает банк, а за дальним переборком к нему добавят бонус.",
+    "The wreckmaster looks at your purse and does not even uncross his arms.": "Распорядитель смотрит на твой кошелёк и даже не разжимает рук.",
+    "The maze starts at 250 chips.": "Вход в лабиринт стоит 250 жетонов.",
+    "The wreckmaster takes more than chips.": "Распорядителю нужны не только жетоны.",
+    "The wreckmaster's maze - row of": "Лабиринт распорядителя — ряд",
+    "Press an ear to the steel": "Прислонить ухо к металлу",
+    "The bilge kept your stake.": "Трюм забрал твою ставку.",
+    "The crew comes to collect the wet stake": "Команда пришла забрать затопленную ставку",
+    "Climb out with the pot": "Выбраться с выигрышем",
+    "Your ear: listens a run, right about % of the time": "На слух ты угадываешь сухой проход примерно в % случаев.",
+    "Your hands: % to catch one bad step": "Руками ты можешь поймать одну ошибку с вероятностью %.",
+    "The far bulkhead paid the full pot (+ chips).": "За дальним переборком тебе выплатили весь банк (+ жетонов).",
+    "You climbed out with + chips.": "Ты выбрался с + жетонами."
   },
   "scoped": [
     {
@@ -2833,6 +2863,22 @@
     {
       "source": "You have a {{size}}-centimeter penis.",
       "target": "Длина вашего пениса — {{size}} см."
+    },
+    {
+      "source": "Your ear: listens a run, right about {{percent}}% of the time",
+      "target": "На слух ты угадываешь сухой проход примерно в {{percent}}% случаев."
+    },
+    {
+      "source": "Your hands: {{percent}}% to catch one bad step",
+      "target": "Руками ты можешь поймать одну ошибку с вероятностью {{percent}}%."
+    },
+    {
+      "source": "The far bulkhead paid the full pot (+ {{chips}} chips).",
+      "target": "За дальним переборком тебе выплатили весь банк: +{{chips}}."
+    },
+    {
+      "source": "You climbed out with + {{chips}} chips.",
+      "target": "Ты выбрался с выигрышем: +{{chips}}."
     }
   ]
 }
