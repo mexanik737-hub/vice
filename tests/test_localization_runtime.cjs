@@ -4,6 +4,9 @@ const vm = require('node:vm');
 
 const html = fs.readFileSync(new URL('../android/app/src/main/assets/game/index.html', `file://${__filename}`), 'utf8');
 assert.match(html, /<script id="viceburg-android-tools">[\s\S]*?<\/script>/, 'built HTML contains the app tools card');
+const toolsMatch = html.match(/<script id="viceburg-android-tools">([\s\S]*?)<\/script>/);
+assert.ok(toolsMatch, 'app tools script can be extracted');
+new vm.Script(toolsMatch[1], { filename: 'viceburg-android-tools.js' });
 const match = html.match(/<script id="viceburg-ru-layer">([\s\S]*?)<\/script>/);
 assert.ok(match, 'built HTML contains the Russian runtime layer');
 const code = match[1].replace(/\/\/ Never traverse the embedded Twine source[\s\S]*$/, 'globalThis.vbTranslate = translated;})();');
