@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 52,
+    "version": 53,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -2771,7 +2771,18 @@
     "Whatever was going to move through the polish bottles today has already moved.": "Всё, что сегодня должно было пройти через флаконы с лаком, уже прошло.",
     "Trade the salon talk": "Обменяться новостями в салоне",
     "Slip into the back with one of the women": "Уединиться с одной из женщин в подсобке",
-    "Move something through the salon": "Передать что-нибудь через салон"
+    "Move something through the salon": "Передать что-нибудь через салон",
+    "The last hour ran hot - frantic matches as the whole boat scrambled to empty its hands.": "Последний час выдался жарким: вся команда в спешке пыталась избавиться от карт.",
+    "Now the room holds its breath while the steward reads.": "Теперь зал затаил дыхание, пока распорядитель зачитывает результаты.",
+    "Your name is on the list": "Твоё имя есть в списке",
+    "The steward's eyes find you before his voice does.": "Распорядитель замечает тебя раньше, чем произносит твоё имя.",
+    "Your leftover cards are swept into the steward's bag - void until the morning deal.": "Оставшиеся карты отправляются в сумку распорядителя и не будут учитываться до утренней раздачи.",
+    "Your own hands are empty, and the steward's eyes slide past you.": "Твои руки пусты, и взгляд распорядителя скользит мимо.",
+    "Whatever the ledger takes tonight, it takes from someone else.": "Сегодняшняя запись в книге ляжет на чей-то другой счёт.",
+    "Named and marked": "Назван и отмечен",
+    "For once, the steward closes the ledger unmarked - every contestant found a seat in time.": "На этот раз распорядитель закрывает книгу без отметок: все участники успели занять места.",
+    "The hall exhales as one.": "Зал облегчённо выдыхает.",
+    "Slip back into the evening": "Вернуться к вечеру"
   },
   "scoped": [
     {
