@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 45,
+    "version": 46,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -2378,7 +2378,24 @@
     "Dude… I don’t even know what to say… Man… Just… Thank you. Seriously. Thank you.": "Чувак… Я даже не знаю, что сказать… Просто… Спасибо. Правда. Спасибо.",
     "Is there anything I can do to thank you?": "Могу я как-нибудь тебя отблагодарить?",
     "Ask for a kiss (Gay)": "Попросить поцелуя (гейская ветка)",
-    "Ask for a kiss": "Попросить поцелуя"
+    "Ask for a kiss": "Попросить поцелуя",
+    "You vs": "Ты против",
+    "Your chips:": "Твои фишки:",
+    "Pot:": "Банк:",
+    "Ante per round:": "Ставка за раунд:",
+    "· Round": "· Раунд",
+    "You walk away up chips.": "Ты уходишь с выигрышем.",
+    "You walk away down chips.": "Ты уходишь в минус.",
+    "You break even.": "Ты остаёшься при своих.",
+    "No card is ever turned: one of you has no cards or chips left to play, and the table breaks up before the first ante.": "Карты так и не открыли: у одного из вас не осталось ни карт, ни фишек, и стол распался ещё до первой ставки.",
+    "Set the ante": "Выбери ставку",
+    "Put your body in the pot": "Поставить на кон своё тело",
+    "Pledge a mark of your own flesh alongside the chips.": "Поставь на кон часть своей плоти вместе с фишками.",
+    "Win the match and he covers it; lose and your body pays instead.": "Победишь — он заплатит; проиграешь — расплачиваться придётся твоему телу.",
+    "Your body is in the pot": "Твоё тело на кону",
+    "Your body is in the pot.": "Твоё тело на кону.",
+    "There is no folding now - play the hand out.": "Сбросить карты уже нельзя — доиграй партию.",
+    "Fold and leave": "Сдаться и уйти"
   },
   "scoped": [
     {
@@ -3010,6 +3027,76 @@
       "source": "Asian",
       "selector": "#skin-selector [data-value=\"Asian\"] .option-label",
       "target": "Азиатская"
+    },
+    {
+      "selector": ".rps-played__who",
+      "source": "You",
+      "target": "Ты"
+    },
+    {
+      "selector": ".rps-reveal",
+      "source": "You played",
+      "target": "Ты выбрал"
+    },
+    {
+      "selector": ".rps-reveal",
+      "source": "they played",
+      "target": "соперник выбрал"
+    },
+    {
+      "selector": ".rps-win",
+      "source": "you take the pot (+",
+      "target": "ты забираешь банк (+"
+    },
+    {
+      "selector": ".rps-lose",
+      "source": "they take the pot",
+      "target": "соперник забирает банк"
+    },
+    {
+      "selector": ".rps-draw",
+      "source": "draw - pot carries over",
+      "target": "ничья — банк переходит в следующий раунд"
+    },
+    {
+      "selector": ".cruise-bodybet__hint",
+      "source": "A stage of your masculinity",
+      "target": "Ступень маскулинности"
+    },
+    {
+      "selector": ".cruise-bodybet__hint",
+      "source": "A point of your nerve",
+      "target": "Очко храбрости"
+    },
+    {
+      "selector": ".cruise-bodybet__hint",
+      "source": "rides on this match, worth",
+      "target": "разыгрывается в этом матче и стоит"
+    },
+    {
+      "selector": ".cruise-bodybet__hint",
+      "source": "chips. Win and he pays; lose and you wear it.",
+      "target": "фишек. Победи — и он заплатит; проиграешь — расплачиваться придётся тебе."
+    },
+    {
+      "selector": ".rps-card__name, .rps-card__img",
+      "source": "Rock",
+      "target": "Камень"
+    },
+    {
+      "selector": ".rps-card__name, .rps-card__img",
+      "source": "Paper",
+      "target": "Бумага"
+    },
+    {
+      "selector": ".rps-card__name, .rps-card__img",
+      "source": "Scissors",
+      "target": "Ножницы"
+    },
+    {
+      "selector": ".rps-deck-banner",
+      "source": "Rock, scissors and paper - the three cards of the game",
+      "target": "Камень, ножницы и бумага — три карты этой игры"
     }
   ],
   "templates": [

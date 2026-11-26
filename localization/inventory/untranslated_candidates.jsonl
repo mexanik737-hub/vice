@@ -1220,7 +1220,6 @@
 {"passage":"Ship_VipMissions","source":"Close the book","source_sha256":"b3046e8bb332fdc31d064b14a15b4151aaf8df5008c170d3846484fa10afceb4"}
 {"passage":"Ship_Mingle","source":"Back to the bar","source_sha256":"a34884cb11750e34986697a112199c92dad0ca19403153178bfe76ef1422f7f4"}
 {"passage":"Ship_Gacha","source":"Most capsules are junk - that is the whole point.","source_sha256":"8c3112c697d313e90989798b5a9691383867d3609dfff3107e7216604b3b7abb"}
-{"passage":"Ship_Gacha","source":"Your chips:","source_sha256":"d196ad62c1a9eeb06ba12533e409be508156346a77d0cddb06be76fe83ea0a8e"}
 {"passage":"Ship_Gacha","source":"You are short of the 50 chips a pull costs.","source_sha256":"2f5e9fdf1432a0d1f4f67a71eb9e861efd137c096e94b6ef40b9ae97ffce6aca"}
 {"passage":"Ship_Gacha","source":"Feed it and pull (50 chips)","source_sha256":"06fa6544837f467ec7c55a793502674523c280c87dce6dfce37ad0ddec48e74e"}
 {"passage":"Ship_Gacha","source":"Step away from the machine","source_sha256":"3836219248b750c09162f4b68b9e9af31a86ce8dcaf817ad8b595c51dacfe416"}
@@ -1327,28 +1326,13 @@
 {"passage":"Ship_Galley","source":"You've already lifted a ration today; pushing it would draw eyes.","source_sha256":"f43e32535b8b712cad664d811d65362649be32e177fa835127b795401ea6b576"}
 {"passage":"Ship_Galley","source":"Find the quartermaster","source_sha256":"15abc7c5ae14e35dfde63227ae6eee5c8d68b408942992987a20490c850163d9"}
 {"passage":"Ship_Galley","source":"Swipe a ration from the galley","source_sha256":"d3036cb9f4aaf3c7fcf63a323715a952a91c461445620df5036abbc40d6e6fb2"}
-{"passage":"Ship_RpsMatch","source":"You vs","source_sha256":"521e740bc4c5f0f7323951ff0ab0dce42d989d8d470da3998811bbcead2b680e"}
-{"passage":"Ship_RpsMatch","source":"Your chips:","source_sha256":"d196ad62c1a9eeb06ba12533e409be508156346a77d0cddb06be76fe83ea0a8e"}
 {"passage":"Ship_RpsMatch","source":"Rigged - the next round(s) fall your way.","source_sha256":"82f847ef9384c4214913203169726ab3a4de94629f23e9e96a28d63178add3e8"}
 {"passage":"Ship_RpsMatch","source":"You","source_sha256":"08b041935798fbf6fd6ff51099ffedb140a475889986d14f5559ff8e7fc571dd"}
 {"passage":"Ship_RpsMatch","source":"You played , they played -","source_sha256":"bd261814835e83dc9279f5b6ed4561e4bd2b80b5eb3a4036b6d9c757765b7b09"}
 {"passage":"Ship_RpsMatch","source":"you take the pot (+ ) they take the pot draw - pot carries over","source_sha256":"cd8c4ecd7fcbb2b2bc5fc281fbec1540b468b403369ce007e57957e144ad03d6"}
-{"passage":"Ship_RpsMatch","source":"You walk away up chips.","source_sha256":"696baad89d958d01ac1178c9e5e373528333986f326d684dad2be9634f1287d7"}
-{"passage":"Ship_RpsMatch","source":"You walk away down chips.","source_sha256":"4c7f351d2fbc83cddd124d54f73428d541aef0d6b3f318160eb23fcf038c930c"}
-{"passage":"Ship_RpsMatch","source":"You break even.","source_sha256":"f7f8fc017decd2fb4d35e871b3bc3e5c6d982a4a7c0f36ca40cefb2e05dea283"}
-{"passage":"Ship_RpsMatch","source":"No card is ever turned: one of you has no cards or chips left to play, and the table breaks up before the first ante.","source_sha256":"cd7393d6e7a6a2454c6efa9271dbc5872474a3bad0b65ddbe06eff9d0f474252"}
-{"passage":"Ship_RpsMatch","source":"Set the ante","source_sha256":"b5881acc8f1a04072b5632b40cea027d518807c1a284c1032cddc72db720d585"}
-{"passage":"Ship_RpsMatch","source":"Put your body in the pot","source_sha256":"a982017d5f9413fbf7abdcfc212a10fecdac45f8315b6b431a850e6e5904769e"}
-{"passage":"Ship_RpsMatch","source":"Pledge a mark of your own flesh alongside the chips.","source_sha256":"0d0bd0c6b88e34e9fac135910db36d39bad644b2a0808437262f7178d834c853"}
-{"passage":"Ship_RpsMatch","source":"Win the match and he covers it; lose and your body pays instead.","source_sha256":"6acbef959502a6058cb7746684dff4b39dc0cc1dce06aa6d6341d495a5363fcf"}
-{"passage":"Ship_RpsMatch","source":"Your body is in the pot","source_sha256":"21e294e27efcb1b80317569ff640aa9a9b8aa904cdc0beaa1f67b288d1607467"}
 {"passage":"Ship_RpsMatch","source":"A stage of your masculinity A point of your nerve rides on this match, worth chips.","source_sha256":"68a7c5f4885438532b804b8690115183e1edd4dd3c33783119b830e26afc1747"}
 {"passage":"Ship_RpsMatch","source":"Win and he pays; lose and you wear it.","source_sha256":"c507bd66138362629bd3c440f7591bb24fd7715fbe6ab50cc7551348aa077c8f"}
-{"passage":"Ship_RpsMatch","source":"Your body is in the pot.","source_sha256":"4c3ec32d27419f9de118c93ee40cca5b31c44543dae9d54dc8c5181a08684406"}
-{"passage":"Ship_RpsMatch","source":"There is no folding now - play the hand out.","source_sha256":"273163cded881ca2444c1b4215016238c562eb6c840f35710554ce8b31dd6253"}
-{"passage":"Ship_RpsMatch","source":"Fold and leave","source_sha256":"238a76bf600a33906f5385903b625d6218b89261af3eb39b3ed06b29272208b3"}
 {"passage":"Ship_ECardMatch","source":"You vs · Game /","source_sha256":"f890669326ea24482d318fa0cde0ccb0fcecb4461851bb2cb34126d7a62674e2"}
-{"passage":"Ship_ECardMatch","source":"Your chips:","source_sha256":"d196ad62c1a9eeb06ba12533e409be508156346a77d0cddb06be76fe83ea0a8e"}
 {"passage":"Ship_ECardMatch","source":"You hold the side · Round · Won / Lost","source_sha256":"103792506e92ac244413ad7b9d534a81e70195d60e7b27fd66ac4d186cb88ba6"}
 {"passage":"Ship_ECardMatch","source":"Empress beats Citizen · Citizen beats Slave · Slave beats Empress (your upset pays ) (that upset costs you ) .","source_sha256":"976fae5d26496d54049fb0b033af9fea3ebadfb888a30a716fdae60695606069"}
 {"passage":"Ship_ECardMatch","source":"You played , they played -","source_sha256":"bd261814835e83dc9279f5b6ed4561e4bd2b80b5eb3a4036b6d9c757765b7b09"}
@@ -1360,9 +1344,7 @@
 {"passage":"Ship_ECardMatch","source":"Leave the table","source_sha256":"1fe6c8f7fb9604a0fde92d70907ceb7a4762641271c132c7bfe845e94afb2295"}
 {"passage":"Ship_ECardMatch","source":"Deal the next game","source_sha256":"1338428b3d2f3f404c236512b15c1fcb0378208093937667511d2d82f058a422"}
 {"passage":"Ship_ECardMatch","source":"Cash out and leave","source_sha256":"c562d11108b9d5d6205400e8f2620354c0877e0254f9e28450e50b2548b6a483"}
-{"passage":"Ship_ECardMatch","source":"Fold and leave","source_sha256":"238a76bf600a33906f5385903b625d6218b89261af3eb39b3ed06b29272208b3"}
 {"passage":"Ship_AllInMatch","source":"Three dice, one throw, winner takes all - you vs","source_sha256":"25552276e31fe8b1be3f4d60967ccfea388e8ee9298bd4d2710664d0f4f132e8"}
-{"passage":"Ship_AllInMatch","source":"Your chips:","source_sha256":"d196ad62c1a9eeb06ba12533e409be508156346a77d0cddb06be76fe83ea0a8e"}
 {"passage":"Ship_AllInMatch","source":"Pinzoro (1-1-1) > any triple > 4-5-6 > a pair's odd die > 1-2-3 > no combo.","source_sha256":"6c5830edccb5dc684b4a06b00180b660a33dbf725bdbfa7ce7fe092a9063f8ed"}
 {"passage":"Ship_AllInMatch","source":"You ·","source_sha256":"b5ed973d144ec74690d9cca243da62b1e1b151c70cbd912ce7c1d62a317d36b2"}
 {"passage":"Ship_AllInMatch","source":"you take the pot (+ ) they take the pot (- ) a push - stakes return","source_sha256":"53b6da2dd870062f7bad6b9223766f92527b462c944445b4c53027d1703fdb13"}
