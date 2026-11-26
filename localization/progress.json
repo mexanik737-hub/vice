@@ -15,7 +15,7 @@
       "name": "Интерфейс и системные меню",
       "status": "in_progress",
       "coverage": null,
-      "notes": "Каталог содержит 3198 точных фраз, 203 контекстных правила и 24 шаблона; системный интерфейс и игровые сцены локализованы частично."
+      "notes": "Каталог содержит 3208 точных фраз, 203 контекстных правила и 24 шаблона; системный интерфейс и игровые сцены локализованы частично."
     },
     {
       "id": "L2",
@@ -36,7 +36,7 @@
       "name": "Диалоги",
       "status": "in_progress",
       "coverage": null,
-      "notes": "Переведены 223 реплики взаимодействий NPC и 102 реплики сцен квестов Маркуса, Корвина, Сары, Алисы и разговоров Роберта с Амандой; большая часть сюжетных веток остаётся неполной."
+      "notes": "Переведены 223 реплики взаимодействий NPC и 112 реплик сцен квестов Маркуса, Корвина, Сары, Алисы и разговоров Роберта с Амандой; большая часть сюжетных веток остаётся неполной."
     },
     {
       "id": "L5",
@@ -48,7 +48,7 @@
   ],
   "limitations": [
     "Полная русификация ещё не завершена; значительная часть пользовательских реплик и описаний осталась на английском.",
-    "В инвентаре 2950 из 5634 уникальных строк-кандидатов не сопоставлены с точной фразой каталога (47.6% точных совпадений). Это не полная доля перевода: контекстные правила/шаблоны и ложные срабатывания инвентаризатора не учитываются.",
+    "В инвентаре 2940 из 5634 уникальных строк-кандидатов не сопоставлены с точной фразой каталога (47.8% точных совпадений). Это не полная доля перевода: контекстные правила/шаблоны и ложные срабатывания инвентаризатора не учитываются.",
     "Текст длинных реплик и динамические данные требуют отдельной проверки по фактическому DOM; Android WebView не проверен на устройстве.",
     "The debug APK is built by GitHub Actions. The compact in-game tools card, Media picker, save import/export, and original media playback still require on-device verification; signed release is skipped for pull_request."
   ],
@@ -143,20 +143,20 @@
     "warning": "Conservative candidate extraction; includes false positives and misses dynamically composed/code-generated strings. Review before translation."
   },
   "catalog": {
-    "exact_phrase_count": 3198,
+    "exact_phrase_count": 3208,
     "dynamic_template_count": 24,
     "coverage_percent": null,
-    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 2684/5634 (47.6%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
+    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 2694/5634 (47.8%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
     "context_rule_count": 203,
-    "candidate_exact_matches": 2684,
+    "candidate_exact_matches": 2694,
     "candidate_unique_strings": 5634,
-    "candidate_match_percent": 47.6,
+    "candidate_match_percent": 47.8,
     "faq_candidate_strings": 463,
     "faq_candidate_translated": 463,
     "npc_interaction_candidate_strings": 49,
     "npc_interaction_candidate_translated": 48,
-    "untranslated_candidate_rows": 3092,
-    "untranslated_unique_strings": 2950,
+    "untranslated_candidate_rows": 3082,
+    "untranslated_unique_strings": 2940,
     "top_untranslated_passages": [
       [
         "Options",
@@ -247,16 +247,16 @@
     "device_saf_media_save_roundtrip": "not_run: no Samsung Android 17 device",
     "synthetic_media_metadata": "passed: JPEG, WebM VP8/Vorbis, WAV PCM inspected with ffprobe",
     "desktop_webview_smoke": "not_run: Chromium launcher exists but system binary is missing",
-    "translation_status": "incomplete: 2684/5634 unique extracted candidates matched (47.6%); extractor is approximate",
+    "translation_status": "incomplete: 2694/5634 unique extracted candidates matched (47.8%); extractor is approximate",
     "startup_performance_fix": "implemented: initial localization only scans live game containers; mutations batched via requestAnimationFrame",
     "media_path_audit": "passed statically: img/video/background/audio calls traced; device media playback not run",
     "saf_mime_fallback": "implemented and statically checked for generic application/octet-stream responses",
     "android_app_tools": "implemented: native toolbar removed; compact tools card appears on Start and in the character editor/cheat dialog; device interaction not verified"
   },
-  "translated_unique_strings": 2684,
-  "untranslated_rows": 3092,
-  "untranslated_unique_strings": 2950,
-  "exact_match_percent": 47.6,
+  "translated_unique_strings": 2694,
+  "untranslated_rows": 3082,
+  "untranslated_unique_strings": 2940,
+  "exact_match_percent": 47.8,
   "top_untranslated_passages": [
     [
       "Options",
