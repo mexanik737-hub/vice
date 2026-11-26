@@ -36,7 +36,7 @@
       "name": "Диалоги",
       "status": "in_progress",
       "coverage": null,
-      "notes": "Переведены отдельные диалоги отношений и поцелуя с Итаном, часть сцен второй главы и тюремного блока; большинство сюжетных реплик остаётся английским."
+      "notes": "Переведены отдельные диалоги отношений и поцелуя с Итаном, начало сцены Элис и часть сцен второй главы и тюремного блока; большинство сюжетных реплик остаётся английским."
     },
     {
       "id": "L5",
@@ -143,20 +143,20 @@
     "warning": "Conservative candidate extraction; includes false positives and misses dynamically composed/code-generated strings. Review before translation."
   },
   "catalog": {
-    "exact_phrase_count": 2457,
+    "exact_phrase_count": 2474,
     "dynamic_template_count": 23,
     "coverage_percent": null,
-    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 1971/5634 (35%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
+    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 1988/5634 (35.3%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
     "context_rule_count": 188,
-    "candidate_exact_matches": 1971,
+    "candidate_exact_matches": 1988,
     "candidate_unique_strings": 5634,
-    "candidate_match_percent": 35,
+    "candidate_match_percent": 35.3,
     "faq_candidate_strings": 463,
     "faq_candidate_translated": 463,
     "npc_interaction_candidate_strings": 49,
     "npc_interaction_candidate_translated": 48,
-    "untranslated_candidate_rows": 3925,
-    "untranslated_unique_strings": 3663,
+    "untranslated_candidate_rows": 3899,
+    "untranslated_unique_strings": 3646,
     "top_untranslated_passages": [
       [
         "Options",
@@ -173,10 +173,6 @@
       [
         "Inventory",
         20
-      ],
-      [
-        "AliceQuest1_Start_Male_Dom",
-        17
       ],
       [
         "enhanced_interaction_discussFeminization",
@@ -211,14 +207,6 @@
         15
       ],
       [
-        "AliceQuest1_Start_Female_Dom",
-        15
-      ],
-      [
-        "AliceQuest1_Start_Trans_Dom",
-        15
-      ],
-      [
         "AliceQuest1_Start_Female_Sub",
         15
       ],
@@ -236,6 +224,18 @@
       ],
       [
         "enhanced_npc_proposal_postpone",
+        14
+      ],
+      [
+        "PhotoShoot_Event_01_02_Sex",
+        14
+      ],
+      [
+        "BDSM_LeashPlay",
+        14
+      ],
+      [
+        "Sarah_Quest_01_End_Trans",
         14
       ]
     ]
