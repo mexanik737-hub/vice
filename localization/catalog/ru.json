@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 50,
+    "version": 51,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -2440,7 +2440,24 @@
     "They will travel through each city stop.": "Персонаж будет останавливаться в каждом городе по пути.",
     "Where are you?": "Где ты?",
     "Ask for their current location to figure out where they are.": "Узнай, где сейчас находится персонаж.",
-    "Ask when they'll be home": "Спроси, когда персонаж будет дома."
+    "Ask when they'll be home": "Спроси, когда персонаж будет дома.",
+    "For the longest moment, silence stretched between you. A single heartbeat pounding in your ears as Ethan contemplated your request. His gaze flickered from your eyes, to your lips, and back again, each pass bringing a deeper shade of crimson to his cheeks.": "Между вами надолго повисает тишина. В ушах стучит сердце, пока Итан обдумывает твою просьбу. Его взгляд скользит с твоих глаз на губы и обратно; с каждым разом щёки становятся всё краснее.",
+    "His words were tentative, but his body language screamed otherwise. Hands twitched at his sides, fingers curling and uncurling in a ceaseless drumming of anxious energy. At the base of his throat, a pulse point stuttered, throbbed, pounded beneath delicate skin.": "Он говорит неуверенно, но его жесты говорят об обратном. Руки подрагивают, пальцы то сжимаются, то разжимаются от волнения. У основания горла под тонкой кожей бьётся пульс.",
+    "You reached out, fingers drifting like phantom whispers across his neck to cup his jaw with a feather-light touch.": "Пальцы почти невесомо скользят по его шее, а ладонь мягко касается подбородка.",
+    "The breathy murmur of his name vibrated against heated flesh.": "Имя Итана звучит почти шёпотом, и тёплое дыхание касается его кожи.",
+    "Slowly, tortuously, you tilted his face down to meet yours. The press of lips to tender, virgin skin was the barest there and yet, Ethan gasped like you'd branded him with a lover's fire.": "Медленно, почти мучительно, ты наклоняешь его лицо к себе. Губы едва касаются нежной, ещё неопытной кожи, но Итан вздрагивает, словно его обожгло страстью.",
+    "Through half-lidded eyes, you watched Ethan melt into your caress, the tension bleeding from his spine in heady doses to leave him pliant and aching. Each rasp of breath stirred trembles across slackened lips, the tiniest gnat's wing of contact against such uncharted territory.": "Полуприкрыв глаза, ты смотришь, как Итан тает от твоих прикосновений. Напряжение постепенно уходит из его тела, оставляя лишь томление. Каждый его неровный выдох заставляет губы дрожать от едва знакомых ощущений.",
+    "Ethan's lips tremble beneath your feather-light caress, the barest whisper of contact sending shivers racing down his spine. The heat of your breath against his skin makes him shudder, a low, needy sound caught in his throat.": "Губы Итана дрожат от твоих невесомых прикосновений; даже лёгкое касание пробегает по его спине дрожью. Твоё горячее дыхание заставляет его вздрагивать, и в горле застревает тихий, полный желания звук.",
+    "He stutters, his hips shifting forward in a subtle, unconscious gesture of desperation": "Он запинается, чуть подаётся бёдрами вперёд — едва заметный, непроизвольный жест нетерпения.",
+    "You swept Ethan's lips into a deep, passionate kiss. Your tongue danced along the seam of his mouth, coaxing it open in a tender invitation. As the taste of him filled your senses, you lost yourself in the feeling of his lips moving against your own, pliant and eager in a way that made your head spin.": "Ты целуешь Итана глубоко и страстно. Твой язык мягко касается его губ, приглашая ответить. Ты теряешься в ощущении его губ — податливых, жадных до поцелуя, — и голова идёт кругом.",
+    "Ethan's hands found purchase at your waist, fingers digging into the soft flesh in a gesture of desperation. He pulled you closer, molding your body against his own until not an inch of space remained between your curves. The heat of him, the hardness, was a clear delineation of his desire tempered only by shyness.": "Руки Итана ложатся тебе на талию, пальцы впиваются в кожу. Он притягивает тебя ближе, пока между вами не остаётся ни сантиметра. Его жар и возбуждение говорят о желании, которое сдерживает лишь застенчивость.",
+    "You pulled away far too quickly, Ethan's lips pillowy soft and rosy from your onslaught.": "Поцелуй заканчивается слишком быстро. Губы Итана мягкие и розовые от твоих поцелуев.",
+    "You pressed a lingering kiss to his flushed cheek before releasing him with a playful smirk": "Ты оставляешь долгий поцелуй на его раскрасневшейся щеке и с игривой улыбкой отпускаешь его.",
+    "You sauntered out of his room, leaving Ethan a breathless, blushing mess in your wake.": "Ты выходишь из его комнаты, оставляя Итана запыхавшимся и смущённым.",
+    "I… I owe you big time, $player.info.firstName. I mean, this console must have cost a fortune. Whatever it is, I'll consider it. What do you need?": "Я… очень тебе обязан, $player.info.firstName. Эта приставка, наверное, стоила целое состояние. Что бы ты ни попросил, я это обдумаю. Что тебе нужно?",
+    "Ethan blinks rapidly, his gaze darting around the room as if searching for an escape from the sudden tension. He takes a deep breath, his hands fidgeting with the plastic wrapping of the game console. Time seems to stand still as you wait for his response, the silence hanging heavy in the air.": "Итан часто моргает и оглядывается, словно ищет, куда скрыться от внезапного напряжения. Он глубоко вдыхает и теребит пластиковую упаковку приставки. Пока ты ждёшь ответа, кажется, будто время остановилось.",
+    "I'm serious, $player.info.firstName. You've been there for me through thick and thin. This console, the kiss… they're just things. It's the thought behind them that counts. I'm here for you, man. Anytime, anywhere.": "Я серьёзно, $player.info.firstName. Ты всегда был рядом, что бы ни случилось. Приставка и поцелуй — всего лишь вещи. Главное — что за ними стоит. Я всегда рядом, дружище.",
+    "With a final wave, you step out into the night, the sounds of digital adventure fading behind you as you walk away with a smile, knowing that some friendships transcend the ordinary and enter the realm of the extraordinary": "На прощание ты машешь рукой и выходишь в ночь. Звуки цифровых приключений затихают за спиной, а ты уходишь с улыбкой, зная: дружба иногда выходит за пределы обыденного и становится чем-то особенным."
   },
   "scoped": [
     {
@@ -3482,6 +3499,14 @@
     {
       "source": "Settle who is stronger with {{name}}",
       "target": "Выяснить, кто сильнее: {{name}}"
+    },
+    {
+      "source": "I… I owe you big time, {{name}}. I mean, this console must have cost a fortune. Whatever it is, I'll consider it. What do you need?",
+      "target": "Я… очень тебе обязан, {{name}}. Эта приставка, наверное, стоила целое состояние. Что бы ты ни попросил, я это обдумаю. Что тебе нужно?"
+    },
+    {
+      "source": "I'm serious, {{name}}. You've been there for me through thick and thin. This console, the kiss… they're just things. It's the thought behind them that counts. I'm here for you, man. Anytime, anywhere.",
+      "target": "Я серьёзно, {{name}}. Ты всегда был рядом, что бы ни случилось. Приставка и поцелуй — всего лишь вещи. Главное — что за ними стоит. Я всегда рядом, дружище."
     }
   ]
 }
