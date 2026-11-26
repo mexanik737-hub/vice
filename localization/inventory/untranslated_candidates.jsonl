@@ -1639,19 +1639,6 @@
 {"passage":"Prison_Salon","source":"Trade the salon talk","source_sha256":"c23d44f2ff6bdd2585cde7fce2f137e7cfd095d7cec417d9a4b14c1443923430"}
 {"passage":"Prison_Salon","source":"Slip into the back with one of the women","source_sha256":"e1daf0b1b7d96dc4e446e11b91a90c0d5c5562381fb81c27299e47d4031e6f2b"}
 {"passage":"Prison_Salon","source":"Move something through the salon","source_sha256":"f515cfb62dbfd3dabb078c22e02e754d3aebd868fa712e5815300deb4dd42e68"}
-{"passage":"Prison_LawLibrary","source":"The Law Library","source_sha256":"dfb9c33a4633f5228c5b02d463783aa4a9e4586f78cd783ce4fb026c516810e6"}
-{"passage":"Prison_LawLibrary","source":"Two shelves of battered code books, a typewriter missing half its keys, and cons copying citations onto legal pads.","source_sha256":"bf17cc190dde5c136cdf18cb917b9b12aaf96131faea2e243cc72c36b6d0ca3f"}
-{"passage":"Prison_LawLibrary","source":"Arguments stay low here because nobody wants a torn motion or a confiscated case file.","source_sha256":"a604594c45e3745967001ef1d3782bacac5de318467c0585f8a0cbcabaabee27"}
-{"passage":"Prison_LawLibrary","source":"Programming on your file:","source_sha256":"b880b86763bd740104b6fbff3a77e6f1acd5fdef9d17998eb567984c2d43ccbf"}
-{"passage":"Prison_LawLibrary","source":"You have put your hour in the books today.","source_sha256":"1c8549e4abe4a0b9fd2918abfb87b48ebe868b559c58eb99df9f69bbf104468a"}
-{"passage":"Prison_LawLibrary","source":"The code does not change overnight, and neither does the board.","source_sha256":"575b4f5b1384e9b3bf34b9b4714b48d9ddc990d02a8f60af7bb917deddfab08a"}
-{"passage":"Prison_LawLibrary","source":"You have filed your paper for the day.","source_sha256":"b9a90be94fdd3dfb765d203bf1db80dc6a6b6038e556b3e05193feb7f9f8320b"}
-{"passage":"Prison_LawLibrary","source":"Motions move on the court's clock, not yours.","source_sha256":"a1de84739d7bac4b8b402be4364a6054d5a970a1acff7e5355e066b4e10f692a"}
-{"passage":"Prison_LawLibrary","source":"You have done your paperwork for the day.","source_sha256":"3390d5d95018daaaff26cc97a777b68ed875bd9f24c8e89cebd4be5880a31adf"}
-{"passage":"Prison_LawLibrary","source":"The tier's cases will keep until tomorrow.","source_sha256":"880072bee882e159d492b992baf99196e4de49e88c2f5a7bdef14a9ec49456d8"}
-{"passage":"Prison_LawLibrary","source":"Study the case law","source_sha256":"c1587d969d764ef82a7564740c22e6b3ee616def8d77e0fbac8abaa4109d84f9"}
-{"passage":"Prison_LawLibrary","source":"Work your own appeal","source_sha256":"4c6440b66f5fe148e0a44f2c4f95200031fec571ad517ea8eba09cbba07ebf37"}
-{"passage":"Prison_LawLibrary","source":"Draft paper for another con","source_sha256":"87d6310e40f79ac3acf90a13d759b436c9e8582123f136b90b524c0ebe89d3ec"}
 {"passage":"Prison_TakeBlock","source":"Make Your Move","source_sha256":"70c306c079830ecff55d0f66414fcbf95d145b46df7e8291a9854dcfa416e215"}
 {"passage":"Prison_TakeBlock","source":"ran this tier before you stepped off the bus.","source_sha256":"ab44b627194dc64b5dad143b7fb194b22ea7ae99ed44462460bf84ab3c04464e"}
 {"passage":"Prison_TakeBlock","source":"Every table still waits for before making a move.","source_sha256":"eda157a6627287ea94b60c27e1c6b136cfbcbc9c6cbe9e0aee17aae97e375e37"}
