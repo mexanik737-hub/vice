@@ -36,7 +36,7 @@
       "name": "Диалоги",
       "status": "in_progress",
       "coverage": null,
-      "notes": "Переведены отдельные диалоги отношений, начало ветки Аманды и сцены с поцелуем Итаном; часть квестовых реплик остаётся английской."
+      "notes": "Переведены отдельные диалоги отношений, начала веток Аманды и Гэри, а также сцены с поцелуем с Итаном; часть квестовых реплик остаётся английской."
     },
     {
       "id": "L5",
@@ -143,20 +143,20 @@
     "warning": "Conservative candidate extraction; includes false positives and misses dynamically composed/code-generated strings. Review before translation."
   },
   "catalog": {
-    "exact_phrase_count": 2490,
+    "exact_phrase_count": 2505,
     "dynamic_template_count": 23,
     "coverage_percent": null,
-    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 2004/5634 (35.6%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
+    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 2019/5634 (35.8%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
     "context_rule_count": 188,
-    "candidate_exact_matches": 2004,
+    "candidate_exact_matches": 2019,
     "candidate_unique_strings": 5634,
-    "candidate_match_percent": 35.6,
+    "candidate_match_percent": 35.8,
     "faq_candidate_strings": 463,
     "faq_candidate_translated": 463,
     "npc_interaction_candidate_strings": 49,
     "npc_interaction_candidate_translated": 48,
-    "untranslated_candidate_rows": 3883,
-    "untranslated_unique_strings": 3630,
+    "untranslated_candidate_rows": 3864,
+    "untranslated_unique_strings": 3615,
     "top_untranslated_passages": [
       [
         "Options",
@@ -207,10 +207,6 @@
         15
       ],
       [
-        "SarahQuest_2_Gay_Gary_apartment",
-        15
-      ],
-      [
         "SarahQuest_2_Female_Gary_apartment",
         15
       ],
@@ -236,6 +232,10 @@
       ],
       [
         "SarahQuest_2_Shemale",
+        14
+      ],
+      [
+        "SolanaDate",
         14
       ]
     ]
