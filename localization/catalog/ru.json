@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 66,
+    "version": 68,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -2934,7 +2934,36 @@
     "Oooh, that's so relaxing! You're talented!": "О-о, так расслабляет! У тебя настоящий талант!",
     "Ah... your hands are so gentle... 😊": "Ах... какие у тебя нежные руки... 😊",
     "Thanks, that was really nice.": "Спасибо, это было очень приятно.",
-    "Hmm, thanks, but massage isn't really my thing...": "Хм, спасибо, но массаж — не совсем моё."
+    "Hmm, thanks, but massage isn't really my thing...": "Хм, спасибо, но массаж — не совсем моё.",
+    "I enjoy talking with you... you're so interesting.": "Мне так нравится с тобой разговаривать... С тобой очень интересно.",
+    "Yes! Finally! I've been wanting this so bad! Let's go! 🔥😈💕": "Да! Наконец-то! Я так давно этого хотел(а)! Пойдём! 🔥😈💕",
+    "What?! How can you even ask that?! That's disgusting!": "Что?! Как ты вообще мог(ла) такое спросить?! Это отвратительно!",
+    "Of course, honey... I always want you... 💕": "Конечно, милый(ая)... Я всегда тебя хочу... 💕",
+    "That's what I'm here for. Let's go. 😏": "Ради этого я здесь. Пойдём. 😏",
+    "I hate myself for this, but... fine.": "Не могу поверить, что соглашаюсь, но... ладно.",
+    "I... I'm ready. With you - yes. 😳💗": "Я... готов(а). С тобой — да. 😳💗",
+    "Hmm... alright, why not.": "Хм... ладно, почему бы и нет.",
+    "Sorry, but I'm not in the mood for that right now...": "Прости, но сейчас я не в настроении...",
+    "Oh my... that's the most beautiful compliment I've ever received! I'm blushing! 😳💕": "О боже... Это самый прекрасный комплимент в моей жизни! Я даже смутился(ась)! 😳💕",
+    "Was that... supposed to be a compliment? Sounds more like an insult.": "Это... должен был быть комплимент? Скорее похоже на оскорбление.",
+    "T-thank you... you're pretty... nice too... 😊": "С-спасибо... Ты тоже... очень милый(ая)... 😊",
+    "You're so sweet! I love it when you talk like that!": "Как мило! Мне нравится, когда ты так говоришь!",
+    "Aww, thanks! You're not so bad yourself! 😄": "Ой, спасибо! Ты и сам(а) ничего! 😄",
+    "Heh, thanks. You're not bad either 😏": "Хех, спасибо. Ты тоже ничего 😏",
+    "Oh, thank you! That's really sweet of you.": "О, спасибо! Это очень мило с твоей стороны.",
+    "Oh my... you know how to charm with words... I'm getting hot! 🔥": "Ох... Ты умеешь очаровывать словами... Мне становится жарко! 🔥",
+    "That was... really weird and inappropriate. Please don't.": "Это было... очень странно и неуместно. Пожалуйста, не надо.",
+    "Are you flirting with me? I like it... 💗": "Ты со мной флиртуешь? Мне нравится... 💗",
+    "Mmm, keep going like that, honey... 😘": "М-м, продолжай в том же духе, дорогой(ая)... 😘",
+    "Oh, someone's in the mood today? I like it.": "О, кто-то сегодня в настроении? Мне нравится.",
+    "Haha, you're so playful today!": "Ха-ха, ты сегодня такой(ая) игривый(ая)!",
+    "Let's just... pretend that didn't happen.": "Давай просто... сделаем вид, что этого не было.",
+    "Your hand is so warm... I don't want to let go... 🥰": "У тебя такая тёплая рука... Не хочу её отпускать... 🥰",
+    "What are you doing?! Let go of my hand!": "Что ты делаешь?! Отпусти мою руку!",
+    "Oh... okay... I like this... 😳": "О... ладно... Мне нравится... 😳",
+    "I love holding hands with you. 💑": "Мне так нравится держаться с тобой за руки. 💑",
+    "This is... nice.": "Это... приятно.",
+    "Sorry... I'm not ready for that...": "Прости... Я пока к этому не готов(а)..."
   },
   "scoped": [
     {
