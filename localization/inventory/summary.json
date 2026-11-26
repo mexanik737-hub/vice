@@ -1,0 +1,90 @@
+{
+  "source": "upstream/original/viceburg_mod_clean.html",
+  "sha256": "51178944bf8a2b6e91cb9c40ef62c0f0bbeb613de2d0ebc8316da970d77d7187",
+  "passages": 1486,
+  "candidate_rows": 5959,
+  "passages_with_candidates": 1017,
+  "top_passages": [
+    [
+      "FAQDialog",
+      463
+    ],
+    [
+      "Ch2_NightScene",
+      155
+    ],
+    [
+      "Options",
+      63
+    ],
+    [
+      "Prison_Inmate",
+      51
+    ],
+    [
+      "Ship_NpcInteract",
+      49
+    ],
+    [
+      "PlayerCreate",
+      46
+    ],
+    [
+      "Ethan_Quest_01_End_Sissy",
+      42
+    ],
+    [
+      "enhanced_interaction_system",
+      40
+    ],
+    [
+      "Amanda_Picnic_Quest_Start",
+      36
+    ],
+    [
+      "BrothelWorker_StatsHelp",
+      32
+    ],
+    [
+      "Ch2_NightBed",
+      32
+    ],
+    [
+      "Sarah_Quest_01_End_Female",
+      30
+    ],
+    [
+      "Widgets",
+      30
+    ],
+    [
+      "enhanced_interaction_discussFeminization",
+      29
+    ],
+    [
+      "Tess_Quest1_Flirt",
+      29
+    ],
+    [
+      "DamienFirstMeet",
+      27
+    ],
+    [
+      "Marcus_Quest1_Flirt",
+      27
+    ],
+    [
+      "SolanaShoot_Scene",
+      26
+    ],
+    [
+      "enhanced_relationship_initiative",
+      25
+    ],
+    [
+      "GangBases",
+      25
+    ]
+  ],
+  "warning": "Conservative candidate extraction; includes false positives and misses dynamically composed/code-generated strings. Review before translation."
+}

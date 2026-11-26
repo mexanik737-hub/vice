@@ -1,0 +1,48 @@
+{
+  "id": "L5",
+  "name": "Регрессия локализации",
+  "status": "in_progress",
+  "updated": "2026-11-26",
+  "checks": [
+    {
+      "name": "Статические проверки проекта",
+      "result": "passed",
+      "evidence": "8 Python unittest (passed 2026-11-26)"
+    },
+    {
+      "name": "Точечный runtime словаря и шаблонов",
+      "result": "passed",
+      "evidence": "Node.js runtime tests (passed 2026-11-26)"
+    },
+    {
+      "name": "Неизменность тел passage и имён passage",
+      "result": "passed",
+      "evidence": "Сравнение исходной и собранной HTML"
+    },
+    {
+      "name": "Android build и WebView",
+      "result": "not_run",
+      "reason": "В среде нет Android SDK/Gradle и устройства"
+    },
+    {
+      "name": "Samsung Android 17: SAF, видео/аудио, сохранения",
+      "result": "not_run",
+      "reason": "Физическое устройство и тестовая папка Media недоступны"
+    },
+    {
+      "name": "Стартовый обход локализации ограничен живыми узлами",
+      "result": "passed",
+      "evidence": "Статическая регрессия проверяет отсутствие полного обхода document и пакетную обработку MutationObserver"
+    },
+    {
+      "name": "Статический аудит вызовов изображений, видео и аудио",
+      "result": "passed",
+      "evidence": "Проверены виджеты Video/DrawImage/SetBackground, Audio API и SAF interception; устройство не запускалось"
+    }
+  ],
+  "remaining": [
+    "Проверить реальные игровые DOM-сцены",
+    "Прогнать UI на телефоне и исправить переполнения",
+    "Проверить импорт/экспорт сохранения круговым тестом"
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "source": "upstream/original/viceburg_mod_clean.html",
+  "source_sha256": "51178944bf8a2b6e91cb9c40ef62c0f0bbeb613de2d0ebc8316da970d77d7187",
+  "updated": "2026-11-26",
+  "phases": [
+    {
+      "id": "L0",
+      "name": "Структура и инвентаризация",
+      "status": "done",
+      "coverage": null,
+      "notes": "Инвентаризация после расширения извлекателя: 1 486 passages, 5959 строк-кандидатов; включает ложные срабатывания и пропуски."
+    },
+    {
+      "id": "L1",
+      "name": "Интерфейс и системные меню",
+      "status": "in_progress",
+      "coverage": null,
+      "notes": "Добавлены дополнительные переводы интерфейса заключённых и персонала. Каталог: 1887 фраз, 120 контекстных правил, 7 шаблонов; общий перевод механик и предметов не завершён."
+    },
+    {
+      "id": "L2",
+      "name": "Игровые механики и предметы",
+      "status": "in_progress",
+      "coverage": null,
+      "notes": "Переведены отдельные квестовые подсказки и интерфейс комиссии по УДО; большинство заданий остаются английскими."
+    },
+    {
+      "id": "L3",
+      "name": "Задания и события",
+      "status": "in_progress",
+      "coverage": null,
+      "notes": "Продолжены переводы тюремных взаимодействий и откровенных сцен без цензуры; значительная часть диалогов остаётся английской."
+    },
+    {
+      "id": "L4",
+      "name": "Диалоги",
+      "status": "in_progress",
+      "coverage": null,
+      "notes": "Сопоставлены найденные строки сцен Ch2_NightScene, Ch2_NightBed, Ship_NpcInteract, Marcus_Quest1_Flirt и системных взаимодействий. Большинство остальных сюжетных диалогов не переведено."
+    },
+    {
+      "id": "L5",
+      "name": "Регрессия локализации",
+      "status": "in_progress",
+      "coverage": null,
+      "notes": "6 Python статических тестов и Node runtime-тест пройдены. Android, Samsung, SAF, кодеки и импорт/экспорт не проверены."
+    }
+  ],
+  "limitations": [
+    "Полная русификация ещё не завершена; значительная часть пользовательских реплик и описаний осталась на английском.",
+    "В инвентаре 4323 из 5634 уникальных строк-кандидатов не сопоставлены с точной фразой каталога (23.3% точных совпадений). Это не достоверная оценка доли локализованного игрового текста: инвентарь содержит технические ложные срабатывания и пропуски.",
+    "Текст длинных реплик и динамические данные требуют отдельной проверки по фактическому DOM; Android WebView не проверен на устройстве.",
+    "APK не собирался: по договорённости пользователь соберёт его самостоятельно; Samsung Android 17, SAF и воспроизведение медиа не проверены на устройстве."
+  ],
+  "inventory": {
+    "source": "upstream/original/viceburg_mod_clean.html",
+    "sha256": "51178944bf8a2b6e91cb9c40ef62c0f0bbeb613de2d0ebc8316da970d77d7187",
+    "passages": 1486,
+    "candidate_rows": 5959,
+    "passages_with_candidates": 1017,
+    "top_passages": [
+      [
+        "FAQDialog",
+        463
+      ],
+      [
+        "Ch2_NightScene",
+        155
+      ],
+      [
+        "Options",
+        63
+      ],
+      [
+        "Prison_Inmate",
+        51
+      ],
+      [
+        "Ship_NpcInteract",
+        49
+      ],
+      [
+        "PlayerCreate",
+        46
+      ],
+      [
+        "Ethan_Quest_01_End_Sissy",
+        42
+      ],
+      [
+        "enhanced_interaction_system",
+        40
+      ],
+      [
+        "Amanda_Picnic_Quest_Start",
+        36
+      ],
+      [
+        "BrothelWorker_StatsHelp",
+        32
+      ],
+      [
+        "Ch2_NightBed",
+        32
+      ],
+      [
+        "Sarah_Quest_01_End_Female",
+        30
+      ],
+      [
+        "Widgets",
+        30
+      ],
+      [
+        "enhanced_interaction_discussFeminization",
+        29
+      ],
+      [
+        "Tess_Quest1_Flirt",
+        29
+      ],
+      [
+        "DamienFirstMeet",
+        27
+      ],
+      [
+        "Marcus_Quest1_Flirt",
+        27
+      ],
+      [
+        "SolanaShoot_Scene",
+        26
+      ],
+      [
+        "enhanced_relationship_initiative",
+        25
+      ],
+      [
+        "GangBases",
+        25
+      ]
+    ],
+    "warning": "Conservative candidate extraction; includes false positives and misses dynamically composed/code-generated strings. Review before translation."
+  },
+  "catalog": {
+    "exact_phrase_count": 1887,
+    "dynamic_template_count": 7,
+    "coverage_percent": null,
+    "coverage_note": "Доля покрытия полной игры надёжно не вычисляется: кандидатный извлекатель включает ложные срабатывания и пропускает динамические строки.",
+    "context_rule_count": 120,
+    "candidate_exact_matches": 1438,
+    "candidate_unique_strings": 5634,
+    "candidate_match_percent": 25.5,
+    "faq_candidate_strings": 463,
+    "faq_candidate_translated": 463,
+    "npc_interaction_candidate_strings": 49,
+    "npc_interaction_candidate_translated": 48,
+    "untranslated_candidate_rows": 4474,
+    "untranslated_unique_strings": 4196,
+    "top_untranslated_passages": [
+      [
+        "Options",
+        57
+      ],
+      [
+        "Prison_Inmate",
+        45
+      ],
+      [
+        "PlayerCreate",
+        40
+      ],
+      [
+        "enhanced_relationship_initiative",
+        25
+      ],
+      [
+        "Ethan_Quest_01_End_kiss_FM",
+        24
+      ],
+      [
+        "PlayerAppearance",
+        23
+      ],
+      [
+        "Ethan_Quest_01_End_kiss_MM",
+        22
+      ],
+      [
+        "Ship_Labyrinth",
+        21
+      ],
+      [
+        "PrisonWidgets",
+        21
+      ],
+      [
+        "Ship_RpsMatch",
+        20
+      ],
+      [
+        "SarahQuest_2_Female_SarahRoom_Back",
+        20
+      ],
+      [
+        "SarahQuest_2_Shemale_SarahRoom_Back",
+        20
+      ],
+      [
+        "Inventory",
+        20
+      ],
+      [
+        "GangHubWidgets",
+        19
+      ],
+      [
+        "Ethan_Quest_01_End",
+        19
+      ],
+      [
+        "Prison_Block",
+        18
+      ],
+      [
+        "Ethan_Quest_01_Start",
+        18
+      ],
+      [
+        "SarahQuest2_Start_Male",
+        18
+      ],
+      [
+        "AliceQuest1_Start_Male_Dom",
+        17
+      ],
+      [
+        "Ch2NightWidgets",
+        17
+      ]
+    ]
+  },
+  "testing": {
+    "python_static_tests": "8 passed (2026-11-26)",
+    "node_localization_runtime": "passed: scoped startup localization, exact phrases, contextual rules and templates",
+    "android_build": "not_run: user will build; no local Android SDK/Gradle",
+    "device_saf_media_save_roundtrip": "not_run: no Samsung Android 17 device",
+    "synthetic_media_metadata": "passed: JPEG, WebM VP8/Vorbis, WAV PCM inspected with ffprobe",
+    "desktop_webview_smoke": "not_run: Chromium launcher exists but system binary is missing",
+    "translation_status": "incomplete: 1311/5634 unique extracted candidates matched; extractor is approximate",
+    "startup_performance_fix": "implemented: initial localization only scans live game containers; mutations batched via requestAnimationFrame",
+    "media_path_audit": "passed statically: img/video/background/audio calls traced; device media playback not run",
+    "saf_mime_fallback": "implemented and statically checked for generic application/octet-stream responses"
+  }
+}
