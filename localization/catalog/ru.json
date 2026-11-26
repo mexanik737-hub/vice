@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 56,
+    "version": 57,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -2806,7 +2806,19 @@
     "Oh, bind me up, I want to be completely at your mercy.": "О, свяжи меня. Я хочу полностью оказаться в твоей власти.",
     "Hell no, I'm not letting you tie me up.": "Да ни за что, я не позволю тебе связывать меня.",
     "Forget it, I'm not that helpless.": "Забудь. Я ещё могу постоять за себя.",
-    "No way, keep your ropes to yourself.": "Ни за что. Оставь свои верёвки при себе."
+    "No way, keep your ropes to yourself.": "Ни за что. Оставь свои верёвки при себе.",
+    "Outside the gates": "За воротами",
+    "The gravel takes the skin off your palms.": "Гравий сдирает кожу с ладоней.",
+    "One of the guards drops your mask beside you and the gate shuts.": "Один из охранников бросает рядом с тобой маску, и ворота закрываются.",
+    "You get up before anybody thinks of more questions.": "Ты поднимаешься, пока у кого-нибудь не возникли новые вопросы.",
+    "It is getting light over the hills and the last cars have gone.": "Над холмами светает, а последние машины уже уехали.",
+    "You walk down the drive with your mask in your hand and twelve hours of somebody else's music in your ears.": "Ты идёшь по подъездной дороге с маской в руке и музыкой, которую двенадцать часов слушал кто-то другой.",
+    "You make yourself walk past the last guard without looking back.": "Заставляешь себя пройти мимо последнего охранника, не оглядываясь.",
+    "Once the trees hide the house you stop and let your hands shake.": "Когда деревья скрывают дом, ты останавливаешься и позволяешь рукам дрожать.",
+    "Rayna's car is where she left it, under the trees across the road.": "Машина Рейны стоит там, где она её оставила, под деревьями на другой стороне дороги.",
+    "It is empty.": "В ней никого.",
+    "She is still in that cellar, and you are out here.": "Она всё ещё в том подвале, а ты уже снаружи.",
+    "Rayna's car is where she left it, under the trees across the road, with the engine running.": "Машина Рейны стоит там, где она её оставила, под деревьями на другой стороне дороги; двигатель работает."
   },
   "scoped": [
     {
