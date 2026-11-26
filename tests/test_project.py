@@ -58,6 +58,24 @@ class ProjectTests(unittest.TestCase):
   self.assertTrue((fixtures/'Events/Diner Events/flirt-diner.webm').is_file())
   self.assertTrue((fixtures/'Audio/Weather/rain1.wav').is_file())
   self.assertTrue((ROOT/'tests/fixtures/index.html').is_file())
+ def test_cheats_edit_real_character_parameters_and_npc_cooldown(self):
+  source=html_lib.unescape((ROOT/'upstream/original/viceburg_mod_clean.html').read_text(encoding='utf-8'))
+  for marker in [
+   "addLimitedFields(status,target.status",
+   "addLimitedFields(skills,target.attributes",
+   "addLimitedFields(progression,target.progression",
+   "addHiddenFields(hidden,target.sexExperience",
+   "addHiddenFields(hidden,target.body",
+   "addHiddenFields(hidden,target.behavior?.mood",
+  ]: self.assertIn(marker,source)
+  for key in ['horny','drugIntoxication','potency','lust','sexStamina','corruption','submission','firearmProficiency','analSkill']:
+   self.assertIn(key,source)
+  for key in ['friendship','love','sex','fear','anger','corruption']:
+   self.assertIn("'"+key+"'",source)
+  cooldown=re.search(r'MarkNpcInitiatedEventTriggered=function\((.*?)\},window\.CharactersRefresh',source)
+  self.assertIsNotNone(cooldown)
+  self.assertIn('getMinutes()+20',cooldown.group(1))
+  self.assertNotIn('getMinutes()+30',cooldown.group(1))
  def test_faq_localization_is_attached_to_existing_dom(self):
   catalog=json.loads((ROOT/'localization/catalog/ru.json').read_text())
   self.assertIn('What is on the sidebar?',catalog['phrases'])

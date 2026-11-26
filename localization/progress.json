@@ -1,6 +1,6 @@
 {
   "source": "upstream/original/viceburg_mod_clean.html",
-  "source_sha256": "51178944bf8a2b6e91cb9c40ef62c0f0bbeb613de2d0ebc8316da970d77d7187",
+  "source_sha256": "ab416eb83ed23508b7e91c9bada18d9d3a515666c56734142e9b11f8e8a72c32",
   "updated": "2026-11-26",
   "phases": [
     {
@@ -15,7 +15,7 @@
       "name": "Интерфейс и системные меню",
       "status": "in_progress",
       "coverage": null,
-      "notes": "Каталог содержит 2930 точных фраз, 203 контекстных правила и 23 шаблона; интерфейс и системные меню ещё не завершены."
+      "notes": "Каталог содержит 3068 точных фраз, 203 контекстных правила и 23 шаблона; системный интерфейс и игровые сцены локализованы частично."
     },
     {
       "id": "L2",
@@ -36,25 +36,25 @@
       "name": "Диалоги",
       "status": "in_progress",
       "coverage": null,
-      "notes": "Переведены отдельные сюжетные диалоги и 68 новых реплик общения, подарков, шуток, массажа, поцелуев и прикосновений; большая часть сюжетных веток остаётся неполной."
+      "notes": "Переведены 172 новых реплики взаимодействий NPC о знакомствах, отношениях, общении, подарках, шутках, прикосновениях и поддержке; большая часть сюжетных веток остаётся неполной."
     },
     {
       "id": "L5",
       "name": "Регрессия локализации",
       "status": "in_progress",
       "coverage": null,
-      "notes": "Статические Python-проверки (8 тестов), Node-проверка словаря и сборка debug APK прошли в GitHub Actions. Android, SAF, кодеки и импорт/экспорт ещё требуют проверки на устройстве."
+      "notes": "Локально пройдены 9 Python-тестов и Node-проверка каталога; APK-сборка run #117 успешна для предыдущего коммита. Изменения редактора читов и кулдауна ожидают CI-проверки."
     }
   ],
   "limitations": [
     "Полная русификация ещё не завершена; значительная часть пользовательских реплик и описаний осталась на английском.",
-    "В инвентаре 3281 из 5634 уникальных строк-кандидатов не сопоставлены с точной фразой каталога (41.8% точных совпадений). Это не полная доля перевода: контекстные правила/шаблоны и ложные срабатывания инвентаризатора не учитываются.",
+    "В инвентаре 3080 из 5634 уникальных строк-кандидатов не сопоставлены с точной фразой каталога (45.3% точных совпадений). Это не полная доля перевода: контекстные правила/шаблоны и ложные срабатывания инвентаризатора не учитываются.",
     "Текст длинных реплик и динамические данные требуют отдельной проверки по фактическому DOM; Android WebView не проверен на устройстве.",
     "The debug APK is built by GitHub Actions. The compact in-game tools card, Media picker, save import/export, and original media playback still require on-device verification; signed release is skipped for pull_request."
   ],
   "inventory": {
     "source": "upstream/original/viceburg_mod_clean.html",
-    "sha256": "51178944bf8a2b6e91cb9c40ef62c0f0bbeb613de2d0ebc8316da970d77d7187",
+    "sha256": "ab416eb83ed23508b7e91c9bada18d9d3a515666c56734142e9b11f8e8a72c32",
     "passages": 1486,
     "candidate_rows": 5959,
     "passages_with_candidates": 1017,
@@ -143,7 +143,7 @@
     "warning": "Conservative candidate extraction; includes false positives and misses dynamically composed/code-generated strings. Review before translation."
   },
   "catalog": {
-    "exact_phrase_count": 3063,
+    "exact_phrase_count": 3068,
     "dynamic_template_count": 23,
     "coverage_percent": null,
     "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 2554/5634 (45.3%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
@@ -243,11 +243,11 @@
   "testing": {
     "python_static_tests": "8 passed (2026-11-26; after Sarah dialogue batch)",
     "node_localization_runtime": "passed (named placeholders, value maps, uncensored dialogue)",
-    "android_build": "passed: GitHub Actions run #92 built the debug APK with the native toolbar removed and in-game tools menu injected; artifact viceburg-offline-apk (4,054,435 bytes; expires 2026-12-26); signed release skipped for pull_request",
+    "android_build": "GitHub Actions run #117 succeeded with a debug APK (4,061,026 bytes; expires 2026-12-26); the new stat editor and cooldown change are pending CI. Signed release is skipped for pull_request.",
     "device_saf_media_save_roundtrip": "not_run: no Samsung Android 17 device",
     "synthetic_media_metadata": "passed: JPEG, WebM VP8/Vorbis, WAV PCM inspected with ffprobe",
     "desktop_webview_smoke": "not_run: Chromium launcher exists but system binary is missing",
-    "translation_status": "incomplete: 2353/5634 unique extracted candidates matched (41.8%); extractor is approximate",
+    "translation_status": "incomplete: 2554/5634 unique extracted candidates matched (45.3%); extractor is approximate",
     "startup_performance_fix": "implemented: initial localization only scans live game containers; mutations batched via requestAnimationFrame",
     "media_path_audit": "passed statically: img/video/background/audio calls traced; device media playback not run",
     "saf_mime_fallback": "implemented and statically checked for generic application/octet-stream responses",

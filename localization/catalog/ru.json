@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 74,
+    "version": 75,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -3067,7 +3067,12 @@
     "Really?! I... I've been feeling the same way! I'm so happy! 💕": "Правда?! Я... Чувствую то же самое! Я так счастлив(а)! 💕",
     "What? No... I don't see you that way at all. This is awkward...": "Что? Нет... Я совсем не воспринимаю тебя так. Как неловко...",
     "I... I think I might feel something too. Let's see where this goes...": "Я... Кажется, тоже что-то чувствую. Посмотрим, к чему это приведёт...",
-    "That's sweet, but... I think we're better as friends.": "Это мило, но... Думаю, нам лучше остаться друзьями."
+    "That's sweet, but... I think we're better as friends.": "Это мило, но... Думаю, нам лучше остаться друзьями.",
+    "Player needs": "Потребности игрока",
+    "NPC needs": "Потребности NPC",
+    "Skills and attributes": "Навыки и характеристики",
+    "Skill progression": "Прогресс навыков",
+    "Hidden parameters": "Скрытые параметры"
   },
   "scoped": [
     {
