@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 48,
+    "version": 49,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -2415,7 +2415,20 @@
     "Leave the table": "Покинуть стол",
     "Deal the next game": "Сдать следующую игру",
     "Cash out and leave": "Забрать выигрыш и уйти",
-    "You break even at the Empress table.": "Ты остаёшься при своих за столом «Императрица»."
+    "You break even at the Empress table.": "Ты остаёшься при своих за столом «Императрица».",
+    "Rusted plates, a bench worn smooth, and a shed frame everyone chins on.": "Ржавые блины, отполированная до гладкости скамья и перекладина под навесом, на которой подтягиваются все подряд.",
+    "The iron does not care what you did or who you run with.": "Железу всё равно, что ты натворил и с кем водишься.",
+    "It is the one honest thing on the yard, and the one that talks loudest when you cannot.": "Это единственная честная вещь на плацу — и она говорит громче всего, когда тебе нечего сказать.",
+    "Sessions on the pile this bid:": "За этот срок ты позанимался у штанги:",
+    "· the block reads you as iron now": "· теперь блок считает тебя железным",
+    "loads the bar past what either of you should be repping and puts a hand on it.": "нагружает штангу весом, который вам обоим сейчас не по силам, и кладёт на неё руку.",
+    "It is the pile's oldest argument and the only one it settles honestly.": "Это старейший спор у штанги — и единственный, который она решает честно.",
+    "You have already settled one argument under the bar today.": "Сегодня ты уже выяснил отношения под штангой.",
+    "Your arms are finished.": "На сегодня силы закончились.",
+    "Someone always wants to test the new weight.": "Кто-нибудь всегда хочет проверить новый вес.",
+    "You have taken your measure on the pile today.": "Сегодня ты уже померился силами у штанги.",
+    "With your cock caged, you cannot fuck the loser to collect the winner's due.": "Пока твой член в клетке, ты не можешь трахнуть проигравшего и получить причитающееся победителю.",
+    "Leave it uncollected and keep moving.": "Оставь награду неполученной и двигайся дальше."
   },
   "scoped": [
     {
@@ -3267,6 +3280,76 @@
       "selector": ".rps-result--lose",
       "source": "chips.",
       "target": "фишек."
+    },
+    {
+      "selector": ".centre-text",
+      "source": "Sessions on the pile this bid:",
+      "target": "За этот срок ты позанимался у штанги:"
+    },
+    {
+      "selector": ".centre-text",
+      "source": "· the block reads you as iron now",
+      "target": "· теперь блок считает тебя железным"
+    },
+    {
+      "selector": ".centre-text",
+      "source": "loads the bar past what either of you should be repping and puts a hand on it. Whoever racks first buys the other a store run. It is the pile's oldest argument and the only one it settles honestly.",
+      "target": "нагружает штангу весом, который вам обоим сейчас не по силам, и кладёт на неё руку. Кто первым поставит штангу на стойки, тот сводит другого в магазин. Это старейший спор у штанги — и единственный, который она решает честно."
+    },
+    {
+      "selector": ".prison-actnote",
+      "source": "You have already settled one argument under the bar today. Your arms are finished.",
+      "target": "Сегодня ты уже выяснил отношения под штангой. На сегодня силы закончились."
+    },
+    {
+      "selector": ".centre-text",
+      "source": "Someone always wants to test the new weight. Trading sets is how the pile takes a con's measure - and how you take theirs.",
+      "target": "Кто-нибудь всегда хочет проверить новый вес. По подходам штанга проверяет сокамерника на прочность — и помогает тебе понять, чего стоишь ты сам."
+    },
+    {
+      "selector": ".centre-text",
+      "source": "You have taken your measure on the pile today. The iron will still be here tomorrow.",
+      "target": "Сегодня ты уже померился силами у штанги. Завтра железо никуда не денется."
+    },
+    {
+      "selector": ".centre-text",
+      "source": "You put",
+      "target": "Ты валишь"
+    },
+    {
+      "selector": ".centre-text",
+      "source": "down in front of the weight pile. When",
+      "target": "перед штангой. Когда"
+    },
+    {
+      "selector": ".centre-text",
+      "source": "gets up, the lifters wait to see whether you collect.",
+      "target": "поднимется, остальные ждут, решишь ли ты забрать своё."
+    },
+    {
+      "selector": ".centre-text",
+      "source": "With your cock caged, you cannot fuck the loser to collect the winner's due. Leave it uncollected and keep moving.",
+      "target": "Пока твой член в клетке, ты не можешь трахнуть проигравшего и получить причитающееся победителю. Оставь награду неполученной и двигайся дальше."
+    },
+    {
+      "selector": "fieldset legend",
+      "source": "Under the bar",
+      "target": "Под штангой"
+    },
+    {
+      "selector": "fieldset legend",
+      "source": "Spar a regular",
+      "target": "Спарринг с сокамерником"
+    },
+    {
+      "selector": "fieldset legend",
+      "source": "Collect the winner's due",
+      "target": "Забрать причитающееся победителю"
+    },
+    {
+      "selector": "fieldset legend",
+      "source": "Leave the winner's due",
+      "target": "Отказаться от награды"
     }
   ],
   "templates": [
@@ -3363,6 +3446,10 @@
           "oral": "оральный секс"
         }
       }
+    },
+    {
+      "source": "Settle who is stronger with {{name}}",
+      "target": "Выяснить, кто сильнее: {{name}}"
     }
   ]
 }
