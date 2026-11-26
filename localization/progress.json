@@ -36,7 +36,7 @@
       "name": "Диалоги",
       "status": "in_progress",
       "coverage": null,
-      "notes": "Переведены отдельные диалоги отношений, сцены Аманды, Гэри и Элис, а также эпизоды квеста Итана; большинство квестовых реплик остаётся английским."
+      "notes": "Переведены отдельные сцены Аманды, Гэри, Элис и Соланы, а также эпизоды квеста Итана; большинство квестовых реплик остаётся английским."
     },
     {
       "id": "L5",
@@ -143,20 +143,20 @@
     "warning": "Conservative candidate extraction; includes false positives and misses dynamically composed/code-generated strings. Review before translation."
   },
   "catalog": {
-    "exact_phrase_count": 2536,
+    "exact_phrase_count": 2550,
     "dynamic_template_count": 23,
     "coverage_percent": null,
-    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 2050/5634 (36.4%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
+    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 2064/5634 (36.6%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
     "context_rule_count": 188,
-    "candidate_exact_matches": 2050,
+    "candidate_exact_matches": 2064,
     "candidate_unique_strings": 5634,
-    "candidate_match_percent": 36.4,
+    "candidate_match_percent": 36.6,
     "faq_candidate_strings": 463,
     "faq_candidate_translated": 463,
     "npc_interaction_candidate_strings": 49,
     "npc_interaction_candidate_translated": 48,
-    "untranslated_candidate_rows": 3833,
-    "untranslated_unique_strings": 3584,
+    "untranslated_candidate_rows": 3819,
+    "untranslated_unique_strings": 3570,
     "top_untranslated_passages": [
       [
         "Options",
@@ -227,15 +227,15 @@
         14
       ],
       [
-        "SolanaDate",
-        14
-      ],
-      [
         "Widgets",
         14
       ],
       [
         "enhanced_npc_relationship_proposal",
+        13
+      ],
+      [
+        "Ship_MainHall",
         13
       ]
     ]
