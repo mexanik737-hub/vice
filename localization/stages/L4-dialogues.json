@@ -78,6 +78,11 @@
       "group": "enhanced_interaction_discussFeminization",
       "status": "partial",
       "notes": "Переведены найденные варианты сообщений NPC о гормональной терапии и гендерном переходе; проверка контекста и вёрстки в игре не выполнена."
+    },
+    {
+      "group": "enhanced_npc_relationship_proposal",
+      "status": "partial",
+      "notes": "Переведены найденные реплики NPC о дружбе, расставании и предложении отношений; контекст и варианты обращения в игре не проверены."
     }
   ],
   "remaining": [
