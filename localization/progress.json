@@ -15,7 +15,7 @@
       "name": "Интерфейс и системные меню",
       "status": "in_progress",
       "coverage": null,
-      "notes": "Добавлены дополнительные переводы интерфейса заключённых и персонала. Каталог: 1887 фраз, 120 контекстных правил, 7 шаблонов; общий перевод механик и предметов не завершён."
+      "notes": "Каталог: 1941 точных фраз, 120 контекстных правил, 7 шаблонов. Интерфейс частично переведён, этап не завершён."
     },
     {
       "id": "L2",
@@ -36,7 +36,7 @@
       "name": "Диалоги",
       "status": "in_progress",
       "coverage": null,
-      "notes": "Сопоставлены найденные строки сцен Ch2_NightScene, Ch2_NightBed, Ship_NpcInteract, Marcus_Quest1_Flirt и системных взаимодействий. Большинство остальных сюжетных диалогов не переведено."
+      "notes": "Переведены отдельные системные реплики, тюремные сцены и сцены Рэйны; большая часть сюжетных диалогов остаётся английской."
     },
     {
       "id": "L5",
@@ -48,7 +48,7 @@
   ],
   "limitations": [
     "Полная русификация ещё не завершена; значительная часть пользовательских реплик и описаний осталась на английском.",
-    "В инвентаре 4323 из 5634 уникальных строк-кандидатов не сопоставлены с точной фразой каталога (23.3% точных совпадений). Это не достоверная оценка доли локализованного игрового текста: инвентарь содержит технические ложные срабатывания и пропуски.",
+    "В инвентаре 4142 из 5634 уникальных строк-кандидатов не сопоставлены с точной фразой каталога (26.5% точных совпадений). Это не достоверная оценка доли локализованного игрового текста: инвентарь содержит технические ложные срабатывания и пропуски.",
     "Текст длинных реплик и динамические данные требуют отдельной проверки по фактическому DOM; Android WebView не проверен на устройстве.",
     "APK не собирался: по договорённости пользователь соберёт его самостоятельно; Samsung Android 17, SAF и воспроизведение медиа не проверены на устройстве."
   ],
@@ -143,20 +143,20 @@
     "warning": "Conservative candidate extraction; includes false positives and misses dynamically composed/code-generated strings. Review before translation."
   },
   "catalog": {
-    "exact_phrase_count": 1887,
+    "exact_phrase_count": 1941,
     "dynamic_template_count": 7,
     "coverage_percent": null,
-    "coverage_note": "Доля покрытия полной игры надёжно не вычисляется: кандидатный извлекатель включает ложные срабатывания и пропускает динамические строки.",
+    "coverage_note": "Точное совпадение каталог/инвентарь: 1492/5634 (26.5%). Это нижняя оценка строк-кандидатов, а не полное покрытие игры.",
     "context_rule_count": 120,
-    "candidate_exact_matches": 1438,
+    "candidate_exact_matches": 1492,
     "candidate_unique_strings": 5634,
-    "candidate_match_percent": 25.5,
+    "candidate_match_percent": 26.5,
     "faq_candidate_strings": 463,
     "faq_candidate_translated": 463,
     "npc_interaction_candidate_strings": 49,
     "npc_interaction_candidate_translated": 48,
-    "untranslated_candidate_rows": 4474,
-    "untranslated_unique_strings": 4196,
+    "untranslated_candidate_rows": 4420,
+    "untranslated_unique_strings": 4142,
     "top_untranslated_passages": [
       [
         "Options",
@@ -241,13 +241,13 @@
     ]
   },
   "testing": {
-    "python_static_tests": "8 passed (2026-11-26)",
-    "node_localization_runtime": "passed: scoped startup localization, exact phrases, contextual rules and templates",
+    "python_static_tests": "8 passed (2026-11-26; after 54-phrase batch)",
+    "node_localization_runtime": "passed (2026-11-26; exact phrases, contextual rules, dynamic templates)",
     "android_build": "not_run: user will build; no local Android SDK/Gradle",
     "device_saf_media_save_roundtrip": "not_run: no Samsung Android 17 device",
     "synthetic_media_metadata": "passed: JPEG, WebM VP8/Vorbis, WAV PCM inspected with ffprobe",
     "desktop_webview_smoke": "not_run: Chromium launcher exists but system binary is missing",
-    "translation_status": "incomplete: 1311/5634 unique extracted candidates matched; extractor is approximate",
+    "translation_status": "incomplete: 1492/5634 unique extracted candidates matched; extractor is approximate",
     "startup_performance_fix": "implemented: initial localization only scans live game containers; mutations batched via requestAnimationFrame",
     "media_path_audit": "passed statically: img/video/background/audio calls traced; device media playback not run",
     "saf_mime_fallback": "implemented and statically checked for generic application/octet-stream responses"

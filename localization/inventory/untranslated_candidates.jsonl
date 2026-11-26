@@ -1,28 +1,5 @@
-{"source": "\"Adrenaline\". Life ain't sweet, gotta survive.", "passages": ["Clay_Quest2_Start"]}
-{"source": "\"Ain't nobody in this room gonna turn around.\"", "passages": ["Prison_RecRoomCornered"]}
-{"source": "\"Been busy with Damian's contracts, haven't you? If you want to know why those things keep turning up in Skid Row, meet me at the dead fountain in the city park. - R.V.\"", "passages": ["Ch2_RaynaFindsYou"]}
-{"source": "\"Been watching you come back here alone, boot.", "passages": ["Prison_LaundryAmbush"]}
-{"source": "\"Cameras got a blind spot back here, boot.", "passages": ["Prison_YardCornered"]}
-{"source": "\"Eyes on the screen, boot,\" someone says against your ear.", "passages": ["Prison_RecRoomCornered"]}
-{"source": "\"I hear you've been asking about BioGenesis. We should compare notes before you ask the wrong person. Dead fountain, city park. - R.V.\"", "passages": ["Ch2_RaynaFindsYou"]}
-{"source": "\"Long way from home,\" one of them says, and the rest close the gap.", "passages": ["Prison_CrossCornered"]}
-{"source": "\"Mad Dog sold you a BioGenesis serum. Before you buy another, come and hear what happened to his other customers. Dead fountain, city park. - R.V.\"", "passages": ["Ch2_RaynaFindsYou"]}
-{"source": "\"Nobody comes back here alone by accident, boot.", "passages": ["Prison_LaundryAmbush"]}
-{"source": "\"Nobody hears nothing in here over the pipes, boot.", "passages": ["Prison_ShowerAmbush"]}
-{"source": "\"Nothing carries in here over the water, boot.", "passages": ["Prison_ShowerAmbush"]}
-{"source": "\"Proving myself\". Life ain't sweet, gotta survive.", "passages": ["Clay_Quest2_Start"]}
-{"source": "\"Sit still and watch your movie, boot,\" one breathes against your ear.", "passages": ["Prison_RecRoomCornered"]}
 {"source": "\"Snake Eyes\" usually only conduct business with one pimp in the area. Having multiple pimps at once can lead to numerous conflicts between them, affecting the stability of the income stream. So, if you want to become a pimp, you'll have to eliminate me, otherwise, \"Snake Eyes\" will eliminate you.", "passages": ["OtherQuestions_Pimp"]}
-{"source": "\"Sorry, sweetheart - the house says you sail nowhere till that ledger of yours is clean.\"", "passages": ["Port_Pier"]}
-{"source": "\"Tight on cash? The «Sirena» sails tonight. Ten days, easy chips, you come back richer. Or you don't come back the same - your call.\"", "passages": ["Port_Pier"]}
-{"source": "\"Tower cannot see this corner, boot.", "passages": ["Prison_YardCornered"]}
-{"source": "\"We are going to find out what you are, new boot.", "passages": ["Prison_NightThreat"]}
-{"source": "\"You are not running from anything I need to fix today.", "passages": ["Fixer_NewIdentity"]}
-{"source": "\"You bend over and let me fuck you here, quiet, and the heat on your sheet disappears.", "passages": ["Prison_GuardCoercion"]}
 {"source": "\"You have been heard this stint.", "passages": ["Prison_Parole"]}
-{"source": "\"You have not served enough of your bid for the board to seat.", "passages": ["Prison_Parole"]}
-{"source": "\"You let me fuck your ass with my strap-on in this blind and I clear the heat from your sheet.", "passages": ["Prison_GuardCoercion"]}
-{"source": "\"You need a license, a Social Security card and a birth certificate that survive a database check.", "passages": ["Fixer_NewIdentity"]}
 {"source": "$('#custom-history-nav').toggle(enabled);", "passages": ["Options"]}
 {"source": "$('.inv-img-clickable').off('click').on('click', function() {", "passages": ["Inventory"]}
 {"source": "$('.shop-img-clickable').off('click').on('click', function() {", "passages": ["Shop"]}
@@ -77,9 +54,6 @@
 {"source": "' ch2-fill--hot' : '')\" @style=\"'width:' + _n.suspicion + '%'\">", "passages": ["Ch2_NightRoom"]}
 {"source": "'on' : ''\"> the island", "passages": ["Ch2_NightRoom"]}
 {"source": "(Ethan lowers his phone and slowly looks down at the box. For a few seconds, he just blinks, like his brain refuses to process what he’s seeing.", "passages": ["Ethan_Quest_01_End"]}
-{"source": "(Salaries paid every 7 days | Actual income varies ±20%)", "passages": ["PlayerBrothel_Main"]}
-{"source": "(Workers hired before the limit system was implemented don't have recorded limits)", "passages": ["BrothelWorker_ViewSkillsLimits"]}
-{"source": "(Workers hired before the skill system was implemented don't have recorded skills)", "passages": ["BrothelWorker_ViewSkillsLimits"]}
 {"source": "*A jolt of heat surges; your cock hardens fully.* Yeah, I do.", "passages": ["AliceQuest1_Start_Trans_Sub"]}
 {"source": "*Blushing, but not pulling away right away* Oops, damn… sorry. The floor's slippery as hell. You okay?", "passages": ["Tess_Quest1"]}
 {"source": "*Grins wickedly, stepping in close, water dripping from his messy hair and down his ripped chest* A reward, huh? After pinning you down... hell yeah, that's fair. Show me what a loser's got-make it count.", "passages": ["Clay_Quest1_Flirt"]}
@@ -121,16 +95,13 @@
 {"source": "*winks* Alright handsome, just for you I'll lower my price~", "passages": ["BrothelCasting_Haggle"]}
 {"source": "+ % income when YOU work ( / )", "passages": ["BrothelPerks_Main"]}
 {"source": "+ chips, worked loose from the crowd", "passages": ["Ship_Mingle"]}
-{"source": "+++ Very High (accepts most services)", "passages": ["BrothelCasting_AskLimits"]}
 {"source": ", her big tits bouncing, rides another guy's cock on the far end of the couch.", "passages": ["Ethan_Quest_02_Orgy_PlayerFemale"]}
 {"source": "- Picking the Lock 🔧", "passages": ["NPC_House_LockpickMinigame"]}
 {"source": "- Someone Heard You!", "passages": ["NPC_House_Search_Suspicious"]}
 {"source": "- Through the Window", "passages": ["NPC_House_Peek"]}
-{"source": "--- --- Warm wood and wine. He pours drinks yet immediately pulls you close.", "passages": ["SarahQuest2_Fem_Gary_apartment"]}
 {"source": "...Fine. I'll give you one more chance. But things need to change, okay? *They agreed to give you another chance!*", "passages": ["enhanced_npc_proposal_decline"]}
 {"source": "...That was offensive. Not funny at all.", "passages": ["enhanced_interaction_tellJoke"]}
 {"source": ".player-stats {", "passages": ["AutoBattleResults"]}
-{"source": "12 gauge buckshot shells for shotguns.", "passages": ["WeaponShop_Browse"]}
 {"source": ": The cage keeps your cock out of the rental.", "passages": ["Prison_Inmate"]}
 {"source": "<h3 class=\"item-title\"><<print _item.name", "passages": ["ChangeNPC_Cloth", "GiveItems"]}
 {"source": "<img src=\"Media/Other/Bus.jpg\" alt=\"Bus\" width=\"32\" height=\"32\">", "passages": ["Update_Travel_Mode_Buttons"]}
@@ -143,56 +114,31 @@
 {"source": "<span class='tab-icon'>📊</span> Stats", "passages": ["Widgets"]}
 {"source": "<span class='tab-icon'>🔍</span> Known Info", "passages": ["Widgets"]}
 {"source": "<span class='tab-icon'>🔞</span> Kinks", "passages": ["Widgets"]}
-{"source": "A VIP at the corner table waves you over", "passages": ["Ship_Bar"]}
-{"source": "A VIP in the corner is talking about you", "passages": ["Ship_Bar"]}
 {"source": "A backed hand vs : ante 150 · his purse runs deep", "passages": ["Ship_VipWager"]}
-{"source": "A beautiful pool area in the backyard. The water sparkles under the lights. Perfect for late-night swimming.", "passages": ["PartyHouse_Pool"]}
 {"source": "A better moment will come", "passages": ["NpcPreferenceConversation"]}
 {"source": "A big guy at the counter shoves his plate away, jaw tight, and clamps a heavy hand around your wrist before you can clear it. His grip is hot and his eyes drag straight to your mouth.", "passages": ["Diner_Event_RudeCustomer"]}
 {"source": "A big woman off the far tier steps between you and the only way out, backing you into the racks where the machines drown everything.", "passages": ["Prison_LaundryAmbush"]}
 {"source": "A blanket on the concrete in the lee of the wall, three worn bones, and a ring of cons who will take your scrip and call it a favor.", "passages": ["Prison_Dice"]}
 {"source": "A body wager could require you to fuck the loser, which your locked cock cannot do.", "passages": ["Prison_Dice"]}
 {"source": "A bonus is a bonus. *You lock the office door, drop to your knees between his legs, and free him from his slacks.* Sit back, boss. *You wrap your lips around him and start working.*", "passages": ["Diner_Boss_Blowjob"]}
-{"source": "A bonus, huh? Maybe if you buy me a drink first... *You smile coyly.*", "passages": ["Bartender_Boss_Flirt"]}
-{"source": "A bored duty sergeant sits behind bulletproof glass.", "passages": ["PoliceFrontDesk"]}
-{"source": "A bored sergeant reads the number off your sheet, slides a bedroll and a set of blues across the counter, and buzzes the first gate.", "passages": ["Prison_Intake"]}
 {"source": "A bunch of guys and just me? Sounds interesting...", "passages": ["Ethan_Quest_02_Start"]}
-{"source": "A car slows, a window rolls down, a price is named and met.", "passages": ["Crime_Solicit"]}
-{"source": "A chair creaks at her end. When she speaks again, she's lowered her voice.", "passages": ["Ch2_RaynaCall"]}
-{"source": "A challenge? From you? Don't make me laugh. You're not worth my time.", "passages": ["enhanced_interaction_challenge"]}
-{"source": "A chance to recover extra useful scrap.", "passages": ["Prison_Skills"]}
 {"source": "A change of schedule or health may require a new plan.", "passages": ["enhanced_relationship_shared_time"]}
-{"source": "A chastity cage has been put on your penis. If you want to remove the chastity cage for one day, then you must pay the pimp.", "passages": ["EndOfBattle_Pimp"]}
-{"source": "A clean bathroom with a large mirror. Perfect for freshening up after... activities.", "passages": ["PartyHouse_Bathroom"]}
-{"source": "A clean medical facility for treating workers. The room is sterile and well-equipped.", "passages": ["BrothelMedical_Main"]}
-{"source": "A cluster of students has blocked the main walk - hand-painted signs, a megaphone that someone bought at a hardware store, a camera crew from the college paper orbiting the edge.", "passages": ["Campus_StudentProtest"]}
-{"source": "A corner of the day room the women made their own - a cracked mirror, a chair, contraband bobby pins and smuggled polish.", "passages": ["Prison_Salon"]}
-{"source": "A cozy room with soft couches and dim lighting. Workers can rest here to reduce stress and feel more appreciated.", "passages": ["BrothelRelaxation_Main"]}
 {"source": "A crewman leans by the radio-room door all day, bored and watchful.", "passages": ["Ship_RadioRoom"]}
-{"source": "A crude hole gapes in the plywood next to the alley dumpster. You are not that far gone.", "passages": ["AlleyGloryHole_Event"]}
 {"source": "A cruiser rolls up before you clear the lot.", "passages": ["Crime_Vandalism"]}
 {"source": "A d-date? With you? Yes! Of course yes! 😍", "passages": ["enhanced_interaction_proposeDate"]}
-{"source": "A dancer in a white bunny bodysuit and stockings leads you down a red-lit corridor into a booth with a leather couch and a short pole. She pushes you down onto the cushions and works the pole for you first.", "passages": ["SC_PrivateRoom"]}
 {"source": "A dancer in a white bunny bodysuit, ears and white stockings works the pole under the shifting neon. She rolls her hips against it and turns her back to the crowd, the high cut of the bodysuit baring her ass as it bounces to the bass.", "passages": ["SC_StripShow"]}
-{"source": "A dark prison for troublesome clients...", "passages": ["BrothelDungeon_Main"]}
 {"source": "A date? Hmm... alright, let's try it!", "passages": ["enhanced_interaction_proposeDate"]}
 {"source": "A date? With you? No thanks. Please don't ask again.", "passages": ["enhanced_interaction_proposeDate"]}
 {"source": "A day in their room gives back 20 more.", "passages": ["BrothelWorkerDetails"]}
 {"source": "A detective on the payroll warns you before a raid, makes a jailed member's file disappear once a week and reads you the police file on any crew.", "passages": ["GangBossWidgets"]}
 {"source": "A drunk customer stumbles up to the bar, his eyes glazed but hungry, leaning in too close as he slurs his order, his breath reeking of cheap booze.", "passages": ["Bartender_Event_Drunk"]}
-{"source": "A fence keeps 30 cents of every dirty dollar he cleans for you.", "passages": ["GangHQ"]}
-{"source": "A few bills change hands in the camera blind.", "passages": ["PoliceFrontDesk_Cleared"]}
 {"source": "A few minutes later, he roared, and you felt hot cum flood your ass. Your own cock pulsed, and you came, splattering the wall with your load. Robert pulled out, slapped your ass, and laughed.", "passages": ["Robert_Request_1_Shemale_Option1_Mask_Agree"]}
 {"source": "A few next steps for this visit.", "passages": ["enhanced_relationship_home_visit"]}
 {"source": "A few next steps for your date.", "passages": ["enhanced_relationship_date_session"]}
 {"source": "A few unguarded minutes with", "passages": ["Prison_SexSelect"]}
 {"source": "A figure stands at the roadside in the dark, thumb out, hoping someone will stop. As your headlights sweep over them, they straighten up and flash you a hopeful look.", "passages": ["Walk_Event_Hitchhiker"]}
-{"source": "A flooded hatch drowns the whole stake.", "passages": ["Ship_Labyrinth"]}
-{"source": "A flyer is taped to the inside of the door - \"private training, cash paid, bring nothing\". You tear it down and bin it.", "passages": ["SR_MotelRoom_DomSession"]}
 {"source": "A gap behind a loose panel where the block keeps what the block should not have.", "passages": ["Prison_Stash"]}
-{"source": "A gentleman. They really don't make many of you anymore. Thanks.", "passages": ["Walk_Hitchhiker_Ride"]}
 {"source": "A girl? I'm not sure about that", "passages": ["PornShootEvent_01_Intro"]}
-{"source": "A grimy stall with a hole worked into the partition.", "passages": ["Ship_Restroom"]}
 {"source": "A group of rowdy patrons surrounds the bar, shouting orders and eyeing you hungrily, the air thick with the crowd's collective desire.", "passages": ["Bartender_Event_Group"]}
 {"source": "A guarded service corridor runs to the block.", "passages": ["Prison_CrossBlock"]}
 {"source": "A hand clamps your wrist mid-lift and a voice goes up for a cop.", "passages": ["Crime_Pickpocket"]}
