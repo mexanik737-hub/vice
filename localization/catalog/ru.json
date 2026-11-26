@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 58,
+    "version": 59,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -2827,7 +2827,11 @@
     "Furniture and vents": "Мебель и вентиляция",
     "The house": "Дом",
     "What you have worked out": "Что тебе удалось выяснить",
-    "In your pockets": "В карманах"
+    "In your pockets": "В карманах",
+    "Back to the chat": "Вернуться к чату",
+    "The chat could not load.": "Не удалось загрузить чат.",
+    "You're wearing:": "На вас надето:",
+    "is armed with:": "вооружён(а):"
   },
   "scoped": [
     {
