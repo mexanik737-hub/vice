@@ -1,20 +1,6 @@
 {"passage":"AiChat_QuickScene","source":"Back to the chat","source_sha256":"d3a4824104cb5386285124cce0302a3b4010662c35e55d3f879394814c9f73f2"}
 {"passage":"AiNpcChat","source":"The chat could not load.","source_sha256":"389a17bfe32b0147010bca27f006c853703856c63a15ef4a66974bb45399a51f"}
 {"passage":"AiQuestChat","source":"The chat could not load.","source_sha256":"389a17bfe32b0147010bca27f006c853703856c63a15ef4a66974bb45399a51f"}
-{"passage":"enhanced_interaction_insult","source":"I... I don't know what to say... That was too cruel... 😢","source_sha256":"2334cbc3563cef0f9005a76dab0ba3993d1fcfd4ba14a9ff43c18274a0019efa"}
-{"passage":"enhanced_interaction_insult","source":"HA! Was that supposed to hurt me? Pathetic attempt!","source_sha256":"2e4a40485699f0c8f1aa0cefbff7422a2c9f81e34b00b5d94a4b9969aef791f7"}
-{"passage":"enhanced_interaction_insult","source":"How can you say that? I thought we were friends!","source_sha256":"c7b69f73b4adb0a01a4d7f638c8ffddb3148cef253c95256e830e513a9e8523c"}
-{"passage":"enhanced_interaction_insult","source":"What?! After everything we've been through together?!","source_sha256":"6ecee9874f8fe35ea191b601a3cdcf895d9436f56c209c5285787534656de588"}
-{"passage":"enhanced_interaction_insult","source":"You'll pay for that! I won't forget!","source_sha256":"ead232bbc938ba9b2630946d3a92216580446722e180f059a2ae0dd4446d8b0c"}
-{"passage":"enhanced_interaction_insult","source":"Ha! Think that bothers me? Well, almost...","source_sha256":"280aad4c0129b5d2a863c6a248c96621c15051623e34b11f46939d0fdcd64f40"}
-{"passage":"enhanced_interaction_insult","source":"What rudeness?! You'll regret this!","source_sha256":"196d59574d866ea68ada9a568cb94a8c572d0bf9100c4c701c5fc5b4347b7026"}
-{"passage":"enhanced_interaction_insult","source":"Uh... what? Was that an insult? I didn't get it.","source_sha256":"ee526fabcd3676ab2155520da79edc70856a2ba66a04c129901df614679105b7"}
-{"passage":"enhanced_interaction_threaten","source":"O-okay! Okay! I'll do anything you say! Just don't hurt me! 😰","source_sha256":"32fc710c08d003d854545db331fef16937dddcfc2a494bcdae4b01bf7d4a2413"}
-{"passage":"enhanced_interaction_threaten","source":"You're threatening ME?! I'll destroy you!","source_sha256":"104868ed87676c62fbb432016fef3f74fdcb478dbe66ed93cb9076e38deaa3e1"}
-{"passage":"enhanced_interaction_threaten","source":"W-what? Why are you doing this? I'm scared...","source_sha256":"0deca22142fe41fefc21a88f288a7a2becd59abb44ec016b2ad24cec906b7a0c"}
-{"passage":"enhanced_interaction_threaten","source":"Fine, fine... I get the message. For now.","source_sha256":"ee49df4df856ad761f787163d01c0723ebca4e0e4829e777e74bcb215dcb5ac7"}
-{"passage":"enhanced_interaction_threaten","source":"Alright... I don't want any trouble...","source_sha256":"86807ab6a521ae77a69c4ce93c8c047ba92ae6378a775a823b4372d321b621e9"}
-{"passage":"enhanced_interaction_threaten","source":"Ha! Was that supposed to scare me? Funny.","source_sha256":"05c6a5983b429ccfe65124a13a91b85be7d28d9dcd6952e2a46996a078a67903"}
 {"passage":"enhanced_interaction_intimidate","source":"P-please! I'll do anything! Just don't hit me! 😱","source_sha256":"ac5d1196175fb2a3126c21029687d96efc1cc9272257ef5cd1cf7d1afde2ded0"}
 {"passage":"enhanced_interaction_intimidate","source":"You think you're stronger than me?! Let's find out!","source_sha256":"8241ba6257ba5306e844acc9e542c0b9500c3f9576a24252abfa0978d63f531c"}
 {"passage":"enhanced_interaction_intimidate","source":"You're not as scary as you think.","source_sha256":"a5c81c7e059d45bc128f80bbb424937b4a86fd17468cbb3f44b828ffb461d8d0"}
