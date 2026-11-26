@@ -15,7 +15,7 @@
       "name": "Интерфейс и системные меню",
       "status": "in_progress",
       "coverage": null,
-      "notes": "Каталог содержит 2457 точных фраз, 188 контекстных правил и 23 шаблона; перевод всего интерфейса не завершён."
+      "notes": "Каталог содержит 2588 точных фраз, 203 контекстных правил и 23 шаблонов; перевод всего интерфейса не завершён."
     },
     {
       "id": "L2",
@@ -143,20 +143,20 @@
     "warning": "Conservative candidate extraction; includes false positives and misses dynamically composed/code-generated strings. Review before translation."
   },
   "catalog": {
-    "exact_phrase_count": 2564,
+    "exact_phrase_count": 2588,
     "dynamic_template_count": 23,
     "coverage_percent": null,
-    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 2078/5634 (36.9%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
-    "context_rule_count": 188,
-    "candidate_exact_matches": 2078,
+    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 2089/5634 (37.1%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
+    "context_rule_count": 203,
+    "candidate_exact_matches": 2089,
     "candidate_unique_strings": 5634,
-    "candidate_match_percent": 36.9,
+    "candidate_match_percent": 37.1,
     "faq_candidate_strings": 463,
     "faq_candidate_translated": 463,
     "npc_interaction_candidate_strings": 49,
     "npc_interaction_candidate_translated": 48,
-    "untranslated_candidate_rows": 3805,
-    "untranslated_unique_strings": 3556,
+    "untranslated_candidate_rows": 3787,
+    "untranslated_unique_strings": 3545,
     "top_untranslated_passages": [
       [
         "Options",
@@ -185,10 +185,6 @@
       [
         "CharacterWearingDraw",
         16
-      ],
-      [
-        "enhanced_relationship_household",
-        15
       ],
       [
         "enhanced_relationship_home_visit",
@@ -236,6 +232,10 @@
       ],
       [
         "Ship_Restroom",
+        13
+      ],
+      [
+        "Ship_Championship",
         13
       ]
     ]

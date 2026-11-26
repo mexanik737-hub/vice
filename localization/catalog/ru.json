@@ -2568,7 +2568,31 @@
     "You're so sexy": "Ты такой сексуальный",
     "You murmured, running your hands over his chest and down to his waist. You pressed your hips against his, feeling his cock hardening against you.": "Ты шепчешь, проводя ладонями по его груди и опускаясь к талии. Прижимаешься бёдрами к его бёдрам и чувствуешь, как его член твердеет.",
     "In a sudden movement, you straddled him, taking him into your mouth. Your tongue traced his cock, tasting the salty precum that dripped from his tip.": "Одним быстрым движением ты оседлала его и взяла член в рот. Язык скользит по нему, пробуя солоноватую предэякуляторную жидкость, выступившую на головке.",
-    "You thought about how good he would feel inside you, how he would stretch you open and fill you up.": "Ты представляешь, как приятно будет ощутить его внутри, как он растянет тебя и наполнит собой."
+    "You thought about how good he would feel inside you, how he would stretch you open and fill you up.": "Ты представляешь, как приятно будет ощутить его внутри, как он растянет тебя и наполнит собой.",
+    "Your household": "Ваш общий быт",
+    "Make time for each other": "Проводить больше времени вместе",
+    "Continue your evening": "Продолжить вечер",
+    "Have dinner together": "Поужинать вместе",
+    "Talk about the day": "Поговорить о прошедшем дне",
+    "Spend a quiet evening": "Провести спокойный вечер",
+    "Watch something together": "Вместе что-нибудь посмотреть",
+    "Spend private time together": "Провести время наедине",
+    "Give them space": "Дать им личное пространство",
+    "Keep money separate": "Вести раздельный бюджет",
+    "Ask for $100 weekly": "Просить по $100 в неделю",
+    "Share proportionally": "Делить расходы пропорционально доходу",
+    "Cover household costs": "Взять расходы по дому на себя",
+    "Ask them to call if late": "Попросить звонить, если задерживаются",
+    "Do not require a late call": "Не требовать звонка при задержке",
+    "Guests must be discussed first": "Согласовывать гостей заранее",
+    "Allow trusted friends as guests": "Разрешить приходить проверенным друзьям",
+    "Keep an open guest policy": "Разрешить принимать гостей без ограничений",
+    "Expect five nights at home": "Ожидать, что они будут дома пять ночей в неделю",
+    "Expect every night at home": "Ожидать, что они будут дома каждую ночь",
+    "Quiet hours from 22:00": "Тихие часы с 22:00",
+    "Quiet hours from 23:00": "Тихие часы с 23:00",
+    "Live separately for a while": "Пожить раздельно какое-то время",
+    "Back to your partner": "Вернуться к партнёру"
   },
   "scoped": [
     {
@@ -3510,6 +3534,81 @@
       "selector": ".phone-action-btn",
       "source": "Ask when they'll be home",
       "target": "Спроси, когда персонаж будет дома."
+    },
+    {
+      "source": "Current arrangement:",
+      "target": "Текущий вариант проживания:",
+      "selector": ".relationship-partner-panel .result-description"
+    },
+    {
+      "source": "· planned weekly share $",
+      "target": "· плановый еженедельный взнос, $",
+      "selector": ".relationship-partner-panel .result-description"
+    },
+    {
+      "source": "Expected nights at home:",
+      "target": "Ожидаемое число ночёвок дома:",
+      "selector": ".relationship-partner-panel .result-description"
+    },
+    {
+      "source": "/7 · quiet hours:",
+      "target": "/7 · тихие часы с",
+      "selector": ".relationship-partner-panel .result-description"
+    },
+    {
+      "source": ":00 · guests:",
+      "target": ":00 · гости:",
+      "selector": ".relationship-partner-panel .result-description"
+    },
+    {
+      "source": "· late call:",
+      "target": "· предупреждение об опоздании:",
+      "selector": ".relationship-partner-panel .result-description"
+    },
+    {
+      "source": "expected",
+      "target": "обязательно",
+      "selector": ".relationship-partner-panel .result-description"
+    },
+    {
+      "source": "optional",
+      "target": "по желанию",
+      "selector": ".relationship-partner-panel .result-description"
+    },
+    {
+      "source": "ask first",
+      "target": "с согласованием",
+      "selector": ".relationship-partner-panel .result-description"
+    },
+    {
+      "source": "trusted friends",
+      "target": "проверенные друзья",
+      "selector": ".relationship-partner-panel .result-description"
+    },
+    {
+      "source": "open",
+      "target": "без ограничений",
+      "selector": ".relationship-partner-panel .result-description"
+    },
+    {
+      "source": "independent",
+      "target": "раздельно",
+      "selector": ".relationship-partner-panel .result-description"
+    },
+    {
+      "source": "fixed share",
+      "target": "фиксированная сумма",
+      "selector": ".relationship-partner-panel .result-description"
+    },
+    {
+      "source": "proportional",
+      "target": "пропорционально доходу",
+      "selector": ".relationship-partner-panel .result-description"
+    },
+    {
+      "source": "player covers",
+      "target": "за счёт игрока",
+      "selector": ".relationship-partner-panel .result-description"
     }
   ],
   "templates": [
