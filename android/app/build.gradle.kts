@@ -42,6 +42,20 @@ android {
     kotlinOptions { jvmTarget = "17" }
 }
 
+val repoRoot = rootProject.projectDir.parentFile
+tasks.register<Exec>("buildGameHtml") {
+    workingDir = repoRoot
+    val python = if (System.getProperty("os.name").lowercase().contains("win")) "python" else "python3"
+    commandLine(python, "tools/build_game.py")
+    inputs.files(
+        repoRoot.resolve("upstream/original/viceburg_mod_clean.html"),
+        repoRoot.resolve("localization/catalog/ru.json"),
+        repoRoot.resolve("tools/build_game.py")
+    )
+    outputs.file(repoRoot.resolve("android/app/src/main/assets/game/index.html"))
+}
+tasks.named("preBuild").configure { dependsOn("buildGameHtml") }
+
 dependencies {
     implementation("androidx.documentfile:documentfile:1.0.1")
 }
