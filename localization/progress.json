@@ -36,7 +36,7 @@
       "name": "Диалоги",
       "status": "in_progress",
       "coverage": null,
-      "notes": "Переведены отдельные сцены отношений, домашнего быта, совместных визитов и праздников, а также сцены Аманды, Гэри, Элис, Соланы и фотосессии; сюжетные ветки остаются неполными."
+      "notes": "Переведены сообщения о гендерном переходе NPC, сцены отношений, домашнего быта, совместных визитов и праздников, а также отдельные квестовые эпизоды; сюжет остаётся неполным."
     },
     {
       "id": "L5",
@@ -143,20 +143,20 @@
     "warning": "Conservative candidate extraction; includes false positives and misses dynamically composed/code-generated strings. Review before translation."
   },
   "catalog": {
-    "exact_phrase_count": 2620,
+    "exact_phrase_count": 2636,
     "dynamic_template_count": 23,
     "coverage_percent": null,
-    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 2117/5634 (37.6%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
+    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 2133/5634 (37.9%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
     "context_rule_count": 203,
-    "candidate_exact_matches": 2117,
+    "candidate_exact_matches": 2133,
     "candidate_unique_strings": 5634,
-    "candidate_match_percent": 37.6,
+    "candidate_match_percent": 37.9,
     "faq_candidate_strings": 463,
     "faq_candidate_translated": 463,
     "npc_interaction_candidate_strings": 49,
     "npc_interaction_candidate_translated": 48,
-    "untranslated_candidate_rows": 3758,
-    "untranslated_unique_strings": 3517,
+    "untranslated_candidate_rows": 3742,
+    "untranslated_unique_strings": 3501,
     "top_untranslated_passages": [
       [
         "Options",
@@ -173,10 +173,6 @@
       [
         "Inventory",
         20
-      ],
-      [
-        "enhanced_interaction_discussFeminization",
-        16
       ],
       [
         "Start",
@@ -236,6 +232,10 @@
       ],
       [
         "Prison_LawLibrary",
+        13
+      ],
+      [
+        "Prison_RunBlock",
         13
       ]
     ]
