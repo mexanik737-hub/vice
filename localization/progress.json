@@ -48,7 +48,7 @@
   ],
   "limitations": [
     "Полная русификация ещё не завершена; значительная часть пользовательских реплик и описаний осталась на английском.",
-    "В инвентаре 3854 из 5634 уникальных строк-кандидатов не сопоставлены с точной фразой каталога (31.6% точных совпадений). Это не полная доля перевода: контекстные правила/шаблоны и ложные срабатывания инвентаризатора не учитываются.",
+    "В инвентаре 3806 из 5634 уникальных строк-кандидатов не сопоставлены с точной фразой каталога (32.4% точных совпадений). Это не полная доля перевода: контекстные правила/шаблоны и ложные срабатывания инвентаризатора не учитываются.",
     "Текст длинных реплик и динамические данные требуют отдельной проверки по фактическому DOM; Android WebView не проверен на устройстве.",
     "APK не собирался: по договорённости пользователь соберёт его самостоятельно; Samsung Android 17, SAF и воспроизведение медиа не проверены на устройстве."
   ],
@@ -143,20 +143,20 @@
     "warning": "Conservative candidate extraction; includes false positives and misses dynamically composed/code-generated strings. Review before translation."
   },
   "catalog": {
-    "exact_phrase_count": 2256,
+    "exact_phrase_count": 2304,
     "dynamic_template_count": 20,
     "coverage_percent": null,
-    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 1780/5634 (31.6%). Контекстные правила и шаблоны считаются отдельно; инвентарь приблизительный.",
+    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 1828/5634 (32.4%). Контекстные правила и шаблоны считаются отдельно; инвентарь приблизительный.",
     "context_rule_count": 126,
-    "candidate_exact_matches": 1780,
+    "candidate_exact_matches": 1828,
     "candidate_unique_strings": 5634,
-    "candidate_match_percent": 31.6,
+    "candidate_match_percent": 32.4,
     "faq_candidate_strings": 463,
     "faq_candidate_translated": 463,
     "npc_interaction_candidate_strings": 49,
     "npc_interaction_candidate_translated": 48,
-    "untranslated_candidate_rows": 4124,
-    "untranslated_unique_strings": 3854,
+    "untranslated_candidate_rows": 4076,
+    "untranslated_unique_strings": 3806,
     "top_untranslated_passages": [
       [
         "Options",
@@ -175,14 +175,6 @@
         20
       ],
       [
-        "SarahQuest_2_Female_SarahRoom_Back",
-        20
-      ],
-      [
-        "SarahQuest_2_Shemale_SarahRoom_Back",
-        20
-      ],
-      [
         "Inventory",
         20
       ],
@@ -192,10 +184,6 @@
       ],
       [
         "Ethan_Quest_01_End",
-        18
-      ],
-      [
-        "SarahQuest2_Start_Male",
         18
       ],
       [
@@ -237,17 +225,29 @@
       [
         "AliceQuest1_Start_Female_Dom",
         15
+      ],
+      [
+        "AliceQuest1_Start_Trans_Dom",
+        15
+      ],
+      [
+        "AliceQuest1_Start_Female_Sub",
+        15
+      ],
+      [
+        "SarahQuest_2_Gay_Gary_apartment",
+        15
       ]
     ]
   },
   "testing": {
-    "python_static_tests": "8 passed (after latest catalog metadata correction)",
-    "node_localization_runtime": "passed (numeric, named-placeholder, and value-mapping templates)",
+    "python_static_tests": "8 passed (2026-11-26; after Sarah dialogue batch)",
+    "node_localization_runtime": "passed (named placeholders, value maps, uncensored dialogue)",
     "android_build": "not_run: user will build; no local Android SDK/Gradle",
     "device_saf_media_save_roundtrip": "not_run: no Samsung Android 17 device",
     "synthetic_media_metadata": "passed: JPEG, WebM VP8/Vorbis, WAV PCM inspected with ffprobe",
     "desktop_webview_smoke": "not_run: Chromium launcher exists but system binary is missing",
-    "translation_status": "incomplete: 1780/5634 unique candidates exact-matched; scoped rules and 20 templates excluded; extractor is approximate",
+    "translation_status": "incomplete: 1828/5634 unique candidates exact-matched; scoped rules and 20 templates excluded; extractor is approximate",
     "startup_performance_fix": "implemented: initial localization only scans live game containers; mutations batched via requestAnimationFrame",
     "media_path_audit": "passed statically: img/video/background/audio calls traced; device media playback not run",
     "saf_mime_fallback": "implemented and statically checked for generic application/octet-stream responses"
