@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 68,
+    "version": 69,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -2963,7 +2963,15 @@
     "Oh... okay... I like this... 😳": "О... ладно... Мне нравится... 😳",
     "I love holding hands with you. 💑": "Мне так нравится держаться с тобой за руки. 💑",
     "This is... nice.": "Это... приятно.",
-    "Sorry... I'm not ready for that...": "Прости... Я пока к этому не готов(а)..."
+    "Sorry... I'm not ready for that...": "Прости... Я пока к этому не готов(а)...",
+    "I'm too busy for that right now.": "Сейчас я слишком занят(а).",
+    "I'm way too exhausted for that.": "Я слишком устал(а), чтобы этим заниматься.",
+    "Too tired for that, sorry.": "Прости, я слишком устал(а).",
+    "I'm way too tired for that.": "Я слишком устал(а) для этого.",
+    "No, and I'm tired.": "Нет, я ещё и устал(а).",
+    "I'm too tired for that right now.": "Сейчас я слишком устал(а).",
+    "Can we make love another time? I'm exhausted.": "Может, займёмся этим в другой раз? Я совсем без сил.",
+    "I'm too tired, but I love you.": "Я очень устал(а), но люблю тебя."
   },
   "scoped": [
     {
