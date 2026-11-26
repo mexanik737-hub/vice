@@ -88,20 +88,20 @@
   ],
   "warning": "Conservative candidate extraction; includes false positives and misses dynamically composed/code-generated strings. Review before translation.",
   "catalog": {
-    "exact_phrase_count": 2767,
+    "exact_phrase_count": 2778,
     "dynamic_template_count": 23,
     "coverage_percent": null,
-    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 2263/5634 (40.2%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
+    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 2274/5634 (40.4%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
     "context_rule_count": 203,
-    "candidate_exact_matches": 2263,
+    "candidate_exact_matches": 2274,
     "candidate_unique_strings": 5634,
-    "candidate_match_percent": 40.2,
+    "candidate_match_percent": 40.4,
     "faq_candidate_strings": 463,
     "faq_candidate_translated": 463,
     "npc_interaction_candidate_strings": 49,
     "npc_interaction_candidate_translated": 48,
-    "untranslated_candidate_rows": 3586,
-    "untranslated_unique_strings": 3371,
+    "untranslated_candidate_rows": 3575,
+    "untranslated_unique_strings": 3360,
     "top_untranslated_passages": [
       [
         "Options",
@@ -186,10 +186,10 @@
     ]
   },
   "updated": "2026-11-26",
-  "untranslated_rows": 3586,
-  "untranslated_unique_strings": 3371,
-  "translated_unique_strings": 2263,
-  "exact_match_percent": 40.2,
+  "untranslated_rows": 3575,
+  "untranslated_unique_strings": 3360,
+  "translated_unique_strings": 2274,
+  "exact_match_percent": 40.4,
   "top_untranslated_passages": [
     [
       "Options",
