@@ -13,6 +13,11 @@
       "group": "Ch2_NightScene, Ch2_NightBed, Ship_NpcInteract, Marcus_Quest1_Flirt",
       "status": "translated_from_inventory",
       "notes": "Переведены найденные кандидатные строки этих четырёх сцен; требуется проверка текста после раскрытия макросов и редакторская вычитка на устройстве."
+    },
+    {
+      "group": "Sarah_Quest_01_Start, Sarah_Quest_01_End, Sarah_Quest_01_End_02, Sarah_Quest_01_AfterSketchyLoss",
+      "status": "partial",
+      "notes": "Переведены реплики начала задания, вручения билетов, первой части вечера концерта и сцены после поражения у торговца. Остальная ветка и проверка в игре не завершены."
     }
   ],
   "remaining": [

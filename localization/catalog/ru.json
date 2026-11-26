@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 43,
+    "version": 44,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -2308,7 +2308,41 @@
     "Sarah… fuck, that feels so good *you groaned, your voice thick with lust*": "Сара… блядь, как же хорошо. *Ты стонешь, и голос густеет от похоти.*",
     "She pulled back, licking her lips, a satisfied smirk on her face.": "Она отстраняется, облизывает губы и довольно ухмыляется.",
     "You’re my slut *she purred, standing up and wiping her mouth*": "Ты моя шлюха. *Мурлычет она, вставая и вытирая рот.*",
-    "You lay there, trembling, your body still buzzing from the intensity of your orgasm, thinking this night made you even filthier.": "Ты лежишь и дрожишь; тело всё ещё гудит после мощного оргазма. Эта ночь сделала тебя ещё развратнее."
+    "You lay there, trembling, your body still buzzing from the intensity of your orgasm, thinking this night made you even filthier.": "Ты лежишь и дрожишь; тело всё ещё гудит после мощного оргазма. Эта ночь сделала тебя ещё развратнее.",
+    "You’re walking down the hall toward Sarah room when a loud bang erupts from inside, followed by a torrent of curses. Curious as hell, you knock on her door. It flies open so fast it nearly rips off the hinges. Sarah stands there, red hair a wild mess, eyes blazing with fury.": "Ты идёшь по коридору к комнате Сары, когда оттуда доносится громкий грохот, а следом — поток ругательств. Из любопытства ты стучишь в дверь. Она распахивается так резко, что едва не слетает с петель. На пороге стоит Сара: рыжие волосы растрёпаны, глаза пылают яростью.",
+    "This is fucking bullshit!": "Да что за чёртова хрень!",
+    "She yells, chucking her phone onto the bed.": "кричит она и швыряет телефон на кровать.",
+    "Tickets to my favorite band’s show? Gone! My dream’s fucking dead!": "Билеты на концерт моей любимой группы? Пропали! Мечта, чёрт возьми, разбита!",
+    "She’s pacing like a caged animal, arms flailing, face turning redder by the second. You can see she’s gutted, and something in you snaps into gear.": "Она мечется по комнате, словно зверь в клетке, размахивает руками и с каждой секундой всё сильнее краснеет. Видно, как она убита горем, и в тебе что-то переключается.",
+    "you say, keeping your voice steady but firm.": "говоришь ты ровным, но твёрдым голосом.",
+    "I’ll fix this. Give me a couple days.": "Я всё улажу. Дай мне пару дней.",
+    "She glares at you, chest heaving, skepticism written all over her face, but she nods anyway.": "Она сердито смотрит на тебя, тяжело дышит. На лице явное недоверие, но всё же она кивает.",
+    "Go for it if you want. I’ve checked everywhere - there’s jack shit left": "Действуй, если хочешь. Я уже везде проверила — билетов нигде не осталось.",
+    "You suddenly remember a sketchy guy from Skid Row who deals in all kinds of crap. Maybe he’s got those tickets stashed somewhere.": "Ты вдруг вспоминаешь мутного типа из Скид-Роу, который торгует всякой дрянью. Может, у него где-то припрятаны эти билеты.",
+    "You’re back home and knock on Sarah’s door again. She opens it, still scowling, towel wrapped around her wet hair like she just stepped out of the shower.": "Вернувшись домой, ты снова стучишь в дверь Сары. Она открывает всё с тем же хмурым видом; мокрые волосы обёрнуты полотенцем, будто она только что вышла из душа.",
+    "What now?": "Ну, что теперь?",
+    "You say, handing her the tickets": "говоришь ты и протягиваешь ей билеты.",
+    "Two for the show. Wanna go together?": "У меня два билета. Пойдёшь со мной?",
+    "Her eyes go wide as saucers. She snatches the tickets, staring at them like they’re gold.": "Её глаза становятся огромными. Она выхватывает билеты и смотрит на них так, словно это золото.",
+    "No fucking way! How’d you pull this off?": "Да ладно! Как тебе это удалось?",
+    "She shouts, a grin breaking through the gloom": "кричит она, и сквозь мрачное выражение лица пробивается улыбка.",
+    "You’re a goddamn genius!": "Да ты гений!",
+    "She lunges at you, wrapping you in a tight hug. Her chest presses against yours, and you catch a whiff of her sweet vanilla perfume. It’s intoxicating.": "Она бросается к тебе и крепко обнимает. Её грудь прижимается к тебе, и ты улавливаешь сладкий аромат ванили от её духов. От него кружится голова.",
+    "Thank you - you’re the best! Hell yeah, I’m going with you!": "Спасибо — ты лучший! Конечно, я пойду с тобой!",
+    "She says, pulling back but still beaming.": "говорит она, отстраняясь, но продолжая сиять от радости.",
+    "You smirk, heart pounding from how close she was.": "Ты усмехаешься; сердце бешено колотится от того, как близко она была.",
+    "Concert night. You and Sarah are outside the club, swallowed by a sea of hyped-up fans. The air’s thick with chatter, sweat, and vape smoke. Sarah’s a knockout-black dress hugging every curve, heels making her legs look endless. You try not to stare, but fuck, it’s tough.": "Вечер концерта. Вы с Сарой стоите у клуба, затерявшись в море взбудораженных фанатов. Воздух пропитан гулом голосов, запахом пота и дымом электронных сигарет. Сара выглядит сногсшибательно: чёрное платье обтягивает её фигуру, а каблуки делают ноги бесконечно длинными. Ты стараешься не пялиться, но, чёрт, это непросто.",
+    "This is gonna be fucking epic!": "Это будет охренеть как круто!",
+    "She screams, bouncing with excitement and grabbing your hand": "кричит она, подпрыгивая от восторга и хватая тебя за руку.",
+    "You saved my night, you badass!": "Ты спас мой вечер, крутышка!",
+    "you say with a sly grin, though really, you just couldn’t pass up a night with her.": "говоришь ты с хитрой улыбкой, хотя на самом деле просто не мог упустить возможность провести с ней вечер.",
+    "Inside, it’s pure madness. The music hits like a sledgehammer, bass rattling the floor, strobe lights stabbing your eyes. The crowd’s screaming, jumping, losing it. Sarah dives right in, dancing like she’s possessed-spinning, hair flying, dress riding up just enough to flash her thighs. She catches you looking, winks, and sways closer.": "Внутри творится настоящее безумие. Музыка бьёт, как кувалда, бас сотрясает пол, стробоскопы режут глаза. Толпа кричит, прыгает и сходит с ума. Сара сразу пускается в пляс, будто одержимая: кружится, волосы разлетаются, платье чуть задирается, открывая бёдра. Заметив твой взгляд, она подмигивает и подходит ближе.",
+    "Let’s get drinks!” she yells over the noise.": "Пойдём за выпивкой! — кричит она, перекрывая шум.",
+    "Sarah looks you over, immediately noticing that something is very different.": "Сара окидывает тебя взглядом и сразу замечает, что ты сильно изменился.",
+    "What the hell happened to you?": "Что с тобой, чёрт возьми, случилось?",
+    "The ticket dealer beat me and forced one of those transformation pills down my throat. I still do not have the tickets.": "Торговец билетами избил меня и силой заставил проглотить одну из тех таблеток трансформации. Билетов у меня всё ещё нет.",
+    "That is seriously fucked up. Do not get yourself killed over a concert. If you go back, buy the tickets or use whatever leverage you have now instead of picking the same fight again.": "Это уже совсем жесть. Не дай себя убить из-за концерта. Если вернёшься, купи билеты или используй новые козыри вместо того, чтобы снова ввязываться в ту же драку.",
+    "Sarah is clearly worried, but the quest is not over. The dealer still has the tickets, and you now have non-combat ways to get them from him.": "Сара явно переживает, но задание ещё не окончено. Билеты всё ещё у торговца, и теперь у тебя есть способы забрать их без драки."
   },
   "scoped": [
     {
