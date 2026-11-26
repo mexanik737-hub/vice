@@ -15,7 +15,7 @@
       "name": "Интерфейс и системные меню",
       "status": "in_progress",
       "coverage": null,
-      "notes": "Каталог содержит 3145 точных фраз, 203 контекстных правил и 24 шаблона; системный интерфейс и игровые сцены локализованы частично."
+      "notes": "Каталог содержит 3174 точных фраз, 203 контекстных правила и 24 шаблона; системный интерфейс и игровые сцены локализованы частично."
     },
     {
       "id": "L2",
@@ -36,7 +36,7 @@
       "name": "Диалоги",
       "status": "in_progress",
       "coverage": null,
-      "notes": "Переведены 223 реплики взаимодействий NPC и 49 реплик из сцен квестов Маркуса, Корвина, Сары и разговора Роберта с Амандой; большая часть сюжетных веток остаётся неполной."
+      "notes": "Переведены 223 реплики взаимодействий NPC и 78 реплик сцен квестов Маркуса, Корвина, Сары и разговора Роберта с Амандой; большая часть сюжетных веток остаётся неполной."
     },
     {
       "id": "L5",
@@ -48,7 +48,7 @@
   ],
   "limitations": [
     "Полная русификация ещё не завершена; значительная часть пользовательских реплик и описаний осталась на английском.",
-    "В инвентаре 3003 из 5634 уникальных строк-кандидатов не сопоставлены с точной фразой каталога (46.7% точных совпадений). Это не полная доля перевода: контекстные правила/шаблоны и ложные срабатывания инвентаризатора не учитываются.",
+    "В инвентаре 2974 из 5634 уникальных строк-кандидатов не сопоставлены с точной фразой каталога (47.2% точных совпадений). Это не полная доля перевода: контекстные правила/шаблоны и ложные срабатывания инвентаризатора не учитываются.",
     "Текст длинных реплик и динамические данные требуют отдельной проверки по фактическому DOM; Android WebView не проверен на устройстве.",
     "The debug APK is built by GitHub Actions. The compact in-game tools card, Media picker, save import/export, and original media playback still require on-device verification; signed release is skipped for pull_request."
   ],
@@ -143,20 +143,20 @@
     "warning": "Conservative candidate extraction; includes false positives and misses dynamically composed/code-generated strings. Review before translation."
   },
   "catalog": {
-    "exact_phrase_count": 3145,
+    "exact_phrase_count": 3174,
     "dynamic_template_count": 24,
     "coverage_percent": null,
-    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 2631/5634 (46.7%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
+    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 2660/5634 (47.2%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
     "context_rule_count": 203,
-    "candidate_exact_matches": 2631,
+    "candidate_exact_matches": 2660,
     "candidate_unique_strings": 5634,
-    "candidate_match_percent": 46.7,
+    "candidate_match_percent": 47.2,
     "faq_candidate_strings": 463,
     "faq_candidate_translated": 463,
     "npc_interaction_candidate_strings": 49,
     "npc_interaction_candidate_translated": 48,
-    "untranslated_candidate_rows": 3145,
-    "untranslated_unique_strings": 3003,
+    "untranslated_candidate_rows": 3116,
+    "untranslated_unique_strings": 2974,
     "top_untranslated_passages": [
       [
         "Options",
@@ -177,14 +177,6 @@
       [
         "Start",
         16
-      ],
-      [
-        "SarahQuest_2_Female_Gary_apartment",
-        15
-      ],
-      [
-        "SarahQuest_2_Shemale",
-        14
       ],
       [
         "Widgets",
@@ -237,6 +229,14 @@
       [
         "GangBossWidgets",
         11
+      ],
+      [
+        "Prison_YardCornered",
+        11
+      ],
+      [
+        "Prison_BenchOff",
+        11
       ]
     ]
   },
@@ -247,16 +247,16 @@
     "device_saf_media_save_roundtrip": "not_run: no Samsung Android 17 device",
     "synthetic_media_metadata": "passed: JPEG, WebM VP8/Vorbis, WAV PCM inspected with ffprobe",
     "desktop_webview_smoke": "not_run: Chromium launcher exists but system binary is missing",
-    "translation_status": "incomplete: 2631/5634 unique extracted candidates matched (46.7%); extractor is approximate",
+    "translation_status": "incomplete: 2660/5634 unique extracted candidates matched (47.2%); extractor is approximate",
     "startup_performance_fix": "implemented: initial localization only scans live game containers; mutations batched via requestAnimationFrame",
     "media_path_audit": "passed statically: img/video/background/audio calls traced; device media playback not run",
     "saf_mime_fallback": "implemented and statically checked for generic application/octet-stream responses",
     "android_app_tools": "implemented: native toolbar removed; compact tools card appears on Start and in the character editor/cheat dialog; device interaction not verified"
   },
-  "translated_unique_strings": 2631,
-  "untranslated_rows": 3145,
-  "untranslated_unique_strings": 3003,
-  "exact_match_percent": 46.7,
+  "translated_unique_strings": 2660,
+  "untranslated_rows": 3116,
+  "untranslated_unique_strings": 2974,
+  "exact_match_percent": 47.2,
   "top_untranslated_passages": [
     [
       "Options",
@@ -277,14 +277,6 @@
     [
       "Start",
       16
-    ],
-    [
-      "SarahQuest_2_Female_Gary_apartment",
-      15
-    ],
-    [
-      "SarahQuest_2_Shemale",
-      14
     ],
     [
       "Widgets",
@@ -336,6 +328,14 @@
     ],
     [
       "GangBossWidgets",
+      11
+    ],
+    [
+      "Prison_YardCornered",
+      11
+    ],
+    [
+      "Prison_BenchOff",
       11
     ]
   ]
