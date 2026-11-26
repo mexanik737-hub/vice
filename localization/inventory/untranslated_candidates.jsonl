@@ -1,5 +1,3 @@
-{"source": "\"Snake Eyes\" usually only conduct business with one pimp in the area. Having multiple pimps at once can lead to numerous conflicts between them, affecting the stability of the income stream. So, if you want to become a pimp, you'll have to eliminate me, otherwise, \"Snake Eyes\" will eliminate you.", "passages": ["OtherQuestions_Pimp"]}
-{"source": "\"You have been heard this stint.", "passages": ["Prison_Parole"]}
 {"source": "$('#custom-history-nav').toggle(enabled);", "passages": ["Options"]}
 {"source": "$('.inv-img-clickable').off('click').on('click', function() {", "passages": ["Inventory"]}
 {"source": "$('.shop-img-clickable').off('click').on('click', function() {", "passages": ["Shop"]}
@@ -53,7 +51,6 @@
 {"source": "$tabs.on(\"click\", function () { showOptionsTab(this.getAttribute(\"data-options-tab\")); });", "passages": ["Options"]}
 {"source": "' ch2-fill--hot' : '')\" @style=\"'width:' + _n.suspicion + '%'\">", "passages": ["Ch2_NightRoom"]}
 {"source": "'on' : ''\"> the island", "passages": ["Ch2_NightRoom"]}
-{"source": "(Ethan lowers his phone and slowly looks down at the box. For a few seconds, he just blinks, like his brain refuses to process what he’s seeing.", "passages": ["Ethan_Quest_01_End"]}
 {"source": "*A jolt of heat surges; your cock hardens fully.* Yeah, I do.", "passages": ["AliceQuest1_Start_Trans_Sub"]}
 {"source": "*Blushing, but not pulling away right away* Oops, damn… sorry. The floor's slippery as hell. You okay?", "passages": ["Tess_Quest1"]}
 {"source": "*Grins wickedly, stepping in close, water dripping from his messy hair and down his ripped chest* A reward, huh? After pinning you down... hell yeah, that's fair. Show me what a loser's got-make it count.", "passages": ["Clay_Quest1_Flirt"]}
@@ -94,15 +91,10 @@
 {"source": "*tilted her head, her full lips pouting* Well, I took this cute little thing, and bam! *giggled, spinning around, her dress hiking up to flash lacy panties* Now I’m such a hottie! You like it, right?", "passages": ["Robert_Request_1_Finale_Amanda_Bimbo"]}
 {"source": "*winks* Alright handsome, just for you I'll lower my price~", "passages": ["BrothelCasting_Haggle"]}
 {"source": "+ % income when YOU work ( / )", "passages": ["BrothelPerks_Main"]}
-{"source": "+ chips, worked loose from the crowd", "passages": ["Ship_Mingle"]}
-{"source": ", her big tits bouncing, rides another guy's cock on the far end of the couch.", "passages": ["Ethan_Quest_02_Orgy_PlayerFemale"]}
 {"source": "- Picking the Lock 🔧", "passages": ["NPC_House_LockpickMinigame"]}
 {"source": "- Someone Heard You!", "passages": ["NPC_House_Search_Suspicious"]}
 {"source": "- Through the Window", "passages": ["NPC_House_Peek"]}
-{"source": "...Fine. I'll give you one more chance. But things need to change, okay? *They agreed to give you another chance!*", "passages": ["enhanced_npc_proposal_decline"]}
-{"source": "...That was offensive. Not funny at all.", "passages": ["enhanced_interaction_tellJoke"]}
 {"source": ".player-stats {", "passages": ["AutoBattleResults"]}
-{"source": ": The cage keeps your cock out of the rental.", "passages": ["Prison_Inmate"]}
 {"source": "<h3 class=\"item-title\"><<print _item.name", "passages": ["ChangeNPC_Cloth", "GiveItems"]}
 {"source": "<img src=\"Media/Other/Bus.jpg\" alt=\"Bus\" width=\"32\" height=\"32\">", "passages": ["Update_Travel_Mode_Buttons"]}
 {"source": "<img src=\"Media/Other/Car.jpg\" alt=\"Car\" width=\"32\" height=\"32\">", "passages": ["Update_Travel_Mode_Buttons"]}
@@ -114,107 +106,32 @@
 {"source": "<span class='tab-icon'>📊</span> Stats", "passages": ["Widgets"]}
 {"source": "<span class='tab-icon'>🔍</span> Known Info", "passages": ["Widgets"]}
 {"source": "<span class='tab-icon'>🔞</span> Kinks", "passages": ["Widgets"]}
-{"source": "A backed hand vs : ante 150 · his purse runs deep", "passages": ["Ship_VipWager"]}
 {"source": "A better moment will come", "passages": ["NpcPreferenceConversation"]}
-{"source": "A big guy at the counter shoves his plate away, jaw tight, and clamps a heavy hand around your wrist before you can clear it. His grip is hot and his eyes drag straight to your mouth.", "passages": ["Diner_Event_RudeCustomer"]}
-{"source": "A big woman off the far tier steps between you and the only way out, backing you into the racks where the machines drown everything.", "passages": ["Prison_LaundryAmbush"]}
-{"source": "A blanket on the concrete in the lee of the wall, three worn bones, and a ring of cons who will take your scrip and call it a favor.", "passages": ["Prison_Dice"]}
-{"source": "A body wager could require you to fuck the loser, which your locked cock cannot do.", "passages": ["Prison_Dice"]}
 {"source": "A bonus is a bonus. *You lock the office door, drop to your knees between his legs, and free him from his slacks.* Sit back, boss. *You wrap your lips around him and start working.*", "passages": ["Diner_Boss_Blowjob"]}
-{"source": "A bunch of guys and just me? Sounds interesting...", "passages": ["Ethan_Quest_02_Start"]}
-{"source": "A change of schedule or health may require a new plan.", "passages": ["enhanced_relationship_shared_time"]}
-{"source": "A crewman leans by the radio-room door all day, bored and watchful.", "passages": ["Ship_RadioRoom"]}
-{"source": "A cruiser rolls up before you clear the lot.", "passages": ["Crime_Vandalism"]}
-{"source": "A d-date? With you? Yes! Of course yes! 😍", "passages": ["enhanced_interaction_proposeDate"]}
 {"source": "A dancer in a white bunny bodysuit, ears and white stockings works the pole under the shifting neon. She rolls her hips against it and turns her back to the crowd, the high cut of the bodysuit baring her ass as it bounces to the bass.", "passages": ["SC_StripShow"]}
 {"source": "A date? Hmm... alright, let's try it!", "passages": ["enhanced_interaction_proposeDate"]}
-{"source": "A date? With you? No thanks. Please don't ask again.", "passages": ["enhanced_interaction_proposeDate"]}
-{"source": "A day in their room gives back 20 more.", "passages": ["BrothelWorkerDetails"]}
-{"source": "A detective on the payroll warns you before a raid, makes a jailed member's file disappear once a week and reads you the police file on any crew.", "passages": ["GangBossWidgets"]}
-{"source": "A drunk customer stumbles up to the bar, his eyes glazed but hungry, leaning in too close as he slurs his order, his breath reeking of cheap booze.", "passages": ["Bartender_Event_Drunk"]}
 {"source": "A few minutes later, he roared, and you felt hot cum flood your ass. Your own cock pulsed, and you came, splattering the wall with your load. Robert pulled out, slapped your ass, and laughed.", "passages": ["Robert_Request_1_Shemale_Option1_Mask_Agree"]}
-{"source": "A few next steps for this visit.", "passages": ["enhanced_relationship_home_visit"]}
-{"source": "A few next steps for your date.", "passages": ["enhanced_relationship_date_session"]}
-{"source": "A few unguarded minutes with", "passages": ["Prison_SexSelect"]}
-{"source": "A figure stands at the roadside in the dark, thumb out, hoping someone will stop. As your headlights sweep over them, they straighten up and flash you a hopeful look.", "passages": ["Walk_Event_Hitchhiker"]}
-{"source": "A gap behind a loose panel where the block keeps what the block should not have.", "passages": ["Prison_Stash"]}
-{"source": "A girl? I'm not sure about that", "passages": ["PornShootEvent_01_Intro"]}
-{"source": "A group of rowdy patrons surrounds the bar, shouting orders and eyeing you hungrily, the air thick with the crowd's collective desire.", "passages": ["Bartender_Event_Group"]}
-{"source": "A guarded service corridor runs to the block.", "passages": ["Prison_CrossBlock"]}
-{"source": "A hand clamps your wrist mid-lift and a voice goes up for a cop.", "passages": ["Crime_Pickpocket"]}
-{"source": "A hand lands on your shoulder before you clear the doors.", "passages": ["Crime_Shoplift"]}
-{"source": "A health inspector arrives for a surprise inspection of your establishment.", "passages": ["BrothelEvent_HealthInspection"]}
 {"source": "A hundred buys you five minutes, hands included. *You take the money, then let him steer you to the back table, where he bends you over it, flips your skirt up and drags your panties down.*", "passages": ["Diner_Service_Spank"]}
-{"source": "A jogger cuts across the path in front of you, earbuds in, pace easy. They slow down when they notice you, pull one earbud free, and wave.", "passages": ["Park_MorningJogger"]}
-{"source": "A kiss would be a nice start, don't you think?", "passages": ["Ethan_Quest_01_End_kiss_FM"]}
-{"source": "A large bedroom with a king-size bed that could fit several people. The sheets look freshly changed.", "passages": ["PartyHouse_Bedroom"]}
-{"source": "A long counseling session helps you re-center. You feel less drawn to depravity.", "passages": ["Clinic_Therapy"]}
-{"source": "A low room of folding chairs and a plain cross, and the one door on the block nobody has to watch their back through.", "passages": ["Prison_Chapel"]}
-{"source": "A low, throaty laugh rolls from Alice, shivering down your spine. She rises and closes the distance - musk sharp and dizzying - then grips your blouse and shoves you back.", "passages": ["AliceQuest1_Start_Trans_Sub"]}
-{"source": "A low, throaty laugh rolls from Alice, shivering down your spine. She stands, closes the distance, musky scent dizzying. Fingers grip your shirt - then shove you back.", "passages": ["AliceQuest1_Start_Male_Sub"]}
-{"source": "A luxurious spa where workers can restore their beauty and attractiveness. Soft music plays in the background and the air smells of lavender.", "passages": ["BrothelSpa_Main"]}
 {"source": "A man at the end of the counter has been nursing the same cup of coffee for an hour, eyes tracking you the whole shift. When the place finally empties out, he lays down a thick fold of bills and tips his head toward the dark back hallway.", "passages": ["Diner_Event_HookupClient"]}
-{"source": "A man with ten days to get clear.", "passages": ["Ship_Mirror"]}
 {"source": "A minute later, his body shook. Muscles bulged with power, his shirt ripping at the seams as his chest and biceps swelled. Wrinkles smoothed out, his hair darkened, and a predatory glint sparked in his eyes. Before you stood a 25-year-old Robert-tall, muscular, with a cock that, judging by the bulge in his pants, was ready to go.", "passages": ["Robert_Request_1_Shemale_Option1_Mask"]}
 {"source": "A minute later, his body started shaking. Muscles swelled with power, his shirt splitting at the seams as his chest and biceps ballooned. Wrinkles faded, his hair turned dark, and a hungry gleam lit up his eyes. Standing in front of you was a 25-year-old Robert-tall, ripped, with a bulge in his pants that screamed trouble.", "passages": ["Robert_Request_1_Female_Option1_Mask"]}
 {"source": "A minute later, his body started trembling. Muscles bulged with power, his shirt ripping at the seams as his chest and biceps swelled. Wrinkles smoothed out, his hair darkened, and a predatory glint sparked in his eyes. Standing before you was 25-year-old Robert-tall, muscular, with a bulge in his pants that promised action.", "passages": ["Robert_Request_1_Male_Option1_Mask"]}
 {"source": "A mischievous idea crossed your mind as you leaned against the wall, arching your back to enhance your curves. You licked your lips seductively, watching the photographer's pupils dilate in response. Your skin prickled with anticipation as you thought about how far you could push this.", "passages": ["PhotoShoot_Event_01_02_Sex"]}
-{"source": "A name might buy it, but it will put a rat jacket on you.", "passages": ["Prison_CrossReturn"]}
 {"source": "A name or the duct now has to beat an active search.", "passages": ["Prison_CrossReturn"]}
-{"source": "A new thread opens on the tier:", "passages": ["Prison_PrologueOut", "Prison_QuestOut"]}
-{"source": "A patrol is already looking for you because you are absent from count.", "passages": ["Prison_OtherBlock"]}
-{"source": "A private conversation about estrogen needs a dose in hand.", "passages": ["Prison_Inmate"]}
 {"source": "A quarter of what it earns waits for you at the base.", "passages": ["GangHubWidgets"]}
-{"source": "A quiet room behind the dining area.", "passages": ["DinerBackRoom"]}
-{"source": "A regular in the corner booth keeps catching your eye over the rim of her milkshake, biting the straw and letting her gaze crawl down your body like she's already picturing you out of that uniform.", "passages": ["Diner_Event_FlirtyCustomer"]}
 {"source": "A scream in the dark", "passages": ["Crime_Mug"]}
-{"source": "A service curtain is half drawn, and the sounds behind it are not housekeeping", "passages": ["Ship_Cabins"]}
 {"source": "A sharp-dressed customer waves you to the empty end of the counter and slides a thick fold of bills under his napkin, tapping it twice. The diner's dead this hour, and his meaning couldn't be clearer.", "passages": ["Diner_Event_CounterService"]}
-{"source": "A shield team moves straight toward you.", "passages": ["Police_Raid"]}
-{"source": "A shift buys a little scrip, can chip a day off your bid, and keeps the guards off your back.", "passages": ["Prison_Work"]}
-{"source": "A shrinking ring will appear on screen - click at the right moment!", "passages": ["NPC_House_LockpickTutorial"]}
-{"source": "A sidekick, huh? Why would I need one?", "passages": ["Walk_Event_FlirtyStranger"]}
-{"source": "A single cell on a quiet wing, no yard, no chow hall, no wolves in the dark.", "passages": ["Prison_PCCheckIn"]}
-{"source": "A single cell on the quiet wing.", "passages": ["Prison_Segregation"]}
-{"source": "A spacious living room with a huge couch, big screen TV, and plenty of space for activities. Empty beer cans and snacks are scattered around.", "passages": ["PartyHouse_LivingRoom"]}
-{"source": "A squat brass capsule machine hunches in the corner, the house's colours painted up its side.", "passages": ["Ship_Gacha"]}
 {"source": "A stage of your masculinity A point of your nerve rides on this match, worth chips.", "passages": ["Ship_RpsMatch"]}
-{"source": "A sting, and you walked right into the open door of it.", "passages": ["Crime_Solicit"]}
-{"source": "A stunning patron slides onto a barstool, her gaze locking onto yours with a sultry smile, ordering a cocktail with a voice like velvet.", "passages": ["Bartender_Event_Flirt"]}
-{"source": "A tabloid reporter has been spotted outside your establishment with a camera! A celebrity client might be inside.", "passages": ["BrothelEvent_CelebrityScandal"]}
 {"source": "A village of what?", "passages": ["Ch2_Debrief"]}
-{"source": "A well-stocked kitchen with a window overlooking the backyard. The counter is filled with snacks and drinks.", "passages": ["PartyHouse_Kitchen"]}
 {"source": "A wet stake rides the maze like money: climb out and the house pays its worth, drown and the crew collects it below, in person, on the plates.", "passages": ["Ship_Labyrinth"]}
-{"source": "A wiry man in a flashy suit leans off a bollard, grinning like he already knows your bank balance.", "passages": ["Port_Pier"]}
-{"source": "A wolf you have seen circling steps into the blind spot behind you, cutting off the racks, close enough to smell.", "passages": ["Prison_LaundryAmbush"]}
 {"source": "A word on the street", "passages": ["GangRecruit"]}
-{"source": "A young woman, about thirty years old, strides confidently to the lectern, places her bag on the table, and surveys the auditorium with a warm but slightly appraising gaze.", "passages": ["Main_Quest1_College"]}
-{"source": "A-alright... I understand. No need for violence...", "passages": ["enhanced_interaction_intimidate"]}
 {"source": "Aboard, you gamble with borrowed chips .", "passages": ["Port_BoardDialog"]}
-{"source": "About $ for the night, and the corner runs a little warmer for it now.", "passages": ["Crime_Deal"]}
-{"source": "About $ in merchandise, and you clear the doors before anyone can stop you.", "passages": ["Crime_Shoplift"]}
-{"source": "Absolutely! I'd follow you anywhere! Lead the way! 🚶✨", "passages": ["enhanced_interaction_followMe"]}
 {"source": "Accept the food or drink", "passages": ["enhanced_relationship_initiative"]}
 {"source": "Active - you lead", "passages": ["Sex"]}
-{"source": "Actually, I have feelings for you... 💕", "passages": ["enhanced_npc_relationship_proposal"]}
-{"source": "Admit you are short tonight", "passages": ["LanaQuest1_Restaurant"]}
-{"source": "Advanced Training ($100) - Not enough money", "passages": ["ShootingRange_ChooseType"]}
-{"source": "After cumming across her back, you watched her giggle, smearing the cum over her curves.", "passages": ["Robert_Request_1_Male_Option2_Bimbo"]}
-{"source": "After cumming inside her, you pulled out and watched her giggle, smearing the cum over her curves.", "passages": ["Robert_Request_1_Shemale_Option2_Bimbo"]}
-{"source": "After dark the post thins - or a word in the right ear, or a key, opens what the «Sirena» would rather keep shut.", "passages": ["Ship_RadioRoom"]}
-{"source": "After sex, you fall asleep in each other’s arms, her sweaty, satisfied body pressed against yours.", "passages": ["LanaQuest1_AfterSex"]}
-{"source": "After talking to the director, you managed to convince him that the second actor, who was already on set, should take the pill and play the part.", "passages": ["PornShootEvent_02_SecondActerFeminization"]}
-{"source": "After that win... I need to unwind. Bathroom? You owe me... a favor.", "passages": ["Clay_Quest2_SecondWin_Flirt"]}
-{"source": "After that, a person from the faction approached you and explained your obligations. Now, the faction will take 50% of your earnings", "passages": ["EndOfBattle_Pimp"]}
-{"source": "After that... I wanna thank you. In the bushes? My mouth on you - I'll make you cum hard.", "passages": ["Tess_Quest2_Lose_OfferOral"]}
 {"source": "After the orgy...", "passages": ["Ethan_Quest_02_Orgy_Harem", "Ethan_Quest_02_Orgy_PlayerFemale", "Ethan_Quest_02_Orgy_PlayerMale", "Ethan_Quest_02_Orgy_PlayerTrans"]}
-{"source": "After your loss, you struggle to your feet, rubbing your bruises.", "passages": ["Clay_Quest1"]}
-{"source": "After your parents' disappearance, the Ashford family took you in. Robert and Amanda had been friends with your parents, and despite the tragic situation, they gladly welcomed you into their home.", "passages": ["backstory_2"]}
 {"source": "After your win, Clay struggles to his feet.", "passages": ["Clay_Quest1"]}
 {"source": "Aggressive NPC Chance ?", "passages": ["Customize_NPC_Generation"]}
-{"source": "Agree on a format, prepare something to talk about and choose a date that suits both of you.", "passages": ["enhanced_relationship_occasions"]}
 {"source": "Ah, that's the elevator for our special guests. If you wanna get access, you'll have to make a name for yourself around here first. Come back when you're popular enough. *Nightclub reputation of 50 or more required.*", "passages": ["DamianQuest3_Start"]}
-{"source": "Ah... Your hands... you know how to turn me on... 🔥😩", "passages": ["enhanced_interaction_sensualTouch"]}
 {"source": "Ah... your hands are so gentle... 😊", "passages": ["enhanced_interaction_massage"]}
 {"source": "Alarm and lights", "passages": ["Crime_GrandTheft"]}
 {"source": "Alice collapses onto the couch, panting, face a blend of shock and pleasure. You stand over her, smirking, cock rock‑hard from the sight of her submission.", "passages": ["AliceQuest1_Start_Male_Dom"]}
