@@ -143,20 +143,20 @@
     "warning": "Conservative candidate extraction; includes false positives and misses dynamically composed/code-generated strings. Review before translation."
   },
   "catalog": {
-    "exact_phrase_count": 3033,
+    "exact_phrase_count": 3051,
     "dynamic_template_count": 23,
     "coverage_percent": null,
-    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 2524/5634 (44.8%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
+    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 2542/5634 (45.1%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
     "context_rule_count": 203,
-    "candidate_exact_matches": 2524,
+    "candidate_exact_matches": 2542,
     "candidate_unique_strings": 5634,
-    "candidate_match_percent": 44.8,
+    "candidate_match_percent": 45.1,
     "faq_candidate_strings": 463,
     "faq_candidate_translated": 463,
     "npc_interaction_candidate_strings": 49,
     "npc_interaction_candidate_translated": 48,
-    "untranslated_candidate_rows": 3253,
-    "untranslated_unique_strings": 3110,
+    "untranslated_candidate_rows": 3235,
+    "untranslated_unique_strings": 3092,
     "top_untranslated_passages": [
       [
         "Options",
@@ -253,10 +253,10 @@
     "saf_mime_fallback": "implemented and statically checked for generic application/octet-stream responses",
     "android_app_tools": "implemented: native toolbar removed; compact tools card appears on Start and in the character editor/cheat dialog; device interaction not verified"
   },
-  "translated_unique_strings": 2524,
-  "untranslated_rows": 3253,
-  "untranslated_unique_strings": 3110,
-  "exact_match_percent": 44.8,
+  "translated_unique_strings": 2542,
+  "untranslated_rows": 3235,
+  "untranslated_unique_strings": 3092,
+  "exact_match_percent": 45.1,
   "top_untranslated_passages": [
     [
       "Options",

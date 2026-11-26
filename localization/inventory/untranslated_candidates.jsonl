@@ -1,26 +1,8 @@
 {"passage": "enhanced_interaction_convinceGenderChange", "source": "enhanced_interaction_convinceGenderChange_execute", "source_sha256": "855c930216188a48e0d8ee5c6db3f4489a8048e9417740b2b80d01db89e61a4b"}
 {"passage": "enhanced_interaction_convinceOrientation", "source": "enhanced_interaction_convinceOrientation_execute", "source_sha256": "b2d1358d47c1af01490b95d7e9d643dcb447e86856c74e9796e7480950ad33c3"}
-{"passage": "enhanced_interaction_hug", "source": "I feel so good in your arms... Don't let go... 🤗💕", "source_sha256": "f97c4c4c8466d7a988c1cc33d3c8ca6515bafcb57facad3e19857f3fb32ca81d"}
-{"passage": "enhanced_interaction_hug", "source": "Hey! What are you doing?! Back off!", "source_sha256": "73c0deda5cdaae4874d2888d521dfb23303c629a7059eb73c63bfbab60965baf"}
-{"passage": "enhanced_interaction_hug", "source": "Love your hugs! Gimme more!", "source_sha256": "1aae87934453baa3ca2505730eff46096bef1b3de89c3f2d30a7ad26bb072d41"}
-{"passage": "enhanced_interaction_hug", "source": "Oh... this feels so nice... 😊", "source_sha256": "1e41f589ba843b307ae70cc0ac5c9fdd18719fd51ce08525bdb36b96a9b2c136"}
-{"passage": "enhanced_interaction_hug", "source": "I could hug you forever... 💏", "source_sha256": "4a3171fa69a0ff507d68a57eeacb97f323131df9174f8590b046dbf45722c6b0"}
-{"passage": "enhanced_interaction_hug", "source": "Sorry, I'm not in the mood for hugs right now...", "source_sha256": "96475ce9777cbf692b85832ea27ee9b784b405020e0f012f408bb9505970ff4b"}
-{"passage": "enhanced_interaction_playfulTease", "source": "Haha! You're so playful! I love it! 😏💕", "source_sha256": "1f650dbd1e4e613caa34695df08d897984aaf313a3cebf221446eee63d30ed11"}
-{"passage": "enhanced_interaction_playfulTease", "source": "That was hurtful! You crossed the line!", "source_sha256": "cc7f55802aca08e44ffb75a699b4fda71ac5c802355a040e6960d6eac6959d1a"}
-{"passage": "enhanced_interaction_playfulTease", "source": "Hey! Haha, is that so? Just you wait, I'll get you back! 😄", "source_sha256": "24f9d1bd29935331246e5950803852333799bfb246858afc9f5baf0c7c1450cd"}
-{"passage": "enhanced_interaction_playfulTease", "source": "That's not funny...", "source_sha256": "efbf2816af17c092ff5f27c71b9acc14b5ba71cf741d756bed3f90d4b101e552"}
-{"passage": "enhanced_interaction_playGame", "source": "That was INCREDIBLE! Let's play more! I haven't had this much fun in ages! 🎮🎉", "source_sha256": "f4440410d001ad0c63f0c6e91da90a80effe81f0e66cd3c978ffee48df79013b"}
-{"passage": "enhanced_interaction_playGame", "source": "You're cheating! I'm not playing with you anymore!", "source_sha256": "cd62afda6e9d393343baccb3ce0b7f19297752a9a23a1ed1f5f4791f874006d3"}
-{"passage": "enhanced_interaction_playGame", "source": "Good game! That was fun!", "source_sha256": "b8dd17e6e47011a1875601a2a4f11155a8a61bb3e5d2d4d55218a001b66044fc"}
-{"passage": "enhanced_interaction_playGame", "source": "Hmm, not really into this game...", "source_sha256": "9135c982482ed0025e9f004bb83e74602bed702f8031758b4b8d12f7f3dcc300"}
 {"passage": "enhanced_interaction_encourage", "source": "You're right! I can do this! Thanks for believing in me! 💪✨", "source_sha256": "66757daaa49522ebd0636f6ea4fc88c22f50bc462b50dbd496cbc6ada8c1503b"}
 {"passage": "enhanced_interaction_encourage", "source": "Easy for you to say... you don't understand.", "source_sha256": "fb3e12db304ca8049e66e5f9efc32051a010f3c6a14bb810c6908926660f620f"}
 {"passage": "enhanced_interaction_encourage", "source": "Thanks! Your words give me strength.", "source_sha256": "9e03cd173d115ffae5f3b7df5e49851fd6101b80c5da1be36a750cdf85263910"}
-{"passage": "enhanced_interaction_offerHelp", "source": "You really want to help? That's... incredibly kind of you! 🙏", "source_sha256": "4499a6836c5feae9ab72018a84e7c2dd20bc3685a77045516f370fb7d42f4587"}
-{"passage": "enhanced_interaction_offerHelp", "source": "No thanks, I can manage myself. I don't need help!", "source_sha256": "b138fe1f4ccb624c50cdaa79f38ce5dd489f90812d5ad48c4e17f48c05eff922"}
-{"passage": "enhanced_interaction_offerHelp", "source": "Really? That would be great! Thanks!", "source_sha256": "9c48ed433be56ddb95813936f0386dad2f8bf5eb9a42d083d69e4270e94fd544"}
-{"passage": "enhanced_interaction_offerHelp", "source": "Thanks for offering, but I'll manage on my own.", "source_sha256": "cd4ebed4e4b2fe64a02eff2a504a78eab5e41d77cdaa61df086e762f80ea07c0"}
 {"passage": "enhanced_interaction_askAboutFamily", "source": "Sorry, I don't have time to chat about that right now...", "source_sha256": "3325aff385f99b647966822c8b8237487ae7b6815e4800ccb460f6e89909f294"}
 {"passage": "enhanced_interaction_askAboutFamily_no_family", "source": "I'd rather not talk about that... I don't really have a family.", "source_sha256": "6061c2df1b29e8ec8f506ae02772ea285aeee46226f6db60c75370a0dd6dd6ab"}
 {"passage": "enhanced_interaction_askAboutFamily_no_family", "source": "Family? That's... a complicated topic for me. I'm on my own.", "source_sha256": "08699b878b55d6c5c249e69c310c20f427d6cf67083c60196174e1c07ee1dcd0"}

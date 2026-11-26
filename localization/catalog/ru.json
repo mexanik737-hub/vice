@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 72,
+    "version": 73,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -3037,7 +3037,25 @@
     "Yes! God, I was starting to think you'd never ask. 💖💖💖": "Да! Боже, я уже думал(а), что ты никогда не предложишь. 💖💖💖",
     "Date you? Are you serious? That's never going to happen. Sorry.": "Свидание с тобой? Ты серьёзно? Этого никогда не будет. Прости.",
     "Really? You want to date me? ...Yes! I'd love that! 💕": "Правда? Ты хочешь встречаться со мной? ...Да! Я очень хочу! 💕",
-    "I'm flattered, but... I don't think I'm ready for that. Sorry.": "Мне приятно, но... Не думаю, что готов(а) к этому. Прости."
+    "I'm flattered, but... I don't think I'm ready for that. Sorry.": "Мне приятно, но... Не думаю, что готов(а) к этому. Прости.",
+    "I feel so good in your arms... Don't let go... 🤗💕": "В твоих объятиях так хорошо... Не отпускай... 🤗💕",
+    "Hey! What are you doing?! Back off!": "Эй! Что ты делаешь?! Отойди!",
+    "Love your hugs! Gimme more!": "Обожаю твои объятия! Ещё!",
+    "Oh... this feels so nice... 😊": "О... Как же приятно... 😊",
+    "I could hug you forever... 💏": "Я бы обнимал(а) тебя вечно... 💏",
+    "Sorry, I'm not in the mood for hugs right now...": "Прости, сейчас я не в настроении обниматься...",
+    "Haha! You're so playful! I love it! 😏💕": "Ха-ха! Ты такой(ая) игривый(ая)! Мне это нравится! 😏💕",
+    "That was hurtful! You crossed the line!": "Это было обидно! Ты перешёл(ла) границу!",
+    "Hey! Haha, is that so? Just you wait, I'll get you back! 😄": "Эй! Ха-ха, вот как? Ну погоди, я тебе ещё отплачу! 😄",
+    "That's not funny...": "Это совсем не смешно...",
+    "That was INCREDIBLE! Let's play more! I haven't had this much fun in ages! 🎮🎉": "Это было НЕВЕРОЯТНО! Давай ещё! Я сто лет так не веселился(ась)! 🎮🎉",
+    "You're cheating! I'm not playing with you anymore!": "Ты жульничаешь! Я больше не буду с тобой играть!",
+    "Good game! That was fun!": "Хорошая игра! Было весело!",
+    "Hmm, not really into this game...": "Хм, эта игра мне не очень нравится...",
+    "You really want to help? That's... incredibly kind of you! 🙏": "Ты правда хочешь помочь? Это... невероятно мило с твоей стороны! 🙏",
+    "No thanks, I can manage myself. I don't need help!": "Нет, спасибо, я справлюсь сам(а). Мне не нужна помощь!",
+    "Really? That would be great! Thanks!": "Правда? Это было бы здорово! Спасибо!",
+    "Thanks for offering, but I'll manage on my own.": "Спасибо за предложение, но я справлюсь сам(а)."
   },
   "scoped": [
     {
