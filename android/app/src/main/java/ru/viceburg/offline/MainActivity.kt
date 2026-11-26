@@ -5,8 +5,8 @@ import android.content.Intent
 import android.graphics.Color
 import android.net.Uri
 import android.os.Bundle
-import android.view.Gravity
 import android.view.ViewGroup
+import android.webkit.JavascriptInterface
 import android.webkit.MimeTypeMap
 import android.webkit.WebChromeClient
 import android.webkit.WebResourceRequest
@@ -14,10 +14,7 @@ import android.webkit.WebResourceResponse
 import android.webkit.WebSettings
 import android.webkit.WebView
 import android.webkit.WebViewClient
-import android.widget.Button
 import android.widget.LinearLayout
-import android.widget.PopupMenu
-import android.widget.TextView
 import android.widget.Toast
 import android.view.View
 import androidx.documentfile.provider.DocumentFile
@@ -44,7 +41,7 @@ class MainActivity : Activity() {
 
         val root = LinearLayout(this).apply {
             orientation = LinearLayout.VERTICAL
-            setBackgroundColor(Color.WHITE)
+            setBackgroundColor(Color.rgb(16, 16, 20))
         }
         shell = root
         if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.R) {
@@ -55,34 +52,15 @@ class MainActivity : Activity() {
                 insets
             }
         }
-        val toolbar = LinearLayout(this).apply {
-            orientation = LinearLayout.HORIZONTAL
-            gravity = Gravity.CENTER_VERTICAL
-            setPadding(dp(16), 0, dp(8), 0)
-            setBackgroundColor(Color.WHITE)
-        }
-        toolbar.addView(TextView(this).apply {
-            text = "Viceburg"
-            textSize = 18f
-            setTextColor(Color.rgb(30, 30, 34))
-        }, LinearLayout.LayoutParams(0, dp(48), 1f))
-        val menu = Button(this).apply {
-            text = "⋮"
-            textSize = 24f
-            minWidth = dp(48)
-            contentDescription = "Меню"
-            setOnClickListener { showMenu(it as Button) }
-        }
-        toolbar.addView(menu, LinearLayout.LayoutParams(dp(48), dp(48)))
         web = WebView(this)
         configureWebView()
-        root.addView(toolbar, LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, dp(48)))
         root.addView(web, LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, 0, 1f))
         setContentView(root)
         web.loadUrl("https://viceburg.local/game/index.html")
     }
 
     private fun configureWebView() {
+        web.addJavascriptInterface(AppBridge(), "ViceburgAndroid")
         web.settings.apply {
             javaScriptEnabled = true
             domStorageEnabled = true
@@ -215,21 +193,18 @@ class MainActivity : Activity() {
         return MimeTypeMap.getSingleton().getMimeTypeFromExtension(ext) ?: "application/octet-stream"
     }
 
-    private fun showMenu(anchor: Button) {
-        PopupMenu(this, anchor).apply {
-            menu.add(0, 1, 0, if (mediaTree == null) "Выбрать папку Media" else "Изменить папку Media")
-            menu.add(0, 2, 1, "Экспорт сохранения")
-            menu.add(0, 3, 2, "Импорт сохранения")
-            setOnMenuItemClickListener { item ->
-                when (item.itemId) {
-                    1 -> pickMediaTree()
-                    2 -> exportSave()
-                    3 -> importSave()
-                }
-                true
-            }
-            show()
-        }
+    private inner class AppBridge {
+        @JavascriptInterface
+        fun selectMedia() = runOnUiThread { pickMediaTree() }
+
+        @JavascriptInterface
+        fun requestExportSave() = runOnUiThread { exportSave() }
+
+        @JavascriptInterface
+        fun requestImportSave() = runOnUiThread { importSave() }
+
+        @JavascriptInterface
+        fun mediaStatus(): String = if (mediaTree == null) "Media не выбрана" else "Media подключена"
     }
 
     private fun pickMediaTree() {
@@ -274,6 +249,7 @@ class MainActivity : Activity() {
                 val flags = data.flags and (Intent.FLAG_GRANT_READ_URI_PERMISSION or Intent.FLAG_GRANT_WRITE_URI_PERMISSION)
                 contentResolver.takePersistableUriPermission(uri, flags and Intent.FLAG_GRANT_READ_URI_PERMISSION)
                 prefs.edit().putString(KEY_MEDIA_TREE, uri.toString()).apply()
+                web.evaluateJavascript("window.dispatchEvent(new Event('viceburg-media-change'))", null)
                 toast("Папка Media подключена")
             }
             REQUEST_EXPORT -> {
