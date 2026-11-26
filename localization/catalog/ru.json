@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 63,
+    "version": 64,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -2880,7 +2880,26 @@
     "I enjoy talking to you... you're so interesting.": "С тобой так интересно разговаривать...",
     "Babe, I love just chatting with you.": "Зайка, мне нравится просто болтать с тобой.",
     "Every conversation with you is pure happiness, my love.": "Каждый разговор с тобой — настоящее счастье, любовь моя.",
-    "Hmm, that wasn't so bad. Maybe you're not that terrible.": "Хм, оказалось не так уж плохо. Может, с тобой вполне можно ладить."
+    "Hmm, that wasn't so bad. Maybe you're not that terrible.": "Хм, оказалось не так уж плохо. Может, с тобой вполне можно ладить.",
+    "Fine... that wasn't as awful as I expected.": "Ладно... всё прошло не так плохо, как ожидалось.",
+    "Uh... what? I didn't quite get that.": "Эм... что? Не совсем понимаю.",
+    "Wow! That was an amazing conversation! You're incredible to talk to! 🌟": "Вау! Это был потрясающий разговор! С тобой невероятно интересно общаться! 🌟",
+    "What?! That was completely inappropriate! I'm leaving!": "Что?! Это было совершенно неуместно! Я ухожу!",
+    "Sorry, I'm too tired for conversation right now. Maybe later?": "Извини, сейчас совсем нет сил разговаривать. Может, позже?",
+    "Sorry, I'm not in the right headspace for deep talks right now...": "Извини, сейчас я не в том состоянии, чтобы говорить по душам...",
+    "That was... the most honest conversation I've ever had. I feel like we're truly connected. 💫": "Это был... самый откровенный разговор в моей жизни. Кажется, мы действительно стали ближе. 💫",
+    "How can you say that?! That was really hurtful!": "Как ты можешь так говорить?! Это очень обидно!",
+    "Thank you for listening. It really meant a lot to talk about this.": "Спасибо за разговор. Для меня это очень важно.",
+    "I'm not sure I'm ready to discuss such personal things...": "Пока не хочется обсуждать настолько личное...",
+    "Wait, now's not a good time for secrets...": "Погоди, сейчас не лучшее время для секретов...",
+    "Wow... I'm touched you trust me with this. I want to share something too... 🤫": "Ничего себе... Мне очень приятно, что ты доверяешь мне. Я тоже хочу кое-чем поделиться... 🤫",
+    "What?! I can't believe you told me that... I need to think.": "Что?! Не могу поверить своим ушам... Мне нужно всё обдумать.",
+    "Thank you for trusting me. Your secret is safe with me.": "Спасибо за доверие. Твой секрет в безопасности.",
+    "Um... not sure I wanted to know that...": "Эм... пожалуй, знать это было необязательно...",
+    "Sorry, my head's too full of my own problems right now...": "Извини, сейчас у меня голова забита собственными проблемами...",
+    "Oh, I have a great idea! Try this... 💡": "О, у меня есть отличная идея! Попробуй вот что... 💡",
+    "Hmm, I think you should try... Hope it helps!": "Хм, попробуй вот это... Надеюсь, поможет!",
+    "Honestly, I don't know what to tell you...": "Честно, даже не знаю, что тебе посоветовать..."
   },
   "scoped": [
     {

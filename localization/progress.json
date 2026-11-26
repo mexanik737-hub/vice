@@ -15,7 +15,7 @@
       "name": "Интерфейс и системные меню",
       "status": "in_progress",
       "coverage": null,
-      "notes": "Каталог содержит 2876 точных фраз, 203 контекстных правила и 23 шаблона; интерфейс и системные меню ещё не завершены."
+      "notes": "Каталог содержит 2895 точных фраз, 203 контекстных правила и 23 шаблона; интерфейс и системные меню ещё не завершены."
     },
     {
       "id": "L2",
@@ -36,21 +36,21 @@
       "name": "Диалоги",
       "status": "in_progress",
       "coverage": null,
-      "notes": "Переведены предложения дружбы, расставания и отношений, отдельные сцены Аманды, Гэри, Элис и Соланы, а также 15 новых реплик запугивания, вызовов и дружеских бесед; сюжетные ветки остаются неполными."
+      "notes": "Переведены отдельные сюжетные диалоги и 34 новые реплики запугивания, состязаний, дружеских и откровенных бесед, доверия и просьб о совете; большая часть сюжетных веток остаётся неполной."
     },
     {
       "id": "L5",
       "name": "Регрессия локализации",
       "status": "in_progress",
       "coverage": null,
-      "notes": "Статические Python-проверки (8 тестов), Node-проверка словаря и сборка debug APK прошли в GitHub Actions run #104. Android, SAF, кодеки и импорт/экспорт ещё требуют проверки на устройстве."
+      "notes": "Статические Python-проверки (8 тестов), Node-проверка словаря и сборка debug APK прошли в GitHub Actions. Android, SAF, кодеки и импорт/экспорт ещё требуют проверки на устройстве."
     }
   ],
   "limitations": [
     "Полная русификация ещё не завершена; значительная часть пользовательских реплик и описаний осталась на английском.",
     "В инвентаре 3281 из 5634 уникальных строк-кандидатов не сопоставлены с точной фразой каталога (41.8% точных совпадений). Это не полная доля перевода: контекстные правила/шаблоны и ложные срабатывания инвентаризатора не учитываются.",
     "Текст длинных реплик и динамические данные требуют отдельной проверки по фактическому DOM; Android WebView не проверен на устройстве.",
-    "Debug APK built by GitHub Actions run #104. The compact in-game tools card, Media picker, save import/export, and original media playback still require on-device verification; signed release is skipped for pull_request."
+    "The debug APK is built by GitHub Actions. The compact in-game tools card, Media picker, save import/export, and original media playback still require on-device verification; signed release is skipped for pull_request."
   ],
   "inventory": {
     "source": "upstream/original/viceburg_mod_clean.html",
@@ -143,20 +143,20 @@
     "warning": "Conservative candidate extraction; includes false positives and misses dynamically composed/code-generated strings. Review before translation."
   },
   "catalog": {
-    "exact_phrase_count": 2876,
+    "exact_phrase_count": 2895,
     "dynamic_template_count": 23,
     "coverage_percent": null,
-    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 2367/5634 (42.0%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
+    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 2386/5634 (42.4%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
     "context_rule_count": 203,
-    "candidate_exact_matches": 2367,
+    "candidate_exact_matches": 2386,
     "candidate_unique_strings": 5634,
-    "candidate_match_percent": 42.0,
+    "candidate_match_percent": 42.4,
     "faq_candidate_strings": 463,
     "faq_candidate_translated": 463,
     "npc_interaction_candidate_strings": 49,
     "npc_interaction_candidate_translated": 48,
-    "untranslated_candidate_rows": 3410,
-    "untranslated_unique_strings": 3267,
+    "untranslated_candidate_rows": 3391,
+    "untranslated_unique_strings": 3248,
     "top_untranslated_passages": [
       [
         "Options",
@@ -253,10 +253,10 @@
     "saf_mime_fallback": "implemented and statically checked for generic application/octet-stream responses",
     "android_app_tools": "implemented: native toolbar removed; compact tools card appears on Start and in the character editor/cheat dialog; device interaction not verified"
   },
-  "translated_unique_strings": 2367,
-  "untranslated_rows": 3410,
-  "untranslated_unique_strings": 3267,
-  "exact_match_percent": 42.0,
+  "translated_unique_strings": 2386,
+  "untranslated_rows": 3391,
+  "untranslated_unique_strings": 3248,
+  "exact_match_percent": 42.4,
   "top_untranslated_passages": [
     [
       "Options",

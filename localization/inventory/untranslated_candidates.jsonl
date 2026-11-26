@@ -1,23 +1,4 @@
 {"passage":"enhanced_interaction_smallTalk_success","source":"I enjoy talking with you... you're so interesting.","source_sha256":"ca873e60ccb1f5c73461e1edd93703fa1019b2dbad295521273dd1e06c54a25d"}
-{"passage":"enhanced_interaction_smallTalk_success","source":"Fine... that wasn't as awful as I expected.","source_sha256":"fd1608d73d23722f213a296d27eec3f9296b37157c92ce71eb9824afd0333a34"}
-{"passage":"enhanced_interaction_smallTalk_failure","source":"Uh... what? I didn't quite get that.","source_sha256":"a0d12db70740b9c01c8847428f40d0242d7c4536b7b26af7e50f1ea8a03e08d6"}
-{"passage":"enhanced_interaction_smallTalk_crit_success","source":"Wow! That was an amazing conversation! You're incredible to talk to! 🌟","source_sha256":"9238b9e067a82e745838033aafd7d279bb84a79189ea562624bce5345589b8a0"}
-{"passage":"enhanced_interaction_smallTalk_crit_failure","source":"What?! That was completely inappropriate! I'm leaving!","source_sha256":"d7c35a7bb92de0b611c96d22ce69b68ca5abf68380b7cb8d38788777d0a9907a"}
-{"passage":"enhanced_interaction_smallTalk_busy","source":"Sorry, I'm too tired for conversation right now. Maybe later?","source_sha256":"b2862a6eb302a1815d0e408d45752fc61b40048bbddf50f9eed7007cfc7fd9e7"}
-{"passage":"enhanced_interaction_deepConversation","source":"Sorry, I'm not in the right headspace for deep talks right now...","source_sha256":"9963e7395ca58c0e6364c2effe441ad408c284ea2e2f8763e79403c6cdcdb9bd"}
-{"passage":"enhanced_interaction_deepConversation","source":"That was... the most honest conversation I've ever had. I feel like we're truly connected. 💫","source_sha256":"f188ba24d62915ac538aa5a6417d3af9b8d34c7e3868f1a348c57ed2c08ee990"}
-{"passage":"enhanced_interaction_deepConversation","source":"How can you say that?! That was really hurtful!","source_sha256":"be4c533abcf047b9d4bfe3b25e77a391d770f49847fbfc03b3f80791240002a6"}
-{"passage":"enhanced_interaction_deepConversation","source":"Thank you for listening. It really meant a lot to talk about this.","source_sha256":"de8d928f293ad64b3a905e08c7ee57e16dc216072e0bf6c3330607360ba6fe1c"}
-{"passage":"enhanced_interaction_deepConversation","source":"I'm not sure I'm ready to discuss such personal things...","source_sha256":"3c245480d6d710c8adb56edf249fd0dda2dfa3cc0886cf81368dc5972064be09"}
-{"passage":"enhanced_interaction_shareSecret","source":"Wait, now's not a good time for secrets...","source_sha256":"a3dc61880ec406d1eae87dcbd6929902f22b1bafd73c12f8859e5897c24b242e"}
-{"passage":"enhanced_interaction_shareSecret","source":"Wow... I'm touched you trust me with this. I want to share something too... 🤫","source_sha256":"2011aed8c92454077f7d6003870ac6e28d3d0831f0f42c5093a71a26e8c0537e"}
-{"passage":"enhanced_interaction_shareSecret","source":"What?! I can't believe you told me that... I need to think.","source_sha256":"140a52623e2644f80ba335d13ceeb82b7e787bf81ec369f5d55a421891b0e53c"}
-{"passage":"enhanced_interaction_shareSecret","source":"Thank you for trusting me. Your secret is safe with me.","source_sha256":"e9e0f2fe30a9bbb94839a7161f305a7a919e4b460296e66eb3481bef821b04c5"}
-{"passage":"enhanced_interaction_shareSecret","source":"Um... not sure I wanted to know that...","source_sha256":"8f8a4bf4037fd20c73ec0c6c3619da906ac304ae9b44c676361d7283fa10943a"}
-{"passage":"enhanced_interaction_askForAdvice","source":"Sorry, my head's too full of my own problems right now...","source_sha256":"71d863045043682e9c63a86e93680ae3206032a0cf357a982daf8739b5ff8048"}
-{"passage":"enhanced_interaction_askForAdvice","source":"Oh, I have a great idea! Try this... 💡","source_sha256":"6e3b4fa5669b1fdafd9e58c9d9b96541cbd664d5fd939212678c3ff33d66a873"}
-{"passage":"enhanced_interaction_askForAdvice","source":"Hmm, I think you should try... Hope it helps!","source_sha256":"b33914aaeb22cf606ad44f8430c0a86651cf103d18050b4479a0d26151ac81a9"}
-{"passage":"enhanced_interaction_askForAdvice","source":"Honestly, I don't know what to tell you...","source_sha256":"77556110449b87a0814e2ab34bca46082fa8549216a8b73e147fe026f4faf59d"}
 {"passage":"enhanced_interaction_giveGift","source":"This is... exactly what I've always wanted! How did you know?! 🎁✨","source_sha256":"21989a80f1f8b46a7b3195e51db3b0a0c1bb456339e2ba8d393b7b6573c39082"}
 {"passage":"enhanced_interaction_giveGift","source":"Uh... thanks, but this really isn't my thing... 😕","source_sha256":"29d6e57b601020b395526e318acb1cebbbc06611c109db11e273830f17eceb16"}
 {"passage":"enhanced_interaction_giveGift","source":"Oh, how sweet! Thank you so much, I love it!","source_sha256":"7b42141953f7da3af7f2482f1930ccb3f5933c11edb91e357a930f7ef9f7b065"}
