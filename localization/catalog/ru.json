@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 53,
+    "version": 54,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -2782,7 +2782,11 @@
     "Named and marked": "Назван и отмечен",
     "For once, the steward closes the ledger unmarked - every contestant found a seat in time.": "На этот раз распорядитель закрывает книгу без отметок: все участники успели занять места.",
     "The hall exhales as one.": "Зал облегчённо выдыхает.",
-    "Slip back into the evening": "Вернуться к вечеру"
+    "Slip back into the evening": "Вернуться к вечеру",
+    "🤝 The tier": "🤝 Свои на блоке",
+    "🚩 The car": "🚩 Банда",
+    "Shoot the shit": "Потрепаться",
+    "Ask what they know": "Спросить, что известно"
   },
   "scoped": [
     {
