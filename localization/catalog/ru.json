@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 55,
+    "version": 56,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -2796,7 +2796,17 @@
     "Your feet are divine, I'm so lucky to lick them.": "Твои ноги божественны. Мне так повезло их лизать.",
     "No way, I'm not licking your damn feet.": "Ни за что не стану лизать твои чёртовы ноги.",
     "Ugh, that's gross, I'm not doing it.": "Фу, это мерзко. Я не буду этого делать.",
-    "Hell no, find someone else for that.": "Да ни за что. Найди для этого кого-нибудь другого."
+    "Hell no, find someone else for that.": "Да ни за что. Найди для этого кого-нибудь другого.",
+    "I'm going to bind you so you can't move an inch.": "Я свяжу тебя так, что ты не сможешь пошевелиться.",
+    "Fine, go ahead, but don't make it too tight.": "Ладно, связывай, только не затягивай слишком туго.",
+    "Okay, tie me, but I'm watching you.": "Хорошо, связывай меня, но я буду за тобой следить.",
+    "Alright, I'll let you, just do it quick.": "Ладно, я разрешаю. Только побыстрее.",
+    "Fuck, sir, tie me tight, I want to feel helpless.": "Чёрт, господин, свяжите меня покрепче. Хочу почувствовать себя беспомощным.",
+    "Mistress, please, make the ropes tight, I'm all yours.": "Госпожа, пожалуйста, затяните верёвки потуже. Я весь ваш.",
+    "Oh, bind me up, I want to be completely at your mercy.": "О, свяжи меня. Я хочу полностью оказаться в твоей власти.",
+    "Hell no, I'm not letting you tie me up.": "Да ни за что, я не позволю тебе связывать меня.",
+    "Forget it, I'm not that helpless.": "Забудь. Я не настолько беспомощен.",
+    "No way, keep your ropes to yourself.": "Ни за что. Оставь свои верёвки при себе."
   },
   "scoped": [
     {
