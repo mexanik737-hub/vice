@@ -57,7 +57,7 @@ panel.innerHTML='<button type="button" class="vb-app-tools__toggle" aria-expande
 const toggle=panel.querySelector('.vb-app-tools__toggle');
 const actions=panel.querySelector('.vb-app-tools__actions');
 const status=panel.querySelector('.vb-app-tools__status');
-function updateStatus(){status.textContent=window.ViceburgAndroid?window.ViceburgAndroid.mediaStatus():'Доступно в приложении';}
+function updateStatus(){const value=window.ViceburgAndroid?window.ViceburgAndroid.mediaStatus():'Доступно в приложении';if(status.textContent!==value)status.textContent=value;}
 function visible(el){return !!el&&el.getClientRects().length>0;}
 function passageInfo(){
  const node=document.querySelector('#passages .passage:last-child');
@@ -104,7 +104,7 @@ refresh();
 if 'id="viceburg-android-tools"' not in html:
  marker='</body>'
  if marker not in html: raise SystemExit('Expected closing </body> not found')
- html=html.replace(marker,tools_script+'\\n'+marker,1)
+ html=html.replace(marker,tools_script+'\n'+marker,1)
 out.parent.mkdir(parents=True,exist_ok=True)
 out.write_text(html,encoding='utf-8')
 print(f'Built {out} ({out.stat().st_size} bytes), {len(data.get("phrases",{}))} exact phrase substitutions')
