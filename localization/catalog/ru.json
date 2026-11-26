@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 70,
+    "version": 71,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -2992,7 +2992,30 @@
     "Hmm... I guess men can be attractive. Maybe I should be more open-minded...": "Хм... Пожалуй, мужчины могут быть привлекательными. Может, стоит быть открытее...",
     "Women are pretty amazing, aren't they? Maybe I should explore that side of myself...": "Женщины и правда удивительные, да? Может, мне стоит исследовать эту сторону себя...",
     "You make a good point... why should I limit myself? Everyone has something attractive about them.": "Ты убедительно говоришь... Зачем себя ограничивать? В каждом есть что-то привлекательное.",
-    "I know what I like, and I'm comfortable with it. Sorry, that's just not going to happen.": "Я знаю, что мне нравится, и меня это устраивает. Извини, но этого не будет."
+    "I know what I like, and I'm comfortable with it. Sorry, that's just not going to happen.": "Я знаю, что мне нравится, и меня это устраивает. Извини, но этого не будет.",
+    "I... I love you too! I've been waiting so long to hear that! 💖😭": "Я... Я тоже тебя люблю! Я так долго ждал(а), когда ты это скажешь! 💖😭",
+    "I... I'm really sorry, but I don't feel the same. And the way you said it was... awkward.": "Я... Мне очень жаль, но я не испытываю того же. И признание получилось... неловким.",
+    "Really? I... I feel something for you too... 💗": "Правда? Я... Я тоже что-то к тебе чувствую... 💗",
+    "Wow... I wasn't expecting that. I need to think, but... I'm flattered.": "Ничего себе... Не ожидал(а) такого. Мне нужно подумать, но... мне приятно.",
+    "I know, honey. I love you too! 💕": "Я знаю, милый(ая). Я тоже тебя люблю! 💕",
+    "My love for you knows no bounds. You're my everything. 💞": "Моя любовь к тебе безгранична. Ты для меня — всё. 💞",
+    "That's... unexpected. But I'm glad to hear it...": "Это... неожиданно. Но мне приятно это слышать...",
+    "Sorry... but I don't think I feel the same way.": "Прости... Но, кажется, я не чувствую того же.",
+    "Thanks for caring, but I need some time alone...": "Спасибо за заботу, но мне нужно побыть одному(одной)...",
+    "I... I don't know what to say. No one has ever cared for me like this... 😢💕": "Я... Не знаю, что сказать. Никто ещё так обо мне не заботился... 😢💕",
+    "Please don't... you're only making it worse!": "Пожалуйста, не надо... Ты только всё ухудшаешь!",
+    "Thanks for being here. It really helps...": "Спасибо, что ты рядом. Это правда помогает...",
+    "Thank you, sweetheart. I always feel better with you...": "Спасибо, дорогой(ая). Рядом с тобой мне всегда лучше...",
+    "You're so kind... Thank you.": "Ты так добр(а)... Спасибо.",
+    "Thanks for the support. It means a lot.": "Спасибо за поддержку. Для меня это очень важно.",
+    "Thanks, but it's not helping...": "Спасибо, но это не помогает...",
+    "I can see you're truly sorry. I forgive you... let's start fresh. 🕊️": "Я вижу, что ты искренне сожалеешь. Я прощаю тебя... Давай начнём с чистого листа. 🕊️",
+    "Apologize?! After everything you did?! Don't even try!": "Извиниться?! После всего, что ты сделал(а)?! Даже не пытайся!",
+    "Alright, everyone makes mistakes. I forgive you.": "Ладно, все ошибаются. Я тебя прощаю.",
+    "Okay... I love you, no matter what.": "Ладно... Я люблю тебя, несмотря ни на что.",
+    "Hmm... we'll see how sincere you are.": "Хм... Посмотрим, насколько ты искренен(на).",
+    "Thanks for apologizing. I appreciate it.": "Спасибо за извинения. Я это ценю.",
+    "Words are just words. I'm not sure I can forgive.": "Слова — это только слова. Не уверен(а), что смогу простить."
   },
   "scoped": [
     {
