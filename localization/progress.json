@@ -50,7 +50,7 @@
     "Полная русификация ещё не завершена; значительная часть пользовательских реплик и описаний осталась на английском.",
     "В инвентаре 3315 из 5634 уникальных строк-кандидатов не сопоставлены с точной фразой каталога (41.2% точных совпадений). Это не полная доля перевода: контекстные правила/шаблоны и ложные срабатывания инвентаризатора не учитываются.",
     "Текст длинных реплик и динамические данные требуют отдельной проверки по фактическому DOM; Android WebView не проверен на устройстве.",
-    "APK не собран: GitHub Actions завершился до запуска runner (job без шагов); точная причина на стороне GitHub не подтверждена. Samsung Android 17, SAF и воспроизведение медиа не проверены на устройстве."
+    "Debug APK built in GitHub Actions. Signed release is skipped for pull_request; Samsung Android 17, SAF media playback and save import/export have not been tested on-device."
   ],
   "inventory": {
     "source": "upstream/original/viceburg_mod_clean.html",
@@ -243,7 +243,7 @@
   "testing": {
     "python_static_tests": "8 passed (2026-11-26; after Sarah dialogue batch)",
     "node_localization_runtime": "passed (named placeholders, value maps, uncensored dialogue)",
-    "android_build": "blocked: latest GitHub Actions job failed before runner/steps; no APK artifact",
+    "android_build": "passed: GitHub Actions run #86 built the debug APK and uploaded viceburg-offline-apk (4,052,702 bytes; expires 2026-12-26); signed release skipped for pull_request",
     "device_saf_media_save_roundtrip": "not_run: no Samsung Android 17 device",
     "synthetic_media_metadata": "passed: JPEG, WebM VP8/Vorbis, WAV PCM inspected with ffprobe",
     "desktop_webview_smoke": "not_run: Chromium launcher exists but system binary is missing",
