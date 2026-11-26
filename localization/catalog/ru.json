@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 75,
+    "version": 76,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -3072,7 +3072,28 @@
     "NPC needs": "Потребности NPC",
     "Skills and attributes": "Навыки и характеристики",
     "Skill progression": "Прогресс навыков",
-    "Hidden parameters": "Скрытые параметры"
+    "Hidden parameters": "Скрытые параметры",
+    "I'd rather not talk about that... I don't really have a family.": "Не хочу об этом говорить... У меня почти нет семьи.",
+    "Family? That's... a complicated topic for me. I'm on my own.": "Семья? Это... сложная тема. Я сам(а) по себе.",
+    "I don't have anyone I'd call family. Can we talk about something else?": "У меня нет никого, кого я мог(ла) бы назвать семьёй. Давай поговорим о другом?",
+    "I don't really feel like talking about my family right now...": "Сейчас мне не очень хочется говорить о семье...",
+    "That's kind of personal. Maybe ask me another time?": "Это довольно личное. Может, спросишь в другой раз?",
+    "Hmm... I'd rather not get into that. It's complicated.": "Хм... Не хотелось бы это обсуждать. Всё сложно.",
+    "Parents? I... I never really had that. Let's change the subject.": "Родители? Я... По сути, у меня их не было. Давай сменим тему.",
+    "I don't want to talk about parents. That's a sore spot for me.": "Не хочу говорить о родителях. Это больная тема.",
+    "I grew up without parents, so... yeah. Not much to say there.": "Я вырос(ла) без родителей, так что... Да, рассказывать особо нечего.",
+    "My partner and I try our best. Raising a family in this town isn't easy, but we manage.": "Мы с партнёром стараемся. Воспитывать детей в этом городе непросто, но мы справляемся.",
+    "I try my best on my own. Raising a family in this town isn't easy, but I manage.": "Я стараюсь справляться в одиночку. Воспитывать детей в этом городе непросто, но мне удаётся.",
+    "Parenthood changed everything for me. I see the world differently now - it's all about providing for the family.": "Родительство всё для меня изменило. Теперь я иначе смотрю на мир — главное обеспечить семью.",
+    "I'm not comfortable talking about my parents with you. Not yet.": "Мне пока некомфортно говорить с тобой о родителях.",
+    "That's... a pretty deep topic. I don't think we're there yet.": "Это... довольно личная тема. Думаю, мы пока не настолько близки.",
+    "My parents are a sensitive subject. Let's talk about something else.": "Мои родители — непростая тема. Давай поговорим о чём-нибудь другом.",
+    "Siblings? I don't have any. Never had that kind of bond.": "Братья и сёстры? У меня их нет. Я никогда не знал(а) такой близости.",
+    "I grew up alone. No brothers, no sisters. Just me.": "Я рос(ла) один(одна). Ни братьев, ни сестёр — только я.",
+    "I wish I had siblings to talk about, but I don't. Maybe that's why I value my friends so much.": "Хотел(а) бы я рассказать о братьях или сёстрах, но их нет. Может, поэтому я так ценю друзей.",
+    "I don't really want to get into the sibling stuff right now.": "Сейчас мне не очень хочется говорить о братьях и сёстрах.",
+    "We have our issues... I'd rather not talk about it.": "У нас есть свои проблемы... Я бы предпочёл(ла) об этом не говорить.",
+    "Siblings can be complicated. Let's just leave it at that.": "С братьями и сёстрами бывает непросто. Давай на этом остановимся."
   },
   "scoped": [
     {
