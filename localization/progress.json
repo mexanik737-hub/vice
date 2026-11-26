@@ -143,20 +143,20 @@
     "warning": "Conservative candidate extraction; includes false positives and misses dynamically composed/code-generated strings. Review before translation."
   },
   "catalog": {
-    "exact_phrase_count": 2712,
+    "exact_phrase_count": 2721,
     "dynamic_template_count": 23,
     "coverage_percent": null,
-    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 2210/5634 (39.2%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
+    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 2219/5634 (39.4%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
     "context_rule_count": 203,
-    "candidate_exact_matches": 2210,
+    "candidate_exact_matches": 2219,
     "candidate_unique_strings": 5634,
-    "candidate_match_percent": 39.2,
+    "candidate_match_percent": 39.4,
     "faq_candidate_strings": 463,
     "faq_candidate_translated": 463,
     "npc_interaction_candidate_strings": 49,
     "npc_interaction_candidate_translated": 48,
-    "untranslated_candidate_rows": 3643,
-    "untranslated_unique_strings": 3426,
+    "untranslated_candidate_rows": 3634,
+    "untranslated_unique_strings": 3417,
     "top_untranslated_passages": [
       [
         "Options",
@@ -211,10 +211,6 @@
         14
       ],
       [
-        "Ship_Championship",
-        13
-      ],
-      [
         "Prison_Salon",
         13
       ],
@@ -237,6 +233,10 @@
       [
         "Amanda_Picnic_Event",
         12
+      ],
+      [
+        "GangBossWidgets",
+        12
       ]
     ]
   },
@@ -247,7 +247,7 @@
     "device_saf_media_save_roundtrip": "not_run: no Samsung Android 17 device",
     "synthetic_media_metadata": "passed: JPEG, WebM VP8/Vorbis, WAV PCM inspected with ffprobe",
     "desktop_webview_smoke": "not_run: Chromium launcher exists but system binary is missing",
-    "translation_status": "incomplete: 2210/5634 unique extracted candidates matched; extractor is approximate",
+    "translation_status": "incomplete: 2219/5634 unique extracted candidates matched; extractor is approximate",
     "startup_performance_fix": "implemented: initial localization only scans live game containers; mutations batched via requestAnimationFrame",
     "media_path_audit": "passed statically: img/video/background/audio calls traced; device media playback not run",
     "saf_mime_fallback": "implemented and statically checked for generic application/octet-stream responses"
