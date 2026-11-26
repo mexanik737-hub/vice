@@ -1,6 +1,3 @@
-{"passage":"AiChat_QuickScene","source":"Back to the chat","source_sha256":"d3a4824104cb5386285124cce0302a3b4010662c35e55d3f879394814c9f73f2"}
-{"passage":"AiNpcChat","source":"The chat could not load.","source_sha256":"389a17bfe32b0147010bca27f006c853703856c63a15ef4a66974bb45399a51f"}
-{"passage":"AiQuestChat","source":"The chat could not load.","source_sha256":"389a17bfe32b0147010bca27f006c853703856c63a15ef4a66974bb45399a51f"}
 {"passage":"enhanced_interaction_intimidate","source":"P-please! I'll do anything! Just don't hit me! 😱","source_sha256":"ac5d1196175fb2a3126c21029687d96efc1cc9272257ef5cd1cf7d1afde2ded0"}
 {"passage":"enhanced_interaction_intimidate","source":"You think you're stronger than me?! Let's find out!","source_sha256":"8241ba6257ba5306e844acc9e542c0b9500c3f9576a24252abfa0978d63f531c"}
 {"passage":"enhanced_interaction_intimidate","source":"You're not as scary as you think.","source_sha256":"a5c81c7e059d45bc128f80bbb424937b4a86fd17468cbb3f44b828ffb461d8d0"}
@@ -3272,7 +3269,6 @@
 {"passage":"PhoneJournal","source":"Live a little - give gifts, flirt, get into fights, get seen in public - and the people of Viceburg will start to remember.","source_sha256":"5be3d868bfc6ee33e1489c193b9a9a7d2c038f42a0b0d1018b0f1625e4939981"}
 {"passage":"PhoneCall","source":"You owe $ (overdue)","source_sha256":"fa7017c8413a20f07694bfd38368187fde0efd4ddd1bf419a13ef06e1e8f1b95"}
 {"passage":"PhoneCall","source":"enhanced_relationship_date_cancellation","source_sha256":"0e1b1aec73156d723568f60149d179bb2d9e7e5c470e580768609fd87a187953"}
-{"passage":"PhoneAiChat","source":"The chat could not load.","source_sha256":"389a17bfe32b0147010bca27f006c853703856c63a15ef4a66974bb45399a51f"}
 {"passage":"PhoneCalendar","source":"You do not have their number.","source_sha256":"8ecdab256eb9eb62b965c769e8f0c11de4be33dbaea72ea6ad828b95c92f8fce"}
 {"passage":"PhoneCalendar","source":"Ask someone to meet up from the interaction menu.","source_sha256":"8df4d8310fae4889accd98dc359685872f8d51c5f2a8ff4495955dcd58e68309"}
 {"passage":"PhoneCalendar","source":"Calling a meeting off two hours ahead is fine.","source_sha256":"c5bc1d01025aeb9956f540afb1777a0199f1a63247437d7ec27a43ce3a919dab"}
@@ -3489,8 +3485,6 @@
 {"passage":"Widgets","source":"<span class='tab-icon'>⭐</span> Reputation","source_sha256":"b7c49e8883dbf06e937b72361b4f6644fd869abd708437dafce657e3f96572fa"}
 {"passage":"Widgets","source":"<span class='tab-icon'>👥</span> Contacts","source_sha256":"c0eed70bb47c99161eb60885df75578b95788e694b03e1b26c2108ff86c71b4d"}
 {"passage":"LocationEventView","source":"You notice something strange.","source_sha256":"2277c963d8d98450c9a5085ea49e19decf02b0dc93be79c5a4c33035760c1cff"}
-{"passage":"CharacterWearingDraw","source":"You're wearing:","source_sha256":"d1e45b90988878a17a2b34337bb5c707d1832e05349d9022f1d11427ffbc781c"}
-{"passage":"CharacterWearingDraw","source":"is armed with:","source_sha256":"0df7f2fc7018b1ee8ce047134e88dddeea3e742aa816b563e4c5ff803aadf10c"}
 {"passage":"CharacterWearingDraw","source":"var w = SugarCube.State.temporary.wpn;","source_sha256":"5f1f08413d5b1a3ff43b916881ec9ee9f6be32673bbe9cdcfafed9803a29df87"}
 {"passage":"CharacterWearingDraw","source":"content += \" Type: \" + getWeaponTypeName(w.weaponType) + \" \";","source_sha256":"01353aefe43febf34f31b311eee2b1dc17ba3efafd9869203f0fb83e78841791"}
 {"passage":"CharacterWearingDraw","source":"content += \" Damage: \" + w.baseDamage + \" \";","source_sha256":"24017efe4034532c41f993e22181dfad4a870391e78b178c95a86b9e267f80e1"}
