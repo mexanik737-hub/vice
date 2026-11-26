@@ -19,6 +19,7 @@ import android.widget.LinearLayout
 import android.widget.Toast
 import android.view.View
 import androidx.documentfile.provider.DocumentFile
+import org.json.JSONArray
 import org.json.JSONObject
 import org.json.JSONTokener
 import java.io.FilterInputStream
@@ -178,6 +179,46 @@ class MainActivity : Activity() {
         }
     }
 
+    private fun listMediaFileNames(relativeDirectory: String): String {
+        val parts = relativeDirectory.replace('\\', '/').split('/').filter { it.isNotEmpty() }
+        if (parts.isEmpty() || parts.any { it == "." || it == ".." }) return "[]"
+        val tree = mediaTree ?: return "[]"
+        return try {
+            var node = DocumentFile.fromTreeUri(this, tree) ?: return "[]"
+            for (part in parts) node = node.findFile(part) ?: return "[]"
+            if (!node.isDirectory) return "[]"
+            JSONArray().apply {
+                node.listFiles().asSequence()
+                    .filter { it.isFile }
+                    .mapNotNull { it.name }
+                    .sorted()
+                    .forEach { put(it) }
+            }.toString()
+        } catch (_: Exception) {
+            "[]"
+        }
+    }
+
+    private fun listMediaDirectoryNames(relativeDirectory: String): String {
+        val parts = relativeDirectory.replace('\\', '/').split('/').filter { it.isNotEmpty() }
+        if (parts.isEmpty() || parts.any { it == "." || it == ".." }) return "[]"
+        val tree = mediaTree ?: return "[]"
+        return try {
+            var node = DocumentFile.fromTreeUri(this, tree) ?: return "[]"
+            for (part in parts) node = node.findFile(part) ?: return "[]"
+            if (!node.isDirectory) return "[]"
+            JSONArray().apply {
+                node.listFiles().asSequence()
+                    .filter { it.isDirectory }
+                    .mapNotNull { it.name }
+                    .sorted()
+                    .forEach { put(it) }
+            }.toString()
+        } catch (_: Exception) {
+            "[]"
+        }
+    }
+
     private fun openSafResponse(uri: Uri, requestHeaders: Map<String, String>): WebResourceResponse {
         val detectedType = contentResolver.getType(uri)?.substringBefore(';')?.lowercase(Locale.ROOT)
         val extensionType = mimeFromName(uri.lastPathSegment)
@@ -251,6 +292,12 @@ class MainActivity : Activity() {
 
         @JavascriptInterface
         fun listMediaMp4Indices(relativePath: String): String = this@MainActivity.listMediaMp4Indices(relativePath)
+
+        @JavascriptInterface
+        fun listMediaFileNames(relativeDirectory: String): String = this@MainActivity.listMediaFileNames(relativeDirectory)
+
+        @JavascriptInterface
+        fun listMediaDirectoryNames(relativeDirectory: String): String = this@MainActivity.listMediaDirectoryNames(relativeDirectory)
     }
 
     private fun pickMediaTree() {
