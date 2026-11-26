@@ -1032,7 +1032,6 @@
 {"passage":"CruiseWidgets","source":"· carried a full tank past midnight - the rot found him (corruption /6).","source_sha256":"fc0b1a808839d6e1e587ac93991ff14e4c98482ff205e14bb617a05e6a029695"}
 {"passage":"CruiseWidgets","source":"· of the men slipped off to the head before midnight and came back lighter.","source_sha256":"cb70794e154bd9ccc8a626189023ad4a8e84a0add883839e333e981383fd6406"}
 {"passage":"CruiseWidgets","source":"· paid a maid her five hundred rather than risk the mark - and he was not the only one .","source_sha256":"48302f53763cc5e8a0cb0529df2ed780a1762c3fd5e12e3a099788ba208d7e72"}
-{"passage":"CruiseWidgets","source":"Something draws your eye...","source_sha256":"f72a0bb80badc6663c9ac59f1a25e3e2f1dda0dbe2e680dd49bd85426dc856f0"}
 {"passage":"Port","source":"The pier & gangway","source_sha256":"398960a6e29a5138db3f0f21a18317f371ee213c20c063b04e6c12fb37be5db2"}
 {"passage":"Port","source":"Work off your debt to the house","source_sha256":"58e81a5e090a7d8dc8294b178d8c08776da942acabf9f43a98abd8360adb0bbe"}
 {"passage":"Port_Pier","source":"The «Sirena»","source_sha256":"014e6a21c3ec8d438493e89dce1146173603e0617355921c91f9ad1d370703d0"}
@@ -1050,29 +1049,13 @@
 {"passage":"Port_BoardDialog","source":"Pick your stake - a chip loan, no interest (settled when you step ashore):","source_sha256":"9aad0e902a7ea09c0560c188bf8d521d69b0b9e29f7733c40872636669a07144"}
 {"passage":"Port_BoardDialog","source":"Not now","source_sha256":"a0e63d7c7125d29af84d6919af5550529be77c327324940c98c4b2cb13a99c8c"}
 {"passage":"Ship_Departure","source":"Head into the ship","source_sha256":"533b152056b42684a2933296ab9a120bbc74796a5d5bdaad2436e8dd13b1c282"}
-{"passage":"Ship_Gangway","source":"Pass the time","source_sha256":"08f102116c4ec9f804bf16cbd9359d4b94ece50a60648c4cb3a25f7aae14c455"}
 {"passage":"Ship_Docked","source":"Step ashore and settle up","source_sha256":"04aa4d76d8357c1cd98ea45ddc4719f6a9bb851ccc30a652a9de5b4f84260aa5"}
-{"passage":"Ship_MainHall","source":"Pass the time","source_sha256":"08f102116c4ec9f804bf16cbd9359d4b94ece50a60648c4cb3a25f7aae14c455"}
-{"passage":"Ship_MainHall","source":"On the floor","source_sha256":"4cb1131bf47fc8d309de881a36e316decca604cf44b0ec8d229b4be29ce4fcd2"}
-{"passage":"Ship_MainHall","source":"The purser","source_sha256":"28224842711ad64e11129ebb4ba537ce45d42409040481f85206d12da1200964"}
 {"passage":"Ship_MainHall","source":"Chips: · Debt: · Femininity: /6 · Corruption: /6 · Standing:","source_sha256":"adc48d2e5154d5d9124ce556cf799f81f00ae0a314aa18ab86966aec33e0519f"}
-{"passage":"Ship_MainHall","source":"The purser has bought his flesh for today - \"the house re-prices in the morning.\"","source_sha256":"90c18bf2cdc69c037619817c440306ca0e3f459a564c0457c431d28a069443c2"}
-{"passage":"Ship_MainHall","source":"Check the standings board","source_sha256":"64d76f352e738520d42fc5255199d3edbabb09df2189770bee7c57e0a6540cef"}
-{"passage":"Ship_MainHall","source":"Enter the Championship","source_sha256":"7beef7c1a531ea09085e8b5162630c48732dcdd8a899687e600ad5b3c441c737"}
-{"passage":"Ship_MainHall","source":"Sit at the Empress table","source_sha256":"5aee2511ace6f91562001876bcf400660a05b31ae626fa584a9e4dc7fb1e5fdd"}
-{"passage":"Ship_MainHall","source":"Chance the dice below decks","source_sha256":"509cbe2d590074c8e7ed045e3eba681e35415c92d3162b50b3249321eb83be8b"}
-{"passage":"Ship_MainHall","source":"Outlast someone at the endurance table","source_sha256":"24acafcf6ac5eb440a089b5680261a9d8c795028e774fa05192f5e37f8205006"}
-{"passage":"Ship_MainHall","source":"Vane's men are here for you","source_sha256":"dd725d78acba3819bfbcffb196508e6f46dfe2c368aa752183fa97fafaceb4ef"}
-{"passage":"Ship_MainHall","source":"Something draws your eye...","source_sha256":"f72a0bb80badc6663c9ac59f1a25e3e2f1dda0dbe2e680dd49bd85426dc856f0"}
-{"passage":"Ship_MainHall","source":"Vane is watching from the high rail","source_sha256":"89e31ee527da11ad9a6fdc6cbca523ad13565492abeaf0b59bac10d15da11b75"}
 {"passage":"Ship_CruiseEvent","source":"The moment passes, and the deck closes over it.","source_sha256":"1980a59f723e40974cfef6f6a6dc5adc2e21e53e9c8dcf2f47e8bc82fd375039"}
 {"passage":"Ship_TravelEvent","source":"The passage is only a passage tonight, and it lets you through.","source_sha256":"35e6b11a0c3ebc51044131266439f7c3827bdcbfd6db07acf4fe87c6a7fc48e8"}
 {"passage":"Ship_TravelEvent","source":"Continue on your way","source_sha256":"168a23e53777d00d3edc500525fe35b1ed6d6990598c87569a2b5db05a92a3fb"}
-{"passage":"Ship_Bar","source":"Pass the time","source_sha256":"08f102116c4ec9f804bf16cbd9359d4b94ece50a60648c4cb3a25f7aae14c455"}
-{"passage":"Ship_Bar","source":"Around the deck","source_sha256":"f5a0888a1e15ff16f51a42487795bd1b0a5caee39ba5c3e51eb2d2fa736a2e4e"}
 {"passage":"Ship_Bar","source":"You've lifted a bottle here today; any more and the staff will notice.","source_sha256":"f72541dcbf26be97049a7e18c1c8560380012cff29443f3601369b543037d145"}
 {"passage":"Ship_Bar","source":"You've worked the room today; any harder and you'll wear out your welcome.","source_sha256":"3fa1e6d6d11092eb24724b4e21c95356288a799f650b1709b8827acbad5e0c87"}
-{"passage":"Ship_Bar","source":"On the floor","source_sha256":"4cb1131bf47fc8d309de881a36e316decca604cf44b0ec8d229b4be29ce4fcd2"}
 {"passage":"Ship_Bar","source":"Try the wheel of fortune","source_sha256":"29a2dd3b779e53ede8d64e260c870d90fa445a10985404542f4f59d45bb2617f"}
 {"passage":"Ship_Bar","source":"Try the capsule machine","source_sha256":"0ec8fe1c67446d9bea787e381c50e03795d1f685b2a89616416e5d181d0b85b6"}
 {"passage":"Ship_Bar","source":"Read the VIP corner's commission book","source_sha256":"654219e2431d90b0ebec02290ddd75834ba4d83eac7c13caf3f373d3b2fd0b5f"}
@@ -1105,11 +1088,8 @@
 {"passage":"Ship_Gacha","source":"You are short of the 50 chips a pull costs.","source_sha256":"2f5e9fdf1432a0d1f4f67a71eb9e861efd137c096e94b6ef40b9ae97ffce6aca"}
 {"passage":"Ship_Gacha","source":"Feed it and pull (50 chips)","source_sha256":"06fa6544837f467ec7c55a793502674523c280c87dce6dfce37ad0ddec48e74e"}
 {"passage":"Ship_Gacha","source":"Step away from the machine","source_sha256":"3836219248b750c09162f4b68b9e9af31a86ce8dcaf817ad8b595c51dacfe416"}
-{"passage":"Ship_Cabins","source":"Pass the time","source_sha256":"08f102116c4ec9f804bf16cbd9359d4b94ece50a60648c4cb3a25f7aae14c455"}
 {"passage":"Ship_Cabins","source":"You have taken what rest you can today; lie down again and you will only stare at the bunk above.","source_sha256":"6c4c6238db996904be469f5a4aed3cf84165e922821dc4968d3754e61eee9fd3"}
 {"passage":"Ship_Cabins","source":"Your paid man is already picking his spot in the shadows by your bunk - tonight, at least, the purse sleeps guarded.","source_sha256":"ecb59903d83c58b2e2c364c4d197de16993a690d0b85335b90c586c789f034b9"}
-{"passage":"Ship_Cabins","source":"Around the deck","source_sha256":"f5a0888a1e15ff16f51a42487795bd1b0a5caee39ba5c3e51eb2d2fa736a2e4e"}
-{"passage":"Ship_Cabins","source":"On the floor","source_sha256":"4cb1131bf47fc8d309de881a36e316decca604cf44b0ec8d229b4be29ce4fcd2"}
 {"passage":"Ship_Cabins","source":"The maids know better than to try to settle a caged cock - \"the owner's locks are the owner's business.\"","source_sha256":"91cf4717d0c02939f361cf87c88e36d40aa61b4523833262e38cd217fdaa1df7"}
 {"passage":"Ship_Cabins","source":"Confront the one who sold you out","source_sha256":"f556f71769fab41fddc3cb3fe1f822c06fbc8d11918d52051d2ee28d1027a664"}
 {"passage":"Ship_Cabins","source":"Rest in your bunk","source_sha256":"f683820d5beaafa8292a65d474d2d06583a394f52eb9a8a1f48a0274d9c64e80"}
@@ -1147,13 +1127,8 @@
 {"passage":"Ship_Voyeur","source":"To play scenes like this, enable \"Non-consensual content (18+)\" in Settings.","source_sha256":"d8fba6cb9f15b77858007afc352b54030638e1f70c9cb06f230883fb0b65aea4"}
 {"passage":"Ship_Voyeur","source":"It is off by default.","source_sha256":"f2608395c3b05c96f5e11e189862bbd7a185236cb1b73d0c2dc072ecf46879d1"}
 {"passage":"Ship_Voyeur","source":"Pull away from the gap","source_sha256":"b57119a94ced404ede0c07e2bf2d9b913dfbfd4e59528ee4c67a43f6d9b9c112"}
-{"passage":"Ship_UpperDeck","source":"Pass the time","source_sha256":"08f102116c4ec9f804bf16cbd9359d4b94ece50a60648c4cb3a25f7aae14c455"}
-{"passage":"Ship_UpperDeck","source":"Around the deck","source_sha256":"f5a0888a1e15ff16f51a42487795bd1b0a5caee39ba5c3e51eb2d2fa736a2e4e"}
 {"passage":"Ship_UpperDeck","source":"Stand at the rail","source_sha256":"bfdab8eee67a3e7346d720419ebb647355c4748a9cd86b4f2cf9cb3f517dab57"}
 {"passage":"Ship_Rail","source":"Step back from the rail","source_sha256":"55fee5c6b4a2528e0cc7621206950f09da9a4feb893fe50265f04c8e8df7c672"}
-{"passage":"Ship_LowerDeck","source":"Pass the time","source_sha256":"08f102116c4ec9f804bf16cbd9359d4b94ece50a60648c4cb3a25f7aae14c455"}
-{"passage":"Ship_LowerDeck","source":"Around the deck","source_sha256":"f5a0888a1e15ff16f51a42487795bd1b0a5caee39ba5c3e51eb2d2fa736a2e4e"}
-{"passage":"Ship_LowerDeck","source":"On the floor","source_sha256":"4cb1131bf47fc8d309de881a36e316decca604cf44b0ec8d229b4be29ce4fcd2"}
 {"passage":"Ship_LowerDeck","source":"The hatch to the wreckmaster's maze is chained until the rows re-arm - one walk a day is all the bilge sells.","source_sha256":"db54c8b2634363bd83206648c3dca777d422ff217b78d50b9e1df9e83453e673"}
 {"passage":"Ship_LowerDeck","source":"The crew has work for you","source_sha256":"3322f1081a71b5c63c269109c49fea3c9bf75bebd7e2f7c8dd2e68eff610a20d"}
 {"passage":"Ship_LowerDeck","source":"Something is happening below...","source_sha256":"ee6397a5b6d1511c3208a6232ae6f1bb3fec0390be7f0657a16897cb1e252763"}
@@ -1168,30 +1143,20 @@
 {"passage":"Ship_Mirror","source":"Shed the disguise","source_sha256":"8fab99a8a937bee58c616c8960615fe81d50edcf5d2f16bbd28aeb292bd00292"}
 {"passage":"Ship_Gloryhole","source":"Clean up and leave","source_sha256":"e5ce007f2863f562145bfa9665a5d40f60e866c9ec95a68637ff11da813177eb"}
 {"passage":"Ship_WagerCollection","source":"Back to the hall","source_sha256":"c1ad4785285caac2bb83932f1ce8aaf7a9db51d6419307e7aec38818ed423af6"}
-{"passage":"Ship_Bridge","source":"Pass the time","source_sha256":"08f102116c4ec9f804bf16cbd9359d4b94ece50a60648c4cb3a25f7aae14c455"}
-{"passage":"Ship_Bridge","source":"Around the deck","source_sha256":"f5a0888a1e15ff16f51a42487795bd1b0a5caee39ba5c3e51eb2d2fa736a2e4e"}
 {"passage":"Ship_Bridge","source":"You have already risked one search tonight; chance a second room before the watch turns over and they will have you.","source_sha256":"7dd5a4b4fece099e1ee5ce62df99848729b6d020c22617cd6b565b5a3688777e"}
 {"passage":"Ship_Bridge","source":"The rest keeps until tomorrow's dark.","source_sha256":"43d6b903276ee108a412b5dd87b1da800000c99caf73328ce23ba4ae31b9b1f0"}
 {"passage":"Ship_Bridge","source":"Brandt's watch holds the bridge through the day.","source_sha256":"1b41990775c5eb4ad50dbaa6d0408515d77a4842f5342ca86ba9a279b1e8a7e0"}
 {"passage":"Ship_Bridge","source":"The hatch only goes quiet after dark - or for a guest the guard has some reason to wave through.","source_sha256":"f91be2b4e56bccb9297a15799b4f95ed5d3ff45b07b5077c6c49cce7fc7a33e2"}
 {"passage":"Ship_Bridge","source":"Search the bridge (night)","source_sha256":"f4f56858f81f9a665d6890415a2c434f24f4f8596fcfd4aeef568cc898c7648e"}
-{"passage":"Ship_RadioRoom","source":"Pass the time","source_sha256":"08f102116c4ec9f804bf16cbd9359d4b94ece50a60648c4cb3a25f7aae14c455"}
-{"passage":"Ship_RadioRoom","source":"Around the deck","source_sha256":"f5a0888a1e15ff16f51a42487795bd1b0a5caee39ba5c3e51eb2d2fa736a2e4e"}
 {"passage":"Ship_RadioRoom","source":"You have already risked one search tonight; chance a second room before the watch turns over and they will have you.","source_sha256":"7dd5a4b4fece099e1ee5ce62df99848729b6d020c22617cd6b565b5a3688777e"}
 {"passage":"Ship_RadioRoom","source":"The rest keeps until tomorrow's dark.","source_sha256":"43d6b903276ee108a412b5dd87b1da800000c99caf73328ce23ba4ae31b9b1f0"}
 {"passage":"Ship_RadioRoom","source":"Search the radio room (night)","source_sha256":"742c9b03641f8b68b0e0ae9dd5d7ff0ed56e0040eda1652cb6c6c88fd421d519"}
-{"passage":"Ship_OwnerCabin","source":"Pass the time","source_sha256":"08f102116c4ec9f804bf16cbd9359d4b94ece50a60648c4cb3a25f7aae14c455"}
-{"passage":"Ship_OwnerCabin","source":"Around the deck","source_sha256":"f5a0888a1e15ff16f51a42487795bd1b0a5caee39ba5c3e51eb2d2fa736a2e4e"}
 {"passage":"Ship_OwnerCabin","source":"You have already risked one search tonight; chance a second room before the watch turns over and they will have you.","source_sha256":"7dd5a4b4fece099e1ee5ce62df99848729b6d020c22617cd6b565b5a3688777e"}
 {"passage":"Ship_OwnerCabin","source":"The rest keeps until tomorrow's dark.","source_sha256":"43d6b903276ee108a412b5dd87b1da800000c99caf73328ce23ba4ae31b9b1f0"}
 {"passage":"Ship_OwnerCabin","source":"Vane's stateroom stays locked and guarded while he holds court below.","source_sha256":"bcb480be9ddd596c1be73a45467e85bffc0f8c428ae572bfeea6ca80d45a57aa"}
 {"passage":"Ship_OwnerCabin","source":"Only the dead of night, when the owner sleeps and the watch is thin, gives you any chance at that door.","source_sha256":"862770dfada9d886e3254c9afb9a430ce6e0efee0be755a30a758d4e8b5cfbb1"}
 {"passage":"Ship_OwnerCabin","source":"Rifle the stateroom (night)","source_sha256":"1dced139b0e3ff0ba23779e318add0f3551afacc74832d9e6e121443364ccbb9"}
-{"passage":"Ship_EngineRoom","source":"Pass the time","source_sha256":"08f102116c4ec9f804bf16cbd9359d4b94ece50a60648c4cb3a25f7aae14c455"}
-{"passage":"Ship_EngineRoom","source":"Around the deck","source_sha256":"f5a0888a1e15ff16f51a42487795bd1b0a5caee39ba5c3e51eb2d2fa736a2e4e"}
 {"passage":"Ship_EngineRoom","source":"Use the workbench","source_sha256":"7cc18dae3e2725825c24770c258b249d094fd8f84a849741248733dbcd1dd3cd"}
-{"passage":"Ship_Galley","source":"Pass the time","source_sha256":"08f102116c4ec9f804bf16cbd9359d4b94ece50a60648c4cb3a25f7aae14c455"}
-{"passage":"Ship_Galley","source":"Around the deck","source_sha256":"f5a0888a1e15ff16f51a42487795bd1b0a5caee39ba5c3e51eb2d2fa736a2e4e"}
 {"passage":"Ship_Galley","source":"You've already lifted a ration today; pushing it would draw eyes.","source_sha256":"f43e32535b8b712cad664d811d65362649be32e177fa835127b795401ea6b576"}
 {"passage":"Ship_Galley","source":"Find the quartermaster","source_sha256":"15abc7c5ae14e35dfde63227ae6eee5c8d68b408942992987a20490c850163d9"}
 {"passage":"Ship_Galley","source":"Swipe a ration from the galley","source_sha256":"d3036cb9f4aaf3c7fcf63a323715a952a91c461445620df5036abbc40d6e6fb2"}
@@ -1651,19 +1616,7 @@
 {"passage":"Prison_TookBlock","source":"Take the chair","source_sha256":"e4974572c98c5f76ed5dbdc8a1fcb49d55d8e142185000c6cf7f77b83f6dddae"}
 {"passage":"Prison_TookBlock","source":"They drag you off the tier","source_sha256":"00fdf81ad0842d7b0fe3cee6683887f5c067dab4e778b78a1e50ec7d0d71790b"}
 {"passage":"Prison_TookBlock","source":"Pick yourself up off the concrete","source_sha256":"a15ffd6db568cd35ce068b8df7fa0663336086496beb337d1df23e5383afd944"}
-{"passage":"Prison_RunBlock","source":"The chair by the good window is yours.","source_sha256":"8f411df9e9b8a16036ef530e2ce4f1c076929a60a6cbd3acc745cd405948a1ef"}
-{"passage":"Prison_RunBlock","source":"Cons bring you their problems and their tribute without being asked, and nobody with sense moves on you in the dark now that you run the block.","source_sha256":"3c89a9c4dd200ba9a42cbccf634a2ae3c118fc2b5444c135ce7b3c7d0742eb8e"}
-{"passage":"Prison_RunBlock","source":"The tier has paid its tribute today.","source_sha256":"9abe467849a98fae456a96c9835818c95c211f7110d684556461a65b6ac161aa"}
-{"passage":"Prison_RunBlock","source":"It will pay again tomorrow.","source_sha256":"5def5c2ec1ca8cc02dc20580e45b803ffca1224009f6e78b730921b3c1be7f35"}
-{"passage":"Prison_RunBlock","source":"The Boss's String","source_sha256":"c24b437338262f82c7516caff61f0c622f5e58a1c55b29b5fecb6cc31b0c2f7a"}
 {"passage":"Prison_RunBlock","source":"Yours on the block: head heads .","source_sha256":"36ff032e096621a04d72d612546f57d76acfc4d288cfeade2dd7e299730bada4"}
-{"passage":"Prison_RunBlock","source":"You have called on your string once today.","source_sha256":"d0ff2f3e24c2b43b268b16e82f0e12ffbe84e878e7265d1c9ae6f670fbbe42b8"}
-{"passage":"Prison_RunBlock","source":"You use the string and let the tier see it - once.","source_sha256":"636bfad12b0de5fde504128b330bfc66bad061b661202f18a24cf79ae92e5a17"}
-{"passage":"Prison_RunBlock","source":"More than that makes you look unable to sit still on the chair.","source_sha256":"67ee6888af761ad66319a7d00df741593c8c238454725148ff03d54208fc3956"}
-{"passage":"Prison_RunBlock","source":"You have taken your tribute of the flesh today.","source_sha256":"5014ece2478f81a11db564cbdc4e7c96af828dd4d46077a45a6a27c891eeb820"}
-{"passage":"Prison_RunBlock","source":"The tier will have another for you tomorrow.","source_sha256":"302c923256f7cda5038003d0e9151e7648e0ae9fe38f55b0cca5342da47f6e65"}
-{"passage":"Prison_RunBlock","source":"The cage blocks every active sexual use of the boss's string.","source_sha256":"54cecef0a9559f05af8577ed9f19957d0bcda5c24ed2061da4c71590f1474414"}
-{"passage":"Prison_RunBlock","source":"You can hold court, collect tribute, or leave without sex.","source_sha256":"5cd96afd1c820c6b65f5c1f6bea66d7ecfb7b87af17dc419801c6730f8957470"}
 {"passage":"Prison_BlockTransfer","source":"Carry your box across","source_sha256":"a74b3d9793d3c95be9601624347a51fb977f8b6b8ba4329abe9fdf78704e85b5"}
 {"passage":"Prison_SexSelect","source":"How do you approach them?","source_sha256":"08220f6aa41c1be5279369867584f10a7bcabdf78c121418a51d6902ab910496"}
 {"passage":"Prison_SexSelect","source":"Choose what you want and who makes the first move.","source_sha256":"6e12ab4f8374d269f2f5b555eb2e363648e1dbc1ff9f3c13d38f0abcf94ab8b2"}
