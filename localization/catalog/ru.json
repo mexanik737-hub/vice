@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 46,
+    "version": 47,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -2395,7 +2395,21 @@
     "Your body is in the pot": "Твоё тело на кону",
     "Your body is in the pot.": "Твоё тело на кону.",
     "There is no folding now - play the hand out.": "Сбросить карты уже нельзя — доиграй партию.",
-    "Fold and leave": "Сдаться и уйти"
+    "Fold and leave": "Сдаться и уйти",
+    "How to Pick a Lock": "Как взломать замок",
+    "You need to pick 3 locks in a row to open the door.": "Чтобы открыть дверь, нужно подряд взломать три замка.",
+    "The lock is picked, you advance to the next one.": "Замок взломан — переходи к следующему.",
+    "Yellow zone - Close, but not enough.": "Жёлтая зона — почти получилось, но этого недостаточно.",
+    "Your progress drops by 1 lock.": "Прогресс уменьшается на один замок.",
+    "If you're on the first lock, you simply retry it.": "Если это первый замок, просто попробуй ещё раз.",
+    "Your lockpick breaks and the attempt fails.": "Отмычка ломается, и попытка проваливается.",
+    "📈 What Affects Difficulty": "📈 Что влияет на сложность",
+    "The difficulty depends entirely on your Lockpick skill:": "Сложность зависит только от твоего навыка взлома:",
+    "Higher skill = wider green and yellow zones": "Чем выше навык, тем шире зелёная и жёлтая зоны.",
+    "Your current Lockpick skill: /": "Твой текущий навык взлома:",
+    "Watch the ring carefully - it changes color as it enters different zones": "Следи за кольцом: при переходе между зонами оно меняет цвет.",
+    "Click anywhere on the circle area when you think the ring is in the green zone": "Нажми в любом месте круга, когда кольцо окажется в зелёной зоне.",
+    "If you fail, you lose one lockpick - stock up before attempting!": "При неудаче ты теряешь отмычку — запасись ими перед попыткой!"
   },
   "scoped": [
     {
@@ -3097,6 +3111,56 @@
       "selector": ".rps-deck-banner",
       "source": "Rock, scissors and paper - the three cards of the game",
       "target": "Камень, ножницы и бумага — три карты этой игры"
+    },
+    {
+      "selector": ".lockpick-tutorial-section p",
+      "source": "You need to",
+      "target": "Тебе нужно"
+    },
+    {
+      "selector": ".lockpick-tutorial-section strong",
+      "source": "pick 3 locks",
+      "target": "взломать три замка"
+    },
+    {
+      "selector": ".lockpick-tutorial-section p",
+      "source": "in a row to open the door. A shrinking ring will appear on screen - click at the right moment!",
+      "target": "подряд, чтобы открыть дверь. На экране появится сужающееся кольцо — нажми в нужный момент!"
+    },
+    {
+      "selector": ".lockpick-tutorial-zone.zone-green",
+      "source": "- Perfect hit! The lock is picked, you advance to the next one.",
+      "target": "— точное попадание! Замок взломан, переходи к следующему."
+    },
+    {
+      "selector": ".lockpick-tutorial-zone.zone-yellow",
+      "source": "- Close, but not enough. Your progress drops by 1 lock. If you're on the first lock, you simply retry it.",
+      "target": "— почти получилось, но замок не поддался. Прогресс уменьшается на один замок. Если это первый замок, просто попробуй ещё раз."
+    },
+    {
+      "selector": ".lockpick-tutorial-zone.zone-red",
+      "source": "- Miss! Your lockpick breaks and the attempt fails.",
+      "target": "— промах! Отмычка ломается, попытка провалена."
+    },
+    {
+      "selector": ".lockpick-tutorial-list li",
+      "source": "Your current Lockpick skill:",
+      "target": "Твой текущий навык взлома:"
+    },
+    {
+      "selector": ".lockpick-tutorial-list li",
+      "source": "Higher skill =",
+      "target": "Чем выше навык —"
+    },
+    {
+      "selector": ".lockpick-tutorial-list li",
+      "source": "wider",
+      "target": "шире"
+    },
+    {
+      "selector": ".lockpick-tutorial-list li",
+      "source": "green and yellow zones",
+      "target": "зелёная и жёлтая зоны"
     }
   ],
   "templates": [

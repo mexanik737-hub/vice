@@ -1117,20 +1117,6 @@
 {"passage":"NPC_House_BreakIn_PlayerLoses","source":"defeated you and threw you out of the house.","source_sha256":"55ed915d1a7e343ecac322b9293497de9441105256471b7805be4ba0210abebe"}
 {"passage":"NPC_House_LockpickMinigame","source":"- Picking the Lock 🔧","source_sha256":"a4ded9f9f032e0f4ac629a2107113bf577a905662fde130b40d587b16e6ed239"}
 {"passage":"NPC_House_LockpickMinigame","source":"You don't have a lockpick!","source_sha256":"dcca0690fcc648c33c1d7c14c3fb33e72a8f199e5639b842a5ef7e937bb1b0cb"}
-{"passage":"NPC_House_LockpickTutorial","source":"How to Pick a Lock","source_sha256":"013e8733945b7484f23b53f033c92c0d90676cde4de7dbf7a251d41e51af83b7"}
-{"passage":"NPC_House_LockpickTutorial","source":"You need to pick 3 locks in a row to open the door.","source_sha256":"f9aed6ddc13f94d51b53269f9ab005b45aff4ff9c0269d73093d301fce3a3d09"}
-{"passage":"NPC_House_LockpickTutorial","source":"The lock is picked, you advance to the next one.","source_sha256":"9b31ae5fd4e03293d2274507fd3d4f949c03adbb404eb6a1fb4e7a4980c55bb7"}
-{"passage":"NPC_House_LockpickTutorial","source":"Yellow zone - Close, but not enough.","source_sha256":"b140330e2d7659b8f658901ef09754b6285bcb67ee4b889089d04f6b510a0f2f"}
-{"passage":"NPC_House_LockpickTutorial","source":"Your progress drops by 1 lock.","source_sha256":"230cc07392578e3cd790daaed5907a59f4bb772d486e29b91a5d6197b70fc666"}
-{"passage":"NPC_House_LockpickTutorial","source":"If you're on the first lock, you simply retry it.","source_sha256":"7b682e30c605dddf034b367cecd70840a4f95cff8b9bda8b135d084f54ea5074"}
-{"passage":"NPC_House_LockpickTutorial","source":"Your lockpick breaks and the attempt fails.","source_sha256":"63543bb6fdf09d54bd498ecf5a965b8e6cee8460cf7a16d83ed8aa51815628fd"}
-{"passage":"NPC_House_LockpickTutorial","source":"📈 What Affects Difficulty","source_sha256":"09369f5a11e812e40a2a13f916a4f79c09527286ced0c389fe2736741ef45f87"}
-{"passage":"NPC_House_LockpickTutorial","source":"The difficulty depends entirely on your Lockpick skill:","source_sha256":"7a34338bbdcdff715d00f11c9c7fc30972ac0fd8ded3acc5ea1c1e04a471de7d"}
-{"passage":"NPC_House_LockpickTutorial","source":"Higher skill = wider green and yellow zones","source_sha256":"22e684b165b7fee420af96dc7632d64f74cd8a408d96ac880b8dc077aa730cdb"}
-{"passage":"NPC_House_LockpickTutorial","source":"Your current Lockpick skill: /","source_sha256":"d8b47118d6fd72c993df92079b9945aa78bea8fe41fcd4f39788eadd3b63608f"}
-{"passage":"NPC_House_LockpickTutorial","source":"Watch the ring carefully - it changes color as it enters different zones","source_sha256":"8f13d1cb41e0adb00171c7823b814921fac154c006862924e1b697898adcd7f7"}
-{"passage":"NPC_House_LockpickTutorial","source":"Click anywhere on the circle area when you think the ring is in the green zone","source_sha256":"0603fb52a43c9d223ca17999f9dafa580da2ec1a151e60b1b72ec97a7725378b"}
-{"passage":"NPC_House_LockpickTutorial","source":"If you fail, you lose one lockpick - stock up before attempting!","source_sha256":"7d57998687a82fee75cee53191f3f0b6049353ed3052c21a1ec4ba5e52b01f39"}
 {"passage":"NPC_House_LockpickFailed","source":"💔 Your lockpick broke!","source_sha256":"f6fef6703cffe6f9bcd33caa3b3e1ba3b2a51ad8313f8e5d5743ed18c8092911"}
 {"passage":"NPC_House_LockpickFailed","source":"The lockpick snapped while trying to pick the lock.","source_sha256":"28fe7625259871040d57e66afb1fc4285e28636e20aff616d5f9508defbbacf9"}
 {"passage":"NPC_House_LockpickFailed","source":"You'll need another one to try again.","source_sha256":"773a449b86a1d7951e8a97f56ffd09d69bd4a3fc1e4cce5f3a116de92e97033f"}
