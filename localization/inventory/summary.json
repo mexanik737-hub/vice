@@ -86,5 +86,190 @@
       25
     ]
   ],
-  "warning": "Conservative candidate extraction; includes false positives and misses dynamically composed/code-generated strings. Review before translation."
+  "warning": "Conservative candidate extraction; includes false positives and misses dynamically composed/code-generated strings. Review before translation.",
+  "catalog": {
+    "exact_phrase_count": 2767,
+    "dynamic_template_count": 23,
+    "coverage_percent": null,
+    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 2263/5634 (40.2%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
+    "context_rule_count": 203,
+    "candidate_exact_matches": 2263,
+    "candidate_unique_strings": 5634,
+    "candidate_match_percent": 40.2,
+    "faq_candidate_strings": 463,
+    "faq_candidate_translated": 463,
+    "npc_interaction_candidate_strings": 49,
+    "npc_interaction_candidate_translated": 48,
+    "untranslated_candidate_rows": 3586,
+    "untranslated_unique_strings": 3371,
+    "top_untranslated_passages": [
+      [
+        "Options",
+        57
+      ],
+      [
+        "PlayerCreate",
+        40
+      ],
+      [
+        "PlayerAppearance",
+        22
+      ],
+      [
+        "Inventory",
+        20
+      ],
+      [
+        "CharacterWearingDraw",
+        16
+      ],
+      [
+        "Start",
+        16
+      ],
+      [
+        "Marcus_Quest2_Intervene_Win_Accept",
+        15
+      ],
+      [
+        "SarahQuest_2_Female_Gary_apartment",
+        15
+      ],
+      [
+        "BDSM_LeashPlay",
+        14
+      ],
+      [
+        "Sarah_Quest_01_End_Trans",
+        14
+      ],
+      [
+        "SarahQuest_2_Shemale",
+        14
+      ],
+      [
+        "Widgets",
+        14
+      ],
+      [
+        "BDSM_LickFeet",
+        13
+      ],
+      [
+        "BDSM_TieUp",
+        13
+      ],
+      [
+        "CorwinAshgrove_Quest_1_Friend",
+        13
+      ],
+      [
+        "StatsSettings",
+        13
+      ],
+      [
+        "AliceQuest1_Start_Trans_Sub",
+        12
+      ],
+      [
+        "Amanda_Picnic_Event",
+        12
+      ],
+      [
+        "AvailableQuests",
+        12
+      ],
+      [
+        "BrothelCasting_Haggle",
+        12
+      ]
+    ]
+  },
+  "updated": "2026-11-26",
+  "untranslated_rows": 3586,
+  "untranslated_unique_strings": 3371,
+  "translated_unique_strings": 2263,
+  "exact_match_percent": 40.2,
+  "top_untranslated_passages": [
+    [
+      "Options",
+      57
+    ],
+    [
+      "PlayerCreate",
+      40
+    ],
+    [
+      "PlayerAppearance",
+      22
+    ],
+    [
+      "Inventory",
+      20
+    ],
+    [
+      "CharacterWearingDraw",
+      16
+    ],
+    [
+      "Start",
+      16
+    ],
+    [
+      "Marcus_Quest2_Intervene_Win_Accept",
+      15
+    ],
+    [
+      "SarahQuest_2_Female_Gary_apartment",
+      15
+    ],
+    [
+      "BDSM_LeashPlay",
+      14
+    ],
+    [
+      "Sarah_Quest_01_End_Trans",
+      14
+    ],
+    [
+      "SarahQuest_2_Shemale",
+      14
+    ],
+    [
+      "Widgets",
+      14
+    ],
+    [
+      "BDSM_LickFeet",
+      13
+    ],
+    [
+      "BDSM_TieUp",
+      13
+    ],
+    [
+      "CorwinAshgrove_Quest_1_Friend",
+      13
+    ],
+    [
+      "StatsSettings",
+      13
+    ],
+    [
+      "AliceQuest1_Start_Trans_Sub",
+      12
+    ],
+    [
+      "Amanda_Picnic_Event",
+      12
+    ],
+    [
+      "AvailableQuests",
+      12
+    ],
+    [
+      "BrothelCasting_Haggle",
+      12
+    ]
+  ]
 }
