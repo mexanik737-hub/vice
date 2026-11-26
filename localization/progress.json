@@ -15,7 +15,7 @@
       "name": "Интерфейс и системные меню",
       "status": "in_progress",
       "coverage": null,
-      "notes": "Каталог: 2078 точных фраз, 120 контекстных правил, 7 шаблонов. Основной интерфейс и разделы механик частично локализованы; фазы не завершены."
+      "notes": "Каталог: 2104 точных фраз, 126 локальных контекстных правил, 7 шаблонов. Этап не завершён."
     },
     {
       "id": "L2",
@@ -143,11 +143,11 @@
     "warning": "Conservative candidate extraction; includes false positives and misses dynamically composed/code-generated strings. Review before translation."
   },
   "catalog": {
-    "exact_phrase_count": 2078,
+    "exact_phrase_count": 2104,
     "dynamic_template_count": 7,
     "coverage_percent": null,
-    "coverage_note": "Точное совпадение каталог/инвентарь: 1629/5634 (28.9%). Это нижняя оценка строк-кандидатов, а не полное покрытие игры.",
-    "context_rule_count": 120,
+    "coverage_note": "Точное совпадение каталога точных фраз с инвентарём: 1629/5634 (28.9%). Контекстные правила считаются отдельно; извлекатель приблизительный.",
+    "context_rule_count": 126,
     "candidate_exact_matches": 1629,
     "candidate_unique_strings": 5634,
     "candidate_match_percent": 28.9,
@@ -247,7 +247,7 @@
     "device_saf_media_save_roundtrip": "not_run: no Samsung Android 17 device",
     "synthetic_media_metadata": "passed: JPEG, WebM VP8/Vorbis, WAV PCM inspected with ffprobe",
     "desktop_webview_smoke": "not_run: Chromium launcher exists but system binary is missing",
-    "translation_status": "incomplete: 1629/5634 unique extracted candidates matched; extractor is approximate",
+    "translation_status": "incomplete: 1629/5634 unique extracted candidates matched by exact phrases; scoped rules/templates excluded; extractor is approximate",
     "startup_performance_fix": "implemented: initial localization only scans live game containers; mutations batched via requestAnimationFrame",
     "media_path_audit": "passed statically: img/video/background/audio calls traced; device media playback not run",
     "saf_mime_fallback": "implemented and statically checked for generic application/octet-stream responses"

@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 31,
+    "version": 33,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -187,7 +187,6 @@
     "Face of 40": "Лицо № 40",
     "👤 Identity": "👤 Персонаж",
     "⚙️ Game Settings": "⚙️ Настройки игры",
-    "Trans": "Трансгендер",
     "Street crews in the city": "Уличные группировки в городе",
     "Sort: Recently added": "Сортировка: сначала новые",
     "Type": "Тип",
@@ -2082,7 +2081,34 @@
     "Your own crew:": "Твоя банда:",
     "Your people will not forgive it.": "Твои люди этого не простят.",
     "and , are catching up together at their usual meeting place.": "и встречаются в привычном месте, чтобы поболтать.",
-    "under your clothes": "под одеждой"
+    "under your clothes": "под одеждой",
+    "Enter first name": "Введи имя",
+    "Random Name": "Случайное имя",
+    "Enter last name": "Введи фамилию",
+    "NPCs will initiate interactions with you": "NPC будут сами начинать взаимодействие с тобой",
+    "Each step uses ~2x more RAM and may cause lag at high values.": "Каждый шаг использует примерно вдвое больше оперативной памяти и при больших значениях может вызывать задержки.",
+    "Search items…": "Поиск предметов…",
+    "Put on": "Надеть",
+    "Use": "Использовать",
+    "Firearm Prof.": "Владение огнестрельным оружием",
+    "Strength": "Сила",
+    "Standard Ammo": "Стандартные боеприпасы",
+    "Sort by:": "Сортировать:",
+    "Name (A-Z)": "Название (А—Я)",
+    "Name (Z-A)": "Название (Я—А)",
+    "Price (Low to High)": "Цена (сначала дешевле)",
+    "Price (High to Low)": "Цена (сначала дороже)",
+    "Apply": "Применить",
+    "Showing": "Показано",
+    "items": "предметов",
+    "Buy": "Купить",
+    "Not enough money": "Недостаточно денег",
+    "No items found": "Ничего не найдено",
+    "Weight": "Вес",
+    "Current Ammo": "Боеприпасов",
+    "Ammo Type": "Тип боеприпасов",
+    "Ammo per Shot": "Боеприпасов за выстрел",
+    "Required Skill": "Требуемый навык"
   },
   "scoped": [
     {
@@ -2684,6 +2710,36 @@
       "selector": ".faq-answer",
       "source": "and",
       "target": "и"
+    },
+    {
+      "source": "Male",
+      "selector": "#gender-selector [data-value=\"Male\"] .option-label",
+      "target": "Мужчина"
+    },
+    {
+      "source": "Female",
+      "selector": "#gender-selector [data-value=\"Female\"] .option-label",
+      "target": "Женщина"
+    },
+    {
+      "source": "Trans",
+      "selector": "#gender-selector [data-value=\"Trans\"] .option-label",
+      "target": "Трансгендер"
+    },
+    {
+      "source": "White",
+      "selector": "#skin-selector [data-value=\"White\"] .option-label",
+      "target": "Светлая"
+    },
+    {
+      "source": "Black",
+      "selector": "#skin-selector [data-value=\"Black\"] .option-label",
+      "target": "Тёмная"
+    },
+    {
+      "source": "Asian",
+      "selector": "#skin-selector [data-value=\"Asian\"] .option-label",
+      "target": "Азиатская"
     }
   ],
   "templates": [
