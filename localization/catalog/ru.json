@@ -2725,7 +2725,21 @@
     "Leave the floor": "Покинуть площадку",
     "Buy in and take your seat": "Внести взнос и занять место",
     "Play the round": "Сыграть раунд",
-    "Forfeit and keep what you have banked": "Сойти с турнира и забрать накопленный выигрыш"
+    "Forfeit and keep what you have banked": "Сойти с турнира и забрать накопленный выигрыш",
+    "Oh, okay! No pressure. Just know that I really enjoy hanging out with you. *They seem understanding*": "А, ладно! Не тороплю. Просто знай: мне правда нравится проводить с тобой время. *Похоже, всё понятно*",
+    "Take your time. I just wanted you to know you matter to me. *They smile warmly*": "Не спеши. Мне просто хотелось, чтобы ты знал: ты для меня многое значишь. *На лице появляется тёплая улыбка*",
+    "O-oh... okay. I get it. This is a lot to process. Take your time, I'll wait. *They look nervous but hopeful*": "О-ох... ладно. Понимаю. Это многое, что нужно обдумать. Не спеши, я подожду. *Взгляд тревожный, но полный надежды*",
+    "It's a big step, I get it. I'm not going anywhere. 💕 *They're patient and caring*": "Это серьёзный шаг, я понимаю. Я никуда не денусь. 💕 *Терпения и заботы не занимать*",
+    "Forever is a big word. Say it when you mean it, I'll still be here. 💞 *They squeeze your hand*": "«Навсегда» — серьёзное слово. Скажи его, когда будешь уверен. Я всё равно буду рядом. 💞 *Тебе тепло сжимают руку*",
+    "Sure, no rush! Just let me know whenever. No pressure at all. *They seem casual about it*": "Да, конечно, не спеши! Просто дай знать, когда будешь готов. Никакого давления. *Похоже, это не слишком задело*",
+    "They accepted your need for time. No hard feelings!": "Твою просьбу дать время приняли. Никаких обид!",
+    "Oh... sure, I guess. *They seem slightly disappointed but try to hide it*": "Ну... да, конечно. *Лёгкое разочарование тут же стараются скрыть*",
+    "Right... of course. *They look a bit hurt but nod understandingly*": "Да... конечно. *В глазах мелькает обида, но в ответ — понимающий кивок*",
+    "I... I see. Yeah, take your time... *They try to hide their disappointment*": "Я... ясно. Да, не спеши... *Разочарование стараются скрыть*",
+    "Oh... okay. *They look down, clearly disappointed but accepting*": "Ну... ладно. *Взгляд опускается: разочарование очевидно, но решение принято*",
+    "Right. Not yet, then. *They try to smile, but it doesn't reach their eyes*": "Понятно. Значит, пока нет. *Появляется улыбка, но глаза остаются грустными*",
+    "Oh, yeah, no worries. *They shrug, but you sense slight disappointment*": "А, да, ничего страшного. *В ответ лишь пожатие плечами, хотя ты замечаешь лёгкое разочарование*",
+    "They accepted, but seem slightly hurt by the delay.": "Твоя просьба принята, хотя задержка, кажется, немного задела."
   },
   "scoped": [
     {
