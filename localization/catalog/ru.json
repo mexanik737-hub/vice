@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 59,
+    "version": 60,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -2831,7 +2831,17 @@
     "Back to the chat": "Вернуться к чату",
     "The chat could not load.": "Не удалось загрузить чат.",
     "You're wearing:": "На вас надето:",
-    "is armed with:": "вооружён(а):"
+    "is armed with:": "вооружён(а):",
+    "That prisoner is no longer in the dungeon.": "Этого заключённого больше нет в подземелье.",
+    "Face the music": "Отвечай за содеянное",
+    "Wrap up the picnic": "Закончить пикник",
+    "Not tonight": "Не сегодня вечером",
+    "Back to the hall": "Вернуться в зал",
+    "✓ Proceed with test": "✓ Перейти к проверке",
+    "← That won't be necessary": "← В этом нет необходимости",
+    "You don't have enough money.": "У тебя недостаточно денег.",
+    "Not today": "Не сегодня",
+    "I think you're right.": "Думаю, ты прав(а)."
   },
   "scoped": [
     {
