@@ -36,7 +36,7 @@
       "name": "Диалоги",
       "status": "in_progress",
       "coverage": null,
-      "notes": "Переведены отдельные сцены Аманды, Гэри, Элис и Соланы, а также эпизоды квеста Итана; большинство квестовых реплик остаётся английским."
+      "notes": "Переведены отдельные сцены фотосессии, Аманды, Гэри, Элис и Соланы, а также эпизоды квеста Итана; большинство квестовых реплик остаётся английским."
     },
     {
       "id": "L5",
@@ -143,20 +143,20 @@
     "warning": "Conservative candidate extraction; includes false positives and misses dynamically composed/code-generated strings. Review before translation."
   },
   "catalog": {
-    "exact_phrase_count": 2550,
+    "exact_phrase_count": 2564,
     "dynamic_template_count": 23,
     "coverage_percent": null,
-    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 2064/5634 (36.6%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
+    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 2078/5634 (36.9%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
     "context_rule_count": 188,
-    "candidate_exact_matches": 2064,
+    "candidate_exact_matches": 2078,
     "candidate_unique_strings": 5634,
-    "candidate_match_percent": 36.6,
+    "candidate_match_percent": 36.9,
     "faq_candidate_strings": 463,
     "faq_candidate_translated": 463,
     "npc_interaction_candidate_strings": 49,
     "npc_interaction_candidate_translated": 48,
-    "untranslated_candidate_rows": 3819,
-    "untranslated_unique_strings": 3570,
+    "untranslated_candidate_rows": 3805,
+    "untranslated_unique_strings": 3556,
     "top_untranslated_passages": [
       [
         "Options",
@@ -211,10 +211,6 @@
         14
       ],
       [
-        "PhotoShoot_Event_01_02_Sex",
-        14
-      ],
-      [
         "BDSM_LeashPlay",
         14
       ],
@@ -236,6 +232,10 @@
       ],
       [
         "Ship_MainHall",
+        13
+      ],
+      [
+        "Ship_Restroom",
         13
       ]
     ]
