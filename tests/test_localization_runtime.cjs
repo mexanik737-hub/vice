@@ -7,6 +7,7 @@ assert.match(html, /<script id="viceburg-android-tools">[\s\S]*?<\/script>/, 'bu
 const toolsMatch = html.match(/<script id="viceburg-android-tools">([\s\S]*?)<\/script>/);
 assert.ok(toolsMatch, 'app tools script can be extracted');
 new vm.Script(toolsMatch[1], { filename: 'viceburg-android-tools.js' });
+assert.match(toolsMatch[1], /редактор персонажа|character.?editor/, 'cheat editor is recognized');
 const match = html.match(/<script id="viceburg-ru-layer">([\s\S]*?)<\/script>/);
 assert.ok(match, 'built HTML contains the Russian runtime layer');
 const code = match[1].replace(/\/\/ Never traverse the embedded Twine source[\s\S]*$/, 'globalThis.vbTranslate = translated;})();');
