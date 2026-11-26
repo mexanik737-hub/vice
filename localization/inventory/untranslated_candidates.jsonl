@@ -1050,18 +1050,7 @@
 {"passage":"Ship_Bar","source":"Something stirs in the bar...","source_sha256":"d9e4a2708d525d8fca371dce3f895ac0a5c22a44fceefd6f19276533d2da788e"}
 {"passage":"Ship_VipWager","source":"Sit against the VIP's champion","source_sha256":"a23118cd19deb149dc1ca97d19b8258147e6bb63afb881206f92fac25d2fb266"}
 {"passage":"Ship_VipWager","source":"Not tonight","source_sha256":"36d870f40192be0e61accf8dd81c3826108f9b42d04f5df2367e4760c5830f51"}
-{"passage":"Ship_CardTally","source":"The last hour ran hot - frantic matches as the whole boat scrambled to empty its hands.","source_sha256":"fe34e571633a5adbdb9f3258d7ebe0a76dfa1d432e7463f59db4c636ee3fd69e"}
-{"passage":"Ship_CardTally","source":"Now the room holds its breath while the steward reads.","source_sha256":"e924154a390df91605c679628927058c4a920447beec51218e18ac37709ee1b3"}
-{"passage":"Ship_CardTally","source":"Your name is on the list","source_sha256":"eb3b6c9d8865453b5fbb790c42d55cc80b05d4e405557f7f33c1c8d37ddd9931"}
-{"passage":"Ship_CardTally","source":"The steward's eyes find you before his voice does.","source_sha256":"e58fe029c301257bbfd73ca36af93d5925f271d7f4e5a91baad90e8f40f015f4"}
 {"passage":"Ship_CardTally","source":"Holding .\" The hall turns to look, and the house collects right there in front of everyone: the warmth crawling under your skin is a stage of softness you did not choose, and something in how easily you stand there and let them watch tells you the corruption took too.","source_sha256":"393be0db2e50e97058e498cce11f1d5dceb10dee11df7efbe64bc53ed8582697"}
-{"passage":"Ship_CardTally","source":"Your leftover cards are swept into the steward's bag - void until the morning deal.","source_sha256":"aa7f3b790827ac369eb82c0d8e0c2fc5d2861731540073db162b3ed8de1d5a9a"}
-{"passage":"Ship_CardTally","source":"Your own hands are empty, and the steward's eyes slide past you.","source_sha256":"67fb556c4cab77135db0dd66cb1e61d1a055702d32c2c658c359c3e5006836c1"}
-{"passage":"Ship_CardTally","source":"Whatever the ledger takes tonight, it takes from someone else.","source_sha256":"f100983e53f110992cc4bcf0b49cdb1a424a8198fa3fa0fcb6f223abc59ccd36"}
-{"passage":"Ship_CardTally","source":"Named and marked","source_sha256":"c7edfc6ccc028059491a759e2a082769f06b96294708e875b7095d6d3d613bec"}
-{"passage":"Ship_CardTally","source":"For once, the steward closes the ledger unmarked - every contestant found a seat in time.","source_sha256":"89de81da45da79144b5d48b64e631c05e747fe3018c47751a92a88c30c37651f"}
-{"passage":"Ship_CardTally","source":"The hall exhales as one.","source_sha256":"ec89d2b0f271acf37c8ad405247a6433e27efeadbee2a0ad285db9178074509e"}
-{"passage":"Ship_CardTally","source":"Slip back into the evening","source_sha256":"b7076135c514e92f1b627e1d50130fbca80e3eaed7755dbc10ef65aad8986f86"}
 {"passage":"Ship_VipMissions","source":"Your commissions","source_sha256":"38e6e72784eb9ca98d2fa2a87e75e7c91c5eefdb037f0f5ba2d7ebf9b6e13eea"}
 {"passage":"Ship_VipMissions","source":"Your hands are full - deliver what you carry before taking more.","source_sha256":"8b6fc349c67afe3c02f623c846e59bd7ca289d1297124e5b5eca4fdfc18613a2"}
 {"passage":"Ship_VipMissions","source":"Today's page is bare - every posted commission has been taken.","source_sha256":"105de43892bdf41d3e6eaa44332e7d48d128dda0fd3532dd1762cea0f0e844a8"}
