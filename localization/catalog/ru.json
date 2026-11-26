@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 57,
+    "version": 58,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -2818,7 +2818,16 @@
     "Rayna's car is where she left it, under the trees across the road.": "Машина Рейны стоит там, где она её оставила, под деревьями на другой стороне дороги.",
     "It is empty.": "В ней никого.",
     "She is still in that cellar, and you are out here.": "Она всё ещё в том подвале, а ты уже снаружи.",
-    "Rayna's car is where she left it, under the trees across the road, with the engine running.": "Машина Рейны стоит там, где она её оставила, под деревьями на другой стороне дороги; двигатель работает."
+    "Rayna's car is where she left it, under the trees across the road, with the engine running.": "Машина Рейны стоит там, где она её оставила, под деревьями на другой стороне дороги; двигатель работает.",
+    "the cars leave at 06:00": "машины уезжают в 06:00",
+    "The night": "Ночь",
+    "In the room": "В комнате",
+    "The room is yours.": "Комната в твоём распоряжении.",
+    "Doors, paper and trouble": "Двери, документы и неприятности",
+    "Furniture and vents": "Мебель и вентиляция",
+    "The house": "Дом",
+    "What you have worked out": "Что тебе удалось выяснить",
+    "In your pockets": "В карманах"
   },
   "scoped": [
     {
