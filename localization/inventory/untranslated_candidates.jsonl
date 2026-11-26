@@ -1202,17 +1202,8 @@
 {"passage":"Ship_ChampionNight","source":"Send him off with a drink","source_sha256":"a07b56431e11670099fe8650376f6ee052bf5eae181736b376198b9c6b2877a3"}
 {"passage":"Ship_Championship","source":"The bracket: ·","source_sha256":"e947a97e3267e108b02fb9eb7be631aadda57ec7e9dfbf24ae64722cb0381521"}
 {"passage":"Ship_Championship","source":"Buy-in chips · the title pays","source_sha256":"4525f40d7f381220b06cc7f27196bc08a985e2dbc090893bf9e29a6da6ce6594"}
-{"passage":"Ship_Championship","source":"Too few contestants are still standing to field a full bracket.","source_sha256":"773e43b85c8a25565146dbfc99a6915077cf9eab153815996aaaf579a476667b"}
-{"passage":"Ship_Championship","source":"The championship is off this voyage.","source_sha256":"873578880df0dbfae6d8dffc84a17773769e35bd63084f9294c1d7ff621c1f63"}
-{"passage":"Ship_Championship","source":"You cannot cover the buy-in of chips.","source_sha256":"4b25147d55ab76022544363dbf31920789889b447cb306589c8017f894b45c20"}
 {"passage":"Ship_Championship","source":"Round / · You vs","source_sha256":"53bf9fbdd2e51320b37bb0fe68ec9f9bcf5ed50208feabd87a947673c08cb107"}
 {"passage":"Ship_Championship","source":"Banked so far · your read of the round %","source_sha256":"67cc9cc0528ddd162a78a892097a84bf64fa9be69c1e5c4670167739fe7b5848"}
-{"passage":"Ship_Championship","source":"Take the next round","source_sha256":"47f9180ab0151224b27f5f4119cdd666a5b196c7dde6e6747a93a92194b45ac5"}
-{"passage":"Ship_Championship","source":"Let the night find its champion","source_sha256":"78dee8b850f9f0c50f5ffda351759afab6c20d6732ff4291f267b36f74031c71"}
-{"passage":"Ship_Championship","source":"Leave the floor","source_sha256":"b0e8ffdd0946e3f1aafedec7c81a74e3db8091691c1302053694cd11cf75b8a4"}
-{"passage":"Ship_Championship","source":"Buy in and take your seat","source_sha256":"7359365ddef2c262404b84e42768f8dcda2b48c2fef756c0049eef214cca1b02"}
-{"passage":"Ship_Championship","source":"Play the round","source_sha256":"940cc8ed5c049af360d9116055ec2c3fbc01511d5559a99e3aac53e001e5e9d2"}
-{"passage":"Ship_Championship","source":"Forfeit and keep what you have banked","source_sha256":"890fda309e9b700d0fd5326fff5e1046d82bef98bd7c0662cbcf730b06f5c275"}
 {"passage":"Ship_Standings","source":"You stand # of aboard, with in chips against a debt.","source_sha256":"9cb325a911993545220a40f339e09a1020574b229de03977cd22103de4a201e5"}
 {"passage":"Ship_Standings","source":"Back to the hall","source_sha256":"c1ad4785285caac2bb83932f1ce8aaf7a9db51d6419307e7aec38818ed423af6"}
 {"passage":"Ship_RivalBeat","source":"You are parting as .","source_sha256":"5352c9655eab2b41713e36404d21bb0732889b1650c933c96bf0abceb621db66"}
