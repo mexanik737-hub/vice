@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 36,
+    "version": 38,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -2201,7 +2201,34 @@
     "Your ear: listens a run, right about % of the time": "На слух ты угадываешь сухой проход примерно в % случаев.",
     "Your hands: % to catch one bad step": "Руками ты можешь поймать одну ошибку с вероятностью %.",
     "The far bulkhead paid the full pot (+ chips).": "За дальним переборком тебе выплатили весь банк (+ жетонов).",
-    "You climbed out with + chips.": "Ты выбрался с + жетонами."
+    "You climbed out with + chips.": "Ты выбрался с + жетонами.",
+    "Well, Ethan, there is something you could do for me in return. But it's a bit…unconventional.": "Ну, Итан, есть кое-что, чем ты мог бы отплатить. Правда, просьба немного… нестандартная.",
+    "Ethan's expression shifts from gratitude to curiosity, a hint of apprehension in his eyes. He swallows nervously, his voice a mixture of intrigue and hesitation": "Благодарность на лице Итана сменяется любопытством, в глазах появляется тревога. Он нервно сглатывает; в голосе смешались интерес и сомнение.",
+    "It's not something I need, per se. It's more of a want. And it's entirely up to you, Ethan. But… I've always thought you were quite attractive. I'd like… a kiss": "Это не то, что мне необходимо. Скорее то, чего мне хочется. Решать только тебе, Итан. Но… я всегда считал тебя очень привлекательным. Я бы хотел… поцеловать тебя.",
+    "I… I've never… I mean, I'm not… wow, $player.info.firstName, I don't even know what to say. This is a lot to take in.": "Я… я никогда… То есть я не… Ух ты, {{name}}, я даже не знаю, что сказать. Мне нужно всё это осмыслить.",
+    "Take all the time you need, Ethan. Like I said, it's completely your choice. I don't want you to feel pressured or uncomfortable. You owe me nothing but friendship.": "Не торопись, Итан. Как я и сказал, решать тебе. Не хочу, чтобы ты чувствовал давление или неловкость. Ты мне ничего не должен — кроме дружбы.",
+    "Ethan's eyes meet yours, and for a moment, you see a flicker of resolve. He sets the game console down carefully on the coffee table, his movements deliberate.": "Итан встречается с тобой взглядом, и на миг в его глазах мелькает решимость. Он осторожно ставит приставку на журнальный столик.",
+    "You're right. I do choose my friends, and I choose you, $player.info.firstName. I trust you. And… and I guess, in a way, this could be my way of saying thank you, couldn't it?": "Ты прав. Я сам выбираю друзей — и выбираю тебя, {{name}}. Я тебе доверяю. И… наверное, так я тоже могу сказать спасибо, да?",
+    "He steps closer, his body language a mix of nervousness and a newfound determination. You can almost hear the pounding of his heart as he leans in, closing his eyes at the last moment.": "Он подходит ближе. В его движениях смешались тревога и новая решимость. Когда он наклоняется к тебе и в последний миг закрывает глаза, кажется, ты слышишь, как бешено колотится его сердце.",
+    "Wow, that was… different. But you know what? I meant it. Thank you, $player.info.firstName, for everything. The console, the friendship… and for, well, this moment": "Ух ты… Такого у меня ещё не было. Но знаешь что? Я говорил серьёзно. Спасибо тебе за всё, {{name}}: за приставку, за дружбу… и за этот момент.",
+    "You offer a reassuring smile, appreciating the courage it took for Ethan to follow through with the gesture.": "Ты ободряюще улыбаешься, понимая, сколько смелости понадобилось Итану, чтобы решиться.",
+    "No need to thank me again, Ethan. Let's just chalk this up to one of those unique memories we'll laugh about someday, alright?": "Не нужно снова меня благодарить, Итан. Пусть это останется одним из тех необычных воспоминаний, над которыми мы когда-нибудь посмеёмся, ладно?",
+    "Ethan nods, a genuine smile spreading across his face, the earlier tension now evaporating.": "Итан кивает. На его лице появляется искренняя улыбка, а прежнее напряжение исчезает.",
+    "Definitely. Now, how about we set up this beast and you can show me how it's done?": "Ещё бы. Давай подключим эту махину, а ты покажешь мне, как играть?",
+    "The two of you spend the next few hours immersed in the world of video games, the earlier awkwardness replaced by the camaraderie of pixelated battles and victorious cheers.": "Следующие несколько часов вы проводите за видеоиграми. Неловкость сменяется азартом пиксельных сражений и радостью побед.",
+    "As the evening draws to a close, Ethan walks you to the door, his arm slung casually over your shoulders in a friendly embrace.": "Вечер подходит к концу. Итан провожает тебя до двери, по-дружески обняв за плечи.",
+    "Your heart flutters a bit at his sincerity, and an impish grin tugs at the corners of your mouth. You step closer, the air between you charged with a playful tension.": "От его искренности у тебя замирает сердце, а на губах появляется озорная улыбка. Ты подходишь ближе; воздух между вами будто искрит от игривого напряжения.",
+    "Well, there is one way you could show your appreciation.": "Ну, есть один способ показать, как ты мне благодарен.",
+    "Ethan's eyebrows raise in a silent question. There's a hint of hesitation in his eyes, but the curiosity is stronger.": "Итан вопросительно приподнимает брови. В его глазах заметно сомнение, но любопытство сильнее.",
+    "What did you have in mind?": "Что ты задумал?",
+    "Your eyes lock with his, and you can see the blush creeping up his cheeks. In the quiet of his room, you take one more step, closing the distance between you both.": "Вы встречаетесь взглядами, и его щёки постепенно краснеют. В тишине комнаты ты делаешь ещё шаг и сокращаешь расстояние между вами.",
+    "The words hang in the air, and for a moment, there's only the sound of his rapid breathing. Ethan swallows hard, his gaze flickering between your eyes and your lips": "Слова повисают в воздухе. На мгновение слышно только его учащённое дыхание. Итан сглатывает, переводя взгляд с твоих глаз на губы.",
+    "$player.info.firstName, are you sure about this?": "{{name}}, ты уверен, что хочешь этого?",
+    "His voice was a breathy whisper, tinged with both excitement and nervousness.": "Он произносит это шёпотом, в котором слышны и волнение, и тревога.",
+    "I mean, I want to but… Maybe it's a bit much?": "Я хочу, но… Может, это всё-таки слишком?",
+    "No need to rush.": "Не нужно торопиться.",
+    "The room grows quiet as Ethan's cheeks flush a deep shade of crimson. He seems taken aback, his eyes wide with surprise.": "В комнате становится тихо. Щёки Итана заливает густой румянец; он ошеломлён и широко распахнул глаза.",
+    "The kiss is tentative, awkward, and brief, but it holds a sincere gratitude that words alone could never convey. As Ethan pulls away, he lets out a soft chuckle, rubbing the back of his neck in a mix of embarrassmen.": "Поцелуй неуверенный, неловкий и короткий, но в нём больше искренней благодарности, чем можно выразить словами. Отстранившись, Итан тихо смеётся и смущённо чешет затылок."
   },
   "scoped": [
     {
@@ -2879,6 +2906,22 @@
     {
       "source": "You climbed out with + {{chips}} chips.",
       "target": "Ты выбрался с выигрышем: +{{chips}}."
+    },
+    {
+      "source": "I… I've never… I mean, I'm not… wow, {{name}}, I don't even know what to say. This is a lot to take in.",
+      "target": "Я… я никогда… То есть я не… Ух ты, {{name}}, я даже не знаю, что сказать. Мне нужно всё это осмыслить."
+    },
+    {
+      "source": "You're right. I do choose my friends, and I choose you, {{name}}. I trust you. And… and I guess, in a way, this could be my way of saying thank you, couldn't it?",
+      "target": "Ты прав. Я сам выбираю друзей — и выбираю тебя, {{name}}. Я тебе доверяю. И… наверное, так я тоже могу сказать спасибо, да?"
+    },
+    {
+      "source": "Wow, that was… different. But you know what? I meant it. Thank you, {{name}}, for everything. The console, the friendship… and for, well, this moment",
+      "target": "Ух ты… Такого у меня ещё не было. Но знаешь что? Я говорил серьёзно. Спасибо тебе за всё, {{name}}: за приставку, за дружбу… и за этот момент."
+    },
+    {
+      "source": "{{name}}, are you sure about this?",
+      "target": "{{name}}, ты уверен, что хочешь этого?"
     }
   ]
 }

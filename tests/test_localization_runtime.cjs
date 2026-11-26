@@ -15,6 +15,8 @@ assert.equal(context.vbTranslate('Could not save preset: disk full'), 'Не уд
 assert.equal(context.vbTranslate('Your ear: listens a run, right about 70% of the time'), 'На слух ты угадываешь сухой проход примерно в 70% случаев.');
 assert.equal(context.vbTranslate('The far bulkhead paid the full pot (+ 240 chips).'), 'За дальним переборком тебе выплатили весь банк: +240.');
 assert.equal(context.vbTranslate('You climbed out with + 95 chips.'), 'Ты выбрался с выигрышем: +95.');
+assert.equal(context.vbTranslate("I… I've never… I mean, I'm not… wow, Marina, I don't even know what to say. This is a lot to take in."), 'Я… я никогда… То есть я не… Ух ты, Marina, я даже не знаю, что сказать. Мне нужно всё это осмыслить.');
+assert.equal(context.vbTranslate('Marina, are you sure about this?'), 'Marina, ты уверен, что хочешь этого?');
 const genderLabel = { closest: selector => selector === '#gender-selector .option-label' };
 assert.equal(context.vbTranslate('Male', genderLabel), 'Мужчина');
 assert.equal(context.vbTranslate('Male'), null);

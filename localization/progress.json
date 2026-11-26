@@ -36,7 +36,7 @@
       "name": "Диалоги",
       "status": "in_progress",
       "coverage": null,
-      "notes": "Добавлены диалоги отношений и часть сцен второй главы и тюремного блока; сюжетные реплики в большинстве проходов остаются непереведёнными."
+      "notes": "Переведены отдельные диалоги отношений и поцелуя с Итаном, часть сцен второй главы и тюремного блока; большинство сюжетных реплик остаётся английским."
     },
     {
       "id": "L5",
@@ -48,7 +48,7 @@
   ],
   "limitations": [
     "Полная русификация ещё не завершена; значительная часть пользовательских реплик и описаний осталась на английском.",
-    "В инвентаре 3912 из 5634 уникальных строк-кандидатов не сопоставлены с точной фразой каталога (30.6% точных совпадений). Это не полная доля перевода: контекстные правила/шаблоны и ложные срабатывания инвентаризатора не учитываются.",
+    "В инвентаре 3886 из 5634 уникальных строк-кандидатов не сопоставлены с точной фразой каталога (31.0% точных совпадений). Это не полная доля перевода: контекстные правила/шаблоны и ложные срабатывания инвентаризатора не учитываются.",
     "Текст длинных реплик и динамические данные требуют отдельной проверки по фактическому DOM; Android WebView не проверен на устройстве.",
     "APK не собирался: по договорённости пользователь соберёт его самостоятельно; Samsung Android 17, SAF и воспроизведение медиа не проверены на устройстве."
   ],
@@ -143,20 +143,20 @@
     "warning": "Conservative candidate extraction; includes false positives and misses dynamically composed/code-generated strings. Review before translation."
   },
   "catalog": {
-    "exact_phrase_count": 2197,
-    "dynamic_template_count": 11,
+    "exact_phrase_count": 2224,
+    "dynamic_template_count": 15,
     "coverage_percent": null,
-    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 1722/5634 (30.6%). Контекстные правила и шаблоны считаются отдельно; инвентарь приблизительный.",
+    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 1748/5634 (31.0%). Контекстные правила и шаблоны считаются отдельно; инвентарь приблизительный.",
     "context_rule_count": 126,
-    "candidate_exact_matches": 1722,
+    "candidate_exact_matches": 1748,
     "candidate_unique_strings": 5634,
-    "candidate_match_percent": 30.6,
+    "candidate_match_percent": 31.0,
     "faq_candidate_strings": 463,
     "faq_candidate_translated": 463,
     "npc_interaction_candidate_strings": 49,
     "npc_interaction_candidate_translated": 48,
-    "untranslated_candidate_rows": 4182,
-    "untranslated_unique_strings": 3912,
+    "untranslated_candidate_rows": 4156,
+    "untranslated_unique_strings": 3886,
     "top_untranslated_passages": [
       [
         "Options",
@@ -169,14 +169,6 @@
       [
         "PlayerCreate",
         40
-      ],
-      [
-        "Ethan_Quest_01_End_kiss_FM",
-        23
-      ],
-      [
-        "Ethan_Quest_01_End_kiss_MM",
-        22
       ],
       [
         "PlayerAppearance",
@@ -237,17 +229,25 @@
       [
         "enhanced_relationship_household",
         15
+      ],
+      [
+        "enhanced_relationship_home_visit",
+        15
+      ],
+      [
+        "enhanced_relationship_occasions",
+        15
       ]
     ]
   },
   "testing": {
-    "python_static_tests": "8 passed (latest run after current changes)",
-    "node_localization_runtime": "passed incl. three numeric Labyrinth template cases (latest run)",
+    "python_static_tests": "8 passed (latest run)",
+    "node_localization_runtime": "passed incl. five dynamic-template cases (latest run)",
     "android_build": "not_run: user will build; no local Android SDK/Gradle",
     "device_saf_media_save_roundtrip": "not_run: no Samsung Android 17 device",
     "synthetic_media_metadata": "passed: JPEG, WebM VP8/Vorbis, WAV PCM inspected with ffprobe",
     "desktop_webview_smoke": "not_run: Chromium launcher exists but system binary is missing",
-    "translation_status": "incomplete: 1722/5634 unique candidates exact-matched; scoped rules and 11 templates excluded; extractor is approximate",
+    "translation_status": "incomplete: 1748/5634 unique candidates exact-matched; scoped rules and 15 templates excluded; extractor is approximate",
     "startup_performance_fix": "implemented: initial localization only scans live game containers; mutations batched via requestAnimationFrame",
     "media_path_audit": "passed statically: img/video/background/audio calls traced; device media playback not run",
     "saf_mime_fallback": "implemented and statically checked for generic application/octet-stream responses"
