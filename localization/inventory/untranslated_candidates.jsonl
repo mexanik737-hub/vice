@@ -292,7 +292,6 @@
 {"passage":"enhanced_relationship_initiative","source":"Ask what is in it","source_sha256":"c2afe3021d7a78bff807cacdbc77c3cce5e1a75cef5e51e4d7106c4263e22b02"}
 {"passage":"enhanced_relationship_initiative","source":"Try it for them","source_sha256":"5d4c6f7fdfbde159f52643237a06d7211448f65f3c2c84c89c34e7412b54bf92"}
 {"passage":"enhanced_relationship_initiative","source":"Not this time","source_sha256":"6f3efa36d8ec387159dca1ab7fc92806f9d40eb26f1828aef0ddb73856d53c25"}
-{"passage":"enhanced_relationship_initiative","source":"Not tonight","source_sha256":"36d870f40192be0e61accf8dd81c3826108f9b42d04f5df2367e4760c5830f51"}
 {"passage":"enhanced_relationship_initiative","source":"Ask what is wrong","source_sha256":"1a1cc46480ee7062f8275a0916410039313199fb810a2424f8711a3531b73a8e"}
 {"passage":"enhanced_relationship_initiative","source":"Make time for them","source_sha256":"ab9f6b417c2bc4eef4fa52ff848236ade0e529fd81497bdf5c7d68e2bc408258"}
 {"passage":"enhanced_relationship_initiative","source":"Not right now","source_sha256":"0c17d7fb35d53b163cfe68fe8a17ed0ba5513b1b3699b0f8846f56739b4faff6"}
@@ -426,11 +425,8 @@
 {"passage":"ChangeSexPref_old","source":"You must like masculinity","source_sha256":"c15c21af58c0700e036b6e556215a0f28b5a666cbf03b9e0173b11ff0e0d490c"}
 {"passage":"ChangeSexPref_old","source":"You must like femininity","source_sha256":"7d044e2c4ca3fdb8507478817bac612a7382079fe5d5f07e04a283af56fcc451"}
 {"passage":"ChangeSexPref_old","source":"You must like both","source_sha256":"2abb0e77257275bc4b8c6f65e97de0125ce162149865f88bc95183499c128ee0"}
-{"passage":"TryChangeSexPref","source":"I think you're right.","source_sha256":"3a66db80db7192b3b773aa30124652271fc134e8f8fcbcac3154f9631d07747f"}
-{"passage":"TryChangeSexRole","source":"I think you're right.","source_sha256":"3a66db80db7192b3b773aa30124652271fc134e8f8fcbcac3154f9631d07747f"}
 {"passage":"ChangeClothingPreference","source":"You should wear women's clothing","source_sha256":"577f31c8c9267b0db103101f220b2f68a21b068094c4a27a52b703d4c7f69514"}
 {"passage":"ChangeClothingPreference","source":"You should wear men's clothing","source_sha256":"36a6381d0f3599c65c9293b753ec2e2a7da2687f6eb8a74f5856cc6c44e89d63"}
-{"passage":"TryChangeClothPref","source":"I think you're right.","source_sha256":"3a66db80db7192b3b773aa30124652271fc134e8f8fcbcac3154f9631d07747f"}
 {"passage":"HookerTalk","source":"Collect the earned money","source_sha256":"84d2c7f45dea63f3f9ccced89b1f9bb227632049f50584bb1e3479443476c62c"}
 {"passage":"HookerTalk","source":"How many girls work for me?","source_sha256":"f98185765a0e463f78c887cb300aa9a7180d9d7f0169e08cc732969f39975d11"}
 {"passage":"HokerAsk","source":"You appointed a new girl to the position of the head girl.","source_sha256":"1e382beaf686adbed5eb50015ad6f285834ef71f7e90cc887e8fbf40d5b7362d"}
@@ -545,7 +541,6 @@
 {"passage":"NPCWorker_NoTime","source":"Sorry, I'm not working at this time. Please come during working hours.","source_sha256":"a19d60917a1f3884eca969f4375f7aaefc6876e6909d03d2c46b6b446903bd24"}
 {"passage":"AskSexServices","source":"Daddy, have you decided to test my skills?","source_sha256":"0e2cce6b4175877ea3e1692c3e5a9344b432aebc3c13a4c65ec997a61488b35b"}
 {"passage":"AskSexServices","source":"Madam, have you decided to test my skills?","source_sha256":"aa21f381f76e4beb1f01eb0552108869c341e8a22ef44b124af3516edd537b72"}
-{"passage":"AskSexServices","source":"You don't have enough money.","source_sha256":"ed134892f9bf843b023368e1f574805ebfddb80d3bdb5bd278c7ed3c36ab3161"}
 {"passage":"AskSexServices","source":"Sure, beauty. Let's find somewhere more secluded.","source_sha256":"853e79666036c2fbdadc3213d1e49b7f4c0f8a1e386c04739e7aab12bd2db1de"}
 {"passage":"AskSexServices","source":"Sure, handsome. Let's find somewhere more secluded.","source_sha256":"533a20fe3bcb1a9c0a35108ad9a739f83457845093fb8010535b26b6ac194b5a"}
 {"passage":"AskSexServices","source":"You're too tired for this.","source_sha256":"6695f93fe2ba0be2f0361b8e797ba7553b59d069af0e3d0bce0b6d8542c96c02"}
@@ -644,15 +639,9 @@
 {"passage":"SarahAshford_BeachConversation","source":"Sarah isn't able to make it to the beach right now.","source_sha256":"5ae8fa41fba72908314fd1ea703212cb38f03a6dd8f0e548d92de41c43274a7f"}
 {"passage":"AmandaAshford_BeachConversation","source":"Amanda is busy for a moment and can't talk.","source_sha256":"e990194f1af70173ef6d51b5b45c8293dfdb645d920e9616fe390a37ddeacd48"}
 {"passage":"BeachPicnic_GenericConversation","source":"There's no one waiting on the beach right now.","source_sha256":"70ee1eba12174b97bfa00a0787bc8d2871d18f235ede143daa0c1c2832f0e5d1"}
-{"passage":"BeachPicnic_GenericConversation","source":"Wrap up the picnic","source_sha256":"9136a49ecbb38d61c731836ed20d7e7c1e7f38bece23ee895234221ff912e79f"}
 {"passage":"BeachPicnic_GenericConversation","source":"Your guest seems to have wandered off for now.","source_sha256":"de14652b8b225d2bf993a7054b56631814bc84580268429773832bd8c2b47129"}
-{"passage":"BeachPicnic_BeginConversation","source":"Wrap up the picnic","source_sha256":"9136a49ecbb38d61c731836ed20d7e7c1e7f38bece23ee895234221ff912e79f"}
 {"passage":"BeachPicnic_TopicMenu","source":"You drive to the beach for a relaxing time together.","source_sha256":"2021808ddf8b93a65dc63ca0193772638db4fceb7e8fa5979996af08bebd5ea8"}
-{"passage":"BeachPicnic_TopicMenu","source":"Wrap up the picnic","source_sha256":"9136a49ecbb38d61c731836ed20d7e7c1e7f38bece23ee895234221ff912e79f"}
-{"passage":"BeachPicnic_FlirtMenu","source":"Wrap up the picnic","source_sha256":"9136a49ecbb38d61c731836ed20d7e7c1e7f38bece23ee895234221ff912e79f"}
 {"passage":"BeachPicnic_ActionMenu","source":"Make this move","source_sha256":"6dc50eb7d70382858c9caddd69299b6e2fa738a0c30b7cbd0ea3411f70439bf3"}
-{"passage":"BeachPicnic_ActionMenu","source":"Wrap up the picnic","source_sha256":"9136a49ecbb38d61c731836ed20d7e7c1e7f38bece23ee895234221ff912e79f"}
-{"passage":"BeachPicnic_ActionResult","source":"Wrap up the picnic","source_sha256":"9136a49ecbb38d61c731836ed20d7e7c1e7f38bece23ee895234221ff912e79f"}
 {"passage":"BeachPicnic_End","source":"You take a final look at the shoreline before packing up your things.","source_sha256":"732c3cbc3b18bd080801b512e9a0cf668f2cdbdbe54860a15c5181e38a403d72"}
 {"passage":"HiddenCam_Feed","source":"Empty benches, a janitor with a mop, a guy changing his socks. Nothing worth keeping today.","source_sha256":"e62ac23a8c571ba645bbb2d60410bcc954ca9a53af2fae9e5c28d1e478c2fa7e"}
 {"passage":"HiddenCam_Feed","source":"Close the feeds","source_sha256":"fc9ac1d996f809bad51c2860872575b99198cb75ba820cf9fed370b015306585"}
@@ -697,7 +686,6 @@
 {"passage":"Nightclub_Puke_Player","source":"You drank too much and threw up.","source_sha256":"d86b96ce593a8daf77cdc89db36bb4a49f14223c50b832237d609347698439e0"}
 {"passage":"ClubRestroom_Quickie","source":"You scan the restroom. Nobody you would even consider.","source_sha256":"8632d0a25b1d294c6baa194d6886daf4997efe3743b087b792c0f1e8d8eba385"}
 {"passage":"ClubRestroom_Quickie","source":"Someone pushes into the stall after you. A hand on your hip, breath on your neck. No words - just a question in their eyes.","source_sha256":"d09e8ab234d8758d534b41b6388fbad419dcdad0dab2b8b5e40b51dfb0427de2"}
-{"passage":"ClubRestroom_Quickie","source":"Not tonight","source_sha256":"36d870f40192be0e61accf8dd81c3826108f9b42d04f5df2367e4760c5830f51"}
 {"passage":"BC_Restroom_ColleagueHJ","source":"You wash your hands and leave. Whatever rumor this restroom has is not for you.","source_sha256":"54eb53299cb8f64832a21a6c50c0af163898ac99872628c3e6300778ca6dd7f3"}
 {"passage":"BC_Restroom_ColleagueHJ","source":"The floor is empty. Business hours only.","source_sha256":"13ea2cd9506c35a07b6a70ca83bb0f037f0a613324b27f46802b75e1ede622fb"}
 {"passage":"BC_Restroom_ColleagueHJ","source":"You are too drained to deal with this right now.","source_sha256":"a75f011ad8d01a5439eb15a3cf944d8ba9c75afc3624582632a141e7aa0e688b"}
@@ -722,7 +710,6 @@
 {"passage":"PhotoShoot_Event_01_02_BeProfessional","source":"Look, I think we've gone as far as we needed to go. Let's just stick to the original plan and wrap this shoot up.","source_sha256":"918e4d5702024ff33089096b6fae20b280c584ac6fbabbf6bd1b570fda36f0bb"}
 {"passage":"PhotoShoot_Event_01_02_BeProfessional","source":"The photographer grumbles and changes back to the planned shots, but the feeling of discomfort lingers long after the shoot has ended.","source_sha256":"7ed8f9f3db79e9a4273ba047aa0cf50042ce6b2ec620bc085ac7beecab22fdc1"}
 {"passage":"Photographer","source":"❓ Ask about the photo shoot","source_sha256":"d0944462004f54d88f564d0248fffd20cd43d08226b07efde1cba13bfedd50e3"}
-{"passage":"BuyPhotoStudio","source":"You don't have enough money.","source_sha256":"ed134892f9bf843b023368e1f574805ebfddb80d3bdb5bd278c7ed3c36ab3161"}
 {"passage":"BuyPhotoStudio","source":"Fine, the studio is yours.","source_sha256":"3f63c30c89820b75b9599f9d143e125cb83e5b11796b3fceb165411372e204d3"}
 {"passage":"BuyPhotoStudio","source":"You are buying a photo studio. Now you can shoot models yourself.","source_sha256":"13777efb346e1398ef40d796494cb4024a05163bbc1ea84b3796c41983412387"}
 {"passage":"NotEnoughEnergyPhoto","source":"Not enough energy (25).","source_sha256":"8aea1bbb768d0988db977eaf30f15376d7a23207f20a3ae196516a290867c851"}
@@ -1046,7 +1033,6 @@
 {"passage":"Ship_Bar","source":"Work the room","source_sha256":"ec7880c7b230bff0dd10cd7797fe94daab3da156fe210b7dbef7107dc40d0975"}
 {"passage":"Ship_Bar","source":"Something stirs in the bar...","source_sha256":"d9e4a2708d525d8fca371dce3f895ac0a5c22a44fceefd6f19276533d2da788e"}
 {"passage":"Ship_VipWager","source":"Sit against the VIP's champion","source_sha256":"a23118cd19deb149dc1ca97d19b8258147e6bb63afb881206f92fac25d2fb266"}
-{"passage":"Ship_VipWager","source":"Not tonight","source_sha256":"36d870f40192be0e61accf8dd81c3826108f9b42d04f5df2367e4760c5830f51"}
 {"passage":"Ship_CardTally","source":"Holding .\" The hall turns to look, and the house collects right there in front of everyone: the warmth crawling under your skin is a stage of softness you did not choose, and something in how easily you stand there and let them watch tells you the corruption took too.","source_sha256":"393be0db2e50e97058e498cce11f1d5dceb10dee11df7efbe64bc53ed8582697"}
 {"passage":"Ship_VipMissions","source":"Your commissions","source_sha256":"38e6e72784eb9ca98d2fa2a87e75e7c91c5eefdb037f0f5ba2d7ebf9b6e13eea"}
 {"passage":"Ship_VipMissions","source":"Your hands are full - deliver what you carry before taking more.","source_sha256":"8b6fc349c67afe3c02f623c846e59bd7ca289d1297124e5b5eca4fdfc18613a2"}
@@ -1114,7 +1100,6 @@
 {"passage":"Ship_Mirror","source":"You have made of yourself what you can with what the «Sirena» left you.","source_sha256":"380151b3d1e29b8fa7d9ce02d995b4c30f04db6f50a943ce5110719daf2d92f7"}
 {"passage":"Ship_Mirror","source":"Shed the disguise","source_sha256":"8fab99a8a937bee58c616c8960615fe81d50edcf5d2f16bbd28aeb292bd00292"}
 {"passage":"Ship_Gloryhole","source":"Clean up and leave","source_sha256":"e5ce007f2863f562145bfa9665a5d40f60e866c9ec95a68637ff11da813177eb"}
-{"passage":"Ship_WagerCollection","source":"Back to the hall","source_sha256":"c1ad4785285caac2bb83932f1ce8aaf7a9db51d6419307e7aec38818ed423af6"}
 {"passage":"Ship_Bridge","source":"You have already risked one search tonight; chance a second room before the watch turns over and they will have you.","source_sha256":"7dd5a4b4fece099e1ee5ce62df99848729b6d020c22617cd6b565b5a3688777e"}
 {"passage":"Ship_Bridge","source":"The rest keeps until tomorrow's dark.","source_sha256":"43d6b903276ee108a412b5dd87b1da800000c99caf73328ce23ba4ae31b9b1f0"}
 {"passage":"Ship_Bridge","source":"Brandt's watch holds the bridge through the day.","source_sha256":"1b41990775c5eb4ad50dbaa6d0408515d77a4842f5342ca86ba9a279b1e8a7e0"}
@@ -1169,7 +1154,6 @@
 {"passage":"Ship_BilgeCollection","source":"Climb back up the ladder","source_sha256":"039323e0a188ff36602a122fe73b27e5881c0cc6980004d5080532c595dba681"}
 {"passage":"Ship_ChampionNight","source":"Nothing on the table tonight: no chips, no ledger, no stage of you or of him moving.","source_sha256":"b3719269ddcca3fd1ed6ec193dd153d610b83f0a4d08cb90ff96700263718bd3"}
 {"passage":"Ship_ChampionNight","source":"The title pays in a different coin, and it pays on your terms.","source_sha256":"e7c3bda3ab89c33a3a468914fd8fd6fa6f2ae26f3e4417fff44f35a251e3c8d2"}
-{"passage":"Ship_ChampionNight","source":"Back to the hall","source_sha256":"c1ad4785285caac2bb83932f1ce8aaf7a9db51d6419307e7aec38818ed423af6"}
 {"passage":"Ship_ChampionNight","source":"Have him serve, on your terms","source_sha256":"9fa3bbb0ba5d104488c8587655b9fecabec0a75d33bddcb170067daab3d00c69"}
 {"passage":"Ship_ChampionNight","source":"Send him off with a drink","source_sha256":"a07b56431e11670099fe8650376f6ee052bf5eae181736b376198b9c6b2877a3"}
 {"passage":"Ship_Championship","source":"The bracket: ·","source_sha256":"e947a97e3267e108b02fb9eb7be631aadda57ec7e9dfbf24ae64722cb0381521"}
@@ -1177,11 +1161,8 @@
 {"passage":"Ship_Championship","source":"Round / · You vs","source_sha256":"53bf9fbdd2e51320b37bb0fe68ec9f9bcf5ed50208feabd87a947673c08cb107"}
 {"passage":"Ship_Championship","source":"Banked so far · your read of the round %","source_sha256":"67cc9cc0528ddd162a78a892097a84bf64fa9be69c1e5c4670167739fe7b5848"}
 {"passage":"Ship_Standings","source":"You stand # of aboard, with in chips against a debt.","source_sha256":"9cb325a911993545220a40f339e09a1020574b229de03977cd22103de4a201e5"}
-{"passage":"Ship_Standings","source":"Back to the hall","source_sha256":"c1ad4785285caac2bb83932f1ce8aaf7a9db51d6419307e7aec38818ed423af6"}
 {"passage":"Ship_RivalBeat","source":"You are parting as .","source_sha256":"5352c9655eab2b41713e36404d21bb0732889b1650c933c96bf0abceb621db66"}
-{"passage":"Ship_RivalBeat","source":"Back to the hall","source_sha256":"c1ad4785285caac2bb83932f1ce8aaf7a9db51d6419307e7aec38818ed423af6"}
 {"passage":"Ship_RivalBeat","source":"Take your leave","source_sha256":"4662001097a822325ed8f0cfd6ccf5114bca2a0b1c62c07510c06c4c6294f857"}
-{"passage":"Ship_ChainBeat","source":"Back to the hall","source_sha256":"c1ad4785285caac2bb83932f1ce8aaf7a9db51d6419307e7aec38818ed423af6"}
 {"passage":"Ship_NpcInteract","source":"has been wanting you just as openly, and the two of them would sooner share you than compete for you.","source_sha256":"71e117d3010ad4af93578548e183eca9983f572a173f5f853742b1e7318f971d"}
 {"passage":"Ship_Crafting","source":"Your kit","source_sha256":"2aa76966112d24d13accecde9e9b5ffacb291a2e6513ebdec67417d54af8c7a1"}
 {"passage":"Ship_Crafting","source":"Your kit is empty.","source_sha256":"d13bab7d9bb06e32242f88c1bf8ca7da49414a090c063b8ad9870f98ae87f1e6"}
@@ -1416,7 +1397,6 @@
 {"passage":"Prison_PairPlan","source":"These two have no useful move available right now.","source_sha256":"e1784c36f09be5c04bc0758d920b2f74f8b121cc669b7807403d6e3c35d17087"}
 {"passage":"Prison_PairPlan","source":"Change their trust, standing or existing bond first.","source_sha256":"96d2c87394a13778201ff74215428bf3a70edbd033e606f8d48e634d6817e384"}
 {"passage":"Prison_Work","source":"The block runs on labor.","source_sha256":"0f03737fcef5760806ed9e8df6cc3b6497df094c52e5bab7d788d45af150be4a"}
-{"passage":"Prison_Work","source":"Not today","source_sha256":"e54eb51617b3c6c91de96d14bdd6fe8b22c57cc96e075d2e36fd48672eaa154b"}
 {"passage":"Prison_Commissary","source":"The Back Tab","source_sha256":"129f39d715dc252c574a20d4af28cefc483f9c31f3a48fd6bb298fdf1e6ec1d7"}
 {"passage":"Prison_Commissary","source":"The one behind the counter runs the block's other bank.","source_sha256":"b5537b43252028774247a1405269f3e1ce050df1bd61d12a135c0ee9aa39cdc6"}
 {"passage":"Prison_Commissary","source":"The tab never has to.","source_sha256":"764c78f7286093b7f1cb9b49dcce80ac9901d4d933029550e80a1a3363144a33"}
@@ -1623,41 +1603,30 @@
 {"passage":"BrothelCasting_ImproveMood","source":"You start a pleasant conversation, showing interest in the candidate...","source_sha256":"754e618239d89d0be04f73f799bffa95b479ed836c6abb8fbf83564d3ff92848"}
 {"passage":"BrothelCasting_ImproveMood","source":"You try to start a pleasant conversation, but...","source_sha256":"406f5b42f8e4471d6f54da272bae44d9b263eaeb4ffd5b8ba6e9beedc5023174"}
 {"passage":"BrothelCasting_GiftMoney","source":"Their mood is already at maximum.","source_sha256":"16645d8dfed086cd1a6aa99b3fb6d01907c102816989f3556872dc98d03c700e"}
-{"passage":"BrothelCasting_GiftMoney","source":"You don't have enough money.","source_sha256":"ed134892f9bf843b023368e1f574805ebfddb80d3bdb5bd278c7ed3c36ab3161"}
 {"passage":"BrothelCasting_ViewBody","source":"Dialog.create(SugarCube.State.variables.selectedCandidate.getBreastText());","source_sha256":"9db4aa174d88ce0d34bc6e8347a000b201b82594c67e039708ba87cbef60d9b2"}
 {"passage":"BrothelCasting_ViewBody","source":"Dialog.wiki(SugarCube.State.variables.selectedCandidate.getBreastImage());","source_sha256":"9c0160f698f0a7b233b2cee8870a2f32da3f51e8ff306018d0691cfba92b7a78"}
 {"passage":"BrothelCasting_ViewBody","source":"Dialog.create(SugarCube.State.variables.selectedCandidate.getButtText());","source_sha256":"47a1762aca053d68184f327ec31ba235f8171e4bc26f2733a956b486cd5b93ed"}
 {"passage":"BrothelCasting_ViewBody","source":"Dialog.wiki(SugarCube.State.variables.selectedCandidate.getAssImage());","source_sha256":"dd8b58feedab62ddcba1d5489787d75d57ed22d2943008e5f67fec70fa51733b"}
 {"passage":"BrothelCasting_ViewBody","source":"var cand = SugarCube.State.variables.selectedCandidate;","source_sha256":"40db2351fc6f0ad0282a2213649ceb2a5affe0708a4753d748f0a75790ff211c"}
 {"passage":"BrothelCasting_ViewBody","source":"var skinCapitalized = skin.charAt(0).toUpperCase() + skin.slice(1);","source_sha256":"d4e6672a60e450689ca5c469a72c68e34c42719d5bbcb3b8135c5cc2fabd259f"}
-{"passage":"BrothelCasting_TestBlowjob","source":"✓ Proceed with test","source_sha256":"723c69921893ace3bf2ba4cc3db4b33d1f19955bc1e9229cbef08d13b11284f0"}
-{"passage":"BrothelCasting_TestBlowjob","source":"← That won't be necessary","source_sha256":"be626e5ec967f3c994190ac24b4f2bd62505b5bd466b18a6e5db09d3d50389d2"}
 {"passage":"BrothelCasting_TestBlowjob_Scene","source":"He's very well-endowed. Impressive equipment for the job.","source_sha256":"4eba7778b51d6516128ce5db4b4a60d4dee7e471b90ac33468b9c85f4cd596db"}
 {"passage":"BrothelCasting_TestBlowjob_Scene","source":"He has a good size. Should satisfy most clients.","source_sha256":"54a3c7d9d011c22b757f5792f8bcff61cddb7b7f4f3e7bf56d3f96ca8ac7b95c"}
 {"passage":"BrothelCasting_TestBlowjob_Scene","source":"He's on the smaller side, but technique matters more than size.","source_sha256":"36a89c1cd8c31de2401dc01171eb35db8efcf287c71fe670ec18423b405d97db"}
 {"passage":"BrothelCasting_TestBlowjob_Scene","source":"They take it deep without any trouble. Clearly experienced at this.","source_sha256":"d9dce0f4dd43354bd6082417be7ebdf66966b824ccb8635adec53d15012e1a83"}
 {"passage":"BrothelCasting_TestBlowjob_Scene","source":"They handle it well, showing decent technique.","source_sha256":"2db5cc91a95e92ebd632c9917bd41d04398d8b61a70c56db776f76262fa1ba91"}
 {"passage":"BrothelCasting_TestBlowjob_Scene","source":"They struggle a bit but try their best.","source_sha256":"ce8e6efe462a5c1fd96d771ac37d56cce54d1036b791f858d129ab796ee6d650"}
-{"passage":"BrothelCasting_TestVaginal","source":"✓ Proceed with test","source_sha256":"723c69921893ace3bf2ba4cc3db4b33d1f19955bc1e9229cbef08d13b11284f0"}
-{"passage":"BrothelCasting_TestVaginal","source":"← That won't be necessary","source_sha256":"be626e5ec967f3c994190ac24b4f2bd62505b5bd466b18a6e5db09d3d50389d2"}
 {"passage":"BrothelCasting_TestVaginal_Scene","source":"They know exactly how to move. Experienced and skilled.","source_sha256":"3288a23864caaa7f2c9845bd1d3df429c2fe61ac17d3bc4f2cac1ab2d8a31b3a"}
 {"passage":"BrothelCasting_TestVaginal_Scene","source":"They perform well, with good rhythm and technique.","source_sha256":"571a92563f3498d129472b760657a6b3a1a406e38a0655de0401bda7c9b05f8b"}
 {"passage":"BrothelCasting_TestVaginal_Scene","source":"They're a bit tight and inexperienced, but enthusiastic.","source_sha256":"0be611b97556b479acd58e4cec858639d4d340a1933fe5a52c6bf3198dcbe222"}
-{"passage":"BrothelCasting_TestAnal","source":"✓ Proceed with test","source_sha256":"723c69921893ace3bf2ba4cc3db4b33d1f19955bc1e9229cbef08d13b11284f0"}
-{"passage":"BrothelCasting_TestAnal","source":"← That won't be necessary","source_sha256":"be626e5ec967f3c994190ac24b4f2bd62505b5bd466b18a6e5db09d3d50389d2"}
 {"passage":"BrothelCasting_TestAnal_Scene","source":"They take it easily, moaning with pleasure. Very experienced.","source_sha256":"311a00153c1f1a0d0935c45e29e0addaba900d4f7540e9eaadeec700644f86be"}
 {"passage":"BrothelCasting_TestAnal_Scene","source":"They handle it reasonably well after some initial adjustment.","source_sha256":"8798bae2fc678717663af49239d5ff2d50ec456a2e16759c5e33c928125c977a"}
 {"passage":"BrothelCasting_TestAnal_Scene","source":"It's clearly uncomfortable for them, but they endure it.","source_sha256":"88e680255ed32a94947af83723fe9f904702a7dc428efed30f1573a23c9c6688"}
-{"passage":"BrothelCasting_TestVaginal_ReceiveFromMale","source":"✓ Proceed with test","source_sha256":"723c69921893ace3bf2ba4cc3db4b33d1f19955bc1e9229cbef08d13b11284f0"}
 {"passage":"BrothelCasting_TestVaginal_ReceiveFromMale","source":"BrothelCasting_TestVaginal_ReceiveFromMale_Scene","source_sha256":"8f53df2e8a1bf78364d0f35d470f6c86be23e781dc351ee810f746e06a9dd107"}
-{"passage":"BrothelCasting_TestVaginal_ReceiveFromMale","source":"← That won't be necessary","source_sha256":"be626e5ec967f3c994190ac24b4f2bd62505b5bd466b18a6e5db09d3d50389d2"}
 {"passage":"BrothelCasting_TestVaginal_ReceiveFromMale","source":"They refused. Higher corruption might make them more willing.","source_sha256":"048d0326b5afbac68a5105a642bb7975abfbbe9bde248311b123f0e29f1e1c8d"}
 {"passage":"BrothelCasting_TestVaginal_ReceiveFromMale_Scene","source":"He's impressively well-endowed and knows how to use it.","source_sha256":"550cc9a97e3dc5e20f1e8daf109356db16115c3fb11a2975a616d50c40bfeaf1"}
 {"passage":"BrothelCasting_TestVaginal_ReceiveFromMale_Scene","source":"He has good size and technique.","source_sha256":"440770139c04b0e10776ea61bd3c76f50806a6d316e6ff9e8e53862babf6017a"}
 {"passage":"BrothelCasting_TestVaginal_ReceiveFromMale_Scene","source":"What he lacks in size, he makes up for with enthusiasm.","source_sha256":"5e5e2df2aa033441e6fd08ab6e8ee4658899047fc5300d2cb9ea752edac695bd"}
-{"passage":"BrothelCasting_TestAnal_ReceiveFromMale","source":"✓ Proceed with test","source_sha256":"723c69921893ace3bf2ba4cc3db4b33d1f19955bc1e9229cbef08d13b11284f0"}
 {"passage":"BrothelCasting_TestAnal_ReceiveFromMale","source":"BrothelCasting_TestAnal_ReceiveFromMale_Scene","source_sha256":"58b898724040e3f70ea29c4d4bebc1ec3514f65475adcccf5d820594cb8dab1e"}
-{"passage":"BrothelCasting_TestAnal_ReceiveFromMale","source":"← That won't be necessary","source_sha256":"be626e5ec967f3c994190ac24b4f2bd62505b5bd466b18a6e5db09d3d50389d2"}
 {"passage":"BrothelCasting_TestAnal_ReceiveFromMale","source":"They refused. Higher corruption might make them more willing.","source_sha256":"048d0326b5afbac68a5105a642bb7975abfbbe9bde248311b123f0e29f1e1c8d"}
 {"passage":"BrothelCasting_TestAnal_ReceiveFromMale_Scene","source":"His impressive size makes the experience intense.","source_sha256":"c1b3d912abb3f7a0f52284c7d3af6b4913be2b74e88f0950d6e8e4b24dd6d871"}
 {"passage":"BrothelCasting_TestAnal_ReceiveFromMale_Scene","source":"He knows exactly how to use what he has.","source_sha256":"c87f7fd626d6b6b9a9adac7538e241fc6c7dfa3f3e03bfc810ff387e62efde58"}
@@ -1687,28 +1656,21 @@
 {"passage":"BrothelDungeon_Main","source":"The prisoner sags in the chains after the fuck, sweaty and shaking. Every fuck down here breaks them a little more. (Submission +1)","source_sha256":"a66434ff6d757510aa86e1b7f135545c82693c6a210fd89cbffc40da1b55b97d"}
 {"passage":"BrothelDungeon_Prisoner","source":"✓ Fully broken - ready to accept debt work","source_sha256":"69c894fe87a14d359ea2e6a742472bc8561fcbd39c16d12b009decf8a018e36b"}
 {"passage":"BrothelDungeon_Prisoner","source":"Force surgical changes on this prisoner.","source_sha256":"d35d12ce2a71120930ff7ad6920ba5c1b1168c12f3a44ac755d0e2bbd5812608"}
-{"passage":"BrothelDungeon_Prisoner","source":"That prisoner is no longer in the dungeon.","source_sha256":"20fe5f21d5de48472d2a5099502035158c4c4625c8b068532dc18614a085538d"}
 {"passage":"BrothelDungeon_Prisoner","source":"💋 Have Sex","source_sha256":"df8b784de860450fcc2f6dc2647efd076d52fa6d512fe5022420af5a74d19f7a"}
 {"passage":"BrothelDungeon_Prisoner","source":"💋 Have Sex (No energy/stamina)","source_sha256":"55210c97f8f16fc78fc02f19f2859c7ce1f82c2bd30585a399899d518174e6ed"}
-{"passage":"BrothelDungeon_Whip","source":"That prisoner is no longer in the dungeon.","source_sha256":"20fe5f21d5de48472d2a5099502035158c4c4625c8b068532dc18614a085538d"}
 {"passage":"BrothelDungeon_Whip","source":"You take the whip and approach the chained prisoner...","source_sha256":"470908ca4ac2d49bf27e5b6a18129b6a377770b47cb885f2ee2eb86b9b9b6437"}
 {"passage":"BrothelDungeon_Whip","source":"The prisoner seems completely broken now. They might be willing to work off their debt.","source_sha256":"53ccfb26a5e820f1c90fe975cdcb6b284b9917401690d12290c9fb96592c04b8"}
-{"passage":"BrothelDungeon_Sex","source":"That prisoner is no longer in the dungeon.","source_sha256":"20fe5f21d5de48472d2a5099502035158c4c4625c8b068532dc18614a085538d"}
-{"passage":"BrothelDungeon_Convince","source":"That prisoner is no longer in the dungeon.","source_sha256":"20fe5f21d5de48472d2a5099502035158c4c4625c8b068532dc18614a085538d"}
 {"passage":"BrothelDungeon_Convince","source":"You don't have any free rooms for new workers. Build more rooms first.","source_sha256":"ff21294591bb2e71dbb5712d8f31a6f687057825b41c2df0ee5e107d13c4dcab"}
 {"passage":"BrothelDungeon_Convince","source":"They agree to work off their debt! They will work as a prostitute until they earn $2500.","source_sha256":"28feb3097bd58f2119b265ac984cef336b77d0841778998cc09b1714b7bae665"}
 {"passage":"BrothelDungeon_Convince","source":"They refused. Try again tomorrow, or break them further.","source_sha256":"54e2b4c62935d459f5111af8deeea0a0667ef7f04f8cc7053e6b02799eea0907"}
-{"passage":"BrothelDungeon_Surgery_Shemale","source":"That prisoner is no longer in the dungeon.","source_sha256":"20fe5f21d5de48472d2a5099502035158c4c4625c8b068532dc18614a085538d"}
 {"passage":"BrothelDungeon_Surgery_Shemale","source":"You don't have enough money!","source_sha256":"65b5c138f48bb87c4a83eca3b4d644649901987d50f3572982ab2112e9af0a25"}
 {"passage":"BrothelDungeon_Surgery_Shemale","source":"You arrange for the forced transformation surgery...","source_sha256":"6eefa545abdde26a88b200158b380064fc0e5c9ad11362cf870e05d4a79ce7eb"}
 {"passage":"BrothelDungeon_Surgery_Shemale","source":"The surgery is complete. The prisoner has been transformed into a shemale.","source_sha256":"ad5c078e4912e8e25c8418fddc19e4188f6b58c0a81dd26857f16c72cd98f339"}
 {"passage":"BrothelDungeon_Surgery_Shemale","source":"The trauma has increased their submission significantly. (+3 Submission)","source_sha256":"53ec1007ecb2341d4d49d2500576f180ff61d44450fff76d413a648d7091e0c6"}
-{"passage":"BrothelDungeon_Surgery_Female","source":"That prisoner is no longer in the dungeon.","source_sha256":"20fe5f21d5de48472d2a5099502035158c4c4625c8b068532dc18614a085538d"}
 {"passage":"BrothelDungeon_Surgery_Female","source":"You don't have enough money!","source_sha256":"65b5c138f48bb87c4a83eca3b4d644649901987d50f3572982ab2112e9af0a25"}
 {"passage":"BrothelDungeon_Surgery_Female","source":"You arrange for the complete transformation surgery...","source_sha256":"20fab3795fa2b0ab051ade262f40f38abb97dae527b3a0bbc6867cc8caab369e"}
 {"passage":"BrothelDungeon_Surgery_Female","source":"The surgery is complete. The prisoner has been fully transformed into a female.","source_sha256":"fa79bb94603a108bd066d04fc946548e98029426fe1711e8b1794fd9506a041f"}
 {"passage":"BrothelDungeon_Surgery_Female","source":"The traumatic experience has completely broken them. (+5 Submission)","source_sha256":"b610837d8fa0eb1b03e370b947089d0630a9e6527c668f0b944ad82ae97dd0a3"}
-{"passage":"BrothelDungeon_Release","source":"That prisoner is no longer in the dungeon.","source_sha256":"20fe5f21d5de48472d2a5099502035158c4c4625c8b068532dc18614a085538d"}
 {"passage":"BrothelDungeon_Release","source":"You release the prisoner from the dungeon...","source_sha256":"365a39dbd554e62162f2e0335172981586c770362671bec9b6ed7026898d1778"}
 {"passage":"BrothelEvent_RowdyClient","source":"🛡️ The guards are holding the client.","source_sha256":"32c0424284e681270cfe69b38041197448d5bb9c6bf09ebc4db2efc12e6e8db1"}
 {"passage":"BrothelEvent_RowdyClient","source":"What do you want to do with him?","source_sha256":"f6f149a85b4150b9bf9e231e4faeb1ff2b9a77c9a44b5aa646d37e7b8abc0ea2"}
@@ -2360,7 +2322,6 @@
 {"passage":"Ch2_Meet","source":"Go in with Rayna on your arm","source_sha256":"8b91301909ca955ae30a743dd72ee5d9a8b0b5e038e3a2136e1ba3eba6cb97da"}
 {"passage":"Ch2_Meet","source":"Split up: tell her to keep her head down","source_sha256":"4fcb55712b9142925003506450db1b6c89ddd4d4df6bebd562678ffa9fc5f4dd"}
 {"passage":"Ch2_Meet","source":"Split up: tell her to push for answers","source_sha256":"8a867eefeb23955bdc09520433120ead83300b5e265708c115f8c9fc5b8822d4"}
-{"passage":"Ch2_Meet","source":"Not tonight","source_sha256":"36d870f40192be0e61accf8dd81c3826108f9b42d04f5df2367e4760c5830f51"}
 {"passage":"Ch2_NightRoom","source":"' ch2-fill--hot' : '')\" @style=\"'width:' + _n.suspicion + '%'\">","source_sha256":"b5fd523d5097b754b3ed38e8614b372b8cc3b6961f896141e2b0e27c4dfe0c7d"}
 {"passage":"Ch2_NightRoom","source":"'on' : ''\"> the island","source_sha256":"ef52c9d5b80e2a07f27ff8a5102aa397a7a9cf818203c8f04b43eafb4d2e5c3f"}
 {"passage":"Ch2_NightRoom","source":"Nothing yet on how to spot .","source_sha256":"205fe364f08628fde70bd03d19feb01b177b59e25102770ea5f54dd6e5ff9139"}
@@ -2668,7 +2629,6 @@
 {"passage":"SolanaShoot_Menu","source":"The director waves over a woman scrolling her phone by the craft table: long black hair, big brown eyes, a cropped tee and a pair of tits it can barely hold.","source_sha256":"77f077c8ca6a3c6cc000819f7b017f6bcb4086dfb7c80cf13eb36a2a3a3012e2"}
 {"passage":"SolanaShoot_Menu","source":"Solana is already in makeup when you arrive. She blows you a kiss in the mirror.","source_sha256":"c3ad6f56181c5986209b0e8a8e47c79ba1321cdea28117af29f56e8b782f7ab4"}
 {"passage":"SolanaShoot_Menu","source":"The director hands you the call sheet. Pick today's scene.","source_sha256":"899c0868af312b8184a8c279b9dd06aff938936021fbe19d1b206953e918674c"}
-{"passage":"SolanaShoot_Menu","source":"Not today","source_sha256":"e54eb51617b3c6c91de96d14bdd6fe8b22c57cc96e075d2e36fd48672eaa154b"}
 {"passage":"Clay_Quest1","source":"After your win, Clay struggles to his feet.","source_sha256":"d2b588da909b8c50614a51242ff9300906dd9e958a3982576015ebbe8d70a29a"}
 {"passage":"Clay_Quest1","source":"Damn, you fight good - you kicked my ass. But don't get cocky; next time, I'll be ready.","source_sha256":"61c7071c69b51d575bced3c72c5362b00eb82e8ee2de3e9a2c9cee8471f16a6b"}
 {"passage":"Clay_Quest1","source":"Next time, I'll kick your ass again.","source_sha256":"27f4625b65f122b4a9f3aadc8a2f2eed2586af1a27c07ea2bfc3dfab0446e4ad"}
@@ -3123,39 +3083,32 @@
 {"passage":"Crime_Pickpocket","source":"There is no talking your way out of the grab itself.","source_sha256":"ca374998bcdbb305fb96edf0e3353c03cfc01b7a301c44365862913c1980f73c"}
 {"passage":"Crime_Pickpocket","source":"You brush past a mark and their wallet is lighter by $ before they feel a thing.","source_sha256":"f77a9c66243697a917c2d5fd2210a7101e7be7e435b6d77e141a6c5ba3f3f7cc"}
 {"passage":"Crime_Pickpocket","source":"In and gone, easy as breathing.","source_sha256":"f85f5b9d69dd204814bf520e258d2812222e5c9843250ef763f5a336c37a1933"}
-{"passage":"Crime_Pickpocket","source":"Face the music","source_sha256":"0e99d9a4c944031f89d521c8956684cab176c4fa38a219cb4de03881f982975e"}
 {"passage":"Crime_Pickpocket","source":"Melt into the crowd","source_sha256":"ec0e33d06ed91e0ba189ec6a5bca2a6be1b25bcda7b236e8f0426067a76cec83"}
 {"passage":"Crime_Shoplift","source":"Loss prevention has you on tape, and they have already made the call.","source_sha256":"3f27901f5c36fcd3f29f6b60029a7fff425c1032fcb59eb2d690ace03761363d"}
 {"passage":"Crime_Shoplift","source":"You palm what fits and walk out like you own the place.","source_sha256":"1ac461b3e154d0b9e214845013be1dfa7c74fc858f031f6c8ad3c8b0c9b16f46"}
-{"passage":"Crime_Shoplift","source":"Face the music","source_sha256":"0e99d9a4c944031f89d521c8956684cab176c4fa38a219cb4de03881f982975e"}
 {"passage":"Crime_Mug","source":"A scream in the dark","source_sha256":"bfb666af00e3c8fb13df38dc9c15f097c8384a73f0a6e69477fcb9b42ef80d4a"}
 {"passage":"Crime_Mug","source":"Your mark screams before you get the wallet, and a patrol car's lights are already sweeping the block.","source_sha256":"2bfcd0bfccfee4d43c0c98a4c9a66a0b9c457e3dec58d7343537cbf06407be6a"}
 {"passage":"Crime_Mug","source":"There is no walking this one back.","source_sha256":"2ba4a64b553f82d13211ebb91f58ec38c0ed7e85cc94fa0acaceaa0be46ff7dc"}
 {"passage":"Crime_Mug","source":"Wallet and watch","source_sha256":"cfa48449a7a82564bdbfca31c5b12441d18f1c8f7be4d788a2fa1058c2063c03"}
 {"passage":"Crime_Mug","source":"You put them on the ground with a forearm and take what they have - about $ , and gone before they find their feet.","source_sha256":"096a20fee5a86331d42e332145641938b838077491d425412a8e6db7cbf3b855"}
-{"passage":"Crime_Mug","source":"Face the music","source_sha256":"0e99d9a4c944031f89d521c8956684cab176c4fa38a219cb4de03881f982975e"}
 {"passage":"Crime_Mug","source":"Melt into the night","source_sha256":"17ee0c5c8809da7a6a89634e3c4f5cfaa8de7cca85c771042476b96d75fe0956"}
 {"passage":"Crime_Deal","source":"The wrong hand","source_sha256":"21c7cd963815655bf729ec89d35df3644cc9165d0caf7e7fa40300f4bb54f821"}
 {"passage":"Crime_Deal","source":"The buyer flashes tin instead of cash.","source_sha256":"2698bd998d252b8f31fd90a4d0c1bebf9e34046c5de2f9a9f309361b9ee691d0"}
 {"passage":"Crime_Deal","source":"Undercover, and he had you the second the package changed hands.","source_sha256":"ba1f09ae5f7a91f64cc165dae9a097d294e2ca1e79f039b4be3f73180534550b"}
 {"passage":"Crime_Deal","source":"There is no talking past a hand-to-hand they watched go down.","source_sha256":"b0d677673747c14f06180b473290cdc758118e13d8442cc65037204bcea0c9d7"}
 {"passage":"Crime_Deal","source":"You move the whole package hand-to-hand before the hour is out - a nod, a handoff, gone.","source_sha256":"a0e1e9c65b7a9f8a13979a7e7e30e86c606cb4cdfe11c44345b24f3df15e0eea"}
-{"passage":"Crime_Deal","source":"Face the music","source_sha256":"0e99d9a4c944031f89d521c8956684cab176c4fa38a219cb4de03881f982975e"}
 {"passage":"Crime_Deal","source":"Melt into the Row","source_sha256":"e9939e9a4e4be6292e9944af8a8f97962aeef1ad04c0c0c6b19eace3f0a561cd"}
 {"passage":"Crime_GrandTheft","source":"Alarm and lights","source_sha256":"c513e0ecc87eb59959b6607f9c747d19141c35321a89575c2c959a4fe9be773c"}
 {"passage":"Crime_GrandTheft","source":"The alarm goes off the second the slim-jim bites, loud enough to wake the block, and a patrol unit two streets over is already turning your way.","source_sha256":"d258e62d70af6fa9334fb2476fd1e42f1478f379c9cc075f847e22aee4a5c881"}
 {"passage":"Crime_GrandTheft","source":"No talking your way out of sitting in a car that is not yours.","source_sha256":"c2284a192a3a45fc37c659f7a13d42b7c22965331947dee3649f38619f6d1bde"}
 {"passage":"Crime_GrandTheft","source":"You are into it and rolling before the owner finishes their coffee, and within forty-five minutes a chop-shop contact takes it off your hands for about $ .","source_sha256":"97a0ee325cad5a375f37679d05683dd5d479f7fc7679e2e9ffa99259b703a8bb"}
 {"passage":"Crime_GrandTheft","source":"Ugly, loud, and the best money the street pays - when it goes clean.","source_sha256":"d87ac2287ca3acc2646dc7d153e4a00628601efe64df0618f06833377695596d"}
-{"passage":"Crime_GrandTheft","source":"Face the music","source_sha256":"0e99d9a4c944031f89d521c8956684cab176c4fa38a219cb4de03881f982975e"}
 {"passage":"Crime_Vandalism","source":"Glass is still falling when a porch light snaps on and a voice is already on the phone to the non-emergency line, describing you.","source_sha256":"1520bc2f38bdc01f4ea66318a1a0719367facb7f61eeb94c14bc6eff5453733e"}
 {"passage":"Crime_Vandalism","source":"You put a brick through what needs it and rake the coin tray of a machine and the console of a parked car - about $ in change and small stuff, and the satisfying crunch of somebody's bad day.","source_sha256":"d52952fb9ac9e78b1f3f9acc97aaac267b059338362c357390269e506aef4242"}
-{"passage":"Crime_Vandalism","source":"Face the music","source_sha256":"0e99d9a4c944031f89d521c8956684cab176c4fa38a219cb4de03881f982975e"}
 {"passage":"Crime_Solicit","source":"The car that slows for you has two men in it and a radio under the dash, and the moment you name a price the badge comes out.","source_sha256":"dca73517101503c926110c8fc93c17e2509eb7a8a9aa227c519bec425134f84f"}
 {"passage":"Crime_Solicit","source":"Fifteen minutes in the dark of his front seat with your lips around a stranger's cock, jacking what you cannot swallow until he grunts and cums, and about $ for it - cash in hand and no cut to anyone.","source_sha256":"4febe8095a48c01dca023a0b78b47751b240a287cb13aad1ac1a50a34d37955b"}
 {"passage":"Crime_Solicit","source":"You spit into the gutter and straighten up.","source_sha256":"7b3d681ec5d8511b119bd2f65aaf90499ca6eae411a6100e8eef8cf28148f64e"}
 {"passage":"Crime_Solicit","source":"The stroll pays quick and it pays ugly.","source_sha256":"8f847f4419ffd148e488927a2d7320b5cff975d9560c83eb3b9dad44998f863f"}
-{"passage":"Crime_Solicit","source":"Face the music","source_sha256":"0e99d9a4c944031f89d521c8956684cab176c4fa38a219cb4de03881f982975e"}
 {"passage":"Crime_Solicit","source":"Back to the corner","source_sha256":"cd254f931f49d71a01090053c38089fa502afef255eec533f85de01df96e611f"}
 {"passage":"Diner_Flirty_Flash","source":"Dessert, huh? *You lean in over her table, voice dropping low.* Careful what you flash around in here, sweetheart, or I might just flash something back.","source_sha256":"2b6b5173f15ff7798efcd0c60ac2d6698dd65aba35ed4b2b7d13af03584e06f5"}
 {"passage":"Diner_Flirty_Flash","source":"She stuffs a 15 tip into your apron for the eyeful, winking as she covers back up.","source_sha256":"9f962398ec81ead4555339e1a96049e885bda28bf596621fca7a81a3bba98406"}
@@ -3285,7 +3238,6 @@
 {"passage":"PhoneCall_Favor2","source":"Can't today, sorry","source_sha256":"387a242d8f3a3395b120d81c8b4b57e2c71f41f857e66833f6fedabad172de69"}
 {"passage":"PhoneCall_Date2","source":"I want us to go somewhere nice tonight - just the two of us. Please say yes?","source_sha256":"8df8d3db7a824df1aa5c8d315cc808cfaae9376b2cb63958172713867e7943ca"}
 {"passage":"PhoneCall_Date2","source":"I'd love that","source_sha256":"7fb2f8952997f6a2e7b7c02a51535ca6e2e0be3e0f838d00ccc062e8a0d50a19"}
-{"passage":"PhoneCall_Date2","source":"Not tonight","source_sha256":"36d870f40192be0e61accf8dd81c3826108f9b42d04f5df2367e4760c5830f51"}
 {"passage":"PhoneCall_Date2_Accept","source":"I'd love that. Let me know when you're on the way.","source_sha256":"798ddc5e78e582592175a9160132a3e937676e48ed2c46c7cfaf35bad36d9211"}
 {"passage":"PhoneCall_Date2_Accept","source":"I'd love that, if we can make the timing work.","source_sha256":"9252432f4a3e738c3409974a5a4fc72d497be545041b3ff05c8d5fe7d4b040bb"}
 {"passage":"PhoneCall_Date2_Decline","source":"I can't tonight - sorry.","source_sha256":"f15e7ad9bc80b6c8b1bf81dd5e9308f704a094352e6569da0ba17e6c712ab414"}
@@ -3328,7 +3280,6 @@
 {"passage":"Fixer_NewIdentity","source":"I call when the envelope is ready.\"","source_sha256":"6e2bc7fb0eb399bd6d67999d8a573cdc29ca72e90d823ccc1c71419757bb3ff7"}
 {"passage":"Fixer_NewIdentity","source":"He looks you over and shakes his head.","source_sha256":"4815f9c53b6c57bec2a51c316b3c7526dc39e5af5417b54ded50698032cff310"}
 {"passage":"Fixer_NewIdentity","source":"Come back when the dogs are actually out.\"","source_sha256":"7662867905e2de765f3062101b1dfdb7331d9c13453eb2c11d7d84df6517f407"}
-{"passage":"Fixer_NewIdentity","source":"Not today","source_sha256":"e54eb51617b3c6c91de96d14bdd6fe8b22c57cc96e075d2e36fd48672eaa154b"}
 {"passage":"Fixer_Done","source":"Seven days later, the fixer hands you a manila envelope.","source_sha256":"1a1b9514f9ce26e62c633f9b3f2165777fe05361d259e4f6722e5ab2195b1477"}
 {"passage":"Fixer_Done","source":"The license carries your face under a stranger's name.","source_sha256":"100ec4346c04d17feb050045bbd4cc0fe12154a52d2fbe0e9993e4c5f6e1c95c"}
 {"passage":"Fixer_Done","source":"The Social Security card and birth certificate match it.","source_sha256":"4d25cca64dc5a8f18ed658536985d7c9f9fd72a26878d1b92ce31b217fd3a7ad"}
