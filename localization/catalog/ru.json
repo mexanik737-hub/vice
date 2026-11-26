@@ -2592,7 +2592,22 @@
     "Quiet hours from 22:00": "Тихие часы с 22:00",
     "Quiet hours from 23:00": "Тихие часы с 23:00",
     "Live separately for a while": "Пожить раздельно какое-то время",
-    "Back to your partner": "Вернуться к партнёру"
+    "Back to your partner": "Вернуться к партнёру",
+    "Your guest chose to skip looking around.": "Гость решил не осматривать дом.",
+    "You respected their answer.": "Ты принял этот ответ.",
+    "Your guest remembered an earlier visit.": "Гость вспомнил прошлый визит.",
+    "Looking around gave you a chance to talk about everyday life at home.": "Осмотр дома дал вам возможность поговорить о повседневной жизни.",
+    "Your guest asked about the upkeep the home needs.": "Гость спросил, сколько сил требует уход за домом.",
+    "Your guest kept the conversation about the home fairly general.": "Гость говорил о доме в общих чертах.",
+    "Other people were in the room during the conversation.": "Во время разговора в комнате находились другие люди.",
+    "Both of you need to arrive.": "Вам обоим нужно добраться до места.",
+    "The invitation does not include an overnight stay.": "Приглашение не предполагает ночёвку.",
+    "Enjoy the visit together.": "Хорошо проведите время вместе.",
+    "You can discuss staying until morning in the evening.": "Вечером вы сможете обсудить, останется ли гость до утра.",
+    "You agreed to rest until morning.": "Вы договорились отдохнуть до утра.",
+    "You can still end the visit here.": "Ты всё ещё можешь завершить визит.",
+    "What would you like to do?": "Чем займётесь?",
+    "Return to your location": "Вернуться к себе"
   },
   "scoped": [
     {
