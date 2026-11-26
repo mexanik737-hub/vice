@@ -90,8 +90,9 @@ class ProjectTests(unittest.TestCase):
   self.assertTrue(all(q in catalog['phrases'] for q in questions),[q for q in questions if q not in catalog['phrases']])
  def test_asset_does_not_corrupt_identifiers(self):
   source=(ROOT/'upstream/original/viceburg_mod_clean.html').read_text(encoding='utf-8')
-  # The injected runtime layer is appended; the original source must remain a byte-for-byte prefix except its closing body tag.
-  self.assertEqual(hashlib.sha256(self.original).hexdigest(),json.loads((ROOT/'localization/progress.json').read_text())['source_sha256'])
+  # Git checkout settings may convert LF to CRLF on Windows; hash the canonical LF form from the source manifest.
+  canonical_original=self.original.replace(b'\r\n',b'\n')
+  self.assertEqual(hashlib.sha256(canonical_original).hexdigest(),json.loads((ROOT/'localization/progress.json').read_text())['source_sha256'])
   self.assertIn('vbModCheats',source); self.assertIn('vbModCaptureGeneration',source)
   self.assertEqual(source.count('<tw-passagedata'),self.game.count('<tw-passagedata'))
   names=lambda text: re.findall(r'<tw-passagedata\b[^>]*\bname="([^"]+)"',text)
