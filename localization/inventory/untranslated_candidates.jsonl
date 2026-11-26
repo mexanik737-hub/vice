@@ -1987,7 +1987,6 @@
 {"passage":"BDSMTrainingRoom","source":"⚡ Your Energy:","source_sha256":"d16e0b3d32e988209b632b8fd118ac73d6165300b641c77e2d0d8d2835977b9b"}
 {"passage":"BDSMTrainingRoom","source":"So... this is the place, huh? It's... intense.","source_sha256":"87443d09cf5bb1ccef1c5845a9dd5be677ff25f3a4113235c74f2cd996fe0fc3"}
 {"passage":"BDSM_Insult","source":"accepted your degradation.","source_sha256":"d52cebc3c057c11fbf75700ec0520df7b9ea75a9b77d71514771f26c04373042"}
-{"passage":"BDSM_Insult","source":"Your Energy:","source_sha256":"e3e944d498326af9d64042dffa6f627c80f0cfdbb213ced74aa8f4fb5a04bc31"}
 {"passage":"BDSM_Insult","source":"rejected your degradation.","source_sha256":"9a90402c227c9266e2a6267e8e25066d5019a519b31d1df81ba6cbef6b27cae6"}
 {"passage":"BDSM_Insult","source":"You're such a filthy little slut, aren't you?","source_sha256":"a3bed6f03e0a66a08a0d29c19605509a27a60002890b9337909ded1775787dfa"}
 {"passage":"BDSM_Insult","source":"Uh, I guess you can call me that, sir.","source_sha256":"0da6af7df1727f1fe478771844b99ec9dd9339b20fd41a4ce3b171845550cb73"}
@@ -1998,20 +1997,9 @@
 {"passage":"BDSM_Insult","source":"Fuck off, I'm not your slut, asshole.","source_sha256":"e21ef9f6006b350f32195dd037b7ff13f1ec8c475869eb349413cb7c4450b4dd"}
 {"passage":"BDSM_Insult","source":"Screw you, I'm not that pathetic.","source_sha256":"ad9468c259597fb9571ab13e429a1cb1e10bfb62e7f026dccebeb8487e023091"}
 {"passage":"BDSM_LickFeet","source":"worshipped your feet.","source_sha256":"eaeb87dfc8106e77e8dc41c55b1f7e35824d49ad482fd83bcbba6d040909e807"}
-{"passage":"BDSM_LickFeet","source":"Your Energy:","source_sha256":"e3e944d498326af9d64042dffa6f627c80f0cfdbb213ced74aa8f4fb5a04bc31"}
 {"passage":"BDSM_LickFeet","source":"Your Dominance ( ):","source_sha256":"ec1bef5dc2fc15a55d44245ba474483dcc86405173adc2382aa01d20939ab0f8"}
 {"passage":"BDSM_LickFeet","source":"refused to worship your feet.","source_sha256":"548c7ad8d9465980049ef3db8a679713d920406465a48b3d56adbbe7df967647"}
-{"passage":"BDSM_LickFeet","source":"Get down and worship my feet, now.","source_sha256":"526f4eecce5ff7f8128cddb0969126349b06faf0556fb48d6911936914703d35"}
-{"passage":"BDSM_LickFeet","source":"Fine, I'll do it, but don't expect much.","source_sha256":"ddd40d11988a91d7c8751db7c02754fd519e42a75a474a9741f323848c4a656e"}
-{"passage":"BDSM_LickFeet","source":"Alright, I'll give it a try, I guess.","source_sha256":"d3a6120a5ede6159ebb6733fc64f57308c64c48adaca673f7fae54062385be2a"}
-{"passage":"BDSM_LickFeet","source":"Mmm, your feet are perfect, sir, let me taste them.","source_sha256":"20744ac2c5fb941cf38f45011b166a8a1e356b7fc2dd9211faa000f6731a9b54"}
-{"passage":"BDSM_LickFeet","source":"Oh, mistress, I love serving your feet like this.","source_sha256":"9ddd592f9c5faf0d2d453acbc7ad56e8071d8fd2dcb92224f2f9d94b3da1ae40"}
-{"passage":"BDSM_LickFeet","source":"Your feet are divine, I'm so lucky to lick them.","source_sha256":"a342d09482eba62df1d956ba8eab34650697923cd3899f84aeed90bc7d24a915"}
-{"passage":"BDSM_LickFeet","source":"No way, I'm not licking your damn feet.","source_sha256":"f73669b5cc936b388feddc8c59648fe9c7af3eeda7abd21056b4f87d3bc3a003"}
-{"passage":"BDSM_LickFeet","source":"Ugh, that's gross, I'm not doing it.","source_sha256":"24a2f4ec13701eab01eb083aa16bb80ef661e82090fa4cc8a8dcf6c6089b0bab"}
-{"passage":"BDSM_LickFeet","source":"Hell no, find someone else for that.","source_sha256":"ddfa86e0edfcea057de8035a610c59316e8bd9e21ccd90db3357040d9dbfe40d"}
 {"passage":"BDSM_LeashPlay","source":"followed you on a leash like a good pet.","source_sha256":"16bdf6053d66b30c59378caf5b09b912fb09d41dfd0fdfa01a8f1e93c88ef2c9"}
-{"passage":"BDSM_LeashPlay","source":"Your Energy:","source_sha256":"e3e944d498326af9d64042dffa6f627c80f0cfdbb213ced74aa8f4fb5a04bc31"}
 {"passage":"BDSM_LeashPlay","source":"Your Dominance ( ):","source_sha256":"ec1bef5dc2fc15a55d44245ba474483dcc86405173adc2382aa01d20939ab0f8"}
 {"passage":"BDSM_LeashPlay","source":"refused the leash.","source_sha256":"7685c4c35c55e5672cf3858f9940b250d266423896b55f31fac1bf48826d8ab3"}
 {"passage":"BDSM_LeashPlay","source":"Time to put this leash on you and take you for a walk.","source_sha256":"a7346ff859844332c8153128d77a6c9793d41e9f7d052caa3aac8945399dd15f"}
@@ -2025,7 +2013,6 @@
 {"passage":"BDSM_LeashPlay","source":"No way, I'm not crawling like some pet.","source_sha256":"2e7187ae9c784001ffe2819aebfd5e175b6073d53376a65749e4f4610765247a"}
 {"passage":"BDSM_LeashPlay","source":"Get that leash away from me, I'm not playing.","source_sha256":"040946329a4a0433fda02c019d9934d9c89f138b795e6f5462cbfe51c9608da3"}
 {"passage":"BDSM_TieUp","source":"is now completely bound and helpless.","source_sha256":"ebc9f22e0d8297cd74c81d023ee5b400557383791cc62cdf8a3b745e8e75a28f"}
-{"passage":"BDSM_TieUp","source":"Your Energy:","source_sha256":"e3e944d498326af9d64042dffa6f627c80f0cfdbb213ced74aa8f4fb5a04bc31"}
 {"passage":"BDSM_TieUp","source":"Your Dominance ( ):","source_sha256":"ec1bef5dc2fc15a55d44245ba474483dcc86405173adc2382aa01d20939ab0f8"}
 {"passage":"BDSM_TieUp","source":"I'm going to bind you so you can't move an inch.","source_sha256":"0000bd951ef08262dc3fda10733ebc5824f35723849392c615502149d43bc810"}
 {"passage":"BDSM_TieUp","source":"Fine, go ahead, but don't make it too tight.","source_sha256":"5cddc333b87893386b67097e3228752632e8be7f080748bc3d0cce97474c5df3"}
@@ -2038,7 +2025,6 @@
 {"passage":"BDSM_TieUp","source":"Forget it, I'm not that helpless.","source_sha256":"2bd1976742e1a0b114a4a1d8f6c32c7c47df2a2fe0cba5c567be9e98b88cc9a9"}
 {"passage":"BDSM_TieUp","source":"No way, keep your ropes to yourself.","source_sha256":"28a7e75e3ea2e5b7209a41e34413d4e14ae84f838659df0e73e8c3317976f291"}
 {"passage":"BDSM_PussyLicking","source":"pleasured you orally.","source_sha256":"2612e721c56a77425d30076ae85e7d55ac6aacb0c860710b576ed23c83df8f71"}
-{"passage":"BDSM_PussyLicking","source":"Your Energy:","source_sha256":"e3e944d498326af9d64042dffa6f627c80f0cfdbb213ced74aa8f4fb5a04bc31"}
 {"passage":"BDSM_PussyLicking","source":"Your Dominance ( ):","source_sha256":"ec1bef5dc2fc15a55d44245ba474483dcc86405173adc2382aa01d20939ab0f8"}
 {"passage":"BDSM_PussyLicking","source":"refused to please you.","source_sha256":"330073ca04a03d851055ccaff609bb971fd548e4a7add5b78b3cfd1c5fe28229"}
 {"passage":"BDSM_PussyLicking","source":"Get between my legs and lick my pussy, now.","source_sha256":"87662eefbdb1918845e5d576ff316f6943265fd22a373f05e5818f4a3123c6c7"}
@@ -2046,7 +2032,6 @@
 {"passage":"BDSM_PussyLicking","source":"Oh, your pussy's perfect, I could lick it all day.","source_sha256":"737806b0f39e81b44ed7350339ab3850de1545f267f779bbb1f1ef2ac308e613"}
 {"passage":"BDSM_PussyLicking","source":"Ugh, that's too much, I'm out.","source_sha256":"c64eb20e078d3039ab402aac98c7bd1bada6ff1c6ceabc8f6be2dbea58cbcd3c"}
 {"passage":"BDSM_Blowjob","source":"sucked you off like a good sub.","source_sha256":"671f1c1dfff7e6e0b53bab0f3f2d2c785da9089b87d722f0073acc3467bcf497"}
-{"passage":"BDSM_Blowjob","source":"Your Energy:","source_sha256":"e3e944d498326af9d64042dffa6f627c80f0cfdbb213ced74aa8f4fb5a04bc31"}
 {"passage":"BDSM_Blowjob","source":"Your Dominance ( ):","source_sha256":"ec1bef5dc2fc15a55d44245ba474483dcc86405173adc2382aa01d20939ab0f8"}
 {"passage":"BDSM_Blowjob","source":"refused to please you.","source_sha256":"330073ca04a03d851055ccaff609bb971fd548e4a7add5b78b3cfd1c5fe28229"}
 {"passage":"BDSM_Blowjob","source":"Get on your knees and suck me off.","source_sha256":"dc1ea335a1c9591d575489401db4bb09d161ed0693f0b724c31ee7af06b9cd3a"}
@@ -2054,7 +2039,6 @@
 {"passage":"BDSM_Blowjob","source":"Oh, your dick is amazing, I'm so lucky to taste it.","source_sha256":"a774237a3a0ab7a04b70888554df7efae1846afd2feb357d7605cca9e28e2dfe"}
 {"passage":"BDSM_Blowjob","source":"Fuck no, I'm not sucking your dick.","source_sha256":"2f9e097fd98067e9df339e6798421961c423965af790792c55c2c3d4e0d57b38"}
 {"passage":"BDSM_AnusLicking","source":"rimmed you devotedly.","source_sha256":"66068eda6c0d12c2fea4751545cff29cf41350fc9a624b2db1b686592e7fc1b5"}
-{"passage":"BDSM_AnusLicking","source":"Your Energy:","source_sha256":"e3e944d498326af9d64042dffa6f627c80f0cfdbb213ced74aa8f4fb5a04bc31"}
 {"passage":"BDSM_AnusLicking","source":"Your Dominance ( ):","source_sha256":"ec1bef5dc2fc15a55d44245ba474483dcc86405173adc2382aa01d20939ab0f8"}
 {"passage":"BDSM_AnusLicking","source":"refused this act.","source_sha256":"2e84d7805c1a87cfeb3da4920ec30a8eaadeb46a0400719701f7d7336528cbc9"}
 {"passage":"BDSM_AnusLicking","source":"Spread your cheeks. I want you to rim me.","source_sha256":"46322efe81d6e006e95cc8d8e3618bd80f43d078a8f13e80dfe3fae7549eb32b"}
@@ -2063,7 +2047,6 @@
 {"passage":"BDSM_AnusLicking","source":"Yes, I love licking your ass, it's so fucking good.","source_sha256":"81f437559fc34445e7759336cf0cd6d3b3091d43fd4c8a3b3650ad254685a253"}
 {"passage":"BDSM_AnusLicking","source":"No fucking way, that's not happening.","source_sha256":"f108be4af2019a3ab010ea1fb677dc45550345004c0179c4d0fd3d0e55dce320"}
 {"passage":"BDSM_Toys","source":"You used toys on .","source_sha256":"962891373efb426cc9a967312a403a7e884f53df20f2194676ae4b48476b9ae1"}
-{"passage":"BDSM_Toys","source":"Your Energy:","source_sha256":"e3e944d498326af9d64042dffa6f627c80f0cfdbb213ced74aa8f4fb5a04bc31"}
 {"passage":"BDSM_Toys","source":"Your Dominance ( ):","source_sha256":"ec1bef5dc2fc15a55d44245ba474483dcc86405173adc2382aa01d20939ab0f8"}
 {"passage":"BDSM_Toys","source":"refused the toys.","source_sha256":"5ce95c8849b4b59369adbdb0cbf2dfc956c31b1cec5e8a13362e2bba25d67c72"}
 {"passage":"BDSM_Toys","source":"I'm going to use some toys on you.","source_sha256":"c4f549d0b3bc00203a8e0870bbce7672313d401c2de52cc73e30aef24449e126"}
@@ -2072,7 +2055,6 @@
 {"passage":"BDSM_Toys","source":"Oh, yes, use the toys on me, I'm ready.","source_sha256":"1ef5b2d611656079cd2a483399d00368f6915577dcfbf29d1e818a30d2a90e44"}
 {"passage":"BDSM_Toys","source":"Hell no, keep that away from me.","source_sha256":"cf0d5c49934cc0ce0ea2f89b2331b40c2513dd69bcb7cab859ab3ae0eacd50fb"}
 {"passage":"BDSM_SexVaginal","source":"You dominated completely.","source_sha256":"1dd197c323608abbada012b931344e3e0af0043f4ac45eb99aec3ab3f768193e"}
-{"passage":"BDSM_SexVaginal","source":"Your Energy:","source_sha256":"e3e944d498326af9d64042dffa6f627c80f0cfdbb213ced74aa8f4fb5a04bc31"}
 {"passage":"BDSM_SexVaginal","source":"Your Dominance ( ):","source_sha256":"ec1bef5dc2fc15a55d44245ba474483dcc86405173adc2382aa01d20939ab0f8"}
 {"passage":"BDSM_SexVaginal","source":"I'm going to fuck your pussy hard.","source_sha256":"0b3023fd97f8d715293fbf8fc5ea244f68eb6cfeaf68282080531e607ef370e4"}
 {"passage":"BDSM_SexVaginal","source":"Sir, please, pound my pussy, I'm yours.","source_sha256":"b79362764b46ea76412709f1f8d4d425535c635c2fa87b73e45515f85760a009"}
@@ -2080,7 +2062,6 @@
 {"passage":"BDSM_SexVaginal","source":"Oh, fuck my pussy hard, I'm all yours.","source_sha256":"ad02053376292c179fc08b9b76c91c89f4cfca62c2c141747eb271c6fcedaf24"}
 {"passage":"BDSM_SexVaginal","source":"No way, you're not touching me there.","source_sha256":"f4c20cd2791778d6492de60610b1c8a17942d0968af1b64181431dcd6dd8568e"}
 {"passage":"BDSM_SexAnal","source":"You took 's ass completely.","source_sha256":"88445b4885dc491fc33d27498010066fc9c89671afe9d1899e863ea5c48a042f"}
-{"passage":"BDSM_SexAnal","source":"Your Energy:","source_sha256":"e3e944d498326af9d64042dffa6f627c80f0cfdbb213ced74aa8f4fb5a04bc31"}
 {"passage":"BDSM_SexAnal","source":"Your Dominance ( ):","source_sha256":"ec1bef5dc2fc15a55d44245ba474483dcc86405173adc2382aa01d20939ab0f8"}
 {"passage":"BDSM_SexAnal","source":"I'm going to fuck your ass now.","source_sha256":"40d78717394064d7bfb67ef4aa62bdb96d32667e305f3996396a4687bb1ef7f4"}
 {"passage":"BDSM_SexAnal","source":"Sir, yes, take my ass, I'm all yours.","source_sha256":"e5bac051c0fde4afb85623a1fcb5722c314bf6960b2988ca99f2e4d4349c3541"}
