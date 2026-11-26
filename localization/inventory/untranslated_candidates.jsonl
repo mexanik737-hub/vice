@@ -6,11 +6,6 @@
 {"passage": "enhanced_interaction_hug", "source": "Oh... this feels so nice... 😊", "source_sha256": "1e41f589ba843b307ae70cc0ac5c9fdd18719fd51ce08525bdb36b96a9b2c136"}
 {"passage": "enhanced_interaction_hug", "source": "I could hug you forever... 💏", "source_sha256": "4a3171fa69a0ff507d68a57eeacb97f323131df9174f8590b046dbf45722c6b0"}
 {"passage": "enhanced_interaction_hug", "source": "Sorry, I'm not in the mood for hugs right now...", "source_sha256": "96475ce9777cbf692b85832ea27ee9b784b405020e0f012f408bb9505970ff4b"}
-{"passage": "enhanced_interaction_proposeDate", "source": "YES! I've been waiting for you to ask! It's going to be the best date ever! 💐🎉", "source_sha256": "ad344e9bc22447b43773f33d102d0392b00b98290904b2b4b3f6e42f41b7dc3b"}
-{"passage": "enhanced_interaction_proposeDate", "source": "Like a date-date? Hmm... why not! Let's try it!", "source_sha256": "1e26175067767705c7363ad41efc188aa87ab20727d1b7ce23150ca3ebc03808"}
-{"passage": "enhanced_interaction_proposeDate", "source": "Of course, honey! I always love spending time with you! 💑", "source_sha256": "30ec5793eed15eebddb82fa95203e483e8763bd7c71ed3d32a63ab162318ada4"}
-{"passage": "enhanced_interaction_proposeDate", "source": "A date? Hmm... alright, let's try it!", "source_sha256": "76f6ffee699bc3fa153028c55fb242cf3ff4bcc97620224c7003e3d335954f2f"}
-{"passage": "enhanced_interaction_proposeDate", "source": "Sorry, but I don't think that's a good idea...", "source_sha256": "63cad336b0e8fdd59e2849570b1eedb7650eccb1d04379e5a58ac7a19e31fcd8"}
 {"passage": "enhanced_interaction_playfulTease", "source": "Haha! You're so playful! I love it! 😏💕", "source_sha256": "1f650dbd1e4e613caa34695df08d897984aaf313a3cebf221446eee63d30ed11"}
 {"passage": "enhanced_interaction_playfulTease", "source": "That was hurtful! You crossed the line!", "source_sha256": "cc7f55802aca08e44ffb75a699b4fda71ac5c802355a040e6960d6eac6959d1a"}
 {"passage": "enhanced_interaction_playfulTease", "source": "Hey! Haha, is that so? Just you wait, I'll get you back! 😄", "source_sha256": "24f9d1bd29935331246e5950803852333799bfb246858afc9f5baf0c7c1450cd"}
@@ -103,20 +98,7 @@
 {"passage": "enhanced_interaction_system", "source": "enhanced_interaction_discussFeminization", "source_sha256": "467960ae603142f072a96e76f07f0a58ce21a136dc7c74a8123a466f2e96db3f"}
 {"passage": "enhanced_interaction_system", "source": "enhanced_interaction_convinceGenderChange", "source_sha256": "83e167ef3fe2cff48615283ee12cb00205c0a13a2e4fe904d3020882e1fd0b86"}
 {"passage": "enhanced_interaction_system", "source": "enhanced_interaction_convinceOrientation", "source_sha256": "230ca9a235f9430121960c1c383d8d91cf7dfc90db4d3e562f0ef665312cea9e"}
-{"passage": "enhanced_interaction_inviteToBar", "source": "This was the BEST evening ever! I had so much fun with you! Let's do it again soon! 🍻✨", "source_sha256": "f9691d953cf573a91d6b2ab30f1fcccddef7431f8909876eb4b41f32f4c355c6"}
-{"passage": "enhanced_interaction_inviteToBar", "source": "This was... awkward. I think I'll head home early.", "source_sha256": "69b911a3c7d8fee07177f01f0b63d946f4a695f32745972ea54496d7b4f6a771"}
-{"passage": "enhanced_interaction_inviteToBar", "source": "That was so fun! I love hanging out with you at the bar!", "source_sha256": "d8833732760eb2e045185123ca847f6c96d04afd8ee8f9537264fa239246d54f"}
-{"passage": "enhanced_interaction_inviteToBar", "source": "I really enjoyed spending time with you... 😊", "source_sha256": "31d4603f97102a6a47c7ef68690bdd9668e040fb41a761f54fb70b3c5aa95cbf"}
-{"passage": "enhanced_interaction_inviteToBar", "source": "Such a romantic evening! You're the best, honey! 💕", "source_sha256": "4df1f2224ceee73e4cb19064ceb07db7a3a1c3dc8ce98a21c45a9f6cc93cb32e"}
-{"passage": "enhanced_interaction_inviteToBar", "source": "Thanks for the drinks! That was nice.", "source_sha256": "91900619502cb5b5e4af13dc1ea2aa329a3a78f5e2c01e765351fc456d1e474b"}
-{"passage": "enhanced_interaction_inviteToBar", "source": "It was okay, I guess. The drinks were nice at least.", "source_sha256": "c110f549df30aad63972f197386f88b181b992af61988c6b570474caa6980b03"}
 {"passage": "enhanced_interaction_followMe", "source": "What? No way! I'm not going anywhere with you!", "source_sha256": "4f27dcdd05b578ad4d49b6c53435a0ad5785ef525b8d408925da699b7ff2a976"}
-{"passage": "enhanced_interaction_inviteHome", "source": "Yes, finally. I was starting to think you'd never ask. 🏠💕", "source_sha256": "494209400640e27cccba48b8f29cbdf9550b61ecbf6e1465d4cc83d4e31c2f96"}
-{"passage": "enhanced_interaction_inviteHome", "source": "To your place? That's... really forward. I don't think so.", "source_sha256": "8c4cc4caa29482aeacb4bfeff99fddb2b556bcc4260b55c390e89d6ae5c4f71f"}
-{"passage": "enhanced_interaction_inviteHome", "source": "To your place? O-okay... I'll meet you there. 😊", "source_sha256": "8925e238a39401ad591a085cba1c869970488f15d3d796ace091147f2e83d1ed"}
-{"passage": "enhanced_interaction_inviteHome", "source": "I know what you want. I'll head over. 😏", "source_sha256": "ad828a816b6d4d753b2d8a7eae900e4bc6dfe3d2d95536d67404efafb661a699"}
-{"passage": "enhanced_interaction_inviteHome", "source": "Sure, why not? I'll meet you there.", "source_sha256": "c3363373b2892d2eb4f4768f5f2e326bc29b7883e6d9c63a65c46908ce0a4784"}
-{"passage": "enhanced_interaction_inviteHome", "source": "Thanks for the offer, but I'll pass for now.", "source_sha256": "c45b4559e1cb000364995a61081b01000f4f8bae135feb1dfc401a206aa0dcdc"}
 {"passage": "enhanced_interaction_askPhoneNumber", "source": "Of course! Here's my number! 📱 Call me whenever, day or night. I'd love to hear from you! 💕", "source_sha256": "ffcc362077b9fdae538a55b0db95e919adcb2125cb34cae7ee70df5804243bb1"}
 {"passage": "enhanced_interaction_askPhoneNumber", "source": "Give you my number? Why would I do that? I barely know you!", "source_sha256": "4d48fcad68a274883530931d39b5159656485b5df859f99be2b8b2d3e133522b"}
 {"passage": "enhanced_interaction_askForHouseKeys", "source": "Of course! I completely trust you. Here, take a spare set of keys - you're welcome anytime! 🔑💕", "source_sha256": "254ae634182623982721c3a45154fb48b9eb10e9772e9ff8e2c7281da2c47537"}
@@ -186,10 +168,6 @@
 {"passage": "enhanced_relationship_boundary_saved", "source": "Good. Now we both know where we stand.", "source_sha256": "76e548ad5ff118c9a8354ca3ccf5872ab921e95dcb7c54fb038e390c5d05fd1d"}
 {"passage": "enhanced_relationship_boundary_saved", "source": "That's the deal now.", "source_sha256": "b0a0a07046d047ad2281622d4bcc58f4796d4eab47e1dd338103593358105457"}
 {"passage": "enhanced_relationship_boundary_saved", "source": "You couldn't get them to agree to that.", "source_sha256": "4d3b3d45a73da5072c58968e058e66be802ee5d72fabfd95aa6894403fd497d5"}
-{"passage": "enhanced_interaction_askToDate", "source": "Yes! God, I was starting to think you'd never ask. 💖💖💖", "source_sha256": "c86aae5e8d5b1e6335126d19eea52898750a57ec07620be25ba54a5d1da5d9d6"}
-{"passage": "enhanced_interaction_askToDate", "source": "Date you? Are you serious? That's never going to happen. Sorry.", "source_sha256": "77da4a055a653c808c8bf7c0435ad0250f5cd37729ed3afb708eff227ee6362a"}
-{"passage": "enhanced_interaction_askToDate", "source": "Really? You want to date me? ...Yes! I'd love that! 💕", "source_sha256": "46ffa005588193b1aa3bf2cfd35f0940c13fa77381be26a025768e535b42af58"}
-{"passage": "enhanced_interaction_askToDate", "source": "I'm flattered, but... I don't think I'm ready for that. Sorry.", "source_sha256": "acd66635a4a374cccd4c249f5f38e83d1f5149d63b9f99e8cb030603be6da644"}
 {"passage": "enhanced_interaction_askToBeFriends", "source": "Of course! I feel like we really click! Let's be great friends! 🤝", "source_sha256": "8346edef0f52415cc59cf3acedb527a1af28515870e2191fe625c394a3964ed2"}
 {"passage": "enhanced_interaction_askToBeFriends", "source": "Friends? With you? I don't think so.", "source_sha256": "ffd2172a8b272aa4e96d760cf380a10501eea0f5566cadd1fd77e25b873ce1d2"}
 {"passage": "enhanced_interaction_askToBeFriends", "source": "Sure, I'd like that! We can be friends.", "source_sha256": "3ae3e93885e97a4932a4b3ca68518bdc2f3dd0d00f814b53eed29556d660ec11"}

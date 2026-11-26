@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 71,
+    "version": 72,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -3015,7 +3015,29 @@
     "Okay... I love you, no matter what.": "Ладно... Я люблю тебя, несмотря ни на что.",
     "Hmm... we'll see how sincere you are.": "Хм... Посмотрим, насколько ты искренен(на).",
     "Thanks for apologizing. I appreciate it.": "Спасибо за извинения. Я это ценю.",
-    "Words are just words. I'm not sure I can forgive.": "Слова — это только слова. Не уверен(а), что смогу простить."
+    "Words are just words. I'm not sure I can forgive.": "Слова — это только слова. Не уверен(а), что смогу простить.",
+    "YES! I've been waiting for you to ask! It's going to be the best date ever! 💐🎉": "ДА! Я так ждал(а), когда ты предложишь! Это будет лучшее свидание! 💐🎉",
+    "Like a date-date? Hmm... why not! Let's try it!": "Прямо настоящее свидание? Хм... А почему бы и нет! Давай попробуем!",
+    "Of course, honey! I always love spending time with you! 💑": "Конечно, милый(ая)! Я всегда рад(а) провести с тобой время! 💑",
+    "A date? Hmm... alright, let's try it!": "Свидание? Хм... Ладно, давай попробуем!",
+    "Sorry, but I don't think that's a good idea...": "Прости, но не думаю, что это хорошая идея...",
+    "This was the BEST evening ever! I had so much fun with you! Let's do it again soon! 🍻✨": "Это был лучший вечер! Мне было так весело с тобой! Давай скоро повторим! 🍻✨",
+    "This was... awkward. I think I'll head home early.": "Это было... неловко. Думаю, я поеду домой пораньше.",
+    "That was so fun! I love hanging out with you at the bar!": "Было так весело! Мне нравится проводить с тобой время в баре!",
+    "I really enjoyed spending time with you... 😊": "Мне очень понравилось провести с тобой время... 😊",
+    "Such a romantic evening! You're the best, honey! 💕": "Какой романтичный вечер! Ты лучший(ая), дорогой(ая)! 💕",
+    "Thanks for the drinks! That was nice.": "Спасибо за напитки! Было приятно.",
+    "It was okay, I guess. The drinks were nice at least.": "Вроде всё было нормально. Напитки хотя бы были хорошими.",
+    "Yes, finally. I was starting to think you'd never ask. 🏠💕": "Да, наконец-то. Я уже думал(а), что ты никогда не предложишь. 🏠💕",
+    "To your place? That's... really forward. I don't think so.": "К тебе домой? Это... слишком смело. Думаю, нет.",
+    "To your place? O-okay... I'll meet you there. 😊": "К тебе домой? Л-ладно... Тогда увидимся у тебя. 😊",
+    "I know what you want. I'll head over. 😏": "Я знаю, чего ты хочешь. Скоро буду. 😏",
+    "Sure, why not? I'll meet you there.": "Конечно, почему бы и нет? Увидимся там.",
+    "Thanks for the offer, but I'll pass for now.": "Спасибо за приглашение, но пока откажусь.",
+    "Yes! God, I was starting to think you'd never ask. 💖💖💖": "Да! Боже, я уже думал(а), что ты никогда не предложишь. 💖💖💖",
+    "Date you? Are you serious? That's never going to happen. Sorry.": "Свидание с тобой? Ты серьёзно? Этого никогда не будет. Прости.",
+    "Really? You want to date me? ...Yes! I'd love that! 💕": "Правда? Ты хочешь встречаться со мной? ...Да! Я очень хочу! 💕",
+    "I'm flattered, but... I don't think I'm ready for that. Sorry.": "Мне приятно, но... Не думаю, что готов(а) к этому. Прости."
   },
   "scoped": [
     {
