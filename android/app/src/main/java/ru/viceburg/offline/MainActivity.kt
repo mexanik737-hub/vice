@@ -233,27 +233,44 @@ class MainActivity : Activity() {
     }
 
     private fun pickMediaTree() {
-        val intent = Intent(Intent.ACTION_OPEN_DOCUMENT_TREE)
+        val intent = Intent(Intent.ACTION_OPEN_DOCUMENT_TREE).apply {
+            addFlags(
+                Intent.FLAG_GRANT_READ_URI_PERMISSION or
+                    Intent.FLAG_GRANT_WRITE_URI_PERMISSION or
+                    Intent.FLAG_GRANT_PERSISTABLE_URI_PERMISSION
+            )
+        }
         mediaTree?.let { intent.putExtra("android.provider.extra.INITIAL_URI", it) }
         startActivityForResult(intent, REQUEST_MEDIA)
     }
 
     private fun exportSave() {
+        val tree = mediaTree
+        if (tree == null) {
+            toast("Сначала выберите папку Media")
+            return
+        }
         web.evaluateJavascript("JSON.stringify({format:'viceburg-localstorage-v1',savedAt:new Date().toISOString(),entries:Object.fromEntries(Object.keys(localStorage).map(k=>[k,localStorage.getItem(k)]))})") { encoded ->
+            var file: DocumentFile? = null
             try {
                 val json = JSONTokener(encoded).nextValue() as? String ?: throw IllegalStateException("empty save")
-                val intent = Intent(Intent.ACTION_CREATE_DOCUMENT).apply {
-                    addCategory(Intent.CATEGORY_OPENABLE)
-                    type = "application/json"
-                    putExtra(Intent.EXTRA_TITLE, "viceburg-save.json")
-                }
-                pendingExport = json
-                startActivityForResult(intent, REQUEST_EXPORT)
-            } catch (_: Exception) { toast("Не удалось подготовить сохранение") }
+                val root = DocumentFile.fromTreeUri(this, tree) ?: throw IllegalStateException("Media folder unavailable")
+                val backup = root.findFile("backup")?.also {
+                    if (!it.isDirectory) throw IllegalStateException("backup path is not a folder")
+                } ?: root.createDirectory("backup") ?: throw IllegalStateException("cannot create backup folder")
+                val fileName = "viceburg-save-${System.currentTimeMillis()}.json"
+                file = backup.createFile("application/json", fileName)
+                    ?: throw IllegalStateException("cannot create backup file")
+                val output = contentResolver.openOutputStream(file!!.uri, "w")
+                    ?: throw IllegalStateException("cannot open backup file")
+                output.bufferedWriter(Charsets.UTF_8).use { it.write(json) }
+                toast("Сохранение создано: Media/backup/$fileName")
+            } catch (_: Exception) {
+                file?.delete()
+                toast("Не удалось создать файл в Media/backup")
+            }
         }
     }
-
-    private var pendingExport: String? = null
 
     private fun importSave() {
         val intent = Intent(Intent.ACTION_OPEN_DOCUMENT).apply {
@@ -283,18 +300,15 @@ class MainActivity : Activity() {
         when (requestCode) {
             REQUEST_MEDIA -> {
                 val flags = data.flags and (Intent.FLAG_GRANT_READ_URI_PERMISSION or Intent.FLAG_GRANT_WRITE_URI_PERMISSION)
-                contentResolver.takePersistableUriPermission(uri, flags and Intent.FLAG_GRANT_READ_URI_PERMISSION)
+                try {
+                    if (flags != 0) contentResolver.takePersistableUriPermission(uri, flags)
+                } catch (_: Exception) {
+                    toast("Не удалось сохранить доступ к папке Media")
+                    return
+                }
                 prefs.edit().putString(KEY_MEDIA_TREE, uri.toString()).apply()
                 web.evaluateJavascript("window.dispatchEvent(new Event('viceburg-media-change'))", null)
                 toast("Папка Media подключена")
-            }
-            REQUEST_EXPORT -> {
-                try {
-                    val content = pendingExport ?: return
-                    contentResolver.openOutputStream(uri, "w")!!.bufferedWriter(Charsets.UTF_8).use { it.write(content) }
-                    pendingExport = null
-                    toast("Сохранение экспортировано")
-                } catch (_: Exception) { toast("Не удалось записать файл сохранения") }
             }
             REQUEST_IMPORT -> {
                 try {
@@ -379,7 +393,6 @@ class MainActivity : Activity() {
         private const val GAME_PATH = "/game/index.html"
         private const val KEY_MEDIA_TREE = "media_tree_uri"
         private const val REQUEST_MEDIA = 1001
-        private const val REQUEST_EXPORT = 1002
         private const val REQUEST_IMPORT = 1003
         private const val REQUEST_GAME_FILE = 1004
         private const val MAX_SAVE_BYTES = 8 * 1024 * 1024
