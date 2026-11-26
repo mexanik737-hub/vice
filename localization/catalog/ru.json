@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 44,
+    "version": 45,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -2342,7 +2342,43 @@
     "What the hell happened to you?": "Что с тобой, чёрт возьми, случилось?",
     "The ticket dealer beat me and forced one of those transformation pills down my throat. I still do not have the tickets.": "Торговец билетами избил меня и силой заставил проглотить одну из тех таблеток трансформации. Билетов у меня всё ещё нет.",
     "That is seriously fucked up. Do not get yourself killed over a concert. If you go back, buy the tickets or use whatever leverage you have now instead of picking the same fight again.": "Это уже совсем жесть. Не дай себя убить из-за концерта. Если вернёшься, купи билеты или используй новые козыри вместо того, чтобы снова ввязываться в ту же драку.",
-    "Sarah is clearly worried, but the quest is not over. The dealer still has the tickets, and you now have non-combat ways to get them from him.": "Сара явно переживает, но задание ещё не окончено. Билеты всё ещё у торговца, и теперь у тебя есть способы забрать их без драки."
+    "Sarah is clearly worried, but the quest is not over. The dealer still has the tickets, and you now have non-combat ways to get them from him.": "Сара явно переживает, но задание ещё не окончено. Билеты всё ещё у торговца, и теперь у тебя есть способы забрать их без драки.",
+    "You step into Ethan’s room. He’s sitting on his bed, staring at his phone. Scattered around the room are old gaming magazines, and on his laptop screen, there’s an article about the latest gaming console.": "Ты заходишь в комнату Итана. Он сидит на кровати и смотрит в телефон. По комнате разбросаны старые игровые журналы, а на экране ноутбука открыта статья о новой игровой приставке.",
+    "Have you heard? The NovaGear X just dropped… and it looks insane! The graphics, the load times - it’s like playing in the future": "Ты слышал? Вышла NovaGear X… Выглядит просто безумно! Графика, скорость загрузки — будто играешь в будущем.",
+    "Ethan sighs heavily and puts his phone down.": "Итан тяжело вздыхает и откладывает телефон.",
+    "You want one, huh?": "Хочешь такую, да?",
+    "Of course I do… But where am I gonna get that kind of money? My old Quantum Edge 5 still works - kinda…": "Конечно… Только где мне взять столько денег? Моя старая Quantum Edge 5 ещё работает. Ну, вроде бы…",
+    "You can tell he’s trying to act like it’s no big deal, but his voice gives him away. You both have been gaming together for years-pulling all-nighters, strategizing, competing. And now, for the first time, he’s stuck on the sidelines.": "Видно, что он пытается сделать вид, будто ничего страшного, но голос его выдаёт. Вы годами играли вместе: не спали ночами, продумывали тактику, соревновались. А теперь впервые он остаётся в стороне.",
+    "You take a step forward, leaning against his desk, where a pile of old game cases sits.": "Ты делаешь шаг вперёд и опираешься на стол, заваленный коробками от старых игр.",
+    "You know what? I’ll buy it.": "Знаешь что? Я куплю её.",
+    "Ethan’s head snaps up, his eyes wide with disbelief": "Итан резко поднимает голову. В его глазах — недоверие.",
+    "Wh-what?! You’re serious?!": "Ч-что?! Ты серьёзно?!",
+    "Why not? We’ve always played together. What does it matter who buys it? What matters is that we get to have fun like we always do.": "Почему нет? Мы всегда играли вместе. Какая разница, кто её купит? Главное — чтобы мы и дальше могли весело проводить время, как раньше.",
+    "For a moment, the room falls silent. Ethan looks at you like he’s trying to process what you just said. Then, suddenly, he jumps up from the bed and stares at you": "На мгновение в комнате воцаряется тишина. Итан смотрит на тебя, пытаясь осмыслить сказанное. Затем внезапно вскакивает с кровати и пристально смотрит на тебя.",
+    "Dude… You are the best friend ever, you know that?": "Чувак… Ты знаешь, что ты лучший друг на свете?",
+    "His excitement is contagious. He grabs you by the shoulders and shakes you slightly, his energy through the roof.": "Его восторг заразителен. Он хватает тебя за плечи и слегка встряхивает; он просто переполнен энергией.",
+    "We’re gonna have legendary game nights! We’re beating everything we can get our hands on! Man, this is gonna be insane!": "Нас ждут легендарные игровые ночи! Пройдём всё, до чего только доберёмся! Вот это будет круто!",
+    "He immediately grabs his laptop, typing furiously as he searches for where to buy the console. He’s rambling now, throwing out plans for weeks of non-stop gaming.": "Он тут же хватает ноутбук и лихорадочно ищет, где купить приставку. Теперь он без умолку строит планы на недели непрерывных игр.",
+    "You didn’t even ask when I’m getting it.": "Ты даже не спросил, когда я её получу.",
+    "Does it matter?! The fact that we’re getting one is all I need to know!": "Какая разница?! Главное, что приставка у нас будет!",
+    "Ethan is sitting on his bed, scrolling through reviews and watching gameplay footage. He doesn’t even notice you at first.": "Итан сидит на кровати, листает обзоры и смотрит геймплейные видео. Сначала он даже не замечает тебя.",
+    "Man, the ray tracing on this thing is insane… It looks unreal…": "Слушай, трассировка лучей в этой штуке — просто безумие… Выглядит нереально…",
+    "You quietly walk up and place the box on his bed.": "Ты тихо подходишь и ставишь коробку на его кровать.",
+    "I think you should see it in person instead of just watching videos": "Думаю, тебе лучше увидеть её вживую, а не только смотреть видео.",
+    "Wait… Is this… No way…": "Подожди… Это что… Да ну…",
+    "He suddenly jumps up from the bed, grabs the box, flips it over, checks the logo, the seals. His eyes go wide, and his breath catches": "Он резко вскакивает с кровати, хватает коробку, переворачивает её и проверяет логотип и пломбы. Его глаза округляются, дыхание перехватывает.",
+    "IS THIS FOR REAL?!": "ЭТО ЧТО, ПРАВДА?!",
+    "He tugs at your sleeve, then lets go just as quickly, like he’s afraid he might somehow damage the box.": "Он дёргает тебя за рукав и тут же отпускает, словно боится случайно повредить коробку.",
+    "No, no, no… You actually-? You BOUGHT IT?!": "Нет, нет, нет… Ты правда… Ты КУПИЛ ЕЁ?!",
+    "You nod. A second later, Ethan completely loses it. He lets out a loud, excited yell, jumps on the bed, nearly falls off, and hugs the box like it’s the most valuable thing in the world.)": "Ты киваешь. Через секунду Итан уже не может сдерживаться: громко вскрикивает от восторга, запрыгивает на кровать, едва не падает и обнимает коробку, словно это величайшая драгоценность.",
+    "WHAT?! DUDE, YOU’RE THE BEST PERSON ALIVE!!!": "ЧТО?! ЧУВАК, ТЫ ЛУЧШИЙ ЧЕЛОВЕК НА СВЕТЕ!!!",
+    "He’s pacing the room, then suddenly grabs your shoulders and shakes you.": "Он мечется по комнате, а потом внезапно хватает тебя за плечи и трясёт.",
+    "We are setting this up RIGHT NOW! No, scratch that-IMMEDIATELY! Oh my god, I can’t believe this is happening!": "Сейчас же всё подключим! Нет, даже не так — НЕМЕДЛЕННО! Боже, не могу поверить, что это происходит!",
+    "He rushes to his desk, clearing space in a frenzy-old magazines and game cases flying everywhere. He grabs a knife, carefully slicing through the packaging tape like he’s performing some sacred ritual. His hands are shaking with excitement.": "Он бросается к столу и в лихорадке освобождает место — старые журналы и коробки от игр летят во все стороны. Итан берёт нож и осторожно разрезает упаковочную ленту, будто проводит священный ритуал. От волнения у него дрожат руки.",
+    "Dude… I don’t even know what to say… Man… Just… Thank you. Seriously. Thank you.": "Чувак… Я даже не знаю, что сказать… Просто… Спасибо. Правда. Спасибо.",
+    "Is there anything I can do to thank you?": "Могу я как-нибудь тебя отблагодарить?",
+    "Ask for a kiss (Gay)": "Попросить поцелуя (гейская ветка)",
+    "Ask for a kiss": "Попросить поцелуя"
   },
   "scoped": [
     {

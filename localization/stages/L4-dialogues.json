@@ -18,6 +18,11 @@
       "group": "Sarah_Quest_01_Start, Sarah_Quest_01_End, Sarah_Quest_01_End_02, Sarah_Quest_01_AfterSketchyLoss",
       "status": "partial",
       "notes": "Переведены реплики начала задания, вручения билетов, первой части вечера концерта и сцены после поражения у торговца. Остальная ветка и проверка в игре не завершены."
+    },
+    {
+      "group": "Ethan_Quest_01_Start, Ethan_Quest_01_End",
+      "status": "partial",
+      "notes": "Переведены сцены с разговором о новой приставке и её подарком Итану. Требуется дальнейшая проверка остальных частей квеста и текста в WebView."
     }
   ],
   "remaining": [
