@@ -35,7 +35,7 @@ if 'id="viceburg-ru-layer"' not in html:
  html=html.replace(marker,script+'\n'+marker,1)
 tools_script = r'''<script id="viceburg-android-tools">
 (()=>{'use strict';
-const cheat=/cheat|чит/i;
+const cheat=/cheat|чит|character.?editor|character.{0,12}modif|редактор персонажа/i;
 const style=document.createElement('style');
 style.textContent='.vb-app-tools{box-sizing:border-box;width:min(100% - 24px,560px);margin:18px auto 24px;padding:12px;border:1px solid rgba(247,174,59,.58);border-radius:16px;background:linear-gradient(145deg,rgba(35,32,52,.97),rgba(20,19,29,.97));box-shadow:0 8px 26px rgba(0,0,0,.3);color:#f8f4ed;font:14px/1.35 system-ui,sans-serif}'+
 '.vb-app-tools *{box-sizing:border-box}'+
@@ -67,14 +67,16 @@ function passageInfo(){
 }
 function findTarget(){
  const {node,name}=passageInfo();
- if(/^start$/i.test(name))return node;
- if(cheat.test(name))return node;
- const dialog=document.querySelector('#ui-dialog-body');
- if(visible(dialog)){
-  const heading=dialog.querySelector('h1,h2,h3,[role="heading"],.title');
-  const headingText=heading?heading.textContent:'';
-  if(cheat.test((headingText||'')+' '+(dialog.getAttribute('data-passage')||''))||cheat.test(dialog.textContent||''))return dialog;
+ const surfaces=document.querySelectorAll('#ui-dialog-body,[role="dialog"],[class*="modal"],[id*="modal"],[class*="editor"],[id*="editor"]');
+ for(const surface of surfaces){
+  if(!visible(surface))continue;
+  const heading=surface.querySelector('h1,h2,h3,[role="heading"],.title');
+  const title=heading?heading.textContent:'';
+  const label=surface.getAttribute('aria-label')||surface.getAttribute('data-passage')||'';
+  if(cheat.test((title||'')+' '+label+' '+(surface.textContent||'')))return surface;
  }
+ if(cheat.test(name))return node;
+ if(/^start$/i.test(name))return node;
  return null;
 }
 function refresh(){
