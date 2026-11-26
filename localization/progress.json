@@ -15,7 +15,7 @@
       "name": "Интерфейс и системные меню",
       "status": "in_progress",
       "coverage": null,
-      "notes": "Каталог содержит 2167 точных фраз, 126 контекстных правил и 7 шаблонов; перевод всего интерфейса не завершён."
+      "notes": "Каталог содержит 2457 точных фраз, 188 контекстных правил и 23 шаблона; перевод всего интерфейса не завершён."
     },
     {
       "id": "L2",
@@ -143,7 +143,7 @@
     "warning": "Conservative candidate extraction; includes false positives and misses dynamically composed/code-generated strings. Review before translation."
   },
   "catalog": {
-    "exact_phrase_count": 2453,
+    "exact_phrase_count": 2457,
     "dynamic_template_count": 23,
     "coverage_percent": null,
     "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 1971/5634 (35%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",

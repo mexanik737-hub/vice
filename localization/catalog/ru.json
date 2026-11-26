@@ -2457,7 +2457,11 @@
     "I… I owe you big time, $player.info.firstName. I mean, this console must have cost a fortune. Whatever it is, I'll consider it. What do you need?": "Я… очень тебе обязан, $player.info.firstName. Эта приставка, наверное, стоила целое состояние. Что бы ты ни попросил, я это обдумаю. Что тебе нужно?",
     "Ethan blinks rapidly, his gaze darting around the room as if searching for an escape from the sudden tension. He takes a deep breath, his hands fidgeting with the plastic wrapping of the game console. Time seems to stand still as you wait for his response, the silence hanging heavy in the air.": "Итан часто моргает и оглядывается, словно ищет, куда скрыться от внезапного напряжения. Он глубоко вдыхает и теребит пластиковую упаковку приставки. Пока ты ждёшь ответа, кажется, будто время остановилось.",
     "I'm serious, $player.info.firstName. You've been there for me through thick and thin. This console, the kiss… they're just things. It's the thought behind them that counts. I'm here for you, man. Anytime, anywhere.": "Я серьёзно, $player.info.firstName. Ты всегда был рядом, что бы ни случилось. Приставка и поцелуй — всего лишь вещи. Главное — что за ними стоит. Я всегда рядом, дружище.",
-    "With a final wave, you step out into the night, the sounds of digital adventure fading behind you as you walk away with a smile, knowing that some friendships transcend the ordinary and enter the realm of the extraordinary": "На прощание ты машешь рукой и выходишь в ночь. Звуки цифровых приключений затихают за спиной, а ты уходишь с улыбкой, зная: дружба иногда выходит за пределы обыденного и становится чем-то особенным."
+    "With a final wave, you step out into the night, the sounds of digital adventure fading behind you as you walk away with a smile, knowing that some friendships transcend the ordinary and enter the realm of the extraordinary": "На прощание ты машешь рукой и выходишь в ночь. Звуки цифровых приключений затихают за спиной, а ты уходишь с улыбкой, зная: дружба иногда выходит за пределы обыденного и становится чем-то особенным.",
+    "Interactive Story": "Интерактивная история",
+    "Content warnings": "Предупреждения о содержании",
+    "New Game": "Новая игра",
+    "Play Online": "Играть онлайн"
   },
   "scoped": [
     {
