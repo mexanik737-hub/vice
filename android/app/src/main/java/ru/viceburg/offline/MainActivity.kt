@@ -295,7 +295,7 @@ class MainActivity : Activity() {
                     val keys = entries.keys()
                     while (keys.hasNext()) require(entries.opt(keys.next()) is String) { "invalid save entry" }
                     val encoded = JSONObject.quote(entries.toString())
-                    web.evaluateJavascript("(()=>{const p=JSON.parse($encoded);const old=Object.fromEntries(Object.keys(localStorage).map(k=>[k,localStorage.getItem(k)]));try{localStorage.clear();for(const [k,v] of Object.entries(p))localStorage.setItem(k,v);setTimeout(()=>location.reload(),250);return true}catch(e){try{localStorage.clear();for(const [k,v] of Object.entries(old))localStorage.setItem(k,v)}catch(_){}return false}})()") { result ->
+                    web.evaluateJavascript("(()=>{const p=JSON.parse($encoded);const old=Object.fromEntries(Object.keys(localStorage).map(k=>[k,localStorage.getItem(k)]));try{localStorage.clear();for(const [k,v] of Object.entries(p))localStorage.setItem(k,v);localStorage.setItem('__viceburg_import_pending','1');sessionStorage.clear();setTimeout(()=>location.reload(),250);return true}catch(e){try{localStorage.clear();for(const [k,v] of Object.entries(old))localStorage.setItem(k,v)}catch(_){}return false}})()") { result ->
                         if (result == "true") toast("Сохранение импортировано") else toast("Не удалось восстановить сохранение")
                     }
                 } catch (_: Exception) { toast("Файл сохранения не распознан") }
