@@ -43,7 +43,7 @@
       "name": "Регрессия локализации",
       "status": "in_progress",
       "coverage": null,
-      "notes": "Локально пройдены 9 Python-тестов и Node-проверка каталога; APK-сборка run #117 успешна для предыдущего коммита. Изменения редактора читов и кулдауна ожидают CI-проверки."
+      "notes": "9 Python-тестов, Node-проверка каталога и GitHub Actions run #118 прошли; debug APK собран. Проверка редактора читов на физическом Android-устройстве ещё не проводилась."
     }
   ],
   "limitations": [
@@ -243,7 +243,7 @@
   "testing": {
     "python_static_tests": "8 passed (2026-11-26; after Sarah dialogue batch)",
     "node_localization_runtime": "passed (named placeholders, value maps, uncensored dialogue)",
-    "android_build": "GitHub Actions run #117 succeeded with a debug APK (4,061,026 bytes; expires 2026-12-26); the new stat editor and cooldown change are pending CI. Signed release is skipped for pull_request.",
+    "android_build": "GitHub Actions run #118 succeeded with debug APK (4,070,939 bytes; artifact expires 2026-12-26 21:19 MSK). Signed release is skipped for pull_request; device interaction remains unverified.",
     "device_saf_media_save_roundtrip": "not_run: no Samsung Android 17 device",
     "synthetic_media_metadata": "passed: JPEG, WebM VP8/Vorbis, WAV PCM inspected with ffprobe",
     "desktop_webview_smoke": "not_run: Chromium launcher exists but system binary is missing",
