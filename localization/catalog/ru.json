@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 38,
+    "version": 41,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -2228,7 +2228,39 @@
     "I mean, I want to but… Maybe it's a bit much?": "Я хочу, но… Может, это всё-таки слишком?",
     "No need to rush.": "Не нужно торопиться.",
     "The room grows quiet as Ethan's cheeks flush a deep shade of crimson. He seems taken aback, his eyes wide with surprise.": "В комнате становится тихо. Щёки Итана заливает густой румянец; он ошеломлён и широко распахнул глаза.",
-    "The kiss is tentative, awkward, and brief, but it holds a sincere gratitude that words alone could never convey. As Ethan pulls away, he lets out a soft chuckle, rubbing the back of his neck in a mix of embarrassmen.": "Поцелуй неуверенный, неловкий и короткий, но в нём больше искренней благодарности, чем можно выразить словами. Отстранившись, Итан тихо смеётся и смущённо чешет затылок."
+    "The kiss is tentative, awkward, and brief, but it holds a sincere gratitude that words alone could never convey. As Ethan pulls away, he lets out a soft chuckle, rubbing the back of his neck in a mix of embarrassmen.": "Поцелуй неуверенный, неловкий и короткий, но в нём больше искренней благодарности, чем можно выразить словами. Отстранившись, Итан тихо смеётся и смущённо чешет затылок.",
+    "comes to your bunk by choice, and the tier knows to leave it alone.": "приходит к тебе на койку по собственной воле; на блоке знают, что вмешиваться не стоит.",
+    "Shared intimacy: completed, interrupted or unfinished · last position: .": "Близость: завершена, прервана или не закончена · последняя поза: .",
+    "This is the named other end of the job.": "Это тот, с кем связано поручение.",
+    "What you do here closes the ledger.": "Здесь ты закроешь это дело.",
+    "Diverted tablets are sold at commissary.": "Украденные таблетки продают в тюремной лавке.",
+    "There is bad blood between you and .": "Между тобой и . старые счёты.",
+    "Until it is settled, will not take anything from you.": "Пока вы не уладите это, он ничего от тебя не примет.",
+    "You have already made your approach to today.": "Сегодня ты уже пытался с ним заговорить.",
+    "No scrip is charged.": "Тюремные жетоны не списываются.",
+    "Your locked cock cannot be used on your toy.": "С поясом верности ты не сможешь трахнуть своего подопечного.",
+    "Send them out on loan or leave without sex.": "Отправить их в аренду или уйти без секса.",
+    "Read the room before you make a move": "Оценить обстановку, прежде чем действовать",
+    "Letting them lead is safe once trust is there.": "Когда появится доверие, можно позволить им взять инициативу.",
+    "Taking charge still depends on your standing.": "Но чтобы самому командовать, нужен авторитет.",
+    "Take the lead · % chance not yet": "Перехватить инициативу · пока шанс %",
+    "You have already spent today's gossip moving one name on the tier.": "Сегодня ты уже пустил слух, чтобы поднять чью-то репутацию в блоке.",
+    "By tomorrow, people may listen again.": "К завтрашнему дню тебя, возможно, снова будут слушать.",
+    "You have already leaned on someone's name today.": "Сегодня ты уже воспользовался чьим-то именем.",
+    "Spread it thinner and it stops meaning anything.": "Если разбрасываться этим слишком часто, слова перестанут что-либо значить.",
+    "You have already fought today.": "Сегодня ты уже дрался.",
+    "You have taken your fill of today.": "На сегодня тебе хватит.",
+    "You cannot fuck while your cock is caged.": "С поясом верности ты не можешь трахаться.",
+    "You have made your play for the day.": "На сегодня ты уже сделал свой ход.",
+    "Push another mark now and you look hungry enough to bargain against yourself.": "Если сейчас надавить ещё на кого-нибудь, будешь выглядеть настолько отчаявшимся, что сам продешевишь.",
+    "The cage blocks the active sexual part of the move.": "Пояс верности не даст тебе выполнить активную роль в сексе.",
+    "You can leave the attempt for later.": "Можешь отложить попытку на потом.",
+    "Convince them to take estrogen (1 dose)": "Убедить их принять эстроген (1 доза)",
+    "Put in a word for them on the tier": "Замолвить за них слово на блоке",
+    "Quietly run them down to the tier": "Тихо распустить о них дурные слухи на блоке",
+    "Ask them to vouch for you": "Попросить их поручиться за тебя",
+    "Make them your toy (100%)": "Сделать их своей игрушкой (100%)",
+    "Use your claimed punk for sex": "Заняться сексом со своим подопечным"
   },
   "scoped": [
     {
@@ -2922,6 +2954,40 @@
     {
       "source": "{{name}}, are you sure about this?",
       "target": "{{name}}, ты уверен, что хочешь этого?"
+    },
+    {
+      "source": "There is bad blood between you and {{name}}.",
+      "target": "Между тобой и {{name}} старые счёты."
+    },
+    {
+      "source": "Until it is settled, {{name}} will not take anything from you.",
+      "target": "Пока вы не уладите это, {{name}} ничего от тебя не примет."
+    },
+    {
+      "source": "Make them your toy (100%): Requires reputation (current {{rep}}) and fear (current {{fear}}).",
+      "target": "Сделать их своей игрушкой (100%): нужна репутация (сейчас {{rep}}) и страх (сейчас {{fear}})."
+    },
+    {
+      "source": "Take the lead · {{chance}}% chance not yet",
+      "target": "Перехватить инициативу · пока шанс {{chance}}%"
+    },
+    {
+      "source": "Shared intimacy: {{status}} · last position: {{position}}.",
+      "target": "Близость: {{status}} · последняя поза: {{position}}.",
+      "values": {
+        "status": {
+          "completed": "завершена",
+          "interrupted": "прервана",
+          "unfinished": "не закончена"
+        },
+        "position": {
+          "missionary": "миссионерская поза",
+          "doggy style": "по-собачьи",
+          "cowgirl": "наездница",
+          "reverse cowgirl": "обратная наездница",
+          "oral": "оральный секс"
+        }
+      }
     }
   ]
 }

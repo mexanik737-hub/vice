@@ -17,6 +17,10 @@ assert.equal(context.vbTranslate('The far bulkhead paid the full pot (+ 240 chip
 assert.equal(context.vbTranslate('You climbed out with + 95 chips.'), 'Ты выбрался с выигрышем: +95.');
 assert.equal(context.vbTranslate("I… I've never… I mean, I'm not… wow, Marina, I don't even know what to say. This is a lot to take in."), 'Я… я никогда… То есть я не… Ух ты, Marina, я даже не знаю, что сказать. Мне нужно всё это осмыслить.');
 assert.equal(context.vbTranslate('Marina, are you sure about this?'), 'Marina, ты уверен, что хочешь этого?');
+assert.equal(context.vbTranslate('Take the lead · 35% chance not yet'), 'Перехватить инициативу · пока шанс 35%');
+assert.equal(context.vbTranslate('Shared intimacy: completed · last position: missionary.'), 'Близость: завершена · последняя поза: миссионерская поза.');
+assert.equal(context.vbTranslate('There is bad blood between you and Marco.'), 'Между тобой и Marco старые счёты.');
+assert.equal(context.vbTranslate('Make them your toy (100%): Requires reputation (current 42) and fear (current 67).'), 'Сделать их своей игрушкой (100%): нужна репутация (сейчас 42) и страх (сейчас 67).');
 const genderLabel = { closest: selector => selector === '#gender-selector .option-label' };
 assert.equal(context.vbTranslate('Male', genderLabel), 'Мужчина');
 assert.equal(context.vbTranslate('Male'), null);
