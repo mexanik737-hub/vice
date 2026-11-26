@@ -29,6 +29,12 @@ assert.equal(context.vbTranslate('Flexible planning looks for two dates from tod
 assert.equal(context.vbTranslate('The gang member leaves, the door slamming shut. Tiffany’s breathing is shaky.'), 'Бандит выходит, с грохотом захлопнув дверь. Тиффани тяжело дышит.');
 assert.equal(context.vbTranslate('He’s fighting for you, hold on.'), 'Он сражается за тебя. Держись.');
 assert.equal(context.vbTranslate('She fixes her dress. You fasten your clothes, feeling a mix of guilt, relief, and closeness. You leave, hearing another client called behind you.'), 'Она поправляет платье. Ты застёгиваешь одежду, чувствуя одновременно вину, облегчение и близость. Ты уходишь, слыша за спиной, как вызывают следующего клиента.');
+assert.equal(context.vbTranslate('Corwin kisses you hard, then guides you to his car. During the drive his hand slides up your thigh, teasing your soaked panties. You squirm; he chuckles.'), 'Корвин страстно целует тебя, затем ведёт к своей машине. По дороге он скользит ладонью по твоему бедру, дразня через мокрые трусики. Ты ёрзаешь, а он усмехается.');
+assert.equal(context.vbTranslate('He guides the tip along your folds, then pushes in, stretching you deliciously.'), 'Он проводит головкой по складкам твоей киски, а затем входит, приятно растягивая тебя.');
+assert.equal(context.vbTranslate('You didn’t let me down. I love you, and we’ll get through this together. I’m with you, you hear?'), 'Ты меня не подвёл. Я люблю тебя, и мы вместе со всем справимся. Я рядом, слышишь?');
+assert.equal(context.vbTranslate('Their voices quiet down, and you hear them hugging softly. Deciding not to disturb their moment, you walk away.'), 'Их голоса стихают, и ты слышишь, как они нежно обнимаются. Решив не мешать им, ты уходишь.');
+assert.equal(context.vbTranslate('Gonna thank you right. Lie down'), 'Дай я как следует тебя отблагодарю. Ложись.');
+assert.equal(context.vbTranslate('You gasp, but she doesn’t stop - she speeds up.'), 'Ты ахнул, но она не остановилась — только ускорилась.');
 assert.equal(context.vbTranslate('There is bad blood between you and Marco.'), 'Между тобой и Marco старые счёты.');
 assert.equal(context.vbTranslate('Make them your toy (100%): Requires reputation (current 42) and fear (current 67).'), 'Сделать их своей игрушкой (100%): нужна репутация (сейчас 42) и страх (сейчас 67).');
 assert.equal(context.vbTranslate('Sarah… fuck, that feels so good *you groaned, your voice thick with lust*'), 'Сара… блядь, как же хорошо. *Ты стонешь, и голос густеет от похоти.*');
