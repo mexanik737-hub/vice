@@ -143,7 +143,7 @@
     "warning": "Conservative candidate extraction; includes false positives and misses dynamically composed/code-generated strings. Review before translation."
   },
   "catalog": {
-    "exact_phrase_count": 2857,
+    "exact_phrase_count": 2861,
     "dynamic_template_count": 23,
     "coverage_percent": null,
     "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 2353/5634 (41.8%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",

@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 61,
+    "version": 62,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -2861,7 +2861,11 @@
     "The Alleys": "Переулки",
     "The Tenements": "Доходные дома",
     "Send a messenger: ask for peace": "Отправить посланника с предложением мира",
-    "Let him call the police": "Позволить ему вызвать полицию"
+    "Let him call the police": "Позволить ему вызвать полицию",
+    "If you are easily offended or are not legally allowed to view this content, exit now. Continue only if you understand and accept this warning.": "Если вас легко задеть или по законам вашей страны вам нельзя просматривать такие материалы, выйдите сейчас. Продолжайте, только если понимаете это предупреждение и принимаете его.",
+    "Previous face": "Предыдущее лицо",
+    "Current face": "Текущее лицо",
+    "Next face": "Следующее лицо"
   },
   "scoped": [
     {
