@@ -1,7 +1,6 @@
 {"passage":"AiChat_QuickScene","source":"Back to the chat","source_sha256":"d3a4824104cb5386285124cce0302a3b4010662c35e55d3f879394814c9f73f2"}
 {"passage":"AiNpcChat","source":"The chat could not load.","source_sha256":"389a17bfe32b0147010bca27f006c853703856c63a15ef4a66974bb45399a51f"}
 {"passage":"AiQuestChat","source":"The chat could not load.","source_sha256":"389a17bfe32b0147010bca27f006c853703856c63a15ef4a66974bb45399a51f"}
-{"passage":"CallToCharacter","source":"Where are you?","source_sha256":"0217318f31feb0d83fc26b32e06c3399491ac7ede75f58b0da23fe683bb7516c"}
 {"passage":"enhanced_interaction_insult","source":"I... I don't know what to say... That was too cruel... 😢","source_sha256":"2334cbc3563cef0f9005a76dab0ba3993d1fcfd4ba14a9ff43c18274a0019efa"}
 {"passage":"enhanced_interaction_insult","source":"HA! Was that supposed to hurt me? Pathetic attempt!","source_sha256":"2e4a40485699f0c8f1aa0cefbff7422a2c9f81e34b00b5d94a4b9969aef791f7"}
 {"passage":"enhanced_interaction_insult","source":"How can you say that? I thought we were friends!","source_sha256":"c7b69f73b4adb0a01a4d7f638c8ffddb3148cef253c95256e830e513a9e8523c"}
@@ -3692,20 +3691,8 @@
 {"passage":"NpcClothingManagerWidgets","source":"Put on NPC (0%)","source_sha256":"8c5d1e1edf8728340cc7ebd9385daa78b293af750b911e50d72e548c4c7fd2ed"}
 {"passage":"Phone","source":"appendPhoneContactCards(output, _phoneContacts)","source_sha256":"84d37a01c7a68970f535232d73950a91841183aff3d466dcd1b68b9f78f3e9bd"}
 {"passage":"PhoneJournal","source":"Live a little - give gifts, flirt, get into fights, get seen in public - and the people of Viceburg will start to remember.","source_sha256":"5be3d868bfc6ee33e1489c193b9a9a7d2c038f42a0b0d1018b0f1625e4939981"}
-{"passage":"PhoneCall","source":"Choose a day, time and place that fit both your schedules.","source_sha256":"36cf62d9d2040aa8f867078a77fbe2748a0229bc9c70f78b9c7c2af0c11676a2"}
-{"passage":"PhoneCall","source":"Ask about their plans without revealing information you have not learned.","source_sha256":"e4d2eef7d8254a00119a1505aae826724c6f42188ee98c2bc6c30a352b21011d"}
-{"passage":"PhoneCall","source":"Work, urgent needs and existing commitments still take priority.","source_sha256":"4e5e4bb395c4b25b935d0c31ed5b757c47a19db595107d9256c34266c474e5db"}
-{"passage":"PhoneCall","source":"Invite them home for a shared evening while respecting their schedule.","source_sha256":"a4acd15b07ddb3f8a90cf74c65b7555c2c4d68e2fdfb058383c7b6c1f45edbe3"}
-{"passage":"PhoneCall","source":"Spend a little time chatting and maybe improve the relationship.","source_sha256":"4bdde5ebd36c4a2e7b8a7dc32f770893dd5b322533d9110c9e286fdc0f95485d"}
-{"passage":"PhoneCall","source":"Pay back what you owe, or send them a little something.","source_sha256":"ca26c100f479aaa47eebf60a2b0911673c12d1d388b8584e95790a111897542a"}
 {"passage":"PhoneCall","source":"You owe $ (overdue)","source_sha256":"fa7017c8413a20f07694bfd38368187fde0efd4ddd1bf419a13ef06e1e8f1b95"}
-{"passage":"PhoneCall","source":"Invite them to your current location if the place allows it.","source_sha256":"9447920e336c73ab0f8cf0fe4f2ecd35ebfd7935395350bd73f56be526afe101"}
-{"passage":"PhoneCall","source":"Invite them to your primary home.","source_sha256":"05d2c9f049e042fa4b6e3c46bb7d102a2a05b03975a7899b5be974b990e8ced0"}
-{"passage":"PhoneCall","source":"They will travel through each city stop.","source_sha256":"76043657f249bacacb86d019adeb881d4e456ebc75da9be46ff2624b2bb4b273"}
-{"passage":"PhoneCall","source":"Where are you?","source_sha256":"0217318f31feb0d83fc26b32e06c3399491ac7ede75f58b0da23fe683bb7516c"}
-{"passage":"PhoneCall","source":"Ask for their current location to figure out where they are.","source_sha256":"6a9630220c62bc2045d8b84c8cc06e7c44f087ac9c1bd408a4031da4adb1b2da"}
 {"passage":"PhoneCall","source":"enhanced_relationship_date_cancellation","source_sha256":"0e1b1aec73156d723568f60149d179bb2d9e7e5c470e580768609fd87a187953"}
-{"passage":"PhoneCall","source":"Ask when they'll be home","source_sha256":"e6e2fd93728db18a927549f07b4f2e26337417cb74c447659721e118ba764ca6"}
 {"passage":"PhoneAiChat","source":"The chat could not load.","source_sha256":"389a17bfe32b0147010bca27f006c853703856c63a15ef4a66974bb45399a51f"}
 {"passage":"PhoneCalendar","source":"You do not have their number.","source_sha256":"8ecdab256eb9eb62b965c769e8f0c11de4be33dbaea72ea6ad828b95c92f8fce"}
 {"passage":"PhoneCalendar","source":"Ask someone to meet up from the interaction menu.","source_sha256":"8df4d8310fae4889accd98dc359685872f8d51c5f2a8ff4495955dcd58e68309"}

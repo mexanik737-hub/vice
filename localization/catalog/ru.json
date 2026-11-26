@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 49,
+    "version": 50,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -2428,7 +2428,19 @@
     "Someone always wants to test the new weight.": "Кто-нибудь всегда хочет проверить новый вес.",
     "You have taken your measure on the pile today.": "Сегодня ты уже померился силами у штанги.",
     "With your cock caged, you cannot fuck the loser to collect the winner's due.": "Пока твой член в клетке, ты не можешь трахнуть проигравшего и получить причитающееся победителю.",
-    "Leave it uncollected and keep moving.": "Оставь награду неполученной и двигайся дальше."
+    "Leave it uncollected and keep moving.": "Оставь награду неполученной и двигайся дальше.",
+    "Choose a day, time and place that fit both your schedules.": "Выбери удобные для вас обоих дату, время и место.",
+    "Ask about their plans without revealing information you have not learned.": "Узнай о планах персонажа, не раскрывая сведений, которых ты ещё не знаешь.",
+    "Work, urgent needs and existing commitments still take priority.": "Работа, срочные дела и уже назначенные планы по-прежнему важнее.",
+    "Invite them home for a shared evening while respecting their schedule.": "Предложи провести вечер вместе у себя дома, учитывая планы персонажа.",
+    "Spend a little time chatting and maybe improve the relationship.": "Поболтай немного — это может укрепить ваши отношения.",
+    "Pay back what you owe, or send them a little something.": "Верни долг или переведи персонажу немного денег.",
+    "Invite them to your current location if the place allows it.": "Пригласи персонажа туда, где находишься, если место подходит для встречи.",
+    "Invite them to your primary home.": "Пригласи персонажа к себе домой.",
+    "They will travel through each city stop.": "Персонаж будет останавливаться в каждом городе по пути.",
+    "Where are you?": "Где ты?",
+    "Ask for their current location to figure out where they are.": "Узнай, где сейчас находится персонаж.",
+    "Ask when they'll be home": "Спроси, когда персонаж будет дома."
   },
   "scoped": [
     {
@@ -3350,6 +3362,26 @@
       "selector": "fieldset legend",
       "source": "Leave the winner's due",
       "target": "Отказаться от награды"
+    },
+    {
+      "selector": ".phone-action-tile-meta",
+      "source": "You owe $",
+      "target": "Ты должен: $"
+    },
+    {
+      "selector": ".phone-action-tile-meta",
+      "source": "(overdue)",
+      "target": "(просрочено)"
+    },
+    {
+      "selector": ".phone-action-tile-title",
+      "source": "Where are you?",
+      "target": "Где ты?"
+    },
+    {
+      "selector": ".phone-action-btn",
+      "source": "Ask when they'll be home",
+      "target": "Спроси, когда персонаж будет дома."
     }
   ],
   "templates": [
