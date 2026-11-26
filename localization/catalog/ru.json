@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 64,
+    "version": 65,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -2899,7 +2899,27 @@
     "Sorry, my head's too full of my own problems right now...": "Извини, сейчас у меня голова забита собственными проблемами...",
     "Oh, I have a great idea! Try this... 💡": "О, у меня есть отличная идея! Попробуй вот что... 💡",
     "Hmm, I think you should try... Hope it helps!": "Хм, попробуй вот это... Надеюсь, поможет!",
-    "Honestly, I don't know what to tell you...": "Честно, даже не знаю, что тебе посоветовать..."
+    "Honestly, I don't know what to tell you...": "Честно, даже не знаю, что тебе посоветовать...",
+    "That was... the most magical kiss... I'm dizzy... 💋✨": "Это был... самый волшебный поцелуй... У меня кружится голова... 💋✨",
+    "Ugh! What was that?! Don't do that again!": "Фу! Что это было?! Больше так не делай!",
+    "Mmm... that was... wow... 😳💕": "М-м... это было... ух ты... 😳💕",
+    "Your kisses are the best thing in my life. 💋": "Твои поцелуи — лучшее, что есть в моей жизни. 💋",
+    "Every kiss with you feels like the first time. 💞": "Каждый поцелуй с тобой — словно в первый раз. 💞",
+    "Mmm, not bad. I want more. 😏": "М-м, неплохо. Хочу ещё. 😏",
+    "I hate that I like this...": "Ненавижу, что мне это нравится...",
+    "Wait... not now.": "Погоди... не сейчас.",
+    "Oh god... I can't breathe... Don't stop... 🔥💋💕": "Боже... я не могу дышать... Не останавливайся... 🔥💋💕",
+    "Stop! You're being too aggressive! That's not romantic!": "Стой! Ты слишком напористо себя ведёшь! Это совсем не романтично!",
+    "Mmm... I love it when you kiss me like that... 😍🔥": "М-м... Обожаю, когда ты целуешь меня вот так... 😍🔥",
+    "Now that's what I'm talking about! Keep going... 😈": "Вот это другое дело! Продолжай... 😈",
+    "I hate you... but keep going...": "Ненавижу тебя... но продолжай...",
+    "Wow... that was... intense.": "Ничего себе... вот это было жарко.",
+    "This is... too fast. I need to stop.": "Это... слишком быстро. Мне нужно остановиться.",
+    "Hey! Don't touch me there! That's not okay!": "Эй! Не трогай меня там! Мне это неприятно!",
+    "Oh yes... you know what you're doing... 😏": "О да... ты знаешь, что делаешь... 😏",
+    "O-oh... that feels nice... 😳": "О-ох... приятно... 😳",
+    "That's... good...": "Вот так... хорошо...",
+    "Wait... I'm not ready for this.": "Погоди... пока я не хочу заходить так далеко."
   },
   "scoped": [
     {
