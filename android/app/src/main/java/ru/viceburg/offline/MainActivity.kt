@@ -38,9 +38,6 @@ class MainActivity : Activity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.R) {
-            window.setDecorFitsSystemWindows(true)
-        }
         window.statusBarColor = Color.WHITE
         window.navigationBarColor = Color.rgb(16, 16, 20)
         window.decorView.systemUiVisibility = android.view.View.SYSTEM_UI_FLAG_LIGHT_STATUS_BAR
@@ -50,6 +47,14 @@ class MainActivity : Activity() {
             setBackgroundColor(Color.WHITE)
         }
         shell = root
+        if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.R) {
+            window.setDecorFitsSystemWindows(false)
+            root.setOnApplyWindowInsetsListener { view, insets ->
+                val bars = insets.getInsets(android.view.WindowInsets.Type.systemBars() or android.view.WindowInsets.Type.displayCutout())
+                view.setPadding(bars.left, bars.top, bars.right, bars.bottom)
+                insets
+            }
+        }
         val toolbar = LinearLayout(this).apply {
             orientation = LinearLayout.HORIZONTAL
             gravity = Gravity.CENTER_VERTICAL
@@ -74,7 +79,7 @@ class MainActivity : Activity() {
         root.addView(toolbar, LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, dp(48)))
         root.addView(web, LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, 0, 1f))
         setContentView(root)
-        web.loadUrl("file:///android_asset/game/index.html")
+        web.loadUrl("https://viceburg.local/game/index.html")
     }
 
     private fun configureWebView() {
@@ -82,7 +87,7 @@ class MainActivity : Activity() {
             javaScriptEnabled = true
             domStorageEnabled = true
             databaseEnabled = true
-            allowFileAccess = true
+            allowFileAccess = false
             allowContentAccess = false
             cacheMode = WebSettings.LOAD_DEFAULT
             mediaPlaybackRequiresUserGesture = true
@@ -112,17 +117,25 @@ class MainActivity : Activity() {
         }
         web.webViewClient = object : WebViewClient() {
             override fun shouldInterceptRequest(view: WebView?, request: WebResourceRequest): WebResourceResponse? =
-                interceptMedia(request.url, request.requestHeaders)
+                interceptAppResource(request.url, request.requestHeaders)
 
             @Suppress("DEPRECATION")
             override fun shouldInterceptRequest(view: WebView?, url: String?): WebResourceResponse? =
-                url?.let { interceptMedia(Uri.parse(it), emptyMap()) }
+                url?.let { interceptAppResource(Uri.parse(it), emptyMap()) }
 
             override fun shouldOverrideUrlLoading(view: WebView?, request: WebResourceRequest): Boolean {
-                // The game and its media remain local. Do not allow external navigation or network access.
-                return request.url.scheme != "file"
+                // Only the synthetic local origin is navigable; no external URL is opened.
+                return request.url.scheme != "https" || request.url.host != APP_HOST
             }
         }
+    }
+
+    private fun interceptAppResource(uri: Uri, headers: Map<String, String>): WebResourceResponse? {
+        if (uri.scheme != "https" || uri.host != APP_HOST) return null
+        if (uri.path == GAME_PATH) {
+            return WebResourceResponse("text/html", "UTF-8", assets.open("game/index.html"))
+        }
+        return interceptMedia(uri, headers) ?: notFound()
     }
 
     private fun interceptMedia(uri: Uri, headers: Map<String, String>): WebResourceResponse? {
@@ -348,6 +361,8 @@ class MainActivity : Activity() {
     }
 
     companion object {
+        private const val APP_HOST = "viceburg.local"
+        private const val GAME_PATH = "/game/index.html"
         private const val KEY_MEDIA_TREE = "media_tree_uri"
         private const val REQUEST_MEDIA = 1001
         private const val REQUEST_EXPORT = 1002
