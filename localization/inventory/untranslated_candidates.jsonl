@@ -1320,8 +1320,6 @@
 {"passage":"Prison_EscapeAttempt","source":"Four days go onto your bid, your heat climbs, and anything used in the attempt is gone.","source_sha256":"b45aa7eda28b356949abb07156bfbd3c43126a852b6f9f91fe93e7a4dcf75643"}
 {"passage":"Prison_EscapeAttempt","source":"If you can replace it or find another way out, tomorrow is another count.","source_sha256":"81af3b6fc66f82add43255280b07853e98c0dd2a4b0063bdb3ea5608936931d6"}
 {"passage":"Prison_Escaped","source":"Disappear into the city","source_sha256":"477939d7013d46b5d0580b2d40125a099563f21293ef3dbc40dc0d6e25bd814c"}
-{"passage":"Prison_Chow","source":"You have worked your string once today.","source_sha256":"c8033537fed9489a484fc8362d11e6b46cd6ab3dc548bc5e9922bde8cbe49e69"}
-{"passage":"Prison_Showers","source":"You have worked your string once today.","source_sha256":"c8033537fed9489a484fc8362d11e6b46cd6ab3dc548bc5e9922bde8cbe49e69"}
 {"passage":"Prison_ShowerAmbush","source":"Under the Spray","source_sha256":"f5c75ecd4ca49e9ffc247bb2d6908567d416b4a4887cfbe1c93fbc6ecffd1b16"}
 {"passage":"Prison_ShowerAmbush","source":"The room empties on the CO count and one big woman does not leave with it.","source_sha256":"65350cef98a2eb4a1859135c70ec2c0a55ceea1e40b87664c78c4d52bdac1d5e"}
 {"passage":"Prison_ShowerAmbush","source":"She steps into your blind side under the spray, close enough that the water runs off her onto you.","source_sha256":"9beee1269fe81a4abdf54bd46da794340baa5e9ad8e7aa3b55e6ff365a7029b6"}
@@ -1334,25 +1332,6 @@
 {"passage":"Prison_ShowerAmbush","source":"Do not fight it","source_sha256":"471bfe2753debc04353b6e8ff715733891ba1ec20b2c22950ad378d0ff9e988f"}
 {"passage":"Prison_PinkDoseRestore","source":"The body was restored, but the quest reward was rejected by the live content or route gate.","source_sha256":"b72632fea675b334b72c98b97dc12e14da3f2548e6e9904ea629375b66feaa0f"}
 {"passage":"Prison_PinkDoseRestore","source":"Leave the showers","source_sha256":"35389947a3645aa60af3112a19a225a8cd54da0dc01c317b58cdb7475693ca71"}
-{"passage":"Prison_RecRoom","source":"Rows of bolted-down benches face one wall-caged TV.","source_sha256":"9d85f92e382ae04460eea5ebc6760f5baceae8fce8d718aae0d8975d6d59c5f2"}
-{"passage":"Prison_RecRoom","source":"On movie nights the COs watch the door while inmates fuck under shared blankets, using the soundtrack to cover the noise.","source_sha256":"bbc0d0a4223a44268b4876ab22b05158155e6049e3c754064e67a6b5578bcba6"}
-{"passage":"Prison_RecRoom","source":"Everybody else keeps their eyes on the screen.","source_sha256":"fe33afd0a978a087da9078841fdc9aeb9cd1ae9f04d9fd9551836689741e4d0f"}
-{"passage":"Prison_RecRoom","source":"You have taken the dark's offer once tonight.","source_sha256":"0160fa7438e0fed27573bf1e2e7852eabe6ebdc231f985639c4f9dc38d680f0c"}
-{"passage":"Prison_RecRoom","source":"Reach for it again and the row stops pretending not to notice.","source_sha256":"f846f6d22f375e7bd98082bb37ed6275c4808570b3d8f1357a8c3158987bdf4b"}
-{"passage":"Prison_RecRoom","source":"You have worked your string once today.","source_sha256":"c8033537fed9489a484fc8362d11e6b46cd6ab3dc548bc5e9922bde8cbe49e69"}
-{"passage":"Prison_RecRoom","source":"You cannot fuck anyone from your string while caged.","source_sha256":"bace57c71fd52830483ec7a0024203863e6c936af128e265f9328bcdb8de1006"}
-{"passage":"Prison_RecRoom","source":"Use the passive stranger option or watch the movie.","source_sha256":"f8137fae4ed3e42dfd5cba793507d98c800933217807c9d99304df8be8c5b020"}
-{"passage":"Prison_RecRoom","source":"Not everything in the rec room happens in the dark.","source_sha256":"d87323fc4f86ab700f19b7a03c45c95c3ec826dbba1a6f7f938c9f132a86e991"}
-{"passage":"Prison_RecRoom","source":"Some hours you just do the time - a bad movie and a little quiet that costs nothing.","source_sha256":"96b5c5386a0d1aa8a5a71fee9d85889cf96271a0bb8356cedf79a21586578ec9"}
-{"passage":"Prison_RecRoom","source":"You have taken your forty-five minutes in front of the box today.","source_sha256":"5426fddcb161e32bba82b060f2ea744073faab1456c2c8a78075ca865aa88c6a"}
-{"passage":"Prison_RecRoom","source":"It will be droning the same reruns tomorrow.","source_sha256":"91e8b96caef5e09a5106c4fb107c99d3d1af941c2dff3d624080477a62a818f0"}
-{"passage":"Prison_RecRoomCornered","source":"The Back Row","source_sha256":"f828012724b9d4851f2cfe9d9dd47aebc5e57b2222d23398d4891b2f6a894b37"}
-{"passage":"Prison_RecRoomCornered","source":"You realize a beat too late that you let yourself get seated in the back corner, and now there are bodies on both sides and one behind, and the dark that hides everyone hides this too.","source_sha256":"3a4cb60f118042d0d0407f287d9e73473aa8ad36566cac406aa0f9eee0145320"}
-{"passage":"Prison_RecRoomCornered","source":"You notice too late that bodies have boxed you into the back corner.","source_sha256":"a3dbd01438398098402b5b94e47b23bec1dc0440935bb0ecfe8b825a01cbb004"}
-{"passage":"Prison_RecRoomCornered","source":"One man is behind you; another pins your knee with his.","source_sha256":"449de1130f136ef9a9e0794054ce9edc5364639f88c0d47701ea7aa0a70dd23b"}
-{"passage":"Prison_RecRoomCornered","source":"Slip out when the lights come up","source_sha256":"61a5bf480ba3b7130daa7391df061ae14cb8b08c30411e5a12d86156116f44fe"}
-{"passage":"Prison_RecRoomCornered","source":"Make a scene and blow it open","source_sha256":"3cbed7057ff004e207a1e64ada5e158a03f3b245d5c8c4670b6abf03ebc2228d"}
-{"passage":"Prison_RecRoomCornered","source":"Keep still and let them fuck you in the dark","source_sha256":"eb4313397a5df08df520afab53a0e4d16ac3027ba83a1c160f8d4b4b372bbb56"}
 {"passage":"Prison_LaundryAmbush","source":"Behind the Sheets","source_sha256":"1c10428cc80b643e01b3ba8f89092ec87d9d4a484a5db129a6ff8908aac4f673"}
 {"passage":"Prison_LaundryAmbush","source":"Figured it was time somebody showed you how it works.\"","source_sha256":"431d45895d97368948d0be32a0ca6190c48722c29fb48307155994fd2f8d0ccf"}
 {"passage":"Prison_LaundryAmbush","source":"You have been asking for this since the bus.","source_sha256":"2fe77d22d97564dca139168ab80ee22973df6ea318769e46f8bf8c57f7d03368"}
@@ -1568,19 +1547,6 @@
 {"passage":"Prison_Infirmary","source":"Get friendly with the doctor","source_sha256":"b3294134b62f6041fa0648dfc1491c861cd023714352648d6068b72fd17add9a"}
 {"passage":"Prison_Infirmary","source":"Pay staff with sex for a clean chart and good medicine","source_sha256":"a5b6b14d11e22ff92524dee85344f3cd8e2518f66509b794065907124ffe76b9"}
 {"passage":"Prison_Infirmary","source":"The doctor says you need a full examination","source_sha256":"5aafd976f37da8df93c956b0219592f98ad4810a4522e43c9eaa71c04fc8a67e"}
-{"passage":"Prison_Salon","source":"The Salon","source_sha256":"4f8a402c276608a2775306efed9c3429e7b1baf53e4e407b70a0443130d4d0c8"}
-{"passage":"Prison_Salon","source":"The one place on the block where hands on you are gentle, and the talk runs deeper than the yard ever lets it.","source_sha256":"f40df368202992be9290d27a741d7f5227595077c5504c3ca0ec928b64ab8925"}
-{"passage":"Prison_Salon","source":"The chair has already done what it can for you today.","source_sha256":"1f56705cac229b4b65c371014ab5b01217cdd3049ab34d594dde411904ea5a14"}
-{"passage":"Prison_Salon","source":"Come back after the next count.","source_sha256":"772acb6d1278ef223f3037c824d9f744fe4b44d05650dfcf910500cff77c2c2e"}
-{"passage":"Prison_Salon","source":"You have slipped into the back once today.","source_sha256":"fcd2727854babd64ef199fd48761bb6bb86181c1c2cd575306078d740e050f47"}
-{"passage":"Prison_Salon","source":"The salon keeps its rhythms, and the women stay careful about the blind corner.","source_sha256":"7131ba36b1976779077b073cf361706169033cc3d4c36f36d37bd19e44b4730c"}
-{"passage":"Prison_Salon","source":"The Chair Is Politics","source_sha256":"1ef6203ea4ce494f9bf54e765ccf8966c3a802c3ead0304d09dad0f4edba7e15"}
-{"passage":"Prison_Salon","source":"You have spent your standing at the chair today.","source_sha256":"37afae97ad6abc3c4e211fc4eb014124a31cf2ae55137d294b8fa5904315eebf"}
-{"passage":"Prison_Salon","source":"Tomorrow the queue re-forms and the politics start over.","source_sha256":"b46ad88590081b790167105646257605a157f6b1aed078f27a3a64516fa8cdc8"}
-{"passage":"Prison_Salon","source":"Whatever was going to move through the polish bottles today has already moved.","source_sha256":"5bf6240af13ac51ad6fd60ecf89fb00e3ebcf381585bbd0dae9b84762fd260cb"}
-{"passage":"Prison_Salon","source":"Trade the salon talk","source_sha256":"c23d44f2ff6bdd2585cde7fce2f137e7cfd095d7cec417d9a4b14c1443923430"}
-{"passage":"Prison_Salon","source":"Slip into the back with one of the women","source_sha256":"e1daf0b1b7d96dc4e446e11b91a90c0d5c5562381fb81c27299e47d4031e6f2b"}
-{"passage":"Prison_Salon","source":"Move something through the salon","source_sha256":"f515cfb62dbfd3dabb078c22e02e754d3aebd868fa712e5815300deb4dd42e68"}
 {"passage":"Prison_TakeBlock","source":"Make Your Move","source_sha256":"70c306c079830ecff55d0f66414fcbf95d145b46df7e8291a9854dcfa416e215"}
 {"passage":"Prison_TakeBlock","source":"ran this tier before you stepped off the bus.","source_sha256":"ab44b627194dc64b5dad143b7fb194b22ea7ae99ed44462460bf84ab3c04464e"}
 {"passage":"Prison_TakeBlock","source":"Every table still waits for before making a move.","source_sha256":"eda157a6627287ea94b60c27e1c6b136cfbcbc9c6cbe9e0aee17aae97e375e37"}
