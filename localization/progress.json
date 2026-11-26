@@ -143,20 +143,20 @@
     "warning": "Conservative candidate extraction; includes false positives and misses dynamically composed/code-generated strings. Review before translation."
   },
   "catalog": {
-    "exact_phrase_count": 2663,
+    "exact_phrase_count": 2676,
     "dynamic_template_count": 23,
     "coverage_percent": null,
     "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 2145/5634 (38.1%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
     "context_rule_count": 203,
-    "candidate_exact_matches": 2159,
+    "candidate_exact_matches": 2172,
     "candidate_unique_strings": 5634,
-    "candidate_match_percent": 38.3,
+    "candidate_match_percent": 38.6,
     "faq_candidate_strings": 463,
     "faq_candidate_translated": 463,
     "npc_interaction_candidate_strings": 49,
     "npc_interaction_candidate_translated": 48,
-    "untranslated_candidate_rows": 3716,
-    "untranslated_unique_strings": 3475,
+    "untranslated_candidate_rows": 3703,
+    "untranslated_unique_strings": 3464,
     "top_untranslated_passages": [
       [
         "Options",
@@ -215,10 +215,6 @@
         13
       ],
       [
-        "Ship_Restroom",
-        13
-      ],
-      [
         "Ship_Championship",
         13
       ],
@@ -237,6 +233,10 @@
       [
         "BDSM_LickFeet",
         13
+      ],
+      [
+        "BDSM_TieUp",
+        13
       ]
     ]
   },
@@ -247,7 +247,7 @@
     "device_saf_media_save_roundtrip": "not_run: no Samsung Android 17 device",
     "synthetic_media_metadata": "passed: JPEG, WebM VP8/Vorbis, WAV PCM inspected with ffprobe",
     "desktop_webview_smoke": "not_run: Chromium launcher exists but system binary is missing",
-    "translation_status": "incomplete: 2159/5634 unique extracted candidates matched; extractor is approximate",
+    "translation_status": "incomplete: 2172/5634 unique extracted candidates matched; extractor is approximate",
     "startup_performance_fix": "implemented: initial localization only scans live game containers; mutations batched via requestAnimationFrame",
     "media_path_audit": "passed statically: img/video/background/audio calls traced; device media playback not run",
     "saf_mime_fallback": "implemented and statically checked for generic application/octet-stream responses"
