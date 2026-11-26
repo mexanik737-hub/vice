@@ -88,20 +88,20 @@
   ],
   "warning": "Conservative candidate extraction; includes false positives and misses dynamically composed/code-generated strings. Review before translation.",
   "catalog": {
-    "exact_phrase_count": 2782,
+    "exact_phrase_count": 2792,
     "dynamic_template_count": 23,
     "coverage_percent": null,
-    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 2278/5634 (40.4%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
+    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 2288/5634 (40.6%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
     "context_rule_count": 203,
-    "candidate_exact_matches": 2278,
+    "candidate_exact_matches": 2288,
     "candidate_unique_strings": 5634,
-    "candidate_match_percent": 40.4,
+    "candidate_match_percent": 40.6,
     "faq_candidate_strings": 463,
     "faq_candidate_translated": 463,
     "npc_interaction_candidate_strings": 49,
     "npc_interaction_candidate_translated": 48,
-    "untranslated_candidate_rows": 3571,
-    "untranslated_unique_strings": 3356,
+    "untranslated_candidate_rows": 3552,
+    "untranslated_unique_strings": 3346,
     "top_untranslated_passages": [
       [
         "Options",
@@ -136,10 +136,6 @@
         15
       ],
       [
-        "BDSM_LeashPlay",
-        14
-      ],
-      [
         "Sarah_Quest_01_End_Trans",
         14
       ],
@@ -152,11 +148,7 @@
         14
       ],
       [
-        "BDSM_LickFeet",
-        13
-      ],
-      [
-        "BDSM_TieUp",
+        "BDSM_LeashPlay",
         13
       ],
       [
@@ -180,16 +172,24 @@
         12
       ],
       [
+        "BDSM_TieUp",
+        12
+      ],
+      [
         "BrothelCasting_Haggle",
+        12
+      ],
+      [
+        "Ch2_NightExit",
         12
       ]
     ]
   },
   "updated": "2026-11-26",
-  "untranslated_rows": 3571,
-  "untranslated_unique_strings": 3356,
-  "translated_unique_strings": 2278,
-  "exact_match_percent": 40.4,
+  "untranslated_rows": 3552,
+  "untranslated_unique_strings": 3346,
+  "translated_unique_strings": 2288,
+  "exact_match_percent": 40.6,
   "top_untranslated_passages": [
     [
       "Options",
@@ -224,10 +224,6 @@
       15
     ],
     [
-      "BDSM_LeashPlay",
-      14
-    ],
-    [
       "Sarah_Quest_01_End_Trans",
       14
     ],
@@ -240,11 +236,7 @@
       14
     ],
     [
-      "BDSM_LickFeet",
-      13
-    ],
-    [
-      "BDSM_TieUp",
+      "BDSM_LeashPlay",
       13
     ],
     [
@@ -268,7 +260,15 @@
       12
     ],
     [
+      "BDSM_TieUp",
+      12
+    ],
+    [
       "BrothelCasting_Haggle",
+      12
+    ],
+    [
+      "Ch2_NightExit",
       12
     ]
   ]
