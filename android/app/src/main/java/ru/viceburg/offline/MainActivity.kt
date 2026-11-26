@@ -8,6 +8,7 @@ import android.os.Bundle
 import android.view.ViewGroup
 import android.webkit.JavascriptInterface
 import android.webkit.MimeTypeMap
+import android.webkit.ValueCallback
 import android.webkit.WebChromeClient
 import android.webkit.WebResourceRequest
 import android.webkit.WebResourceResponse
@@ -30,6 +31,7 @@ class MainActivity : Activity() {
     private lateinit var shell: LinearLayout
     private var customVideoView: View? = null
     private var customVideoCallback: WebChromeClient.CustomViewCallback? = null
+    private var fileChooserCallback: ValueCallback<Array<Uri>>? = null
     private val prefs by lazy { getSharedPreferences("viceburg", MODE_PRIVATE) }
     private val mediaTree: Uri? get() = prefs.getString(KEY_MEDIA_TREE, null)?.let(Uri::parse)
 
@@ -66,7 +68,7 @@ class MainActivity : Activity() {
             domStorageEnabled = true
             databaseEnabled = true
             allowFileAccess = false
-            allowContentAccess = false
+            allowContentAccess = true
             cacheMode = WebSettings.LOAD_DEFAULT
             mediaPlaybackRequiresUserGesture = true
             setSupportMultipleWindows(false)
@@ -74,6 +76,29 @@ class MainActivity : Activity() {
             mixedContentMode = WebSettings.MIXED_CONTENT_NEVER_ALLOW
         }
         web.webChromeClient = object : WebChromeClient() {
+            override fun onShowFileChooser(
+                webView: WebView?,
+                filePathCallback: ValueCallback<Array<Uri>>?,
+                fileChooserParams: FileChooserParams?
+            ): Boolean {
+                fileChooserCallback?.onReceiveValue(null)
+                fileChooserCallback = filePathCallback ?: return false
+                return try {
+                    val intent = Intent(Intent.ACTION_OPEN_DOCUMENT).apply {
+                        addCategory(Intent.CATEGORY_OPENABLE)
+                        type = "*/*"
+                        addFlags(Intent.FLAG_GRANT_READ_URI_PERMISSION)
+                    }
+                    startActivityForResult(intent, REQUEST_GAME_FILE)
+                    true
+                } catch (_: Exception) {
+                    fileChooserCallback?.onReceiveValue(null)
+                    fileChooserCallback = null
+                    toast("Не удалось открыть выбор файла")
+                    true
+                }
+            }
+
             override fun onShowCustomView(view: View?, callback: CustomViewCallback?) {
                 if (view == null || callback == null) return
                 if (customVideoView != null) {
@@ -242,6 +267,17 @@ class MainActivity : Activity() {
     @Deprecated("SAF result callback")
     override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
         super.onActivityResult(requestCode, resultCode, data)
+        if (requestCode == REQUEST_GAME_FILE && resultCode != Activity.RESULT_OK) {
+            fileChooserCallback?.onReceiveValue(null)
+            fileChooserCallback = null
+            return
+        }
+        if (requestCode == REQUEST_GAME_FILE) {
+            val callback = fileChooserCallback ?: return
+            fileChooserCallback = null
+            callback.onReceiveValue(data?.data?.let { arrayOf(it) })
+            return
+        }
         if (resultCode != Activity.RESULT_OK) return
         val uri = data?.data ?: return
         when (requestCode) {
@@ -310,6 +346,8 @@ class MainActivity : Activity() {
 
     override fun onDestroy() {
         if (customVideoView != null) hideCustomVideo()
+        fileChooserCallback?.onReceiveValue(null)
+        fileChooserCallback = null
         if (::web.isInitialized) { web.stopLoading(); web.destroy() }
         super.onDestroy()
     }
@@ -343,6 +381,7 @@ class MainActivity : Activity() {
         private const val REQUEST_MEDIA = 1001
         private const val REQUEST_EXPORT = 1002
         private const val REQUEST_IMPORT = 1003
+        private const val REQUEST_GAME_FILE = 1004
         private const val MAX_SAVE_BYTES = 8 * 1024 * 1024
     }
 }

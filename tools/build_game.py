@@ -20,7 +20,7 @@ const compiled=templates.map(t=>{const keys=[];const parts=t.source.split(/(\{\{
 const fragments=Object.entries(map).filter(([source])=>source.length>=24).sort((a,b)=>b[0].length-a[0].length).map(([source,target])=>{const escaped=source.replace(/[.*+?^${}()|[\]\\]/g,'\\$&').replace(/\s+/g,'\\s+');return {target,re:new RegExp('(^|[^A-Za-z])('+escaped+')(?=$|[^A-Za-z])','g')};});
 function translated(value,element=null){if(element)for(const item of scoped)if(item.source===value&&element.closest(item.selector))return item.target;if(Object.prototype.hasOwnProperty.call(map,value))return map[value];for(const {t,re,keys} of compiled){const m=value.match(re);if(!m)continue;let out=t.target;keys.forEach((k,i)=>{const raw=m[i+1],value=t.values&&t.values[k]&&Object.prototype.hasOwnProperty.call(t.values[k],raw)?t.values[k][raw]:raw;out=out.replaceAll('{{'+k+'}}',value);});return out;}let out=value,changed=false;for(const f of fragments){const next=out.replace(f.re,(_,before)=>{changed=true;return before+f.target;});out=next;}return changed?out:null;}
 function translateText(node){const p=node.parentElement;if(!p||p.closest(skip))return;const raw=node.nodeValue,trimmed=raw.trim();if(!trimmed)return;const result=translated(trimmed,p);if(result===null||result===trimmed)return;const start=raw.indexOf(trimmed),end=start+trimmed.length;node.nodeValue=raw.slice(0,start)+result+raw.slice(end);}
-const importMarker='__viceburg_import_pending';if(localStorage.getItem(importMarker)==='1'){localStorage.removeItem(importMarker);document.addEventListener(':storyready',()=>{setTimeout(()=>{try{if(typeof Save==='undefined')return;const auto=Save.browser&&Save.browser.auto?Save.browser.auto:Save.autosave;if(!auto||!auto.has())return;const result=auto.load(Save.browser&&Save.browser.auto===auto?0:undefined);if(result&&typeof result.catch==='function')result.catch(()=>{});}catch(_){}},0);},{once:true});}
+const importMarker='__viceburg_import_pending';if(localStorage.getItem(importMarker)==='1'){localStorage.removeItem(importMarker);document.addEventListener(':storyready',()=>{setTimeout(()=>{try{const sugar=window.SugarCube,save=sugar&&sugar.Save,engine=sugar&&sugar.Engine,auto=save&&save.browser&&save.browser.auto;if(!auto||!auto.has(0))return;Promise.resolve(auto.load(0)).then(()=>{if(engine&&typeof engine.show==='function')engine.show();}).catch(()=>{});}catch(_){}},0);},{once:true});}
 function translate(root){if(!root||root.nodeType!==Node.ELEMENT_NODE||root.closest(skip))return;const w=document.createTreeWalker(root,NodeFilter.SHOW_TEXT);let n;while((n=w.nextNode()))translateText(n);if(root.matches('[placeholder],[title],[alt],[aria-label],[data-faq-label]'))translateAttributes(root);for(const element of root.querySelectorAll('[placeholder],[title],[alt],[aria-label],[data-faq-label]'))translateAttributes(element);}
 function translateAttributes(element){for(const a of ['placeholder','title','alt','aria-label','data-faq-label']){const v=element.getAttribute(a);if(v){const result=translated(v,element);if(result!==null)element.setAttribute(a,result);}}}
 // Never traverse the embedded Twine source at startup: it contains the entire game and is hidden.
@@ -96,7 +96,18 @@ panel.addEventListener('click',event=>{
  if(action==='export')bridge.requestExportSave();
  if(action==='import')bridge.requestImportSave();
 });
-window.addEventListener('viceburg-media-change',updateStatus);
+function refreshMediaElements(){
+ const stamp=Date.now();
+ const fresh=(value)=>{if(!value)return value;try{const url=new URL(value,document.baseURI);if(url.origin!==location.origin||!/(?:^|\/)Media\//i.test(url.pathname))return value;url.searchParams.set('__vb_media_retry',String(stamp));return url.href;}catch(_){return value;}};
+ for(const element of document.querySelectorAll('img[src],video[src],audio[src],source[src]')){const current=element.getAttribute('src'),next=fresh(current);if(next!==current)element.setAttribute('src',next);}
+ for(const element of document.querySelectorAll('img[srcset],source[srcset]')){const current=element.getAttribute('srcset');if(current){const next=current.split(',').map(part=>{const match=part.trim().match(/^(\S+)(\s+.*)?$/);return match?fresh(match[1])+(match[2]||''):part;}).join(', ');if(next!==current)element.setAttribute('srcset',next);}}
+ const updateStyle=style=>{if(!style)return;for(const property of ['background','background-image','mask-image','-webkit-mask-image']){const value=style.getPropertyValue(property);if(!value||!value.includes('url('))continue;const next=value.replace(/url\((['"]?)(.*?)\1\)/gi,(all,quote,url)=>{const changed=fresh(url);return changed===url?all:'url('+quote+changed+quote+')';});if(next!==value)style.setProperty(property,next,style.getPropertyPriority(property));}};
+ for(const element of document.querySelectorAll('[style]'))updateStyle(element.style);
+ const visit=rules=>{for(const rule of rules){if(rule.style)updateStyle(rule.style);if(rule.cssRules)try{visit(rule.cssRules);}catch(_){}}};
+ for(const sheet of document.styleSheets)try{visit(sheet.cssRules);}catch(_){}
+ for(const element of document.querySelectorAll('video,audio'))try{element.load();}catch(_){}
+}
+window.addEventListener('viceburg-media-change',()=>{refreshMediaElements();updateStatus();});
 document.addEventListener(':passageend',refresh);
 document.addEventListener(':dialogopen',refresh);
 document.addEventListener(':dialogclose',refresh);
