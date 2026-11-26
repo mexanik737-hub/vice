@@ -6,7 +6,7 @@ const html = fs.readFileSync(new URL('../android/app/src/main/assets/game/index.
 const match = html.match(/<script id="viceburg-ru-layer">([\s\S]*?)<\/script>/);
 assert.ok(match, 'built HTML contains the Russian runtime layer');
 const code = match[1].replace(/\/\/ Never traverse the embedded Twine source[\s\S]*$/, 'globalThis.vbTranslate = translated;})();');
-const context = {};
+const context = { localStorage: { getItem: () => null } };
 vm.runInNewContext(code, context);
 assert.equal(context.vbTranslate('Options'), 'Настройки');
 assert.equal(context.vbTranslate('You agreed to start dating Alice.'), 'Вы начали встречаться с Alice.');
