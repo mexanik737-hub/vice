@@ -160,6 +160,24 @@ class MainActivity : Activity() {
         }
     }
 
+    private fun listMediaMp4Indices(relativePath: String): String {
+        val parts = relativePath.replace('\\', '/').split('/').filter { it.isNotEmpty() }
+        if (parts.firstOrNull() != "Sex" || parts.any { it == "." || it == ".." }) return "[]"
+        val tree = mediaTree ?: return "[]"
+        return try {
+            var node = DocumentFile.fromTreeUri(this, tree) ?: return "[]"
+            for (part in parts) node = node.findFile(part) ?: return "[]"
+            if (!node.isDirectory) return "[]"
+            node.listFiles().mapNotNull { file ->
+                val name = file.name ?: return@mapNotNull null
+                Regex("^(\\d+)\\.mp4$", RegexOption.IGNORE_CASE)
+                    .matchEntire(name)?.groupValues?.get(1)?.toIntOrNull()
+            }.distinct().sorted().joinToString(prefix = "[", postfix = "]", separator = ",")
+        } catch (_: Exception) {
+            "[]"
+        }
+    }
+
     private fun openSafResponse(uri: Uri, requestHeaders: Map<String, String>): WebResourceResponse {
         val detectedType = contentResolver.getType(uri)?.substringBefore(';')?.lowercase(Locale.ROOT)
         val extensionType = mimeFromName(uri.lastPathSegment)
@@ -230,6 +248,9 @@ class MainActivity : Activity() {
 
         @JavascriptInterface
         fun mediaStatus(): String = if (mediaTree == null) "Media не выбрана" else "Media подключена"
+
+        @JavascriptInterface
+        fun listMediaMp4Indices(relativePath: String): String = this@MainActivity.listMediaMp4Indices(relativePath)
     }
 
     private fun pickMediaTree() {
