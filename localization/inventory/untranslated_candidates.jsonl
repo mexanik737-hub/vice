@@ -1,18 +1,4 @@
-{"passage":"enhanced_interaction_intimidate","source":"P-please! I'll do anything! Just don't hit me! 😱","source_sha256":"ac5d1196175fb2a3126c21029687d96efc1cc9272257ef5cd1cf7d1afde2ded0"}
-{"passage":"enhanced_interaction_intimidate","source":"You think you're stronger than me?! Let's find out!","source_sha256":"8241ba6257ba5306e844acc9e542c0b9500c3f9576a24252abfa0978d63f531c"}
-{"passage":"enhanced_interaction_intimidate","source":"You're not as scary as you think.","source_sha256":"a5c81c7e059d45bc128f80bbb424937b4a86fd17468cbb3f44b828ffb461d8d0"}
-{"passage":"enhanced_interaction_challenge","source":"You're challenging me? Interesting! I accept! This will be fun! 😤💪","source_sha256":"2d09f51ffd921a4fd2d38de998e0095ce58eab36a76d2ba896257893e6fc96e2"}
-{"passage":"enhanced_interaction_challenge","source":"Ha! Finally, a worthy opponent! Let's see what you've got!","source_sha256":"3cc302091c7c0fda0c939c4dc9aab4fb32a17239aabfc09ca0ddfe6c03cf6b2a"}
-{"passage":"enhanced_interaction_challenge","source":"You'll regret this! Challenge accepted!","source_sha256":"f22f624e0b33e71b18b7854fa22b2644dda118b0582d91f0aaf260f052f774dc"}
-{"passage":"enhanced_interaction_challenge","source":"Oh, a friendly competition? Why not!","source_sha256":"207c7114e57b20807ab98664e58c659f1984a3ace5faafb00ed5589f7f7652d6"}
-{"passage":"enhanced_interaction_challenge","source":"Not now. I don't have time for this.","source_sha256":"f7bb1a00e195ddc8fac1e044c978b20aa34604e03d1ba038261e54a3f98b8db4"}
-{"passage":"enhanced_interaction_smallTalk_success","source":"Nice chatting with you. You're quite interesting to talk to.","source_sha256":"db0adf9d12ded81e77894d4e703fb01692885276a00486a62d1edd8f595f8ec4"}
-{"passage":"enhanced_interaction_smallTalk_success","source":"Always love chatting with you! How have you been?","source_sha256":"8c836337171a106b7c6cfbdef20343cebefc7d70c96934140a2af78eb49ed5bf"}
-{"passage":"enhanced_interaction_smallTalk_success","source":"I love our conversations! Tell me, what's new?","source_sha256":"183be087e6486f59f0caa2aabff0d8a9a057f199c3e99792ca0aafd61cbbd154"}
 {"passage":"enhanced_interaction_smallTalk_success","source":"I enjoy talking with you... you're so interesting.","source_sha256":"ca873e60ccb1f5c73461e1edd93703fa1019b2dbad295521273dd1e06c54a25d"}
-{"passage":"enhanced_interaction_smallTalk_success","source":"Babe, I love just chatting with you.","source_sha256":"0ad7da9b7bcafc030277b0f6c9b619e2e045224459afca6b1317a77b1eff6137"}
-{"passage":"enhanced_interaction_smallTalk_success","source":"Every conversation with you is pure happiness, my love.","source_sha256":"2c027efa2b6d58fd2f437ad2be29dbe3c181eb255d66aa554644bfc5100629b7"}
-{"passage":"enhanced_interaction_smallTalk_success","source":"Hmm, that wasn't so bad. Maybe you're not that terrible.","source_sha256":"1763365a553e64776bd7d753c5d1439472750be2d590099dcb775bfeed8e5bec"}
 {"passage":"enhanced_interaction_smallTalk_success","source":"Fine... that wasn't as awful as I expected.","source_sha256":"fd1608d73d23722f213a296d27eec3f9296b37157c92ce71eb9824afd0333a34"}
 {"passage":"enhanced_interaction_smallTalk_failure","source":"Uh... what? I didn't quite get that.","source_sha256":"a0d12db70740b9c01c8847428f40d0242d7c4536b7b26af7e50f1ea8a03e08d6"}
 {"passage":"enhanced_interaction_smallTalk_crit_success","source":"Wow! That was an amazing conversation! You're incredible to talk to! 🌟","source_sha256":"9238b9e067a82e745838033aafd7d279bb84a79189ea562624bce5345589b8a0"}

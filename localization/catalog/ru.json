@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 62,
+    "version": 63,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -2865,7 +2865,22 @@
     "If you are easily offended or are not legally allowed to view this content, exit now. Continue only if you understand and accept this warning.": "Если вас легко задеть или по законам вашей страны вам нельзя просматривать такие материалы, выйдите сейчас. Продолжайте, только если понимаете это предупреждение и принимаете его.",
     "Previous face": "Предыдущее лицо",
     "Current face": "Текущее лицо",
-    "Next face": "Следующее лицо"
+    "Next face": "Следующее лицо",
+    "P-please! I'll do anything! Just don't hit me! 😱": "П-пожалуйста! Я сделаю всё, что угодно! Только не бей меня! 😱",
+    "You think you're stronger than me?! Let's find out!": "Думаешь, ты сильнее меня?! Сейчас проверим!",
+    "You're not as scary as you think.": "От тебя не так страшно, как ты думаешь.",
+    "You're challenging me? Interesting! I accept! This will be fun! 😤💪": "Ты бросаешь мне вызов? Интересно! Принимаю! Будет весело! 😤💪",
+    "Ha! Finally, a worthy opponent! Let's see what you've got!": "Ха! Наконец-то достойный соперник! Посмотрим, что ты умеешь!",
+    "You'll regret this! Challenge accepted!": "Ты об этом пожалеешь! Вызов принят!",
+    "Oh, a friendly competition? Why not!": "О, дружеское состязание? Почему бы и нет!",
+    "Not now. I don't have time for this.": "Не сейчас. У меня нет на это времени.",
+    "Nice chatting with you. You're quite interesting to talk to.": "Приятно было поболтать. С тобой интересно разговаривать.",
+    "Always love chatting with you! How have you been?": "Мне всегда нравится с тобой болтать! Как ты поживаешь?",
+    "I love our conversations! Tell me, what's new?": "Мне нравятся наши разговоры! Расскажи, что нового?",
+    "I enjoy talking to you... you're so interesting.": "С тобой так интересно разговаривать...",
+    "Babe, I love just chatting with you.": "Зайка, мне нравится просто болтать с тобой.",
+    "Every conversation with you is pure happiness, my love.": "Каждый разговор с тобой — настоящее счастье, любовь моя.",
+    "Hmm, that wasn't so bad. Maybe you're not that terrible.": "Хм, оказалось не так уж плохо. Может, с тобой вполне можно ладить."
   },
   "scoped": [
     {
