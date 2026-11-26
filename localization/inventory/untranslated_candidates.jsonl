@@ -45,7 +45,6 @@
 {"passage":"enhanced_interaction_kiss","source":"Every kiss with you feels like the first time. 💞","source_sha256":"f9ebf96adb13672f81ad02cff21df35fd3bc4de1a30c62ac29a7f332ffef08d0"}
 {"passage":"enhanced_interaction_kiss","source":"Mmm, not bad. I want more. 😏","source_sha256":"82e242e0f479f0ebf4045ede75c06b4df7454f97d08a5925413f3a872b57ace1"}
 {"passage":"enhanced_interaction_kiss","source":"I hate that I like this...","source_sha256":"ea79380b966dc0addc0dea4ce9d9dcd6f6c69a91edd1560524ead6428751d1ca"}
-{"passage":"enhanced_interaction_kiss","source":"That was... nice.","source_sha256":"a5558ab884ddd85a185223f658eae3cc80d2cc010670ca3260e649886515b9d6"}
 {"passage":"enhanced_interaction_kiss","source":"Wait... not now.","source_sha256":"f8cc3fc87371e0b00995f170346e77caeef47f10d5a82bbf9ae6c0eade54ae8c"}
 {"passage":"enhanced_interaction_passionateKiss","source":"Oh god... I can't breathe... Don't stop... 🔥💋💕","source_sha256":"acba703c12f8317232357660aa38d06436e6a9c1859e61a11ffebf27e1260c2a"}
 {"passage":"enhanced_interaction_passionateKiss","source":"Stop! You're being too aggressive! That's not romantic!","source_sha256":"5df6bacde624e73451b9bb216b1f4a409cc01c478a1744bd8ea07c7abf70ad83"}
@@ -132,7 +131,6 @@
 {"passage":"enhanced_interaction_hug","source":"Love your hugs! Gimme more!","source_sha256":"1aae87934453baa3ca2505730eff46096bef1b3de89c3f2d30a7ad26bb072d41"}
 {"passage":"enhanced_interaction_hug","source":"Oh... this feels so nice... 😊","source_sha256":"1e41f589ba843b307ae70cc0ac5c9fdd18719fd51ce08525bdb36b96a9b2c136"}
 {"passage":"enhanced_interaction_hug","source":"I could hug you forever... 💏","source_sha256":"4a3171fa69a0ff507d68a57eeacb97f323131df9174f8590b046dbf45722c6b0"}
-{"passage":"enhanced_interaction_hug","source":"That was... nice.","source_sha256":"a5558ab884ddd85a185223f658eae3cc80d2cc010670ca3260e649886515b9d6"}
 {"passage":"enhanced_interaction_hug","source":"Sorry, I'm not in the mood for hugs right now...","source_sha256":"96475ce9777cbf692b85832ea27ee9b784b405020e0f012f408bb9505970ff4b"}
 {"passage":"enhanced_interaction_confessLove","source":"I... I love you too! I've been waiting so long to hear that! 💖😭","source_sha256":"9ac1be8ad7a651896d32940ce6a7a626e878c4cf91755a972b254d4430f9a1d1"}
 {"passage":"enhanced_interaction_confessLove","source":"I... I'm really sorry, but I don't feel the same. And the way you said it was... awkward.","source_sha256":"3b60a7642e72e7b32e61a950a6f9118f7c74247ee36508178c64e5a691e3b993"}
@@ -285,7 +283,6 @@
 {"passage":"enhanced_relationship_night_concern","source":"There's nothing hanging over you right now.","source_sha256":"4ea7b34d718168476e32315acddd6029840223fc09d6197f3c22360c59ef252c"}
 {"passage":"enhanced_relationship_night_concern","source":"Tell them not to lie to you","source_sha256":"b556cd98664745a3bd3a521113f8029f993a3fff4668a654315ef4c4a99e57c9"}
 {"passage":"enhanced_relationship_night_concern","source":"Demand that they end it","source_sha256":"5a571a17914b4dce8020f871fcea4a455c5c4c8c695c4ff43deecf63d5dcdb88"}
-{"passage":"enhanced_relationship_night_concern","source":"End the relationship","source_sha256":"9e9bb83f6aff9acad4c41b890429f54b8f500ecdab5767266ad28bf0c6bf57f1"}
 {"passage":"enhanced_relationship_night_reaction","source":"Continue the conversation","source_sha256":"fce45c323e9f6cc54b113779f2231ce5dd29ef50bf45428290fbf2456ce3414c"}
 {"passage":"enhanced_relationship_initiative","source":"Your partner waits.","source_sha256":"d656785a2a9ecb56c39c6845634a960be34b5ff828b2b8e4ab4315b07d7eec97"}
 {"passage":"enhanced_relationship_initiative","source":"enhanced_relationship_initiative_result","source_sha256":"1348b8bd82ac3bf0b18b3917c5f5b79bf5606067f0d1a88f6608e94178e7ead5"}
@@ -588,7 +585,6 @@
 {"passage":"jealous_partner_bribe","source":"You reach for your wallet - but you are short.","source_sha256":"6b9f45b4ceb9884c32745ac2e06f3576971ce79c928f89c231cc7b4f7bd3b258"}
 {"passage":"jealous_partner_share","source":"They give their partner an approving look and settle in close to watch. No sulking, no scene - this is the part they were waiting for.","source_sha256":"5ab792e758330d399cf23052884927e3fc16a79cce8df6123816e2e67794b686"}
 {"passage":"player_partner_confrontation","source":"I wasn't sneaking around on you. I thought this was covered by what we agreed.","source_sha256":"5ad9ececd7bd9cc2a1ab0f57dd88f4977bc58f3f8f36c351fc55ce907bf16a98"}
-{"passage":"player_partner_confrontation","source":"End the relationship","source_sha256":"9e9bb83f6aff9acad4c41b890429f54b8f500ecdab5767266ad28bf0c6bf57f1"}
 {"passage":"player_partner_confrontation","source":"I'm not mad. We said this was fine - just don't make me hear about it from someone else.","source_sha256":"53c71ad23d576dbbf0e1d5b83897dc69cfacabe591002a55a6ee654e9de78a23"}
 {"passage":"player_partner_confrontation","source":"What do you think you're doing? Explain yourself!","source_sha256":"0156fe895916269fcce08a64df187fdbd4fbc8bfec2c3fcbe74715389e7efd9c"}
 {"passage":"player_partner_success","source":"You manage to calm your partner down.","source_sha256":"f48ae8b3415bcc8a28bd79bb4027947ac034b2b6279af4a7e2362298020ea3a6"}
@@ -727,13 +723,11 @@
 {"passage":"DailyFeminization_Pimp","source":"Your debt has been increased by 1%(_debtIncrease).","source_sha256":"fd27646ad54dba68ca1b67feabb15109f28567587fe02b5e6a900a09f1fd9cec"}
 {"passage":"PornCastingInterview_Player","source":"You come to a casting session. The director asks you to undress and show your body.","source_sha256":"5fb17583c926e8db755c059a220db65186c567e47488ee5a16d7df54aa457309"}
 {"passage":"PornCasting_MalePlayer","source":"Your dick is too small, you should go to the clinic. (15)","source_sha256":"9bfff9f1611a93c4a4327e5af204c730c973ab5af9a079ff221735342ea46a05"}
-{"passage":"PornCasting_MalePlayer","source":"Excellent. Come to me when you want to work.","source_sha256":"5f78daa5bab5ea172e33b19d849fb4f7d02a99faf93a76be435a3d84c2e8573d"}
 {"passage":"PornCasting_FemalePlayer","source":"You peel your shorts down to your thighs, and the director examines your body. He circles you, has you turn around and bend over in your thong, then grabs a handful of your ass and slaps it so the camera gets a good look at it bouncing.","source_sha256":"ee63d7369baff54ad59fc308ba378a62732ae11cfa5aa51c0c7ea0e1cef379f9"}
 {"passage":"PornCasting_FemalePlayer","source":"Shorts still around your thighs, you answer his questions about your sexual life while he looks you up and down and has you keep turning so he can see every angle.","source_sha256":"b0c6479fd406962fe089348b9650c20ee6d293b5ba58b656ef3ccdb46a0cf4ae"}
 {"passage":"PornCasting_FemalePlayer","source":"You undress, and the director examines your body. He circles you, weighs your tits in his hands, then has you turn around and bend over so the camera gets a good look at your ass and your hanging cock.","source_sha256":"d2e7217f95f0c591710e2b6c800a0b7c043331cfc0bc7079dd3a9db6b7bb1039"}
 {"passage":"PornCasting_FemalePlayer","source":"Still naked, you answer his questions about your sexual life while he strokes your cock to see how hard it gets.","source_sha256":"089bb6a92e674c32a15729232e77ac9113df728c50849b6e3ff5802e3b74cc45"}
 {"passage":"PornCasting_FemalePlayer","source":"Let's see what you can do","source_sha256":"2095e21eed89421a566a9b6b6c67b3f3d88326ce9178e5cd78db5b5341db4568"}
-{"passage":"PornCasting_FemalePlayer_Finish","source":"Excellent. Come to me when you want to work.","source_sha256":"5f78daa5bab5ea172e33b19d849fb4f7d02a99faf93a76be435a3d84c2e8573d"}
 {"passage":"NotEnoughtEnergy_PornShoot","source":"You lack energy (30).","source_sha256":"d8a55a777d190913c3e682d164da31aacc7ccbefa034aaae5c0f95d260100490"}
 {"passage":"NotEnoughtPotency_PornShoot","source":"You lack sexual stamina (3).","source_sha256":"c6c03e9021f7c2ec93177a5f35162c93e48ed33ddb0a2468b366d48e1d0fdb3d"}
 {"passage":"NoPornShoots","source":"There are no more shootings for today, come back tomorrow.","source_sha256":"cd196e9e7990f1f02dea57ae62a9463ba3872107f5da3a59ab8948b9ed642cc5"}
@@ -760,7 +754,6 @@
 {"passage":"SR_Shop_Favor","source":"You pull your top over your head, unhook your bra and let him see your tits. The shorts come next, and you turn around slowly so he can watch you peel your thong down over your ass.","source_sha256":"7a065d7930f58f06685e4b578925ef052b8b0a859832cb4126a39d9bbe263ecf"}
 {"passage":"SR_Shop_Favor","source":"You drop into the other office chair with your legs wide and rub your clit while he watches, two fingers sliding inside you until you are wet and breathing hard.","source_sha256":"949eff50b55d795f320ee6189b31bb5c107501fa85140e7bf16d7d6972359cf7"}
 {"passage":"SR_Shop_Favor","source":"Get on your knees","source_sha256":"169292cbc1846b474f57c06021865b98834fbd1eac472f5d1e9581b2e8f7340e"}
-{"passage":"SR_Shop_Favor","source":"Get dressed and go","source_sha256":"1c1ef5cf6f3903c5d441704a4f54757eb1306c92ff9a16402636b412909e4383"}
 {"passage":"SR_Shop_Favor_Blowjob","source":"On your knees","source_sha256":"c5b3257f9ceef4065703687f0b3c132d8a6d2d39033181797784e1da0b253ff6"}
 {"passage":"SR_Shop_Favor_Blowjob","source":"He gets up out of his chair and opens his pants. You kneel in front of him, he pulls out his cock and guides your head down. You suck him slow at first, then faster when he grabs your hair and starts fucking your mouth.","source_sha256":"6c76dab5ec09fe4de1ae57eb271ccc3f857802064e3fd508363370badeed3486"}
 {"passage":"SR_Shop_Favor_Blowjob","source":"Bend over the desk","source_sha256":"bcea6ca675864b73b7ca5d8b3d7dc607cf6864494405ed972e4ca8f35203c510"}
@@ -768,12 +761,10 @@
 {"passage":"SR_Shop_Favor_Sex","source":"Over the desk","source_sha256":"70fa96a3159b7803f47468b967e7c912f9140dd8c0a797dd944ac6776e1771c5"}
 {"passage":"SR_Shop_Favor_Sex","source":"He sweeps the papers off the desk and lays you back on it. He fucks you on your back first, holding your ankles apart, then flips you over and pounds your pussy from behind. When he drops back into his chair you climb on and ride his cock until he grunts that he is close.","source_sha256":"42d9228e4800f8d4c3e65a4c840c0b2501d563315b81aa8b63e6fd1485493f07"}
 {"passage":"SR_Shop_Favor_Sex","source":"He pushes you off onto your knees, jerks his cock in your face and cums on your tongue and chin.","source_sha256":"fd17e9527875fa231bb3202d61f9e403cfe03b557c6d9e054f68625c6c757658"}
-{"passage":"SR_Shop_Favor_Sex","source":"Get dressed and go","source_sha256":"1c1ef5cf6f3903c5d441704a4f54757eb1306c92ff9a16402636b412909e4383"}
 {"passage":"ShopliftBackRoomWidgets","source":"Pay for it and a $150 fine","source_sha256":"047160e600577dd255dc1ff9dc912a44d997c58aaaa83b692cc26b0077b982a2"}
 {"passage":"Shoplift_BackRoom","source":"The guard marches you past the fitting rooms into a cramped office stacked with shopping bags and confiscated junk. He dumps your bag on the desk, lines up what you took next to it and turns his monitor so you can watch yourself stuff it into your jacket.","source_sha256":"217975411addfd729b74d189ec05b3f874793568ce28f5c822eb089b05914932"}
 {"passage":"Shoplift_BackRoom","source":"He leans back in his chair and looks you up and down, slowly, taking his time over your chest.","source_sha256":"5ee8de61eb258c862c4b743340f639d86583fa20097cf97ee50112262234b7eb"}
 {"passage":"Shoplift_BackRoom","source":"Ask what he has in mind","source_sha256":"efd1692a24b60650e9cefe4d1ae64ceb9cbbe147ea169473f28f94cbf07e8ba4"}
-{"passage":"Shoplift_BackRoom","source":"Let him call the police","source_sha256":"8de07b50061fdef972edacfa0bd0498e79b17dee71ffe6006016360437757aa2"}
 {"passage":"Shoplift_BackRoom_Search","source":"Your face burns as you shrug off your jacket and unbutton your top. He watches without blinking while you step out of your pants, then waves a hand when you stop at your underwear. The bra goes, then the panties, and you stand naked in front of his desk with your arms at your sides.","source_sha256":"43a4a49dfca5d1e28f7231019172a0728ba6226ade0c48d3dcefa1e4c0bc5612"}
 {"passage":"Shoplift_BackRoom_Search","source":"Bend over the desk","source_sha256":"bcea6ca675864b73b7ca5d8b3d7dc607cf6864494405ed972e4ca8f35203c510"}
 {"passage":"Shoplift_BackRoom_Search","source":"Grab your clothes and tell him to call the cops","source_sha256":"e954de61c84f4cd768260c2c1423a8d4926d62743fb074b8b4a5d6587b4c5bca"}
@@ -790,7 +781,6 @@
 {"passage":"Shoplift_BackRoom_Fuck","source":"When he is close he pulls out, drags you off the desk and pushes you down to your knees. He jerks his cock in your face and cums across your cheeks and lips, groaning, while you hold still and take it.","source_sha256":"ab50e8885b24299d7bd1a936773863dcaaa1a203cc01ba75b8afd8f3009ad54a"}
 {"passage":"Shoplift_BackRoom_End","source":"He tosses you a box of tissues and deletes the clip while you wipe his cum off your face. Then he pushes the stolen things across the desk.","source_sha256":"54fa2fb67069275274c4f4597cde5f5456a944fddcb339bfecafcbf50f617344"}
 {"passage":"Shoplift_BackRoom_End","source":"He holds your head down and cums in your mouth with a long groan. You swallow, wipe your lips with the back of your hand and get dressed while he deletes the clip.","source_sha256":"1922e896b8d88dd0a045ec1a26793b87a2dd92f07f5600fd1361f62a00534aa3"}
-{"passage":"Shoplift_BackRoom_End","source":"Leave the mall","source_sha256":"7e2ae76cf595c4e2fe7b1ebf4ea111d6ba2576eb77bb50ba964b4f3fb3d4546d"}
 {"passage":"Shoplift_BackRoomM","source":"The guard who stopped you is a tall woman in a tight security polo, hair scraped back, a radio on her hip. She walks you into a cramped office full of confiscated junk, dumps your bag on the desk and plays the tape of you stuffing things into your jacket.","source_sha256":"37603c9ff429987f1dd60666a564b19bdbb3927ee934e8109293d786c5218b71"}
 {"passage":"Shoplift_BackRoomM","source":"She perches on the edge of the desk, legs apart, and lets her eyes drop to your crotch.","source_sha256":"810fd1cffec4d6741a1281434fddad0b6d4150f5c3966236da95a8fe07af12f4"}
 {"passage":"Shoplift_BackRoomM","source":"Ask what she has in mind","source_sha256":"4b4ae09d0c97a25ce03d38c1f4c283d8dacc561d7c1130b3776a7760be58ecbb"}
@@ -804,11 +794,9 @@
 {"passage":"Shoplift_BackRoomM_Fuck","source":"She bends over the desk with her pants around her ankles and reaches back to spread herself. You push your cock into her wet pussy and fuck her hard, the desk rattling, her radio crackling on the floor where it fell.","source_sha256":"0d30bc621963223510e557711b6f8665fa56e47c75fd731a007d79ca0d78eb54"}
 {"passage":"Shoplift_BackRoomM_Fuck","source":"When you are close she snaps at you to pull out. You cum across her ass while she laughs into the paperwork.","source_sha256":"38ce6f29ea22daa911ef5e602362c93f4576fd6e00bf90ee9dc213b680d26b23"}
 {"passage":"Shoplift_BackRoomM_Fuck","source":"She wipes herself off with a handful of tissues, deletes the clip and pushes the stolen things back across the desk.","source_sha256":"a7fbf91dd8840174f6d139a015beddd5149df2229384f6461cadbcf72016e2c3"}
-{"passage":"Shoplift_BackRoomM_Fuck","source":"Leave the mall","source_sha256":"7e2ae76cf595c4e2fe7b1ebf4ea111d6ba2576eb77bb50ba964b4f3fb3d4546d"}
 {"passage":"Shoplift_BackRoomT","source":"The guard marches you into a cramped office full of confiscated junk, dumps your bag on the desk and turns his monitor so you can watch yourself stuff it into your jacket.","source_sha256":"851cf63f3da10ce3f886c42bdd099da79a4758d53d4400f8723c7b50d8347ddf"}
 {"passage":"Shoplift_BackRoomT","source":"He leans back in his chair and looks you over, from your tits to the bulge under your skirt, and smiles.","source_sha256":"5a314ae4c9b494f41584f9c0f85068ea8dc50ab47661a9433a8a48dbd1fc1f83"}
 {"passage":"Shoplift_BackRoomT","source":"Ask how","source_sha256":"f6b52a5e51dbe2569de58fdec8a2e881a8fe06b9eca6c246fd039558d3020632"}
-{"passage":"Shoplift_BackRoomT","source":"Let him call the police","source_sha256":"8de07b50061fdef972edacfa0bd0498e79b17dee71ffe6006016360437757aa2"}
 {"passage":"Shoplift_BackRoomT_Blowjob","source":"You undress in front of his desk. When your panties come down your cock swings free, half hard, and he laughs and tells you to get on your knees.","source_sha256":"08a5af40a1c758e2be9940ac4c8a6eabc661435edeee3fc7c682a37bf1cc8ba4"}
 {"passage":"Shoplift_BackRoomT_Blowjob","source":"He unzips and feeds you his cock. You suck him with his hand fisted in your hair while your own cock stiffens between your thighs.","source_sha256":"9224708359a1d2129b6c456d1a7f23884b47f81622481a553aef9de231b30eda"}
 {"passage":"Shoplift_BackRoomT_Blowjob","source":"Bend over the desk","source_sha256":"bcea6ca675864b73b7ca5d8b3d7dc607cf6864494405ed972e4ca8f35203c510"}
@@ -818,7 +806,6 @@
 {"passage":"Shoplift_BackRoomT_Fuck","source":"He drives deep one last time and cums in your ass, holding you down until he is done.","source_sha256":"556351b5df835bea304561256021619adbf7182fadcbcf8d481b65d3d11a81aa"}
 {"passage":"Shoplift_BackRoomT_End","source":"He tosses you a box of tissues and deletes the clip while his cum runs down your thighs. Then he pushes the stolen things across the desk.","source_sha256":"1a0c6c8c4021b8ea7b810b92d25af0f6b7b0e9ef2dcad80d501ced1282f800b9"}
 {"passage":"Shoplift_BackRoomT_End","source":"He holds your head down and cums in your mouth with a long groan. You swallow, wipe your lips and get dressed while he deletes the clip.","source_sha256":"93b855447eee8337fe2e68e3893f10adb9c76e8044ba6e5098c9be0a6105813a"}
-{"passage":"Shoplift_BackRoomT_End","source":"Leave the mall","source_sha256":"7e2ae76cf595c4e2fe7b1ebf4ea111d6ba2576eb77bb50ba964b4f3fb3d4546d"}
 {"passage":"Player_Bedroom_SoloPlay","source":"You are not in the mood.","source_sha256":"f1e7426d8248aeebebb7e8e7bddec5e2ae11141c9cf25697366282076b24e6a9"}
 {"passage":"Player_Bedroom_SoloPlay","source":"You lock the door. It does not take long with the curtains drawn and no one expected back for hours.","source_sha256":"1a88d2f9bfcf3ee6c1f0736ddd6116c319eb008d8253b3e05ae669313ba4b133"}
 {"passage":"UFG_ShowerRoom_Peek","source":"Steam rolls across the tiles. On the far side of the lockers the women fighters are changing at their lockers, pulling off their gear and joking with each other, towels nowhere near where they should be. You have not been noticed.","source_sha256":"cd443e2a5971e9387e02eb61dad64f4189544571176dc12b74a8ec9df2136713"}
@@ -849,7 +836,6 @@
 {"passage":"GangBossWidgets","source":"Only while the crew pays the police.","source_sha256":"cc0bcff07fb1b681093babba0386ab10571a03c37281cbd61ad477d8cfcb7d8e"}
 {"passage":"GangBossWidgets","source":"Your detective answers on the second ring.","source_sha256":"ef8b38befb3160ccffcf399fa32ba4735dc0eeb6576eb2aaf7e8db385dc729bd"}
 {"passage":"GangBossWidgets","source":"Ask about a crew from its dossier.","source_sha256":"25745457a7febbf95931da9645173b76e76f2fc053028004dbd93019f944ec1a"}
-{"passage":"GangBossWidgets","source":"Send a messenger: ask for peace","source_sha256":"32a78cf217c79b0c9de1abcfa5e62892a8eabc2afdbf7cbe8e32623bf80a1869"}
 {"passage":"GangBossWidgets","source":"Give them what they want","source_sha256":"af6c88a1d29ddb5549db17c85210de2964979e9e8b9dfa16c1b9a48b32b0fafd"}
 {"passage":"GangBossWidgets","source":"Tell them where to go","source_sha256":"b7e2e622533918f377266e90488d3d0a8e43d3c0f804425ea1bb33f04288b378"}
 {"passage":"GangBossWidgets","source":"Wreck the sit-down","source_sha256":"055501a7fd46614f4c2cb590a5916e1eb0d91804678bec4f9e722a05dc90a8ec"}
@@ -858,7 +844,6 @@
 {"passage":"GangJob","source":"That job is not yours anymore.","source_sha256":"c5c9b50efb57f5e35defeab75d0a1bfbc8c63d7084488443166ab67e4ed709a6"}
 {"passage":"GangJob","source":"You are not where this job is done.","source_sha256":"1349aa5b56fe17adbb60cfb6a836f49ef12efc8e1d453a813d3151873aea94ea"}
 {"passage":"GangJob","source":"The police are still waiting on you.","source_sha256":"f1f66a463533bda884b0a8e01f71db5205430643ca3d70d82de94a27523f9767"}
-{"passage":"GangJob","source":"Not now","source_sha256":"a0e63d7c7125d29af84d6919af5550529be77c327324940c98c4b2cb13a99c8c"}
 {"passage":"GangJobResult","source":"Money or nothing: the job is blown","source_sha256":"fd971d0371f34f7749718f5b36c5f0fb90306ddf34696994c1d422020852c585"}
 {"passage":"GangJobResult","source":"Face the police","source_sha256":"ead4cc4e58976e5e8c8969b03dfa52c38ae003420a280804d8215656e14ebb79"}
 {"passage":"GangRecruit","source":"A word on the street","source_sha256":"59506334e0e95f4e9c3da94bd190af64d5a51f4b0e655fcf5a68e695dfcfa70b"}
@@ -888,8 +873,6 @@
 {"passage":"GangLeverWidgets","source":"What you know","source_sha256":"ffbe04addfddb5534c198da7b595152a88eb5b5786ede20e35a55471eb96d055"}
 {"passage":"GangLeverWidgets","source":"Each secret can be spent once.","source_sha256":"f399987d121aee2f0dd2d584cad21a217f1bbea160957fbdac8f803e9c81ff06"}
 {"passage":"GangLeverWidgets","source":"Who should hear it?","source_sha256":"907bf004aa6e13d4c25f5aca6b39b2bee1b2acc6876a66d7d0a85214921bcf0d"}
-{"passage":"GangLeverWidgets","source":"The back room","source_sha256":"9b2e115db83371693500ca74e8a4987f9b231278801c17a6b6b4bba19c3fc44a"}
-{"passage":"GangLeverWidgets","source":"Send a messenger: ask for peace","source_sha256":"32a78cf217c79b0c9de1abcfa5e62892a8eabc2afdbf7cbe8e32623bf80a1869"}
 {"passage":"GangLeverWidgets","source":"Ask your detective about them","source_sha256":"21249efaa4c845c2af6ba966324fd2f77ccffe139d9ee731e15523f1ed6819f0"}
 {"passage":"GangLeverWidgets","source":"Stop the truck","source_sha256":"fba3d6d244cc8c6194f483610eced9b5d6c76a30cb9bd111bce2e4afdd656871"}
 {"passage":"GangLeverWidgets","source":"Ask for ransom","source_sha256":"130d06bd6005809d84b53e31527bf3d2c49d8e5b35e5c3d2cfe18a0d2a617a42"}
@@ -931,7 +914,6 @@
 {"passage":"WeaponShop_Browse","source":"for \" \"","source_sha256":"de2ea7e24b1142b8c2b1bbc9470efb74b5cc4e65e89f8e691ec640a8f1c8b3b8"}
 {"passage":"WeaponShop_Browse","source":"Ammunition for Sale","source_sha256":"fbabd1e0fddbb174de5ab1050404ffc1dac732324bf4377fc27ff3935e956abf"}
 {"passage":"WeaponShop_Browse","source":"Standard 9mm ammunition for pistols and SMGs.","source_sha256":"d3ea9dff9686eda6bb96ba834c4898096aac17cb9b0b800fda457fbb5bdc4124"}
-{"passage":"WeaponShop_Browse","source":"💸 Not enough money","source_sha256":"1b88f5d51e47eda44cc755bdfd85eb49a54553086da0105c60dc37574301934a"}
 {"passage":"WeaponShop_Browse","source":"Not enough","source_sha256":"6ffc096d0f18f5856ee5ed75d99081b394bd1055cbee337c0a149e4574e20dda"}
 {"passage":"CarDealer_Sales","source":"Take Lana up on that drink","source_sha256":"528d86c903b04fdf9432e886fec46c543f7781ef64ef9b39f21e5eba52c55e7f"}
 {"passage":"CarDealer_Catalog","source":"Viceburg Motors Find your next ride From everyday essentials to something extraordinary.","source_sha256":"60bcc79af7c0ec1e3652dbe1d4b6665f1f2e9cc3e2b140deb8a2dc4e69bc2043"}
@@ -987,14 +969,11 @@
 {"passage":"NPC_House_LockpickFailed","source":"The lockpick snapped while trying to pick the lock.","source_sha256":"28fe7625259871040d57e66afb1fc4285e28636e20aff616d5f9508defbbacf9"}
 {"passage":"NPC_House_LockpickFailed","source":"You'll need another one to try again.","source_sha256":"773a449b86a1d7951e8a97f56ffd09d69bd4a3fc1e4cce5f3a116de92e97033f"}
 {"passage":"Oak_Street","source":"Your Home","source_sha256":"5840e59828db3828789f5e701b2416d1b70c966c5ddbc6c447921a7bd8e663fa"}
-{"passage":"Player_Bedroom_PHome","source":"Your Bedroom","source_sha256":"80bd6c5ab919957c2da0fdb8fda025524b86e3fefa60928f028c16c101ed87fc"}
-{"passage":"Living_Room_PHome","source":"Your Bedroom","source_sha256":"80bd6c5ab919957c2da0fdb8fda025524b86e3fefa60928f028c16c101ed87fc"}
 {"passage":"PlayerHome_GuestDepartureResolve","source":"Alright, I can stay a little longer.","source_sha256":"25cb20a4416fb2fd95e5f037bec9ee5bb108534daf864220c35e4beeed0b39e6"}
 {"passage":"PlayerHome_GuestDepartureResolve","source":"They agree to stay for two more hours.","source_sha256":"e7fda6acbfca5b5feecbae3e8bae1ee43ba8a4817a3f8480e318f970fe23a969"}
 {"passage":"PlayerHome_GuestDepartureResolve","source":"See you later.","source_sha256":"e241648df8201db40cfa1ce813b22b2e6cbca72fa044ca3d6093b75773d1992c"}
 {"passage":"PlayerHome_GuestDepartureResolve","source":"They leave your home.","source_sha256":"3c29365c3270fd672259721b8139c8c92f903ece0aaa68887092ff5ecd0a788f"}
 {"passage":"CruiseWidgets","source":"The deck is quiet right now.","source_sha256":"df36b194fe84b9120191278f5ebc1be7ddd9d3218462b76d18820196d23c1785"}
-{"passage":"CruiseWidgets","source":"While you slept","source_sha256":"1369d4315cee3bf4294d8c81c448de5de0786c9b90194ddadb7035c336829f66"}
 {"passage":"CruiseWidgets","source":"The last days close in - debts come due and the desperate turn reckless.","source_sha256":"fffade070c037809e6c26ae7f2243c928eb45dd5c4bd0245d9bc4a668bf199fc"}
 {"passage":"CruiseWidgets","source":"The voyage has its hooks in everyone now; the easy marks are mostly spent.","source_sha256":"017a3b6e601c1b6d3a7b2aa4a481399539f175cee0f3c4d7105bcfa90ada9081"}
 {"passage":"CruiseWidgets","source":"The «Sirena» is still finding her rhythm - everyone sizing each other up.","source_sha256":"39eaedbd5c2897fad4650373e59891e2d3c8b8b0dd0ab5a3304fd6026b1d938e"}
@@ -1017,7 +996,6 @@
 {"passage":"Port_BoardDialog","source":"⚠ While aboard you cannot save manually .","source_sha256":"183c659fbbd2122ecaf7636b13b282c2be39a20da48f4260fc43ea351c10ee9f"}
 {"passage":"Port_BoardDialog","source":"The ship keeps one automatic save each night after you sleep.","source_sha256":"596444eb36184fe054a127ddeb51da9471472a37782856a39741083e2d546930"}
 {"passage":"Port_BoardDialog","source":"Pick your stake - a chip loan, no interest (settled when you step ashore):","source_sha256":"9aad0e902a7ea09c0560c188bf8d521d69b0b9e29f7733c40872636669a07144"}
-{"passage":"Port_BoardDialog","source":"Not now","source_sha256":"a0e63d7c7125d29af84d6919af5550529be77c327324940c98c4b2cb13a99c8c"}
 {"passage":"Ship_Departure","source":"Head into the ship","source_sha256":"533b152056b42684a2933296ab9a120bbc74796a5d5bdaad2436e8dd13b1c282"}
 {"passage":"Ship_Docked","source":"Step ashore and settle up","source_sha256":"04aa4d76d8357c1cd98ea45ddc4719f6a9bb851ccc30a652a9de5b4f84260aa5"}
 {"passage":"Ship_MainHall","source":"Chips: · Debt: · Femininity: /6 · Corruption: /6 · Standing:","source_sha256":"adc48d2e5154d5d9124ce556cf799f81f00ae0a314aa18ab86966aec33e0519f"}
@@ -1172,8 +1150,6 @@
 {"passage":"Ship_Crafting","source":"Use - palm it for the next match","source_sha256":"5ec51d7d9702a892d190312d04692cd29a7ab83bde5a876090422f009226519c"}
 {"passage":"Ship_Crafting","source":"Use - swap in the marked deck","source_sha256":"0118ffe70d9e5f31d5697d80cfd26bc785958e82389ee24e2b090ae757e48ae2"}
 {"passage":"Ship_Crafting","source":"Use - ready the loaded die","source_sha256":"c919020ad2f5c2d5b7d47bf152304afd811ce1f52c8a0c8f179c65c403327678"}
-{"passage":"Ship_Climax","source":"Catch your breath","source_sha256":"27043d6ac7548f86f3873bab01b7a5c3e2e805d12f88d9fafe35ab5aa8e3da68"}
-{"passage":"Ship_Threesome","source":"Catch your breath","source_sha256":"27043d6ac7548f86f3873bab01b7a5c3e2e805d12f88d9fafe35ab5aa8e3da68"}
 {"passage":"Ship_Shop","source":"Fence your surplus","source_sha256":"d9a4af7ab9b18606d09ed9db2de8423c4cfb304ad72cd7bd082e2a49e49abecf"}
 {"passage":"Ship_Shop","source":"Tully takes loot off your hands.","source_sha256":"c7a712fc348d76613140e96163e7da49293a3bf2e1b060e31d75387a3e28f14a"}
 {"passage":"Ship_Shop","source":"He pays under value - and pays better the higher your Trade.","source_sha256":"a31c67f304f21798fac281d12572716b93b3a2c921e41eb17148d4d9e1e70851"}
@@ -1206,8 +1182,6 @@
 {"passage":"Port_IndentureService","source":"Back to the parlor","source_sha256":"f5bab8d5d9446bd5e57d915affe105c2bef57521c5a9893eb18ea0917f50d80c"}
 {"passage":"Prison_Intake","source":"Intake and Booking","source_sha256":"d37f468a1796d7ba010f316593dc27214c8309c7d7398103b17d202646b81c78"}
 {"passage":"Prison_Intake","source":"Step into the block","source_sha256":"5eb5526dc49ddf39a5ee2de7d80165a23ee96573a7e5c469249755384f71df64"}
-{"passage":"Prison_Prologue","source":"The Day Room","source_sha256":"8062c2ba923a9e53971c1f787e57d71d76d92547b08b13cd6c7fc7623780984f"}
-{"passage":"Prison_PrologueOut","source":"The Day Room","source_sha256":"8062c2ba923a9e53971c1f787e57d71d76d92547b08b13cd6c7fc7623780984f"}
 {"passage":"Prison_PrologueOut","source":"Step onto the tier","source_sha256":"667998aaea01339035a84a2ea947464750368d49b6414f928686ac4d1eff3cdc"}
 {"passage":"Prison_Quest","source":"Leave it for now","source_sha256":"6808b0c0155767eaa96d1334a5baa0656fb6cb05fef13b2ffdd5f8368daef0a8"}
 {"passage":"Prison_Block","source":"Your jacket","source_sha256":"64ffe412dcff422f846ef830b6854ad13f6106fc9880452597777e24a54787ff"}
@@ -1234,12 +1208,10 @@
 {"passage":"Prison_Protection","source":"will send for you again soon enough - the arrangement never goes hungry for long.","source_sha256":"e11c39c3ab9e82f816629aff1cea1812ed28d2353f7dd0e2dc2fd9316cd99685"}
 {"passage":"Prison_Protection","source":"runs this tier, and everyone who is not a mark is under somebody.","source_sha256":"48ab3df72bb875ad2b982098d44b65b5e279327b5e0926cd0178bb14d2dceee5"}
 {"passage":"Prison_YardBlind","source":"Behind the Pile","source_sha256":"81ccd5841c4494f6d637146403ced351701040c0adde8842085b582c57c71472"}
-{"passage":"Prison_YardBlind","source":"The Dead Angle","source_sha256":"74b79b28f06577a02adf1253f6f6d8c6a14f1746b90a4167697a0852a2ce474c"}
 {"passage":"Prison_YardBlind","source":"Trade spots twice back here and the roving CO starts wondering what the pile is really for.","source_sha256":"292ffd10bb5ba71d878147e019dea4f0a2e49bd051efa97679708b0e1bb7ecc5"}
 {"passage":"Prison_YardBlind","source":"Back to the yard","source_sha256":"6e3ea6abe66ec8d06abad912e6be0ceda6b4561fab49341229c91a913c0dbdc0"}
 {"passage":"Prison_YardBlind","source":"Watch inmates fuck in the yard blind","source_sha256":"122ec499c7dbd73099569c5a741d2bb13556fb184f2ca202ac75daed938594c4"}
 {"passage":"Prison_YardBlind","source":"Two of them have the corner blocked off","source_sha256":"c47ab0256719b08ec16e7600bea89da32d4ed0c251465918cb97beed11134ef2"}
-{"passage":"Prison_YardCornered","source":"The Dead Angle","source_sha256":"74b79b28f06577a02adf1253f6f6d8c6a14f1746b90a4167697a0852a2ce474c"}
 {"passage":"Prison_YardCornered","source":"You realize too late that the two women lifting near the shed were never lifting.","source_sha256":"8cc81650d07379a800b04384ebb67e01e4028c6a2ba0e1e30e506d6817cfcedd"}
 {"passage":"Prison_YardCornered","source":"One steps into the gap behind you and the other blocks the sight line, and the gun tower is a hundred yards of open ground away.","source_sha256":"4b612c097d85230af03f256c2ad0d170f4152b4f0181c86cfcb4081e3e3e174f"}
 {"passage":"Prison_YardCornered","source":"So do the screws.","source_sha256":"193eceee5f9500d910185eb217145f92fe649bd304724e54888f226e534d2ceb"}
@@ -1453,13 +1425,11 @@
 {"passage":"Prison_NightRetaliation","source":"The Tier Remembers","source_sha256":"8d4ccc0d4000efaa04eb8a469a949d5748aca49793bea2959db4e0d9f2c6b8e5"}
 {"passage":"Prison_NightRetaliation","source":"At lights-out blocks the cell door and names the debt plainly.","source_sha256":"a190c9693fb1a6e22157f189619a6c9a6fed9b591bf8d6b0ebc3d82b8a54800f"}
 {"passage":"Prison_NightRetaliation","source":"You settle this with me.\"","source_sha256":"3e293c6d18a3e5d981c6e17234984847d180414ce50845ddeef8065ff5f85dd9"}
-{"passage":"Prison_NightRetaliation","source":"Face the day","source_sha256":"7af35eedf5737be03f8b97ef75916276aa321b6c0e81fa0b9dd63271334cf725"}
 {"passage":"Prison_NightRetaliation","source":"Stand your ground","source_sha256":"10beb080454cc6cde03e2f343c6e7927c40549c0fef6c49c5e9e3b117fd41edd"}
 {"passage":"Prison_NightRetaliation","source":"Own it and talk","source_sha256":"ca28ed21823d9b74185abebecf7713a3590867018c3ec9503cf8201611b41099"}
 {"passage":"Prison_NightThreat","source":"and two of people are between you and the bars, and the guard just walked the other way.","source_sha256":"fbefe0079c09dcc26a2dd608243ae35e04ffd0d9a2f6c2daf5344b22410e7eda"}
 {"passage":"Prison_NightThreat","source":"One way or the other.\"","source_sha256":"48baf859dc60ddf4f5e9890ee7dcfab023e06b173494ebf38a94d16457135d5d"}
 {"passage":"Prison_NightThreat","source":"Stop fighting and let them fuck you","source_sha256":"b8000bf7f744cbe43ccf513ac78a0c3dd5817661d033c8d031b9570f16adff43"}
-{"passage":"Prison_NightThreatResult","source":"Face the day","source_sha256":"7af35eedf5737be03f8b97ef75916276aa321b6c0e81fa0b9dd63271334cf725"}
 {"passage":"Prison_Bail","source":"Money changes hands in the warden's office and the paperwork moves fast.","source_sha256":"1c309d4067f05083ab179f92b1f72298bdc618c751d1f16e6e76b3eca582b85e"}
 {"passage":"Prison_Bail","source":"You walk out light in the pocket but light in the step - the rest of the bid is somebody else's problem now.","source_sha256":"035f2ed9ba216d53a6226fd040c5c15b7e25c4a3cdd1b0f8d3e86cf533c9582a"}
 {"passage":"Prison_GuardStation","source":"Everything in here has a price, if you know how to ask for it - and some of them take payment in more than scrip.","source_sha256":"904223fe8eec02ea223cc5817d8f761960d9c2c31af854ff181d3e883646811e"}
@@ -1556,8 +1526,6 @@
 {"passage":"Elevator_Basement_1_TestSexFight_Start","source":"Sex battles run from 8:00 to 22:00 and require a $1,000 stake.","source_sha256":"a056f1325cf47d92a9cb133b391a879b8e0aff7252cf46c641f7e57512e201bf"}
 {"passage":"Elevator_Basement_1_TestSexFight_Finish_Win","source":"You won and earned $1,000.","source_sha256":"bebb0c0bb5f866a6811e73b9ec8e86260687e8ca65964a10a092bba493ca70b5"}
 {"passage":"Elevator_Basement_1_TestSexFight_Finish_Loose","source":"You lost and forfeited $1,000.","source_sha256":"80bc26da026e928384e6518d6159f47afc23336bf35987dadf532af94dc36868"}
-{"passage":"PimpRoom","source":"Your room","source_sha256":"c63e7b2a7d649241b8f0c0b62b2696a170ad52373855f5c3533dc054e14ecc62"}
-{"passage":"BrothelCorridor_Pimp","source":"Your room","source_sha256":"c63e7b2a7d649241b8f0c0b62b2696a170ad52373855f5c3533dc054e14ecc62"}
 {"passage":"BrothelHall_Pimp","source":"You can work from 8 AM to 10 PM.","source_sha256":"fbb309b2525bea1ade2467e4a079fe139fca0002f8cd94462a3ab36a45c1f536"}
 {"passage":"BrothelEvent_PoliceRaid","source":"The police are at your door.","source_sha256":"53cbbc939f61ea9838756e35f67fd277b8fa6cd073ac3a41f0569aecea95cf6c"}
 {"passage":"BrothelEvent_PoliceRaid","source":"You have seconds to decide!","source_sha256":"e1823ae2c2881dcb61677794e3e338c4b1c61640afaf2b7467d39796df9c5945"}
@@ -1858,15 +1826,11 @@
 {"passage":"SC_PrivateRoom_Extra","source":"Straighten up and leave","source_sha256":"42256319e5ad99c49b40b6c614ced91b3c51c6430bef8881c514f3be29aad005"}
 {"passage":"SC_StripClub","source":"Watch the show ($20, 30m)","source_sha256":"64f3ed6408f2a4c503cc7a4d3f222f8f14cb6bf2f33904460bf5e27e5df72d8d"}
 {"passage":"Dealer_BuyLockpicks","source":"Your money: $ | Lockpicks in inventory:","source_sha256":"a27b1cd0a0d39c768d20b41ecafc56f293b60d8eff80b4becea543fa5f6d1cd1"}
-{"passage":"SR_SkidRow","source":"The Alleys","source_sha256":"c02d028506528198d24bdfb9ca197357fad750c641a22627b295581db97cfc81"}
-{"passage":"SR_SkidRow","source":"The Tenements","source_sha256":"213c61970147ee95d08e91d15322b12fdd56e40d8a03cdf7d93aaf99ec912313"}
 {"passage":"SR_SkidRow","source":"Work the corner","source_sha256":"7894f4d3aeac427505bf71698f047a82e18e46cab9967527620d7c0bb1ef59dc"}
 {"passage":"SR_SkidRow","source":"Go see the fixer","source_sha256":"bbefdfd62c12075dffcaef856458871edd0f0ca4d84c5d62c1359cc20b6f389d"}
 {"passage":"SR_BarRow","source":"Have a drink and listen ($8)","source_sha256":"15d02a85c1c75512fef31eb48ac352aabd15fcff91d038428c8994bdcfdfabc2"}
-{"passage":"SR_Alleys","source":"The Alleys","source_sha256":"c02d028506528198d24bdfb9ca197357fad750c641a22627b295581db97cfc81"}
 {"passage":"SR_Alleys","source":"The dead drop","source_sha256":"e435328862cd39b44abc687bc9b87ba0521258dda8df59de15ce99b727d7a1a5"}
 {"passage":"SR_Alleys","source":"Nobody hates them enough to pay right now.","source_sha256":"35499f14e467f414a2b5205da3d595a227b980ede1441bc9344823d75c2cf2e3"}
-{"passage":"SR_Tenements","source":"The Tenements","source_sha256":"213c61970147ee95d08e91d15322b12fdd56e40d8a03cdf7d93aaf99ec912313"}
 {"passage":"SR_Tenements","source":"The Cage (courtyard)","source_sha256":"511c4a7c4f4a00cd9cdaf29ab9076a8a9fe9fa44b922a0487e92806579a8ffde"}
 {"passage":"SR_Tenements","source":"Climb to the rooftops","source_sha256":"8ee0d74ac02681dfdc583d66b424e700d4656a1537620063453a240944a3d59d"}
 {"passage":"SR_Tenements","source":"Listen in the stairwell","source_sha256":"335d1be33deb965a9cc8a1deedebabb1d8ea001833855f285347f1fc88fe0e50"}
@@ -1882,7 +1846,6 @@
 {"passage":"SR_Rooftops","source":"Watch the blocks","source_sha256":"23315963f0290c9b5b98064d1329a1dcec464647241e1749ecde7231be41a560"}
 {"passage":"SR_PawnShop","source":"You have nothing the owner wants.","source_sha256":"50c75d7628b7d14ec3a3c3e0e6668a80d1aea650d5ecf74481edcb6960693659"}
 {"passage":"SR_PawnShop","source":"He buys stolen goods and guns, no questions asked.","source_sha256":"ce783a7fa307ffb638f633ea67f24fdd5ad15187e0a10aec781130a1e141bea6"}
-{"passage":"SR_PawnShop","source":"The back room","source_sha256":"9b2e115db83371693500ca74e8a4987f9b231278801c17a6b6b4bba19c3fc44a"}
 {"passage":"SR_PawnShop","source":"You owe $ .","source_sha256":"06e7c8337bf573723558958426f1efda0d850da981c8ad266dccfcc2d6b1a0ab"}
 {"passage":"SR_PawnShop","source":"You are late.","source_sha256":"24e2061972cc2b1f1dcad016c4f221d47576bcf8ea9222e4e8d8988980f776d0"}
 {"passage":"SR_PawnShop","source":"People are asking about you.","source_sha256":"946da038e19d71f2e4d6aaa719e26f7937a09aed63b840b09b9b0d6db27ad9ee"}
@@ -2116,11 +2079,9 @@
 {"passage":"Ethan_Quest_02_Start","source":"Sounds like a good time. Count me in.","source_sha256":"911bfb89b995daceb9516c7fe05bdb326cf96807591e555ededb6aa52ceb9be9"}
 {"passage":"Ethan_Quest_02_Start","source":"Sure, why not? Could be fun.","source_sha256":"f86060099653ad6595e2c3f7691c8b94b9ec906e5f3c5ce785df3b09705db53a"}
 {"passage":"Ethan_Quest_02_Start","source":"Awesome! I knew you'd be down. I'll pick you up Saturday evening. Trust me, this is going to be legendary!","source_sha256":"f26ff8fe0b6b3ad0bb8e4a6a449f75309307e65c8df413eaf53f0020ea92e577"}
-{"passage":"Ethan_Quest_02_Start","source":"Go to the party","source_sha256":"0c205c711c37153680c5fb29679a3da04e6618839d8bdd9c8d83a182ef22b0af"}
 {"passage":"Ethan_Quest_02_Reoffer","source":"The party is still planned for Saturday evening. Ethan tells you to come back after 18:00.","source_sha256":"436e1b39d8ec1270777c943d677abbb41f4237859eb01dd9f22c31b81206ba94"}
 {"passage":"Ethan_Quest_02_Reoffer","source":"Ethan perks up the moment he sees you.","source_sha256":"934d04329989de6601b8fefa3d701bd40397d2dea2889b98127c003dea3d4999"}
 {"passage":"Ethan_Quest_02_Reoffer","source":"So, the sleepover at my buddy's place is still on. Beer, food, movies - the whole deal. You coming or what?","source_sha256":"0e11908fee5022b91d196ea43a1a8f1c03318bf440d478da1521cda0d7ab608c"}
-{"passage":"Ethan_Quest_02_Reoffer","source":"Go to the party","source_sha256":"0c205c711c37153680c5fb29679a3da04e6618839d8bdd9c8d83a182ef22b0af"}
 {"passage":"Ethan_Quest_02_Arrival","source":"Saturday evening arrives. You hop into Ethan's beat-up car and race to the suburbs. The house is huge - a proper villa with a pool and plenty of rooms. Inside, there's already a crowd gathered.","source_sha256":"8637f8ecc39c23acd47f3407fb0e27565bb1b9102047d4dfeee67a3915716de5"}
 {"passage":"Ethan_Quest_02_Arrival","source":"You count eight guys total, including you and Ethan. Not a single girl in sight.","source_sha256":"3f9c50a45b3e4f4b9f82aa5ecc3c8d325844566ee5200d05b93e82c0f2f069c3"}
 {"passage":"Ethan_Quest_02_Arrival","source":"Fuck, dudes, where are the babes?","source_sha256":"80be57ad04a4c555167851b6407facbbc97ac13a8e4b9ef770c3740085acc99b"}
@@ -2265,7 +2226,6 @@
 {"passage":"Ethan_Quest_02_Repeat_Invite","source":"Hey! The guys are throwing another sleepover this weekend. Same place, same deal with the pills. You in?","source_sha256":"23f643b6f885368183e7351588320b2b1b96b2f741ffafda73ce1cc195c0e249"}
 {"passage":"Ethan_Quest_02_Repeat_Invite","source":"Another round with all those guys? I'm there.","source_sha256":"b93412ee5912cc18f457f3b47ae8523e51f65cbed4fa404f576062c95fd57ac9"}
 {"passage":"Ethan_Quest_02_Repeat_Invite","source":"Sure, why not? I had a blast last time.","source_sha256":"56894b8d762fdbc4426a01f1f90dd91f41ce224e1ae90d8eff07aa3797eac132"}
-{"passage":"Ethan_Quest_02_Repeat_Invite","source":"Go to the party","source_sha256":"0c205c711c37153680c5fb29679a3da04e6618839d8bdd9c8d83a182ef22b0af"}
 {"passage":"Ethan_Quest_02_Arrival_Repeat","source":"You hop into Ethan's car and race to the familiar villa. The guys are already gathered, and Max is waving the pack of blue pills with a grin.","source_sha256":"7fb4d72b62b2d6ae1ca288a3eb7cab296ecf72a68895989c97e96851920b6cf8"}
 {"passage":"LanaQuest1_Start","source":"You’re purchasing the most expensive car in the dealership - a sleek, luxurious supercar that costs a fortune. Behind the counter is Lana Monroe, an attractive middle-aged woman with a curvy figure, dressed in a form-fitting business suit that accentuates her curves. As she processes the paperwork, she leans in closer, her sweet perfume enveloping you. Once the deal is finalized, she flashes a playful smile.","source_sha256":"0bebe287d2a8552447113d2bf974fe08e76ef0dad0f6362c2681fbb6ac9804ed"}
 {"passage":"LanaQuest1_Start","source":"Lana Monroe looks up from the paperwork on her desk and knows you at once: the one who drove the supercar off her lot. She smooths her skirt and comes around the counter, close enough for you to catch her perfume.","source_sha256":"e0ddd5037191553512d282187d91d2afd8e1216de78634a75878852cb45ba32f"}
@@ -3202,7 +3162,6 @@
 {"passage":"MorningRecap","source":"📨 Word for you","source_sha256":"6e5dd94c0c151390772c2a7621135dd704f3688efd9c70833518858202588bc5"}
 {"passage":"MorningRecap","source":"🌙 Things stirred around town while you slept.","source_sha256":"3516babf0fe1242fb145eea973af44726775c403646f22b145d51425a2f0b6bb"}
 {"passage":"MorningRecap","source":"Start the day","source_sha256":"b9a3c67d0ae4e80da1a640a05d58e2bcafa9efd578dd7d5a9efcd1aa34c48fd6"}
-{"passage":"NightLog","source":"While you slept","source_sha256":"1369d4315cee3bf4294d8c81c448de5de0786c9b90194ddadb7035c336829f66"}
 {"passage":"NightLog","source":"The night's events","source_sha256":"8273f7a5a9fbcee90341cad62b0adde2fc1fcf83a480cd1434fa4635a228195d"}
 {"passage":"NightLog","source":"Nothing stirred around town while you slept.","source_sha256":"edc39cdac0fb8480ab0fdf40b742a465aba30e4be6370764d76cacf8cb0c5027"}
 {"passage":"NightLog","source":"Start the day ▸","source_sha256":"0f13f268a158eab42049dbf2a00d5e16d87ec3ab5575e02eb906816b5fd1a3d1"}
@@ -3304,7 +3263,6 @@
 {"passage":"Shop","source":"var container = $(this).closest('.shop-item-image-container');","source_sha256":"0d58fafe3bd0894914fc9841907dc436f0e96b07ed3158e509c59711e6eadb99"}
 {"passage":"Shop","source":"var imgHtml = container.attr('data-item-img');","source_sha256":"09a0df4b4a97a944d7f2f32f6eec6810f441460fadfd80b7ec69c334c647b0bc"}
 {"passage":"Shop","source":"var itemName = container.attr('data-item-name');","source_sha256":"932902617ad1243591ad12426c37eb9feec4db9c4475f7e6cb1ec789274dff31"}
-{"passage":"Shop","source":"💸 Not enough money","source_sha256":"1b88f5d51e47eda44cc755bdfd85eb49a54553086da0105c60dc37574301934a"}
 {"passage":"Walk_Event_Catcall","source":"As you move along the crowded street, someone in a doorway gives a sharp whistle. \"Hey-wow. You look incredible. Come say hi!\"","source_sha256":"7f2964c8bd9b0cc30c148aa7eda52f15756dc7864f6e056429e7e689f6b32105"}
 {"passage":"Walk_Event_Catcall","source":"Back off. I'm not your toy.","source_sha256":"46dd87b05701df5f138607b86d6c2a4aabe208b20e4149952f65c2d7dfd2f530"}
 {"passage":"Walk_Event_Catcall","source":"What's your problem? Knock it off.","source_sha256":"d5733864c3eded9a15c8f906c182ab862f4a72b40ef692c4a90cde64c4bf99c2"}

@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 60,
+    "version": 61,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -2841,7 +2841,27 @@
     "← That won't be necessary": "← В этом нет необходимости",
     "You don't have enough money.": "У тебя недостаточно денег.",
     "Not today": "Не сегодня",
-    "I think you're right.": "Думаю, ты прав(а)."
+    "I think you're right.": "Думаю, ты прав(а).",
+    "Catch your breath": "Переведи дыхание",
+    "End the relationship": "Разорвать отношения",
+    "Not now": "Не сейчас",
+    "The back room": "Подсобка",
+    "💸 Not enough money": "💸 Недостаточно денег",
+    "Your Bedroom": "Твоя спальня",
+    "While you slept": "За время сна",
+    "Excellent. Come to me when you want to work.": "Отлично. Приходи, когда захочешь поработать.",
+    "That was... nice.": "Это было... приятно.",
+    "Get dressed and go": "Оденься и уходи",
+    "Leave the mall": "Уйти из торгового центра",
+    "Go to the party": "Иди на вечеринку",
+    "The Day Room": "Комната отдыха",
+    "The Dead Angle": "Слепая зона",
+    "Face the day": "Встреть новый день",
+    "Your room": "Твоя комната",
+    "The Alleys": "Переулки",
+    "The Tenements": "Доходные дома",
+    "Send a messenger: ask for peace": "Отправить посланника с предложением мира",
+    "Let him call the police": "Позволить ему вызвать полицию"
   },
   "scoped": [
     {
