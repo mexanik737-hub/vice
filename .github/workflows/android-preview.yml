@@ -1,0 +1,57 @@
+name: Android preview APK
+
+on:
+  push:
+    branches: [codex/viceburg-project]
+    paths:
+      - 'android/**'
+      - 'localization/**'
+      - 'tools/**'
+      - 'upstream/**'
+      - 'tests/**'
+      - '.github/workflows/android-preview.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build-preview:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - uses: android-actions/setup-android@v4
+      - uses: gradle/actions/setup-gradle@v6
+        with:
+          gradle-version: '8.9'
+      - name: Build localized game HTML
+        run: python tools/build_game.py
+      - name: Static project tests
+        run: python -m unittest discover -s tests -v
+      - name: Localization runtime tests
+        run: node tests/test_localization_runtime.cjs
+      - name: Dynamic media selector tests
+        run: node tests/test_media_runtime.cjs
+      - name: Cheat editor tests
+        run: node tests/test_cheats_runtime.cjs
+      - name: Install Android SDK packages
+        run: sdkmanager 'platforms;android-35' 'build-tools;35.0.0'
+      - name: Build debug APK
+        run: gradle --no-daemon :app:assembleDebug
+        working-directory: android
+      - uses: actions/upload-artifact@v4
+        with:
+          name: viceburg-intermediate-debug-apk
+          path: android/app/build/outputs/apk/debug/app-debug.apk
+          if-no-files-found: error
+          retention-days: 30

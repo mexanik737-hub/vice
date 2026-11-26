@@ -1,0 +1,342 @@
+{
+  "source": "upstream/original/viceburg_mod_clean.html",
+  "source_sha256": "194e76ade24891c7cbed1f6798a605ddadde0f352cc3e3d567e30fb010e2d13c",
+  "updated": "2026-11-27",
+  "phases": [
+    {
+      "id": "L0",
+      "name": "Структура и инвентаризация",
+      "status": "done",
+      "coverage": null,
+      "notes": "Инвентаризация после расширения извлекателя: 1 486 passages, 5959 строк-кандидатов; включает ложные срабатывания и пропуски."
+    },
+    {
+      "id": "L1",
+      "name": "Интерфейс и системные меню",
+      "status": "in_progress",
+      "coverage": null,
+      "notes": "Каталог содержит 3220 точных фраз, 203 контекстных правила и 24 шаблона; системный интерфейс и игровые сцены локализованы частично."
+    },
+    {
+      "id": "L2",
+      "name": "Игровые механики и предметы",
+      "status": "in_progress",
+      "coverage": null,
+      "notes": "Переведены отдельные квестовые подсказки, интерфейс комиссии по УДО и 12 статических строк взаимодействия BDSM_LeashPlay; большинство заданий остаются английскими."
+    },
+    {
+      "id": "L3",
+      "name": "Задания и события",
+      "status": "in_progress",
+      "coverage": null,
+      "notes": "Переведены отдельные сцены второй главы, тюремные события и взаимодействия; основная часть сюжетных сцен остаётся без перевода."
+    },
+    {
+      "id": "L4",
+      "name": "Диалоги",
+      "status": "in_progress",
+      "coverage": null,
+      "notes": "Переведены 223 реплики взаимодействий NPC и 112 строк сюжетных сцен Маркуса, Корвина, Сары, Алисы и разговоров Роберта с Амандой; большая часть сюжетных веток остаётся неполной."
+    },
+    {
+      "id": "L5",
+      "name": "Регрессия локализации",
+      "status": "in_progress",
+      "coverage": null,
+      "notes": "Локально пройдены 9 Python-тестов и Node-проверка каталога; APK-сборка run #118 успешна. Проверка редактора читов на физическом Android-устройстве ещё не проводилась."
+    }
+  ],
+  "limitations": [
+    "Полная русификация ещё не завершена; значительная часть пользовательских реплик и описаний осталась на английском.",
+    "В инвентаре 2928 из 5634 уникальных строк-кандидатов не сопоставлены с точной фразой каталога (48.0% точных совпадений). Это не полная доля перевода: контекстные правила/шаблоны и ложные срабатывания инвентаризатора не учитываются.",
+    "Текст длинных реплик и динамические данные требуют отдельной проверки по фактическому DOM; Android WebView не проверен на устройстве.",
+    "The debug APK is built by GitHub Actions. The compact in-game tools card, Media picker, save import/export, and original media playback still require on-device verification; signed release is skipped for pull_request."
+  ],
+  "inventory": {
+    "source": "upstream/original/viceburg_mod_clean.html",
+    "sha256": "ab416eb83ed23508b7e91c9bada18d9d3a515666c56734142e9b11f8e8a72c32",
+    "passages": 1486,
+    "candidate_rows": 5959,
+    "passages_with_candidates": 1017,
+    "top_passages": [
+      [
+        "FAQDialog",
+        463
+      ],
+      [
+        "Ch2_NightScene",
+        155
+      ],
+      [
+        "Options",
+        63
+      ],
+      [
+        "Prison_Inmate",
+        51
+      ],
+      [
+        "Ship_NpcInteract",
+        49
+      ],
+      [
+        "PlayerCreate",
+        46
+      ],
+      [
+        "Ethan_Quest_01_End_Sissy",
+        42
+      ],
+      [
+        "enhanced_interaction_system",
+        40
+      ],
+      [
+        "Amanda_Picnic_Quest_Start",
+        36
+      ],
+      [
+        "BrothelWorker_StatsHelp",
+        32
+      ],
+      [
+        "Ch2_NightBed",
+        32
+      ],
+      [
+        "Sarah_Quest_01_End_Female",
+        30
+      ],
+      [
+        "Widgets",
+        30
+      ],
+      [
+        "enhanced_interaction_discussFeminization",
+        29
+      ],
+      [
+        "Tess_Quest1_Flirt",
+        29
+      ],
+      [
+        "DamienFirstMeet",
+        27
+      ],
+      [
+        "Marcus_Quest1_Flirt",
+        27
+      ],
+      [
+        "SolanaShoot_Scene",
+        26
+      ],
+      [
+        "enhanced_relationship_initiative",
+        25
+      ],
+      [
+        "GangBases",
+        25
+      ]
+    ],
+    "warning": "Conservative candidate extraction; includes false positives and misses dynamically composed/code-generated strings. Review before translation."
+  },
+  "catalog": {
+    "exact_phrase_count": 3220,
+    "dynamic_template_count": 24,
+    "coverage_percent": null,
+    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 2706/5634 (48.0%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
+    "context_rule_count": 203,
+    "candidate_exact_matches": 2706,
+    "candidate_unique_strings": 5634,
+    "candidate_match_percent": 48.0,
+    "faq_candidate_strings": 463,
+    "faq_candidate_translated": 463,
+    "npc_interaction_candidate_strings": 49,
+    "npc_interaction_candidate_translated": 48,
+    "untranslated_candidate_rows": 3070,
+    "untranslated_unique_strings": 2928,
+    "top_untranslated_passages": [
+      [
+        "Options",
+        57
+      ],
+      [
+        "PlayerCreate",
+        40
+      ],
+      [
+        "PlayerAppearance",
+        22
+      ],
+      [
+        "Inventory",
+        20
+      ],
+      [
+        "Start",
+        16
+      ],
+      [
+        "Widgets",
+        14
+      ],
+      [
+        "CharacterWearingDraw",
+        14
+      ],
+      [
+        "StatsSettings",
+        13
+      ],
+      [
+        "Prison_OtherBlock",
+        12
+      ],
+      [
+        "BrothelCasting_Haggle",
+        12
+      ],
+      [
+        "Marcus_Quest1_Dinner",
+        12
+      ],
+      [
+        "AvailableQuests",
+        12
+      ],
+      [
+        "NpcClothingManagerWidgets",
+        12
+      ],
+      [
+        "EmergencyReturnDialog",
+        12
+      ],
+      [
+        "GangBossWidgets",
+        11
+      ],
+      [
+        "Prison_YardCornered",
+        11
+      ],
+      [
+        "Prison_BenchOff",
+        11
+      ],
+      [
+        "Prison_EscapeAttempt",
+        11
+      ],
+      [
+        "Prison_Commissary",
+        11
+      ],
+      [
+        "Prison_Parole",
+        11
+      ]
+    ]
+  },
+  "testing": {
+    "python_static_tests": "9 passed (2026-11-26; cheat editor data/range and NPC cooldown regression checks included)",
+    "node_localization_runtime": "passed (named placeholders, value maps, uncensored dialogue)",
+    "android_build": "GitHub Actions run #118 succeeded with debug APK (4,070,939 bytes; artifact expires 2026-12-26 21:19 MSK). Signed release is skipped for pull_request; device interaction remains unverified.",
+    "device_saf_media_save_roundtrip": "not_run: no Samsung Android 17 device",
+    "synthetic_media_metadata": "passed: JPEG, WebM VP8/Vorbis, WAV PCM inspected with ffprobe",
+    "desktop_webview_smoke": "not_run: Chromium launcher exists but system binary is missing",
+    "translation_status": "incomplete: 2706/5634 unique extracted candidates matched (48.0%); extractor is approximate",
+    "startup_performance_fix": "implemented: initial localization only scans live game containers; mutations batched via requestAnimationFrame",
+    "media_path_audit": "passed statically: img/video/background/audio calls traced; device media playback not run",
+    "saf_mime_fallback": "implemented and statically checked for generic application/octet-stream responses",
+    "android_app_tools": "implemented: native toolbar removed; compact tools card appears on Start and in the character editor/cheat dialog; device interaction not verified"
+  },
+  "translated_unique_strings": 2706,
+  "untranslated_rows": 3070,
+  "untranslated_unique_strings": 2928,
+  "exact_match_percent": 48.0,
+  "top_untranslated_passages": [
+    [
+      "Options",
+      57
+    ],
+    [
+      "PlayerCreate",
+      40
+    ],
+    [
+      "PlayerAppearance",
+      22
+    ],
+    [
+      "Inventory",
+      20
+    ],
+    [
+      "Start",
+      16
+    ],
+    [
+      "Widgets",
+      14
+    ],
+    [
+      "CharacterWearingDraw",
+      14
+    ],
+    [
+      "StatsSettings",
+      13
+    ],
+    [
+      "Prison_OtherBlock",
+      12
+    ],
+    [
+      "BrothelCasting_Haggle",
+      12
+    ],
+    [
+      "Marcus_Quest1_Dinner",
+      12
+    ],
+    [
+      "AvailableQuests",
+      12
+    ],
+    [
+      "NpcClothingManagerWidgets",
+      12
+    ],
+    [
+      "EmergencyReturnDialog",
+      12
+    ],
+    [
+      "GangBossWidgets",
+      11
+    ],
+    [
+      "Prison_YardCornered",
+      11
+    ],
+    [
+      "Prison_BenchOff",
+      11
+    ],
+    [
+      "Prison_EscapeAttempt",
+      11
+    ],
+    [
+      "Prison_Commissary",
+      11
+    ],
+    [
+      "Prison_Parole",
+      11
+    ]
+  ]
+}

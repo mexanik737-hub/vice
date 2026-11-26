@@ -1,0 +1,11 @@
+**/build/
+.gradle/
+*.keystore
+*.jks
+local.properties
+__pycache__/
+.DS_Store
+android/app/src/main/assets/game/index.html
+/Media/
+upstream/original/Media/
+android/app/src/main/assets/game/Media/
