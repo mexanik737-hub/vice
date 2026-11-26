@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 73,
+    "version": 74,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -3055,7 +3055,19 @@
     "You really want to help? That's... incredibly kind of you! 🙏": "Ты правда хочешь помочь? Это... невероятно мило с твоей стороны! 🙏",
     "No thanks, I can manage myself. I don't need help!": "Нет, спасибо, я справлюсь сам(а). Мне не нужна помощь!",
     "Really? That would be great! Thanks!": "Правда? Это было бы здорово! Спасибо!",
-    "Thanks for offering, but I'll manage on my own.": "Спасибо за предложение, но я справлюсь сам(а)."
+    "Thanks for offering, but I'll manage on my own.": "Спасибо за предложение, но я справлюсь сам(а).",
+    "Of course! I feel like we really click! Let's be great friends! 🤝": "Конечно! Кажется, мы отлично ладим! Давай станем хорошими друзьями! 🤝",
+    "Friends? With you? I don't think so.": "Друзья? С тобой? Не думаю.",
+    "Sure, I'd like that! We can be friends.": "Конечно, я не против! Давай дружить.",
+    "Let's keep getting to know each other first, okay?": "Давай сначала узнаем друг друга получше, хорошо?",
+    "Best friends? You're already my best friend! BFF forever! 💖": "Лучшие друзья? Ты уже мой лучший друг! Навсегда! 💖",
+    "Best friends? That's a bit much... I don't feel that close to you.": "Лучшие друзья? Это слишком... Я пока не чувствую такой близости.",
+    "Yeah! We are pretty close, aren't we? Best friends it is!": "Да! Мы ведь так близки, правда? Тогда будем лучшими друзьями!",
+    "I really like you, but... I'm not ready for that level of commitment yet.": "Ты мне очень нравишься, но... Я пока не готов(а) к такой близости.",
+    "Really?! I... I've been feeling the same way! I'm so happy! 💕": "Правда?! Я... Чувствую то же самое! Я так счастлив(а)! 💕",
+    "What? No... I don't see you that way at all. This is awkward...": "Что? Нет... Я совсем не воспринимаю тебя так. Как неловко...",
+    "I... I think I might feel something too. Let's see where this goes...": "Я... Кажется, тоже что-то чувствую. Посмотрим, к чему это приведёт...",
+    "That's sweet, but... I think we're better as friends.": "Это мило, но... Думаю, нам лучше остаться друзьями."
   },
   "scoped": [
     {
