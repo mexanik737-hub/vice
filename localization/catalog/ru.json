@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 76,
+    "version": 77,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -3093,7 +3093,14 @@
     "I wish I had siblings to talk about, but I don't. Maybe that's why I value my friends so much.": "Хотел(а) бы я рассказать о братьях или сёстрах, но их нет. Может, поэтому я так ценю друзей.",
     "I don't really want to get into the sibling stuff right now.": "Сейчас мне не очень хочется говорить о братьях и сёстрах.",
     "We have our issues... I'd rather not talk about it.": "У нас есть свои проблемы... Я бы предпочёл(ла) об этом не говорить.",
-    "Siblings can be complicated. Let's just leave it at that.": "С братьями и сёстрами бывает непросто. Давай на этом остановимся."
+    "Siblings can be complicated. Let's just leave it at that.": "С братьями и сёстрами бывает непросто. Давай на этом остановимся.",
+    "What would you like to share?": "Чем бы вы хотели заняться вместе?",
+    "Choose an activity and a time.": "Выберите занятие и время.",
+    "Fixed evenings fall tomorrow and three days later.": "Плановые вечера назначаются на завтра и через три дня.",
+    "Flexible planning looks for two dates from today through the next seven days, allowing for travel, work and rest.": "Гибкий график подбирает две даты в течение ближайших семи дней, учитывая поездки, работу и отдых.",
+    "You are not currently sharing a home.": "Сейчас вы не живёте вместе.",
+    "Cancel the remaining dates and rethink the plan": "Отменить оставшиеся встречи и пересмотреть план.",
+    "Talk about the plan when you are both free at home.": "Обсудить план, когда вы оба будете свободны дома."
   },
   "scoped": [
     {
@@ -4218,6 +4225,10 @@
     {
       "source": "I'm serious, {{name}}. You've been there for me through thick and thin. This console, the kiss… they're just things. It's the thought behind them that counts. I'm here for you, man. Anytime, anywhere.",
       "target": "Я серьёзно, {{name}}. Ты всегда был рядом, что бы ни случилось. Приставка и поцелуй — всего лишь вещи. Главное — что за ними стоит. Я всегда рядом, дружище."
+    },
+    {
+      "source": "Your familiar routine: {{routine}}. Next dates: {{dates}}.",
+      "target": "Ваш привычный распорядок: {{routine}}. Ближайшие даты: {{dates}}."
     }
   ]
 }
