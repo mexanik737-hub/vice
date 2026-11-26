@@ -43,14 +43,14 @@
       "name": "Регрессия локализации",
       "status": "in_progress",
       "coverage": null,
-      "notes": "Проверка синхронизации счётчиков после исправления выполняется в текущем GitHub Actions запуске. Android, SAF, кодеки и импорт/экспорт на устройстве ещё не проверены."
+      "notes": "Статические Python-проверки (8 тестов), Node-проверка словаря и сборка debug APK прошли в GitHub Actions run #104. Android, SAF, кодеки и импорт/экспорт ещё требуют проверки на устройстве."
     }
   ],
   "limitations": [
     "Полная русификация ещё не завершена; значительная часть пользовательских реплик и описаний осталась на английском.",
     "В инвентаре 3281 из 5634 уникальных строк-кандидатов не сопоставлены с точной фразой каталога (41.8% точных совпадений). Это не полная доля перевода: контекстные правила/шаблоны и ложные срабатывания инвентаризатора не учитываются.",
     "Текст длинных реплик и динамические данные требуют отдельной проверки по фактическому DOM; Android WebView не проверен на устройстве.",
-    "Debug APK built by GitHub Actions run #92. The compact in-game tools card, Media picker, save import/export, and original media playback still require on-device verification; signed release is skipped for pull_request."
+    "Debug APK built by GitHub Actions run #104. The compact in-game tools card, Media picker, save import/export, and original media playback still require on-device verification; signed release is skipped for pull_request."
   ],
   "inventory": {
     "source": "upstream/original/viceburg_mod_clean.html",
