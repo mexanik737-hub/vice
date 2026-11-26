@@ -450,21 +450,8 @@
 {"passage":"enhanced_interaction_init_tips","source":"getTips: function(id) { return setup.getImprovementTips(player, npc, id); },","source_sha256":"ebbbba4c05357dc7eae778112f933c439d3b9333ecdf6c1f792d99c606dd5cb6"}
 {"passage":"enhanced_interaction_init_tips","source":"getCost: function(id) { return setup.getInteractionDefinition(id); }","source_sha256":"21a69bb57e1e79399b35dc4a957e41bb1901f2906cab5dbf443033e567238c7c"}
 {"passage":"enhanced_interaction_inviteBDSM","source":"I've got something special in mind... Would you be interested in a more... intense experience? I know a place where we could explore some boundaries together.","source_sha256":"4f1120b1e219f560fd2733203ff507645802ba71693b1ff2f7456e6237f92b5b"}
-{"passage":"enhanced_relationship_occasions","source":"There are no occasions to arrange right now.","source_sha256":"ef53b411dc1245e078da10bef5d37548f8e1447259a2d8770ea035c93b2c447f"}
-{"passage":"enhanced_relationship_occasions","source":"Shared milestones become occasions after 7, 30, 100 and 365 days; planning opens two days before.","source_sha256":"4486d524bbce1899fabf0aea5c737e2ccc514e6c221f118511818ef0a66427f6"}
-{"passage":"enhanced_relationship_occasions","source":"You celebrated this occasion together.","source_sha256":"1c25e16d861495da6b02888ed6eae11a64ca2f2d459e73790ab1e1a3ecac06c9"}
-{"passage":"enhanced_relationship_occasions","source":"Your partner wants to rest first.","source_sha256":"11e0223cc6cd3c44769cb8d2a65aa9065c37734f0243f7fa2d94c8a4510d030c"}
 {"passage":"enhanced_relationship_occasions","source":"Revisit the invitation after .","source_sha256":"1e57702372062288b594fe0ff13fa6861224cb3ace127bce23d3011dda564893"}
-{"passage":"enhanced_relationship_occasions","source":"The invitation has been set aside.","source_sha256":"e23232141681d5e247c70a21fb28d77df769233ad94f3eb83f441464dc436cea"}
-{"passage":"enhanced_relationship_occasions","source":"Give it a day before raising it again.","source_sha256":"5fc6a577643b232cb93bd94ae8c8a99ca077ab2fa985e1dcdc647d97854fcd14"}
-{"passage":"enhanced_relationship_occasions","source":"There is no longer time to arrange this occasion.","source_sha256":"3dc767149f935cd1d40a59fa9d4846001c74b45096c42fd4f656a8d55f149fe9"}
-{"passage":"enhanced_relationship_occasions","source":"You may bring a gift you already own.","source_sha256":"03f082de5fcf2e5a80666445de7d65ab4007300667a00d11f89e7b061f5ce940"}
-{"passage":"enhanced_relationship_occasions","source":"It is optional and stays in your inventory until accepted.","source_sha256":"b10ef9096a979a021becbac08147058f5b89cd36a95eecb6a939ad51f901790b"}
-{"passage":"enhanced_relationship_occasions","source":"You have no suitable gift in your inventory.","source_sha256":"77811e33c3c889bd098cef29e3fe8f4b2d4bafb6d4e46aecade8dc9f574a9498"}
-{"passage":"enhanced_relationship_occasions","source":"Choose the celebration date","source_sha256":"d6c3f088708d7da632fc96387c8f22e3a59b666c87e53dcfcdd0ce1a24889354"}
-{"passage":"enhanced_relationship_occasions","source":"Review or cancel the outing","source_sha256":"67fe427f35f9c8630eba00363a871c9a677ba8616fa03ad1030df9481d55f069"}
 {"passage":"enhanced_relationship_occasions","source":"enhanced_relationship_date_cancellation","source_sha256":"0e1b1aec73156d723568f60149d179bb2d9e7e5c470e580768609fd87a187953"}
-{"passage":"enhanced_relationship_occasions","source":"Leave this invitation for another day","source_sha256":"b77e2f8fa42faf3ab221ca9c36a72e2abe6d8725cf5a980b77b171ffd83e5a08"}
 {"passage":"enhanced_relationship_occasion_time","source":"The occasion ·","source_sha256":"a6e5a807b1a4b07461ea739545c577c6d11efa53b0335b410e97279eef9b0f5b"}
 {"passage":"enhanced_relationship_occasion_time","source":"Choose a time on or within seven days after .","source_sha256":"9a7ffe3c6ce6a33e83d67b0b1b56d1da308fd05665ca296ee693d6d82e5ecaaf"}
 {"passage":"enhanced_relationship_occasion_time","source":"Arrange the celebration","source_sha256":"f62c8be58a6fb5659f2d3a2ebeca6b2eede013798841a4103e1ee6522f7954f7"}

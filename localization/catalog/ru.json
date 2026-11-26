@@ -2607,7 +2607,24 @@
     "You agreed to rest until morning.": "Вы договорились отдохнуть до утра.",
     "You can still end the visit here.": "Ты всё ещё можешь завершить визит.",
     "What would you like to do?": "Чем займётесь?",
-    "Return to your location": "Вернуться к себе"
+    "Return to your location": "Вернуться к себе",
+    "There are no occasions to arrange right now.": "Сейчас нечего планировать.",
+    "Shared milestones become occasions after 7, 30, 100 and 365 days; planning opens two days before.": "Общие даты становятся поводом для праздника через 7, 30, 100 и 365 дней; спланировать его можно за два дня.",
+    "You celebrated this occasion together.": "Вы вместе отметили этот праздник.",
+    "Your partner wants to rest first.": "Партнёр хочет сначала отдохнуть.",
+    "Revisit the invitation after": "Вернись к приглашению через",
+    "The invitation has been set aside.": "Приглашение пока отложено.",
+    "Give it a day before raising it again.": "Подожди день, прежде чем снова предложить это.",
+    "There is no longer time to arrange this occasion.": "Уже не успеть подготовить это событие.",
+    "You may bring a gift you already own.": "Можно подарить вещь из своего инвентаря.",
+    "It is optional and stays in your inventory until accepted.": "Это необязательно; подарок останется у тебя, пока его не примут.",
+    "You have no suitable gift in your inventory.": "В инвентаре нет подходящего подарка.",
+    "Choose the celebration date": "Выбрать дату праздника",
+    "Review or cancel the outing": "Проверить планы или отменить встречу",
+    "Leave this invitation for another day": "Отложить приглашение на другой день",
+    "Accept their suggestion": "Принять предложение",
+    "Celebrate without a gift": "Отметить без подарка",
+    "Our history": "Наша история"
   },
   "scoped": [
     {
