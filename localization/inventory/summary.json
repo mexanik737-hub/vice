@@ -88,20 +88,20 @@
   ],
   "warning": "Conservative candidate extraction; includes false positives and misses dynamically composed/code-generated strings. Review before translation.",
   "catalog": {
-    "exact_phrase_count": 2823,
+    "exact_phrase_count": 2827,
     "dynamic_template_count": 23,
     "coverage_percent": null,
-    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 2319/5634 (41.2%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
+    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 2323/5634 (41.2%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
     "context_rule_count": 203,
-    "candidate_exact_matches": 2319,
+    "candidate_exact_matches": 2323,
     "candidate_unique_strings": 5634,
     "candidate_match_percent": 41.2,
     "faq_candidate_strings": 463,
     "faq_candidate_translated": 463,
     "npc_interaction_candidate_strings": 49,
     "npc_interaction_candidate_translated": 48,
-    "untranslated_candidate_rows": 3521,
-    "untranslated_unique_strings": 3315,
+    "untranslated_candidate_rows": 3515,
+    "untranslated_unique_strings": 3311,
     "top_untranslated_passages": [
       [
         "Options",
@@ -120,19 +120,15 @@
         20
       ],
       [
-        "CharacterWearingDraw",
-        16
-      ],
-      [
         "Start",
         16
       ],
       [
-        "Marcus_Quest2_Intervene_Win_Accept",
+        "SarahQuest_2_Female_Gary_apartment",
         15
       ],
       [
-        "SarahQuest_2_Female_Gary_apartment",
+        "Marcus_Quest2_Intervene_Win_Accept",
         15
       ],
       [
@@ -148,6 +144,10 @@
         14
       ],
       [
+        "CharacterWearingDraw",
+        14
+      ],
+      [
         "BDSM_LeashPlay",
         13
       ],
@@ -160,15 +160,19 @@
         13
       ],
       [
-        "AliceQuest1_Start_Trans_Sub",
-        12
-      ],
-      [
         "Amanda_Picnic_Event",
         12
       ],
       [
-        "AvailableQuests",
+        "GangBossWidgets",
+        12
+      ],
+      [
+        "Prison_YardCornered",
+        12
+      ],
+      [
+        "Prison_OtherBlock",
         12
       ],
       [
@@ -176,19 +180,15 @@
         12
       ],
       [
-        "EmergencyReturnDialog",
-        12
-      ],
-      [
-        "GangBossWidgets",
+        "AliceQuest1_Start_Trans_Sub",
         12
       ]
     ]
   },
   "updated": "2026-11-26",
-  "untranslated_rows": 3521,
-  "untranslated_unique_strings": 3315,
-  "translated_unique_strings": 2319,
+  "untranslated_rows": 3515,
+  "untranslated_unique_strings": 3311,
+  "translated_unique_strings": 2323,
   "exact_match_percent": 41.2,
   "top_untranslated_passages": [
     [
@@ -208,19 +208,15 @@
       20
     ],
     [
-      "CharacterWearingDraw",
-      16
-    ],
-    [
       "Start",
       16
     ],
     [
-      "Marcus_Quest2_Intervene_Win_Accept",
+      "SarahQuest_2_Female_Gary_apartment",
       15
     ],
     [
-      "SarahQuest_2_Female_Gary_apartment",
+      "Marcus_Quest2_Intervene_Win_Accept",
       15
     ],
     [
@@ -236,6 +232,10 @@
       14
     ],
     [
+      "CharacterWearingDraw",
+      14
+    ],
+    [
       "BDSM_LeashPlay",
       13
     ],
@@ -248,15 +248,19 @@
       13
     ],
     [
-      "AliceQuest1_Start_Trans_Sub",
-      12
-    ],
-    [
       "Amanda_Picnic_Event",
       12
     ],
     [
-      "AvailableQuests",
+      "GangBossWidgets",
+      12
+    ],
+    [
+      "Prison_YardCornered",
+      12
+    ],
+    [
+      "Prison_OtherBlock",
       12
     ],
     [
@@ -264,11 +268,7 @@
       12
     ],
     [
-      "EmergencyReturnDialog",
-      12
-    ],
-    [
-      "GangBossWidgets",
+      "AliceQuest1_Start_Trans_Sub",
       12
     ]
   ]
