@@ -1325,20 +1325,13 @@
 {"passage":"Ship_ECardMatch","source":"you take the game (+ ) they take the game (- ) both Citizens - the round is a wash, play on","source_sha256":"03978cc539504a52b4f525e70dba3aa15358c7f505f8c8179b8884e082dbbce4"}
 {"passage":"Ship_ECardMatch","source":"You leave the Empress table up chips.","source_sha256":"0c93f22a2e6f3ae5337354ce2408f4dd68286455a0cbf163874d26305a403ee4"}
 {"passage":"Ship_ECardMatch","source":"You leave the Empress table down chips.","source_sha256":"93de4fe61a1b8d3cb117ba4a8269f5f1bdd956254930ca5fd4de256fde85c47e"}
-{"passage":"Ship_ECardMatch","source":"You break even at the Empress table.","source_sha256":"4e421c68934a8d2a460a09013d972f17f4338a19de87e25f42e3884ef1f15d99"}
-{"passage":"Ship_ECardMatch","source":"Set the stake","source_sha256":"0e205eca8d0467275288fa6841f5690345537a57e74385907547e5d08ed49f82"}
-{"passage":"Ship_ECardMatch","source":"Leave the table","source_sha256":"1fe6c8f7fb9604a0fde92d70907ceb7a4762641271c132c7bfe845e94afb2295"}
-{"passage":"Ship_ECardMatch","source":"Deal the next game","source_sha256":"1338428b3d2f3f404c236512b15c1fcb0378208093937667511d2d82f058a422"}
-{"passage":"Ship_ECardMatch","source":"Cash out and leave","source_sha256":"c562d11108b9d5d6205400e8f2620354c0877e0254f9e28450e50b2548b6a483"}
 {"passage":"Ship_AllInMatch","source":"Three dice, one throw, winner takes all - you vs","source_sha256":"25552276e31fe8b1be3f4d60967ccfea388e8ee9298bd4d2710664d0f4f132e8"}
 {"passage":"Ship_AllInMatch","source":"Pinzoro (1-1-1) > any triple > 4-5-6 > a pair's odd die > 1-2-3 > no combo.","source_sha256":"6c5830edccb5dc684b4a06b00180b660a33dbf725bdbfa7ce7fe092a9063f8ed"}
 {"passage":"Ship_AllInMatch","source":"You ·","source_sha256":"b5ed973d144ec74690d9cca243da62b1e1b151c70cbd912ce7c1d62a317d36b2"}
 {"passage":"Ship_AllInMatch","source":"you take the pot (+ ) they take the pot (- ) a push - stakes return","source_sha256":"53b6da2dd870062f7bad6b9223766f92527b462c944445b4c53027d1703fdb13"}
-{"passage":"Ship_AllInMatch","source":"Set the stake","source_sha256":"0e205eca8d0467275288fa6841f5690345537a57e74385907547e5d08ed49f82"}
 {"passage":"Ship_AllInMatch","source":"Your opponent is tapped out.","source_sha256":"0ece23c13265dd2a9f59a0c7cc27b105a00acde173923060138f9c21a931dd4c"}
 {"passage":"Ship_AllInMatch","source":"You are out of chips to cover the stake.","source_sha256":"0c29e88589a15fd9d4649111aaa361c3b39ffbee10cf52438ed655a2703e17ed"}
 {"passage":"Ship_AllInMatch","source":"Throw the dice","source_sha256":"d1d75b189a475ff8a636a69c8a1cdd97b6fef0d5466bd17cfbb29b7f4328c8af"}
-{"passage":"Ship_AllInMatch","source":"Leave the table","source_sha256":"1fe6c8f7fb9604a0fde92d70907ceb7a4762641271c132c7bfe845e94afb2295"}
 {"passage":"Ship_EnduranceMatch","source":"Hold out longer than - first to break loses","source_sha256":"e6749e72be17c859ac984a72d3f363db68bba42a8e732dde75a61fa2ca99993d"}
 {"passage":"Ship_EnduranceMatch","source":"You","source_sha256":"08b041935798fbf6fd6ff51099ffedb140a475889986d14f5559ff8e7fc571dd"}
 {"passage":"Ship_EnduranceMatch","source":"The cage bites with every breath - you strain harder to hold the edge.","source_sha256":"07199a848db392581ab6039f1d70c2a9db90857d859d162bc3c1aff3df184690"}
@@ -1346,7 +1339,6 @@
 {"passage":"Ship_EnduranceMatch","source":"They break first - you take the pot (+ ).","source_sha256":"e3a24e3369d6d3a42e672ba4cb948516f189bfec2c4d727ff4331c45784fb051"}
 {"passage":"Ship_EnduranceMatch","source":"You break first.","source_sha256":"46896ab50c9cf3ba6c17ca7ed647c39abf405690effbe88e235a923e3b0ddb12"}
 {"passage":"Ship_EnduranceMatch","source":"The pot is theirs (- ).","source_sha256":"392b6bf6e71887a463397eb04a9ebd343fd7753cc8e03bdfc1b73f602ae07c64"}
-{"passage":"Ship_EnduranceMatch","source":"Leave the table","source_sha256":"1fe6c8f7fb9604a0fde92d70907ceb7a4762641271c132c7bfe845e94afb2295"}
 {"passage":"Ship_EnduranceMatch","source":"Yield the duel (forfeit the stake)","source_sha256":"4696e964d9d88fcd77ce9113961f9c80823c4d77498c44b5004c6361238ada28"}
 {"passage":"Ship_Labyrinth","source":"A wet stake rides the maze like money: climb out and the house pays its worth, drown and the crew collects it below, in person, on the plates.","source_sha256":"ed4a06794bb9bd01588794b2ccd326da0da58294abe7996b510cbc8788910228"}
 {"passage":"Ship_Labyrinth","source":"Your one catch is spent One catch in your hands yet","source_sha256":"caadaf09380b5563b19ce99be56e29d1df9a70ca1eaef58c3e4a05d84a765caf"}

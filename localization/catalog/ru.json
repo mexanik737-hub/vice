@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 47,
+    "version": 48,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -2409,7 +2409,13 @@
     "Your current Lockpick skill: /": "Твой текущий навык взлома:",
     "Watch the ring carefully - it changes color as it enters different zones": "Следи за кольцом: при переходе между зонами оно меняет цвет.",
     "Click anywhere on the circle area when you think the ring is in the green zone": "Нажми в любом месте круга, когда кольцо окажется в зелёной зоне.",
-    "If you fail, you lose one lockpick - stock up before attempting!": "При неудаче ты теряешь отмычку — запасись ими перед попыткой!"
+    "If you fail, you lose one lockpick - stock up before attempting!": "При неудаче ты теряешь отмычку — запасись ими перед попыткой!",
+    "The Empress Table": "Стол «Императрица»",
+    "Set the stake": "Выбери ставку",
+    "Leave the table": "Покинуть стол",
+    "Deal the next game": "Сдать следующую игру",
+    "Cash out and leave": "Забрать выигрыш и уйти",
+    "You break even at the Empress table.": "Ты остаёшься при своих за столом «Императрица»."
   },
   "scoped": [
     {
@@ -3161,6 +3167,106 @@
       "selector": ".lockpick-tutorial-list li",
       "source": "green and yellow zones",
       "target": "зелёная и жёлтая зоны"
+    },
+    {
+      "selector": ".rps-vs",
+      "source": "· Game",
+      "target": "· Игра"
+    },
+    {
+      "selector": ".rps-bet",
+      "source": "You hold the",
+      "target": "Ты играешь за"
+    },
+    {
+      "selector": ".rps-bet",
+      "source": "· Round",
+      "target": "· Раунд"
+    },
+    {
+      "selector": ".rps-bet",
+      "source": "· Won",
+      "target": "· Побед"
+    },
+    {
+      "selector": ".rps-bet",
+      "source": "/ Lost",
+      "target": "/ поражений"
+    },
+    {
+      "selector": ".ecard-choice__name",
+      "source": "Citizen",
+      "target": "Гражданин"
+    },
+    {
+      "selector": ".ecard-choice__kind",
+      "source": "Common",
+      "target": "Обычная карта"
+    },
+    {
+      "selector": ".ecard-choice__kind",
+      "source": "Special",
+      "target": "Особая карта"
+    },
+    {
+      "selector": ".rps-bet b",
+      "source": "Empress",
+      "target": "Императрица"
+    },
+    {
+      "selector": ".rps-bet b",
+      "source": "Slave",
+      "target": "Раб"
+    },
+    {
+      "selector": ".rps-draw",
+      "source": "Empress beats Citizen · Citizen beats Slave · Slave beats Empress",
+      "target": "Императрица бьёт Гражданина · Гражданин бьёт Раба · Раб бьёт Императрицу"
+    },
+    {
+      "selector": ".rps-draw",
+      "source": "(your upset pays",
+      "target": "(твоя неожиданная победа принесёт"
+    },
+    {
+      "selector": ".rps-draw",
+      "source": "(that upset costs you",
+      "target": "(такая неожиданная победа обойдётся тебе в"
+    },
+    {
+      "selector": ".rps-win",
+      "source": "you take the game (+",
+      "target": "ты выигрываешь игру (+"
+    },
+    {
+      "selector": ".rps-lose",
+      "source": "they take the game (-",
+      "target": "соперник выигрывает игру (-"
+    },
+    {
+      "selector": ".rps-draw",
+      "source": "both Citizens - the round is a wash, play on",
+      "target": "оба выбрали Гражданина — в этом раунде ничья, игра продолжается"
+    },
+    {
+      "selector": ".rps-result--win",
+      "source": "You leave the Empress table up",
+      "target": "Ты уходишь из-за стола «Императрица» с выигрышем"
+    },
+    {
+      "selector": ".rps-result--win",
+      "source": "chips.",
+      "target": "фишек."
+    },
+    {
+      "selector": ".rps-result--lose",
+      "source": "You leave the Empress table down",
+      "target": "Ты уходишь из-за стола «Императрица» в минус"
+    },
+    {
+      "selector": ".rps-result--lose",
+      "source": "chips.",
+      "target": "фишек."
     }
   ],
   "templates": [

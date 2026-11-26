@@ -143,20 +143,20 @@
     "warning": "Conservative candidate extraction; includes false positives and misses dynamically composed/code-generated strings. Review before translation."
   },
   "catalog": {
-    "exact_phrase_count": 2405,
+    "exact_phrase_count": 2411,
     "dynamic_template_count": 20,
     "coverage_percent": null,
-    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 1926/5634 (34.2%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
-    "context_rule_count": 150,
-    "candidate_exact_matches": 1926,
+    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 1931/5634 (34.3%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
+    "context_rule_count": 170,
+    "candidate_exact_matches": 1931,
     "candidate_unique_strings": 5634,
-    "candidate_match_percent": 34.2,
+    "candidate_match_percent": 34.3,
     "faq_candidate_strings": 463,
     "faq_candidate_translated": 463,
     "npc_interaction_candidate_strings": 49,
     "npc_interaction_candidate_translated": 48,
-    "untranslated_candidate_rows": 3974,
-    "untranslated_unique_strings": 3708,
+    "untranslated_candidate_rows": 3966,
+    "untranslated_unique_strings": 3703,
     "top_untranslated_passages": [
       [
         "Options",
@@ -247,7 +247,7 @@
     "device_saf_media_save_roundtrip": "not_run: no Samsung Android 17 device",
     "synthetic_media_metadata": "passed: JPEG, WebM VP8/Vorbis, WAV PCM inspected with ffprobe",
     "desktop_webview_smoke": "not_run: Chromium launcher exists but system binary is missing",
-    "translation_status": "incomplete: 1926/5634 unique extracted candidates matched; extractor is approximate",
+    "translation_status": "incomplete: 1931/5634 unique extracted candidates matched; extractor is approximate",
     "startup_performance_fix": "implemented: initial localization only scans live game containers; mutations batched via requestAnimationFrame",
     "media_path_audit": "passed statically: img/video/background/audio calls traced; device media playback not run",
     "saf_mime_fallback": "implemented and statically checked for generic application/octet-stream responses"
