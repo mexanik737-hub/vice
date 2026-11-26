@@ -42,6 +42,8 @@ jobs:
         run: node tests/test_localization_runtime.cjs
       - name: Dynamic media selector tests
         run: node tests/test_media_runtime.cjs
+      - name: Cheat editor tests
+        run: node tests/test_cheats_runtime.cjs
       - name: Install Android SDK packages
         run: sdkmanager 'platforms;android-35' 'build-tools;35.0.0'
       - name: Build debug APK

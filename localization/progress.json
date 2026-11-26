@@ -1,7 +1,7 @@
 {
   "source": "upstream/original/viceburg_mod_clean.html",
-  "source_sha256": "3a8dfe85a5436429b2e06f7b2bc369ff387c90c97163087c75c5bae174f67ead",
-  "updated": "2026-11-26",
+  "source_sha256": "194e76ade24891c7cbed1f6798a605ddadde0f352cc3e3d567e30fb010e2d13c",
+  "updated": "2026-11-27",
   "phases": [
     {
       "id": "L0",

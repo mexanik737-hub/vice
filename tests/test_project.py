@@ -71,6 +71,10 @@ class ProjectTests(unittest.TestCase):
   self.assertIn('window.GetFaceTypeIndices=faceTypeIndices',source)
   self.assertIn('function faceTypeIndices(skin)',source)
   self.assertNotRegex(source,r"Media\\\\[^'\"]{0,120}Random\(0,")
+  self.assertIn('viewport-fit=cover',source)
+  self.assertIn('class="chat-image game-media-image"',source)
+  self.assertIn('object-fit:contain',source)
+  self.assertIn('max-height:min(76dvh,820px)',source)
   self.assertIn('replace(/\\\\/g, \'/\')',video.group(1))
   self.assertIn('<<widget "SetBackground">>',source)
   self.assertIn('<<widget "DrawImage">>',source)
@@ -83,6 +87,20 @@ class ProjectTests(unittest.TestCase):
   self.assertTrue((ROOT/'tests/fixtures/index.html').is_file())
  def test_cheats_edit_real_character_parameters_and_npc_cooldown(self):
   source=html_lib.unescape((ROOT/'upstream/original/viceburg_mod_clean.html').read_text(encoding='utf-8'))
+  self.assertIn('function maxCheatFields(obj,seen=new WeakSet())',source)
+  self.assertIn('function applyMaxCheats(target)',source)
+  self.assertIn('target.money=1000000',source)
+  self.assertIn('1 млн денег + все параметры на максимум',source)
+  self.assertIn('window.GetAllWeapons?.()',source)
+  self.assertNotIn('it.type!==2&&it.type!==5',source)
+  self.assertIn("addLimitedFields(status,target.status,'',add)",source)
+  self.assertIn('RandomRelocateCharacter($Characters.indexOf($interactionNpc), _visitLocation)',source)
+  self.assertIn('setup.getPlayerResidenceBedroom()',source)
+  self.assertIn('!String(a).startsWith("home-visit-")',source)
+  self.assertIn('!gL(e,n.dateTime,n)',source)
+  pharmacy=re.search(r'<tw-passagedata\b[^>]*\bname="Pharmacy"[^>]*>(.*?)</tw-passagedata>',source,re.S)
+  self.assertIsNotNone(pharmacy)
+  self.assertIn('<<OpenShop "Drug">>',pharmacy.group(1))
   for marker in [
    "addLimitedFields(status,target.status",
    "addLimitedFields(skills,target.attributes",
