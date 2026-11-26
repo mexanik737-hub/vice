@@ -36,7 +36,7 @@
       "name": "Диалоги",
       "status": "in_progress",
       "coverage": null,
-      "notes": "Переведены отдельные диалоги отношений и поцелуя с Итаном, начало сцены Элис и часть сцен второй главы и тюремного блока; большинство сюжетных реплик остаётся английским."
+      "notes": "Переведены отдельные диалоги отношений, начало ветки Аманды и сцены с поцелуем Итаном; часть квестовых реплик остаётся английской."
     },
     {
       "id": "L5",
@@ -143,20 +143,20 @@
     "warning": "Conservative candidate extraction; includes false positives and misses dynamically composed/code-generated strings. Review before translation."
   },
   "catalog": {
-    "exact_phrase_count": 2474,
+    "exact_phrase_count": 2490,
     "dynamic_template_count": 23,
     "coverage_percent": null,
-    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 1988/5634 (35.3%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
+    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 2004/5634 (35.6%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
     "context_rule_count": 188,
-    "candidate_exact_matches": 1988,
+    "candidate_exact_matches": 2004,
     "candidate_unique_strings": 5634,
-    "candidate_match_percent": 35.3,
+    "candidate_match_percent": 35.6,
     "faq_candidate_strings": 463,
     "faq_candidate_translated": 463,
     "npc_interaction_candidate_strings": 49,
     "npc_interaction_candidate_translated": 48,
-    "untranslated_candidate_rows": 3899,
-    "untranslated_unique_strings": 3646,
+    "untranslated_candidate_rows": 3883,
+    "untranslated_unique_strings": 3630,
     "top_untranslated_passages": [
       [
         "Options",
@@ -176,10 +176,6 @@
       ],
       [
         "enhanced_interaction_discussFeminization",
-        16
-      ],
-      [
-        "Amanda_Quest1_Start",
         16
       ],
       [
@@ -236,6 +232,10 @@
       ],
       [
         "Sarah_Quest_01_End_Trans",
+        14
+      ],
+      [
+        "SarahQuest_2_Shemale",
         14
       ]
     ]
