@@ -15,7 +15,7 @@
       "name": "Интерфейс и системные меню",
       "status": "in_progress",
       "coverage": null,
-      "notes": "Каталог содержит 2588 точных фраз, 203 контекстных правил и 23 шаблонов; перевод всего интерфейса не завершён."
+      "notes": "Каталог содержит 2767 точных фраз, 203 контекстных правил и 23 шаблонов; перевод интерфейса не завершён."
     },
     {
       "id": "L2",
@@ -29,7 +29,7 @@
       "name": "Задания и события",
       "status": "in_progress",
       "coverage": null,
-      "notes": "Продолжены переводы тюремных взаимодействий и откровенных сцен без цензуры; значительная часть диалогов остаётся английской."
+      "notes": "Продолжен перевод тюремных локаций: комната отдыха, задний ряд и салон; значительная часть заданий и описаний остаётся английской."
     },
     {
       "id": "L4",
@@ -43,14 +43,14 @@
       "name": "Регрессия локализации",
       "status": "in_progress",
       "coverage": null,
-      "notes": "6 Python статических тестов и Node runtime-тест пройдены. Android, Samsung, SAF, кодеки и импорт/экспорт не проверены."
+      "notes": "Предыдущая локальная статическая проверка: 8 Python проверок и Node runtime-тест пройдены. Текущий запуск GitHub Actions завершился без runner и без шагов; Android, SAF, кодеки и импорт/экспорт не проверены."
     }
   ],
   "limitations": [
     "Полная русификация ещё не завершена; значительная часть пользовательских реплик и описаний осталась на английском.",
-    "В инвентаре 3806 из 5634 уникальных строк-кандидатов не сопоставлены с точной фразой каталога (32.4% точных совпадений). Это не полная доля перевода: контекстные правила/шаблоны и ложные срабатывания инвентаризатора не учитываются.",
+    "В инвентаре 3371 из 5634 уникальных строк-кандидатов не сопоставлены с точной фразой каталога (40.2% точных совпадений). Это не полная доля перевода: контекстные правила/шаблоны и ложные срабатывания инвентаризатора не учитываются.",
     "Текст длинных реплик и динамические данные требуют отдельной проверки по фактическому DOM; Android WebView не проверен на устройстве.",
-    "APK не собирался: по договорённости пользователь соберёт его самостоятельно; Samsung Android 17, SAF и воспроизведение медиа не проверены на устройстве."
+    "APK не собран: GitHub Actions завершился до запуска runner (job без шагов); точная причина на стороне GitHub не подтверждена. Samsung Android 17, SAF и воспроизведение медиа не проверены на устройстве."
   ],
   "inventory": {
     "source": "upstream/original/viceburg_mod_clean.html",
@@ -143,20 +143,20 @@
     "warning": "Conservative candidate extraction; includes false positives and misses dynamically composed/code-generated strings. Review before translation."
   },
   "catalog": {
-    "exact_phrase_count": 2735,
+    "exact_phrase_count": 2767,
     "dynamic_template_count": 23,
     "coverage_percent": null,
-    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 2233/5634 (39.6%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
+    "coverage_note": "Точное совпадение точных фраз каталога с инвентарём: 2263/5634 (40.2%). Контекстные правила и шаблоны учитываются отдельно; инвентарь приблизительный.",
     "context_rule_count": 203,
-    "candidate_exact_matches": 2233,
+    "candidate_exact_matches": 2263,
     "candidate_unique_strings": 5634,
-    "candidate_match_percent": 39.6,
+    "candidate_match_percent": 40.2,
     "faq_candidate_strings": 463,
     "faq_candidate_translated": 463,
     "npc_interaction_candidate_strings": 49,
     "npc_interaction_candidate_translated": 48,
-    "untranslated_candidate_rows": 3620,
-    "untranslated_unique_strings": 3403,
+    "untranslated_candidate_rows": 3586,
+    "untranslated_unique_strings": 3371,
     "top_untranslated_passages": [
       [
         "Options",
@@ -175,19 +175,19 @@
         20
       ],
       [
-        "Start",
-        16
-      ],
-      [
         "CharacterWearingDraw",
         16
       ],
       [
-        "SarahQuest_2_Female_Gary_apartment",
-        15
+        "Start",
+        16
       ],
       [
         "Marcus_Quest2_Intervene_Win_Accept",
+        15
+      ],
+      [
+        "SarahQuest_2_Female_Gary_apartment",
         15
       ],
       [
@@ -207,10 +207,6 @@
         14
       ],
       [
-        "Prison_Salon",
-        13
-      ],
-      [
         "BDSM_LickFeet",
         13
       ],
@@ -227,15 +223,19 @@
         13
       ],
       [
+        "AliceQuest1_Start_Trans_Sub",
+        12
+      ],
+      [
         "Amanda_Picnic_Event",
         12
       ],
       [
-        "GangBossWidgets",
+        "AvailableQuests",
         12
       ],
       [
-        "Ship_CardTally",
+        "BrothelCasting_Haggle",
         12
       ]
     ]
@@ -243,11 +243,11 @@
   "testing": {
     "python_static_tests": "8 passed (2026-11-26; after Sarah dialogue batch)",
     "node_localization_runtime": "passed (named placeholders, value maps, uncensored dialogue)",
-    "android_build": "not_run: user will build; no local Android SDK/Gradle",
+    "android_build": "blocked: latest GitHub Actions job failed before runner/steps; no APK artifact",
     "device_saf_media_save_roundtrip": "not_run: no Samsung Android 17 device",
     "synthetic_media_metadata": "passed: JPEG, WebM VP8/Vorbis, WAV PCM inspected with ffprobe",
     "desktop_webview_smoke": "not_run: Chromium launcher exists but system binary is missing",
-    "translation_status": "incomplete: 2233/5634 unique extracted candidates matched; extractor is approximate",
+    "translation_status": "incomplete: 2263/5634 unique extracted candidates matched (40.2%); extractor is approximate",
     "startup_performance_fix": "implemented: initial localization only scans live game containers; mutations batched via requestAnimationFrame",
     "media_path_audit": "passed statically: img/video/background/audio calls traced; device media playback not run",
     "saf_mime_fallback": "implemented and statically checked for generic application/octet-stream responses"
