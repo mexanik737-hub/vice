@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 69,
+    "version": 70,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -2971,7 +2971,28 @@
     "No, and I'm tired.": "Нет, я ещё и устал(а).",
     "I'm too tired for that right now.": "Сейчас я слишком устал(а).",
     "Can we make love another time? I'm exhausted.": "Может, займёмся этим в другой раз? Я совсем без сил.",
-    "I'm too tired, but I love you.": "Я очень устал(а), но люблю тебя."
+    "I'm too tired, but I love you.": "Я очень устал(а), но люблю тебя.",
+    "You know what? You're absolutely right. I've been thinking about this for a while, and... I want to become a woman. I'll start the process right away! 💕": "Знаешь что? Ты совершенно прав(а). Я давно об этом думал(а) и... хочу стать женщиной. Начну прямо сейчас! 💕",
+    "You're right... I've always felt like I was meant to be both. A beautiful woman's body with something extra~ 🏳️‍⚧️💕": "Ты прав(а)... Мне всегда казалось, что я хочу сочетать в себе и то и другое. Красивое женское тело и кое-что ещё~ 🏳️‍⚧️💕",
+    "You're right! I've always felt more masculine inside. I'm going to transition! 💪": "Ты прав(а)! Внутри я всегда чувствовал(а) себя более мужественным человеком. Я собираюсь начать переход! 💪",
+    "What?! Are you insane?! Why would you even suggest something like that?! I'm perfectly happy with who I am!": "Что?! Ты в своём уме?! Зачем вообще такое предлагать?! Меня полностью устраивает, кто я есть!",
+    "I... I've actually thought about becoming a woman before. Maybe you're right... I'll consider it seriously.": "Я... На самом деле я уже думал(а) о том, чтобы стать женщиной. Возможно, ты прав(а)... Я серьёзно это обдумаю.",
+    "Hmm... having the best of both worlds? That's... actually kind of appealing. I'll think about it seriously.": "Хм... взять лучшее от обоих миров? Это... и правда звучит заманчиво. Я серьёзно подумаю.",
+    "You know... maybe you have a point about being more masculine. I'll think about it.": "Знаешь... Возможно, ты прав(а) насчёт того, чтобы стать мужественнее. Я подумаю.",
+    "I... no, I don't think that's for me. I'm comfortable the way I am.": "Я... Нет, думаю, это не для меня. Меня устраивает, какой(ая) я сейчас.",
+    "Um... I'm already not exactly masculine, you know?": "Эм... Я ведь и так не особо мужественный человек, знаешь?",
+    "You're right! I've been feeling like I should embrace my feminine side more. I'll start hormone therapy right away! This is going to be amazing! 💕": "Ты прав(а)! Мне давно хочется раскрыть свою женственную сторону. Я сразу начну гормональную терапию! Это будет невероятно! 💕",
+    "What the hell?! Are you trying to turn me into a woman?! That's messed up! I'm a man and I'm staying that way!": "Какого чёрта?! Ты пытаешься сделать из меня женщину?! Это ненормально! Я мужчина и останусь мужчиной!",
+    "You know... I've actually been curious about what it would be like. You promise to be there for me through the changes?": "Знаешь... Мне и правда было любопытно, каково это. Обещаешь поддерживать меня во время перемен?",
+    "I... no, that's not for me. I like being a man. Thanks, but no thanks.": "Я... Нет, это не для меня. Мне нравится быть мужчиной. Спасибо, но нет.",
+    "You know what? You're absolutely right. I've been in denial about my attraction to men. I feel so free now! 💕": "Знаешь что? Ты совершенно прав(а). Я отрицал(а), что меня привлекают мужчины. Теперь я чувствую себя свободно! 💕",
+    "You've opened my eyes! Women are so beautiful... I don't know why I didn't see it before! 💖": "Ты открыл(а) мне глаза! Женщины такие красивые... Не понимаю, почему раньше этого не замечал(а)! 💖",
+    "Why limit myself, right? You're so right! Everyone is attractive in their own way! 💜": "Зачем себя ограничивать, правда? Ты совершенно прав(а)! Каждый по-своему привлекателен! 💜",
+    "Are you trying to change who I am?! That's really manipulative and I don't appreciate it!": "Ты пытаешься изменить меня?! Это очень манипулятивно, и мне это не нравится!",
+    "Hmm... I guess men can be attractive. Maybe I should be more open-minded...": "Хм... Пожалуй, мужчины могут быть привлекательными. Может, стоит быть открытее...",
+    "Women are pretty amazing, aren't they? Maybe I should explore that side of myself...": "Женщины и правда удивительные, да? Может, мне стоит исследовать эту сторону себя...",
+    "You make a good point... why should I limit myself? Everyone has something attractive about them.": "Ты убедительно говоришь... Зачем себя ограничивать? В каждом есть что-то привлекательное.",
+    "I know what I like, and I'm comfortable with it. Sorry, that's just not going to happen.": "Я знаю, что мне нравится, и меня это устраивает. Извини, но этого не будет."
   },
   "scoped": [
     {
