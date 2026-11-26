@@ -2716,7 +2716,16 @@
     "You have taken your tribute of the flesh today.": "Сегодня ты уже взял свою дань телом.",
     "The tier will have another for you tomorrow.": "Завтра в блоке найдётся ещё один.",
     "The cage blocks every active sexual use of the boss's string.": "Клетка не позволяет использовать связи босса для активных сексуальных действий.",
-    "You can hold court, collect tribute, or leave without sex.": "Ты можешь вершить суд, собирать дань или уйти, не занимаясь сексом."
+    "You can hold court, collect tribute, or leave without sex.": "Ты можешь вершить суд, собирать дань или уйти, не занимаясь сексом.",
+    "Too few contestants are still standing to field a full bracket.": "В турнире осталось слишком мало участников, чтобы заполнить всю сетку.",
+    "The championship is off this voyage.": "В этом рейсе чемпионат не проводится.",
+    "You cannot cover the buy-in of chips.": "Тебе не хватает жетонов на вступительный взнос.",
+    "Take the next round": "Перейти к следующему раунду",
+    "Let the night find its champion": "Пусть ночь определит чемпиона",
+    "Leave the floor": "Покинуть площадку",
+    "Buy in and take your seat": "Внести взнос и занять место",
+    "Play the round": "Сыграть раунд",
+    "Forfeit and keep what you have banked": "Сойти с турнира и забрать накопленный выигрыш"
   },
   "scoped": [
     {
