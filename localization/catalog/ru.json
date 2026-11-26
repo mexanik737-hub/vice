@@ -1,7 +1,7 @@
 {
   "meta": {
     "language": "ru",
-    "version": 65,
+    "version": 66,
     "note": "Progressive phrase catalog. Keys match complete rendered text nodes; never use as source-code identifier substitutions."
   },
   "phrases": {
@@ -2919,7 +2919,22 @@
     "Oh yes... you know what you're doing... 😏": "О да... ты знаешь, что делаешь... 😏",
     "O-oh... that feels nice... 😳": "О-ох... приятно... 😳",
     "That's... good...": "Вот так... хорошо...",
-    "Wait... I'm not ready for this.": "Погоди... пока я не хочу заходить так далеко."
+    "Wait... I'm not ready for this.": "Погоди... пока я не хочу заходить так далеко.",
+    "This is... exactly what I've always wanted! How did you know?! 🎁✨": "Это... именно то, что мне всегда было нужно! Как будто специально для меня! 🎁✨",
+    "Uh... thanks, but this really isn't my thing... 😕": "Эм... спасибо, но это совсем не по мне... 😕",
+    "Oh, how sweet! Thank you so much, I love it!": "Ой, как мило! Спасибо тебе огромное, мне очень нравится!",
+    "Thanks... but why would I need this?": "Спасибо... но зачем мне это?",
+    "HAHAHA! That's the funniest joke I've ever heard! 🤣🤣": "АХАХА! Это невероятно смешно! 🤣🤣",
+    "Haha, not bad! You really know how to make me laugh!": "Ха-ха, неплохо! Умеешь ты рассмешить!",
+    "Sounds tempting, but I'm not in the mood right now...": "Звучит заманчиво, но сейчас не хочется...",
+    "Oh god... You have magic hands... I'm melting... 💆‍♀️✨": "Боже... У тебя волшебные руки... Я таю... 💆‍♀️✨",
+    "Ouch! That hurts! Are you trying to injure me?!": "Ай! Больно! Ты что, специально хочешь меня покалечить?!",
+    "Mmm... so good... Thank you, sweetheart... 💕": "М-м... так хорошо... Спасибо тебе... 💕",
+    "Nice hands... maybe we continue somewhere else? 😏": "Какие ловкие руки... Может, продолжим где-нибудь ещё? 😏",
+    "Oooh, that's so relaxing! You're talented!": "О-о, так расслабляет! У тебя настоящий талант!",
+    "Ah... your hands are so gentle... 😊": "Ах... какие у тебя нежные руки... 😊",
+    "Thanks, that was really nice.": "Спасибо, это было очень приятно.",
+    "Hmm, thanks, but massage isn't really my thing...": "Хм, спасибо, но массаж — не совсем моё."
   },
   "scoped": [
     {
