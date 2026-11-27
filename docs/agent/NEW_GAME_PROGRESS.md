@@ -20,8 +20,8 @@ Build the first installable Android vertical slice from `docs/GAME_MECHANICS.md`
 1. Inspect current Android shell, source generation and SAF behaviour — done; legacy Twine remains available as source and is no longer the launch screen in this prototype.
 2. Create the new-game domain and first scenario — implemented in source; build validation pending.
 3. Connect the Android screen, local save, Media picker and backup export — implemented in source; device/Media validation pending.
-4. Build a debug APK and deliver it from the new branch — not yet verified. The local machine has no JDK, Gradle or Android SDK; the repository's Android preview workflow will build the debug APK when the branch is pushed.
-5. Install on the user's Android device and collect feedback — waiting for the APK and user's device test.
+4. Build a debug APK and deliver it from the new branch — done. GitHub Actions run `46079042817` built `:app:assembleDebug` successfully and uploaded artifact `viceburg-intermediate-debug-apk` (30-day retention).
+5. Install on the user's Android device and collect feedback — waiting for the user's device test. No physical-device run has occurred.
 
 ## Scope still outside this slice
 
@@ -29,7 +29,7 @@ The full location catalogue and career ladder, relationship stages, home invitat
 
 ## Verification record
 
-- No Android toolchain is available locally, so no local APK build has run.
-- No tests have been run in this turn.
-- A remote Actions build has not yet run.
+- No JDK, Gradle or Android SDK is available locally; the APK was built remotely.
+- GitHub Actions run `46079042817` passed: static project tests, localization runtime tests, dynamic media selector tests, cheat editor tests, Android SDK installation and debug APK build.
+- The actual user Media folder and Android device have not been tested yet.
 
